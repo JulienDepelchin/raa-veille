@@ -337,28 +337,23 @@ def pipeline(
 if __name__ == "__main__":
     import sys
 
-    # Usage :
-    #   python scraper.py [7jours|n_recents|tous] [N]            → simulation seule (affiche sans télécharger)
-    #   python scraper.py [7jours|n_recents|tous] [N] --download → téléchargement direct, pas de confirmation
-    args = sys.argv[1:]
-    download_direct = "--download" in args
-    args = [a for a in args if a != "--download"]
+    # --download dans les arguments = téléchargement direct, aucune interaction
+    # Sans --download = simulation seule
+    _download = "--download" in sys.argv
+    _positional = [a for a in sys.argv[1:] if not a.startswith("--")]
+    _mode = _positional[0] if _positional else "7jours"
+    _n = int(_positional[1]) if len(_positional) > 1 else 3
 
-    mode = args[0] if len(args) > 0 else "7jours"
-    n    = int(args[1]) if len(args) > 1 else 3
-
-    if download_direct:
-        print(f"Mode TELECHARGEMENT DIRECT — filtre={mode}\n")
-        stats = pipeline(simulation=False, filter_mode=mode, n_recents=n)
-        if stats["telecharges"] == 0:
-            print("\nAucun nouveau PDF telecharge.")
-        else:
-            print(f"\n{stats['telecharges']} PDF(s) telecharge(s), {stats['erreurs']} erreur(s).")
+    if _download:
+        print(f"Mode TELECHARGEMENT DIRECT — filtre={_mode}\n")
+        _stats = pipeline(simulation=False, filter_mode=_mode, n_recents=_n)
+        print(f"\nBilan : {_stats['telecharges']} telecharge(s), {_stats['erreurs']} erreur(s).")
     else:
-        print(f"Mode SIMULATION — filtre={mode}\n")
-        stats = pipeline(simulation=True, filter_mode=mode, n_recents=n)
-        if not stats["nouveaux"]:
-            print("\nAucun nouveau PDF. Fin.")
+        print(f"Mode SIMULATION — filtre={_mode}\n")
+        _stats = pipeline(simulation=True, filter_mode=_mode, n_recents=_n)
+        _nb = len(_stats["nouveaux"])
+        if _nb == 0:
+            print("\nAucun nouveau PDF.")
         else:
-            print(f"\n{len(stats['nouveaux'])} PDF(s) seraient telecharges.")
-            print(f"Relancez avec --download pour telecharger : python scraper.py {mode} --download")
+            print(f"\n{_nb} PDF(s) seraient telecharges.")
+            print(f"Commande download : python scraper.py {_mode} --download")
