@@ -71,10 +71,8 @@ def charger_api_key() -> str:
     load_dotenv()
     cle = os.getenv("ANTHROPIC_API_KEY", "").strip()
     if not cle:
-        cle = input("Cle API Anthropic : ").strip()
-    if not cle:
-        print("Aucune cle fournie. Arret.")
-        sys.exit(0)
+        print("[ERREUR] ANTHROPIC_API_KEY absent. Definissez la variable d'environnement ou creez un fichier .env")
+        sys.exit(1)
     return cle
 
 

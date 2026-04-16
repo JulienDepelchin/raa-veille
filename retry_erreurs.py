@@ -28,7 +28,8 @@ def sauvegarder(resultats: list[dict], chemin: str) -> None:
 def main():
     api_key = os.getenv("ANTHROPIC_API_KEY", "").strip()
     if not api_key:
-        api_key = input("Cle API Anthropic : ").strip()
+        print("[ERREUR] ANTHROPIC_API_KEY absent. Definissez la variable d'environnement ou creez un fichier .env")
+        sys.exit(1)
 
     # -- 1. Charger le JSON existant
     resultats = charger_resultats(OUTPUT_FILE)
