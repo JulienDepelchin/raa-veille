@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# PDFs téléchargés (volumineux, non versionnés)
+pdfs_downloaded/
+
+# PDFs de test locaux
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/

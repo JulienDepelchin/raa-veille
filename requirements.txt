@@ -1,0 +1,5 @@
+anthropic
+pdfplumber
+requests
+beautifulsoup4
+python-dotenv
