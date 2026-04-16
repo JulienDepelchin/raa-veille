@@ -7,6 +7,9 @@ on:
   workflow_dispatch:
     # Déclenchement manuel depuis l'interface GitHub
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   veille:
     runs-on: ubuntu-latest
@@ -23,10 +26,28 @@ jobs:
       - name: Installation des dépendances
         run: pip install -r requirements.txt
 
+      - name: Debug - environnement
+        run: |
+          echo "=== Répertoire de travail ==="
+          ls -la
+          echo "=== Contenu de data/ ==="
+          ls -la data/
+          echo "=== Version Python ==="
+          python --version
+          echo "=== Packages clés ==="
+          pip list | grep -E "anthropic|pdfplumber|requests|beautifulsoup4|pypdfium2"
+
       - name: Scraping et téléchargement des nouveaux PDFs (7 derniers jours)
-        run: python scraper.py 7jours
+        run: python scraper.py 7jours --download
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Debug - PDFs téléchargés
+        run: |
+          echo "=== pdfs_downloaded/ ==="
+          ls -la pdfs_downloaded/ 2>/dev/null || echo "(vide ou absent)"
+          echo "=== data/pdfs_deja_vus.txt (5 dernières lignes) ==="
+          tail -5 data/pdfs_deja_vus.txt 2>/dev/null || echo "(absent)"
 
       - name: Analyse Claude des nouveaux PDFs
         run: python main.py
@@ -38,7 +59,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "chore: mise a jour resultats RAA $(date -u '+%Y-%m-%d')"
+          git diff --cached --quiet && echo "Rien a commiter." || git commit -m "chore: mise a jour resultats RAA $(date -u '+%Y-%m-%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

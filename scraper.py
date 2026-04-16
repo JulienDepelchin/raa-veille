@@ -337,20 +337,36 @@ def pipeline(
 if __name__ == "__main__":
     import sys
 
-    # Usage : python scraper.py [7jours|n_recents|tous] [N]
-    mode = sys.argv[1] if len(sys.argv) > 1 else "7jours"
-    n    = int(sys.argv[2]) if len(sys.argv) > 2 else 3
+    # Usage :
+    #   python scraper.py [7jours|n_recents|tous] [N]            → simulation, confirmation interactive
+    #   python scraper.py [7jours|n_recents|tous] [N] --download → téléchargement direct (CI/CD)
+    args = sys.argv[1:]
+    download_direct = "--download" in args
+    args = [a for a in args if a != "--download"]
 
-    print(f"Mode SIMULATION — filtre={mode}\n")
-    stats = pipeline(simulation=True, filter_mode=mode, n_recents=n)
+    mode = args[0] if len(args) > 0 else "7jours"
+    n    = int(args[1]) if len(args) > 1 else 3
 
-    if not stats["nouveaux"]:
-        print("\nAucun nouveau PDF. Fin.")
-    else:
-        print(f"\n{len(stats['nouveaux'])} nouveau(x) PDF(s) detecte(s).")
-        reponse = input("\nLancer le vrai telechargement ? (oui/non) : ").strip().lower()
-        if reponse in ("oui", "o", "y", "yes"):
-            print("\nTelechargement en cours...\n")
-            pipeline(simulation=False, filter_mode=mode, n_recents=n)
+    if download_direct:
+        # Mode non-interactif : téléchargement direct sans confirmation
+        print(f"Mode TELECHARGEMENT DIRECT — filtre={mode}\n")
+        stats = pipeline(simulation=False, filter_mode=mode, n_recents=n)
+        if stats["telecharges"] == 0:
+            print("\nAucun nouveau PDF telecharge.")
         else:
-            print("Annule.")
+            print(f"\n{stats['telecharges']} PDF(s) telecharge(s), {stats['erreurs']} erreur(s).")
+    else:
+        # Mode interactif local : simulation puis confirmation
+        print(f"Mode SIMULATION — filtre={mode}\n")
+        stats = pipeline(simulation=True, filter_mode=mode, n_recents=n)
+
+        if not stats["nouveaux"]:
+            print("\nAucun nouveau PDF. Fin.")
+        else:
+            print(f"\n{len(stats['nouveaux'])} nouveau(x) PDF(s) detecte(s).")
+            reponse = input("\nLancer le vrai telechargement ? (oui/non) : ").strip().lower()
+            if reponse in ("oui", "o", "y", "yes"):
+                print("\nTelechargement en cours...\n")
+                pipeline(simulation=False, filter_mode=mode, n_recents=n)
+            else:
+                print("Annule.")
