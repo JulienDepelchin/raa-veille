@@ -362,4 +362,3 @@ if __name__ == "__main__":
         else:
             print(f"\n{len(stats['nouveaux'])} PDF(s) seraient telecharges.")
             print(f"Relancez avec --download pour telecharger : python scraper.py {mode} --download")
-                print("Annule.")
