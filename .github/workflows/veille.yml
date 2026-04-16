@@ -37,10 +37,17 @@ jobs:
           echo "=== Packages clés ==="
           pip list | grep -E "anthropic|pdfplumber|requests|beautifulsoup4|pypdfium2"
 
+      - name: Patch scraper
+        run: |
+          sed -i '/input(/d' scraper.py
+          sed -i '/Annule/d' scraper.py
+          sed -i '/Lancer le vrai/d' scraper.py
+
       - name: Scraping et téléchargement des nouveaux PDFs (7 derniers jours)
         run: python scraper.py 7jours --download
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONUNBUFFERED: "1"
 
       - name: Debug - PDFs téléchargés
         run: |
