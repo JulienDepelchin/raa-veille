@@ -90,6 +90,15 @@ def extraire_date_nom(nom: str) -> date | None:
         return None
 
 
+def date_recueil_str(nom: str) -> str | None:
+    """
+    Retourne la date du recueil au format 'YYYY-MM-DD', ou None.
+    Exemple : 'Recueil n°141 du 16 avril 2026.pdf' → '2026-04-16'
+    """
+    d = extraire_date_nom(nom)
+    return d.strftime("%Y-%m-%d") if d else None
+
+
 # ── Helpers réseau ────────────────────────────────────────────────────────────
 
 def charger_deja_vus() -> set[str]:
