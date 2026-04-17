@@ -16,7 +16,7 @@ from pathlib import Path
 
 from config import MIN_SCORE_AFFICHE, OUTPUT_FILE
 from extractor import extraire_actes_depuis_pdf
-from scraper import date_recueil_str
+from scraper import date_recueil_str, charger_pdf_urls
 
 PDF_DIR       = Path("pdfs_downloaded")
 ANALYSES_TXT  = Path("data/pdfs_analyses.txt")   # PDFs déjà analysés
@@ -96,9 +96,11 @@ def etape_extraction(chemin_pdf: str, dept: str) -> list[dict]:
 
     nom_pdf = Path(chemin_pdf).name
     dr = date_recueil_str(nom_pdf)
+    pdf_urls = charger_pdf_urls()
+    url_pdf = pdf_urls.get(nom_pdf, nom_pdf)   # URL si connue, sinon nom fichier
     for a in actes:
         a["dept"] = dept
-        a["source_pdf"] = nom_pdf
+        a["source_pdf"] = url_pdf
         a["date_recueil"] = dr
     return actes
 

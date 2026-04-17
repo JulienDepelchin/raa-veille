@@ -11,6 +11,7 @@ Modes de filtrage disponibles :
   filter_mode="tous"     → tous les PDFs non encore vus
 """
 
+import json
 import os
 import re
 import time
@@ -111,6 +112,25 @@ def enregistrer_deja_vu(nom_fichier: str) -> None:
     DEJA_VUS_TXT.parent.mkdir(parents=True, exist_ok=True)
     with DEJA_VUS_TXT.open("a", encoding="utf-8") as f:
         f.write(nom_fichier + "\n")
+
+
+PDF_URLS_JSON = Path("data/pdf_urls.json")
+
+
+def charger_pdf_urls() -> dict[str, str]:
+    if not PDF_URLS_JSON.exists():
+        return {}
+    with PDF_URLS_JSON.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
+def enregistrer_pdf_url(nom_fichier: str, url: str) -> None:
+    """Persiste la correspondance nom_fichier → URL complète."""
+    mapping = charger_pdf_urls()
+    mapping[nom_fichier] = url
+    PDF_URLS_JSON.parent.mkdir(parents=True, exist_ok=True)
+    with PDF_URLS_JSON.open("w", encoding="utf-8") as f:
+        json.dump(mapping, f, ensure_ascii=False, indent=2)
 
 
 def get_page(url: str) -> requests.Response | None:
@@ -322,6 +342,7 @@ def pipeline(
                 ok = telecharger_pdf(p["url"], p["nom"])
                 if ok:
                     enregistrer_deja_vu(p["nom"])
+                    enregistrer_pdf_url(p["nom"], p["url"])
                     stats["telecharges"] += 1
                     time.sleep(PAUSE_DOWNLOAD)
                 else:
