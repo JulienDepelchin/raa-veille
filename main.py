@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from config import MIN_SCORE_AFFICHE, OUTPUT_FILE
@@ -166,6 +167,36 @@ def pdfs_a_traiter(filtre_dept: str | None = None) -> list[dict]:
     return sources
 
 
+# ── Filtre glissant 30 jours ─────────────────────────────────────────────────
+
+def filtrer_30_jours(actes: list[dict]) -> list[dict]:
+    """
+    Ne conserve que les actes dont date_recueil est dans les 30 derniers jours.
+    Les actes sans date_recueil (null ou absent) sont conservés par sécurité.
+    """
+    limite = (datetime.now() - timedelta(days=30)).date()
+    conserves, supprimes = [], 0
+
+    for a in actes:
+        dr = a.get("date_recueil")
+        if not dr:
+            conserves.append(a)   # pas de date → on garde
+            continue
+        try:
+            from datetime import date as _date
+            d = _date.fromisoformat(dr)
+            if d >= limite:
+                conserves.append(a)
+            else:
+                supprimes += 1
+        except ValueError:
+            conserves.append(a)   # date malformée → on garde
+
+    print(f"  Filtre 30 jours : {len(conserves)} actes conserves / {supprimes} supprimes"
+          f"  (limite : {limite})")
+    return conserves
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -209,9 +240,10 @@ def main():
         print("Aucun acte produit.")
         return
 
-    # Fusionner, trier, sauvegarder
+    # Fusionner, trier, filtrer, sauvegarder
     tous_resultats.extend(nouveaux_resultats)
     tous_resultats.sort(key=lambda x: (x.get("score", 0), x.get("dept", "")), reverse=True)
+    tous_resultats = filtrer_30_jours(tous_resultats)
     sauvegarder(tous_resultats)
     afficher_resume(nouveaux_resultats, tous_resultats)
 
