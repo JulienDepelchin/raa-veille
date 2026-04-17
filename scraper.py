@@ -191,31 +191,35 @@ def url_nord_mois(annee: int, mois: int) -> str:
     return URL_59_TEMPLATE.format(annee=annee, mois=MOIS_FR_URL[mois])
 
 
+def _mois_precedent(annee: int, mois: int) -> tuple[int, int]:
+    """Retourne (annee, mois) du mois précédent, avec gestion janvier → décembre N-1."""
+    premier = date(annee, mois, 1)
+    precedent = premier - timedelta(days=1)
+    return precedent.year, precedent.month
+
+
 def scraper_nord() -> list[dict]:
-    """Page du mois courant, repli sur le mois précédent si 404."""
+    """
+    Page du mois courant ; repli jusqu'à 3 mois en arrière si 404.
+    Gère correctement le changement d'année (janvier → décembre N-1).
+    """
     aujourd_hui = date.today()
     annee, mois = aujourd_hui.year, aujourd_hui.month
 
-    url = url_nord_mois(annee, mois)
-    print(f"  Tentative : {url}")
-    r = get_page(url)
-
-    if r is None:
-        premier = aujourd_hui.replace(day=1)
-        precedent = premier - timedelta(days=1)
-        annee, mois = precedent.year, precedent.month
+    for tentative in range(3):
         url = url_nord_mois(annee, mois)
-        print(f"  Repli mois precedent : {url}")
+        label = "Tentative" if tentative == 0 else f"Repli -{tentative} mois"
+        print(f"  {label} : {url}")
         r = get_page(url)
+        if r is not None:
+            print(f"  Status 200 — {MOIS_FR_URL[mois]} {annee}")
+            pdfs = extraire_pdfs(r.text, BASE_59)
+            print(f"  {len(pdfs)} PDF(s) trouves")
+            return pdfs
+        annee, mois = _mois_precedent(annee, mois)
 
-    if r is None:
-        print("  Impossible d'acceder a la page Nord.")
-        return []
-
-    print(f"  Status 200 — {MOIS_FR_URL[mois]} {annee}")
-    pdfs = extraire_pdfs(r.text, BASE_59)
-    print(f"  {len(pdfs)} PDF(s) trouves")
-    return pdfs
+    print("  Impossible d'acceder a la page Nord (3 tentatives).")
+    return []
 
 
 def scraper_pdc() -> list[dict]:
