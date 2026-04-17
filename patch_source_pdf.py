@@ -16,8 +16,8 @@ from urllib.parse import urljoin, unquote
 from datetime import date, timedelta
 
 from scraper import (
-    HEADERS, BASE_59, BASE_62, URL_62,
-    url_nord_mois, get_page, extraire_pdfs,
+    HEADERS, BASE_59, BASE_62,
+    url_nord_mois, url_pdc_annee, get_page, extraire_pdfs,
     enregistrer_pdf_url, charger_pdf_urls,
     MOIS_FR_URL,
 )
@@ -46,15 +46,19 @@ def scraper_urls_nord() -> dict[str, str]:
 
 
 def scraper_urls_pdc() -> dict[str, str]:
-    """Retourne {nom_fichier: url} depuis la page annuelle PdC."""
-    r = get_page(URL_62)
-    if not r:
-        print("  [62] Page inaccessible.")
-        return {}
-    from scraper import extraire_pdfs
-    mapping = {p["nom"]: p["url"] for p in extraire_pdfs(r.text, BASE_62)}
-    print(f"  [62] {URL_62} — {len(mapping)} PDFs")
-    return mapping
+    """Retourne {nom_fichier: url} depuis la page annuelle PdC (avec fallback N-1)."""
+    from datetime import date as _date
+    annee = _date.today().year
+    for _ in range(2):
+        url = url_pdc_annee(annee)
+        r = get_page(url)
+        if r:
+            mapping = {p["nom"]: p["url"] for p in extraire_pdfs(r.text, BASE_62)}
+            print(f"  [62] {url} — {len(mapping)} PDFs")
+            return mapping
+        annee -= 1
+    print("  [62] Page inaccessible.")
+    return {}
 
 
 def main():

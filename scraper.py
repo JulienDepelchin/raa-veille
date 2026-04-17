@@ -38,10 +38,14 @@ URL_59_TEMPLATE = (
     "https://www.nord.gouv.fr/Publications/Recueils-des-actes-administratifs"
     "/RAA-du-departement-du-Nord/{annee}/{mois}"
 )
-URL_62 = (
+URL_62_TEMPLATE = (
     "https://www.pas-de-calais.gouv.fr/Publications/Recueil-des-actes-administratifs"
-    "/2026-Recueils-des-actes-administratifs"
+    "/{annee}-Recueils-des-actes-administratifs"
 )
+
+
+def url_pdc_annee(annee: int) -> str:
+    return URL_62_TEMPLATE.format(annee=annee)
 
 PDF_DIR      = Path("pdfs_downloaded")
 DEJA_VUS_TXT = Path("data/pdfs_deja_vus.txt")
@@ -223,15 +227,25 @@ def scraper_nord() -> list[dict]:
 
 
 def scraper_pdc() -> list[dict]:
-    """Page annuelle du Pas-de-Calais."""
-    print(f"  URL : {URL_62}")
-    r = get_page(URL_62)
-    if r is None:
-        print("  Impossible d'acceder a la page Pas-de-Calais.")
-        return []
-    pdfs = extraire_pdfs(r.text, BASE_62)
-    print(f"  {len(pdfs)} PDF(s) trouves (apres dedup)")
-    return pdfs
+    """
+    Page annuelle du Pas-de-Calais.
+    L'année est construite dynamiquement ; fallback sur l'année précédente
+    si la page de l'année courante est introuvable (début janvier).
+    """
+    annee = date.today().year
+    for tentative in range(2):
+        url = url_pdc_annee(annee)
+        print(f"  URL : {url}")
+        r = get_page(url)
+        if r is not None:
+            pdfs = extraire_pdfs(r.text, BASE_62)
+            print(f"  {len(pdfs)} PDF(s) trouves (apres dedup)")
+            return pdfs
+        print(f"  Repli annee precedente ({annee - 1})...")
+        annee -= 1
+
+    print("  Impossible d'acceder a la page Pas-de-Calais.")
+    return []
 
 
 # ── Filtres ───────────────────────────────────────────────────────────────────
