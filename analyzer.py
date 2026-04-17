@@ -17,6 +17,7 @@ Son titre est : {titre}
 Retourne UNIQUEMENT un objet JSON valide, sans texte autour :
 {{
   "score": <entier de 1 à 5 selon l'intérêt journalistique>,
+  "titre_court": "<titre journalistique, max 8 mots, style presse régionale, accrocheur et factuel, sans jargon administratif — ex: '420 arbres abattus au port de Dunkerque', 'Les cygnes du marais audomarois dans le viseur', 'Municipales partielles à Nédon le 26 avril'>",
   "resume": "<résumé journalistique en 2-3 phrases, en français, adapté à un lecteur non spécialiste>",
   "type_acte": "<type parmi : ARRÊTÉ, DÉCISION, HABILITATION, DÉLÉGATION, NOMINATION, AUTRE>",
   "communes": ["<liste des communes mentionnées, vide si aucune>"],
@@ -42,6 +43,7 @@ def _parse_json_response(contenu: str) -> dict:
     except json.JSONDecodeError:
         return {
             "score": 0,
+            "titre_court": "",
             "resume": "Erreur de parsing de la réponse Claude.",
             "type_acte": "INCONNU",
             "communes": [],

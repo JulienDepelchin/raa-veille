@@ -26,6 +26,7 @@ Acte à analyser :
 Retourne ce JSON exactement (sans markdown, sans explications) :
 {{
   "score": <entier de 1 à 5 selon l'intérêt journalistique>,
+  "titre_court": "<titre journalistique, max 8 mots, style presse régionale, accrocheur et factuel, sans jargon administratif — ex: '420 arbres abattus au port de Dunkerque', '34 caméras de surveillance à Gondecourt', 'RC Lens : sécurité renforcée pour la demi-finale'>",
   "resume": "<résumé journalistique en 2-3 phrases, en français, adapté à un lecteur non spécialiste>",
   "type_acte": "<type parmi : ARRÊTÉ, DÉCISION, HABILITATION, DÉLÉGATION, NOMINATION, AUTRE>",
   "communes": ["<liste des communes mentionnées, vide si aucune>"],
