@@ -19,7 +19,8 @@
       "scrutin",
       "Nédon",
       "élections partielles"
-    ]
+    ],
+    "titre_court": "Nédon : une seule liste aux élections partielles"
   },
   {
     "titre": "Arrêté du 15 avril 2026 constatant les circonstances particulières liées à l'existence de menaces graves pour la sécurité publique le mardi 21 avril 2026 à l'occasion de la demi-finale de Coupe de France de football opposant le Racing Club de Lens (RCL) au Toulouse Football Club (TFC)",
@@ -41,7 +42,8 @@
       "Coupe de France",
       "Vigipirate",
       "menace terroriste"
-    ]
+    ],
+    "titre_court": "Sécurité renforcée pour Lens-Toulouse en Coupe de France"
   },
   {
     "titre": "Arrêté du 15 avril 2026 constatant les circonstances particulières liées à l'existence de menaces graves pour la sécurité publique le vendredi 17 avril 2026 à l'occasion du match de football de Ligue 1 opposant le Racing Club de Lens (RCL) au Toulouse Football Club (TFC)",
@@ -63,7 +65,8 @@
       "Vigipirate",
       "stade Bollaert-Delelis",
       "menace terroriste"
-    ]
+    ],
+    "titre_court": "Menaces graves au match Lens-Toulouse du 17 avril"
   },
   {
     "titre": "Arrêté Dégâts cygne audomarois-20260415",
@@ -95,7 +98,8 @@
       "cultures maraîchères",
       "régulation faune",
       "dérogation environnementale"
-    ]
+    ],
+    "titre_court": "Contrôle des cygnes autorisé dans le marais"
   },
   {
     "titre": "Arrêté T26-109P portant réglementation de la circulation sur l'A216 dans les deux sens de circulation et sur l'Autoroute A16 dans le sens Calais vers Belgique à hauteur de la commune de Calais",
@@ -117,7 +121,8 @@
       "autoroute A216",
       "réglementation routière",
       "Calais"
-    ]
+    ],
+    "titre_court": "Restrictions de circulation sur l'A216 et l'A16 à Calais"
   },
   {
     "titre": "Arrêté T26-140P relatif à la neutralisation et fermeture de bretelles de l' échangeur n°91 sur l'A1, jonction A1-A21, pour travaux - Restrictions du lundi 13 avril 2026 à 21h au vendredi 17 avril 2026 à 05h, uniquement de nuit, de 21h00 à 05h00",
@@ -142,7 +147,8 @@
       "fermeture bretelles",
       "travaux nocturnes",
       "déviation"
-    ]
+    ],
+    "titre_court": "Fermeture nocturne de l'échangeur 91 sur l'A1"
   },
   {
     "titre": "AP 9 avril 2026 portant extension des compétences de la Communauté de communes du Ternois, dissolution du Syndicat intercommunal d'adduction et de distribution d'eau potable (SIADEP) de la région de Valhuon, et constatant la représentation-substitution de la Communauté de communes du Ternois à ses communes membres au sein du Syndicat intercommunal d'adduction et de distribution d'eau potable (SIADEP) de la Vallée de la Canche, et à la commune de Bonnières au sein du Syndicat intercommunal d'alimentation en eau potable (SIAEP) du Doullennais et environs",
@@ -165,7 +171,8 @@
       "dissolution",
       "Communauté de communes du Ternois",
       "compétences"
-    ]
+    ],
+    "titre_court": "Le Ternois réorganise sa gestion de l'eau potable"
   },
   {
     "titre": "Arrêté portant levée de servitudes d'utilité publique - Ancien site Umicore - Calais",
@@ -187,7 +194,8 @@
       "servitudes",
       "dépollution",
       "urbanisme"
-    ]
+    ],
+    "titre_court": "Calais lève les restrictions sur l'ancien site Umicore"
   },
   {
     "titre": "AP 170 2026",
@@ -232,7 +240,8 @@
       "ordre public",
       "rassemblements automobiles",
       "interdiction"
-    ]
+    ],
+    "titre_court": "Pas-de-Calais interdit les rassemblements de tuning"
   },
   {
     "titre": "Arrêté T26-134N relatif à la neutralisation de la voie de la voie de droite ou gauche, fermetures de bretelles de l'autoroute A25 de Bailleul à Nieppe",
@@ -255,7 +264,8 @@
       "travaux routiers",
       "fermeture voie",
       "circulation"
-    ]
+    ],
+    "titre_court": "Travaux A25 : fermetures et restrictions entre Bailleul Nieppe"
   },
   {
     "titre": "Arrêté portant autorisation d'installer un système de vidéoprotection pour la commune de Gondecourt",
@@ -277,7 +287,8 @@
       "sécurité publique",
       "voie publique",
       "prévention délinquance"
-    ]
+    ],
+    "titre_court": "Gondecourt autorise 34 caméras de surveillance"
   },
   {
     "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
@@ -300,7 +311,8 @@
       "gendarme",
       "sauvetage",
       "acte héroïque"
-    ]
+    ],
+    "titre_court": "Un gendarme décoré pour son acte de courage"
   },
   {
     "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
@@ -323,7 +335,8 @@
       "sauvetage",
       "canal",
       "héroïsme"
-    ]
+    ],
+    "titre_court": "Un gendarme du Nord récompensé pour son courage"
   },
   {
     "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
@@ -345,7 +358,8 @@
       "policier",
       "trafic de stupéfiants",
       "distinction honorifique"
-    ]
+    ],
+    "titre_court": "Un policier décoré pour son courage à Lille"
   },
   {
     "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
@@ -367,7 +381,8 @@
       "trafic stupéfiants",
       "blessure intervention",
       "sécurité publique"
-    ]
+    ],
+    "titre_court": "Un policier récompensé pour son courage à Lille"
   },
   {
     "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
@@ -389,7 +404,8 @@
       "garde champêtre",
       "incendie",
       "sauvetage"
-    ]
+    ],
+    "titre_court": "Un garde champêtre décoré pour son courage"
   },
   {
     "titre": "communauté d'agglomération Valenciennes Métropole autorisation",
@@ -411,7 +427,8 @@
       "hôpital",
       "surveillance",
       "Valenciennes Métropole"
-    ]
+    ],
+    "titre_court": "Valenciennes installe quatre caméras à l'hôpital"
   },
   {
     "titre": "commune de Bavay autorisation",
@@ -433,7 +450,8 @@
       "caméras surveillance",
       "police municipale",
       "prévention délinquance"
-    ]
+    ],
+    "titre_court": "Bavay installe sept caméras de surveillance"
   },
   {
     "titre": "commune de Neuville-en-Ferrain modification",
@@ -455,7 +473,8 @@
       "sécurité publique",
       "surveillance",
       "voie publique"
-    ]
+    ],
+    "titre_court": "Neuville-en-Ferrain installe trois nouvelles caméras de surveillance"
   },
   {
     "titre": "commune de Somain modification",
@@ -477,7 +496,8 @@
       "surveillance",
       "caméras",
       "espace public"
-    ]
+    ],
+    "titre_court": "Somain renforce sa vidéosurveillance pour cinq ans"
   },
   {
     "titre": "MEL LOMPRET autorisation",
@@ -500,7 +520,8 @@
       "sécurité publique",
       "Métropole Européenne Lille",
       "prévention terrorisme"
-    ]
+    ],
+    "titre_court": "Lompret : quatre caméras de surveillance autorisées"
   },
   {
     "titre": "AP modificatif AAA GPMD RN 136 LOON PLAGE du 14 04 2026",
@@ -523,7 +544,8 @@
       "Grand Port Maritime",
       "compensation environnementale",
       "infrastructure routière"
-    ]
+    ],
+    "titre_court": "Dunkerque abat 420 arbres pour un échangeur"
   },
   {
     "titre": "Arrêté T26-100N portant mesures de restrictions de circulation en 2 phases distinctes, durant les nuits du mardi 21 au jeudi 23 avril 2026, de 20h à 5h chaque nuit, entre les PR 96+500 et 97+800 dans le sens Boulogne-sur Mer vers Dunkerque et entre les PR 98+400 et 97+100 dans le sens Dunkerque vers Boulogne-sur-Mer",
@@ -546,7 +568,8 @@
       "fermeture autoroute",
       "circulation",
       "ouvrages d'art"
-    ]
+    ],
+    "titre_court": "A16 fermée trois nuits pour travaux de joints"
   },
   {
     "titre": "Arrêté portant autorisation de LA TRIMARD CLASSIC 7EME EDITION",
@@ -571,7 +594,8 @@
       "sécurité routière",
       "véhicules de collection",
       "événement transfrontalier"
-    ]
+    ],
+    "titre_court": "La Trimard Classic autorisée en avril 2026"
   },
   {
     "titre": "MTRN Canal de la Scarpe supérieure entre les communes de Plouvain et Pelves (62)",
@@ -594,7 +618,8 @@
       "Scarpe Supérieure",
       "restriction temporaire",
       "travaux"
-    ]
+    ],
+    "titre_court": "Navigation restreinte sur le canal de la Scarpe"
   },
   {
     "titre": "arrêté du 14 avril 2026 portant autorisation d'exercice de missions de sécurité privée sur la voie publique",
@@ -616,7 +641,8 @@
       "exposition véhicules",
       "Rotary Club",
       "surveillance"
-    ]
+    ],
+    "titre_court": "Sécurité privée autorisée à Béthune pour exposition"
   },
   {
     "titre": "Arrêté T26-159P relatif à la fermeture de bretelle de l'échangeur n°3 sur la RN47, dans le sens de circulation La Bassée vers Lens - Restrictions du lundi 13 avril 2026 à 09h au vendredi 17 avril 2026 à 16h, uniquement de jour, de 9h00 à 16h00",
@@ -638,7 +664,8 @@
       "travaux",
       "échangeur",
       "circulation"
-    ]
+    ],
+    "titre_court": "RN47 : fermeture bretelle échangeur trois avril"
   },
   {
     "titre": "Décision portant fermeture définitive d'un débit de tabac ordinaire permanent sur la commune de Divion",
@@ -660,7 +687,8 @@
       "douanes",
       "commerce",
       "Divion"
-    ]
+    ],
+    "titre_court": "Fermeture définitive du débit de tabac à Divion"
   },
   {
     "titre": "Arrêté portant autorisation d'acrobaties motorisées à Mametz les 11 et 12 avril 2026",
@@ -682,7 +710,8 @@
       "manifestation sportive",
       "moto",
       "événement public"
-    ]
+    ],
+    "titre_court": "Mametz accueille un spectacle d'acrobaties motos"
   },
   {
     "titre": "AP 199-2026 abrogation protoxyde arrondissement de Lens",
@@ -704,7 +733,8 @@
       "réglementation",
       "arrondissement de Lens",
       "santé publique"
-    ]
+    ],
+    "titre_court": "Le protoxyde d'azote désormais régulé à l'échelle départementale"
   },
   {
     "titre": "Arrêté T26-099P concernant les mesures de restrictions, durant les nuits du lundi 13 au jeudi 16 avril 2026, de 20h à 5h chaque nuit, sur l'A16, entre les PR 87+550 et 85+650 ainsi que dans la bretelle d'insertion n°4 de l'échangeur n°46 dans le sens Dunkerque vers Boulogne-sur-Mer",
@@ -726,7 +756,8 @@
       "fermeture autoroute",
       "ouvrage d'art",
       "circulation"
-    ]
+    ],
+    "titre_court": "Fermeture nocturne A16 à Calais en avril"
   },
   {
     "titre": "Arrêté portant autorisation d'exercice de missions de sécurité privée sur la voie publique",
@@ -751,7 +782,8 @@
       "voie publique",
       "Boulonnais",
       "prévention terrorisme"
-    ]
+    ],
+    "titre_court": "Sécurité privée autorisée pour le Printemps de la Danse"
   },
   {
     "titre": "Arrêté portant autorisation d'abattage d'alignements qui bordent les voies ouvertes à la circulation publique dans l'arrondissement du Cambrésis",
@@ -777,7 +809,8 @@
       "compensation",
       "routes départementales",
       "Cambrésis"
-    ]
+    ],
+    "titre_court": ""
   },
   {
     "titre": "Habilitation de la SAS SOCLE URBAIN afin de réaliser les études d'impact prévues au III de l'article L. 752-6 du code du commerce, sous le numéro AI- 59-2026-01-06-01",
@@ -797,7 +830,8 @@
       "urbanisme commercial",
       "SOCLE URBAIN",
       "implantation commerciale"
-    ]
+    ],
+    "titre_court": "Nord habilite Socle Urbain à étudier projets commerciaux"
   },
   {
     "titre": "Arrêté portant autorisation d'installer un système de vidéoprotection pour les gares SNCF de Cambrai, Pérenchies et Fourmies",
@@ -821,7 +855,8 @@
       "sécurité",
       "terrorisme",
       "surveillance"
-    ]
+    ],
+    "titre_court": "Caméras de surveillance dans trois gares du Nord"
   },
   {
     "titre": "Arrêté portant modification du système de vidéoprotection existant pour l'aéroport de Lille Lesquin",
@@ -843,7 +878,8 @@
       "caméras de surveillance",
       "sécurité publique",
       "Lesquin"
-    ]
+    ],
+    "titre_court": "Lille-Lesquin renforce sa vidéoprotection aéroportuaire"
   },
   {
     "titre": "Arrêté portant renouvellement du système de vidéoprotection de la commune de Quesnoy-sur-Deule",
@@ -865,7 +901,8 @@
       "sécurité publique",
       "surveillance",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Quesnoy-sur-Deule renouvelle son système de vidéosurveillance"
   },
   {
     "titre": "Arrêté portant renouvellement et modification du système de vidéoprotection de la commune de Le Cateau-Cambrésis",
@@ -887,7 +924,8 @@
       "surveillance",
       "caméras",
       "voie publique"
-    ]
+    ],
+    "titre_court": "Le Cateau-Cambrésis modernise sa vidéoprotection"
   },
   {
     "titre": "Arrêté portant renouvellement et modification du système de vidéoprotection de la commune de Sin le Noble",
@@ -909,7 +947,8 @@
       "sécurité publique",
       "surveillance",
       "voie publique"
-    ]
+    ],
+    "titre_court": "Sin-le-Noble renforce sa vidéosurveillance"
   },
   {
     "titre": "Arrêté portant renouvellement et modification du système de vidéoprotection de la commune de Wasquehal",
@@ -931,7 +970,8 @@
       "caméras de surveillance",
       "voie publique",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Wasquehal renforce sa vidéoprotection avec neuf caméras"
   },
   {
     "titre": "AP APG Les papillons blancs",
@@ -953,7 +993,8 @@
       "handicap",
       "association",
       "collecte"
-    ]
+    ],
+    "titre_court": "Les Papillons Blancs autorisés à collecter"
   },
   {
     "titre": "CIC MARCQ EN BAROEUL renouvellement",
@@ -975,7 +1016,8 @@
       "CIC",
       "surveillance",
       "sécurité"
-    ]
+    ],
+    "titre_court": "CIC Marcq-en-Baroeul renouvelle sa vidéoprotection"
   },
   {
     "titre": "commune Herlies renouvmodif",
@@ -997,7 +1039,8 @@
       "sécurité publique",
       "caméras",
       "voie publique"
-    ]
+    ],
+    "titre_court": "Herlies renforce sa vidéoprotection avec six caméras supplémentaires"
   },
   {
     "titre": "DFDS LOON PLAGE renouvellement",
@@ -1020,7 +1063,8 @@
       "DFDS",
       "sécurité",
       "terminal routier"
-    ]
+    ],
+    "titre_court": "DFDS renouvelle ses caméras à Loon-Plage"
   },
   {
     "titre": "T26-144N reluMM verifbp signéAGR raa arrete de circulation portant sur l'A25 pour des travaux de joints de chaussée sous basculement de circulation entre les PR14+400 et 20+300 et fermeture de la bretelle n°3 de l'échangeur n°8 les nuits du 20/04/26 21h00 au 24/04/26 05h00",
@@ -1045,7 +1089,8 @@
       "restriction circulation",
       "basculement",
       "joints de chaussée"
-    ]
+    ],
+    "titre_court": "Travaux sur l'A25 : restrictions de circulation prévues"
   },
   {
     "titre": "Ordre du jour de la commission départementale d'aménagement commercial du Nord du 05 mai 2026",
@@ -1067,7 +1112,8 @@
       "Aushopping",
       "optique",
       "CDAC"
-    ]
+    ],
+    "titre_court": "Louvroil : extension approuvée pour le centre commercial"
   },
   {
     "titre": "Ambulances Mahé CAUDRY autorisation",
@@ -1089,7 +1135,8 @@
       "sécurité",
       "surveillance",
       "Caudry"
-    ]
+    ],
+    "titre_court": "Ambulances Mahé : feu vert aux caméras de surveillance"
   },
   {
     "titre": "France Travail LE QUESNOY autorisation",
@@ -1111,7 +1158,8 @@
       "sécurité",
       "surveillance",
       "agence emploi"
-    ]
+    ],
+    "titre_court": "France Travail Le Quesnoy installle caméras surveillance"
   },
   {
     "titre": "Haras du mélantois SAINGHIN-EN-MELANTOIS autorisation",
@@ -1133,7 +1181,8 @@
       "sécurité",
       "établissement public",
       "Haras"
-    ]
+    ],
+    "titre_court": "Caméras de surveillance autorisées au Haras du Mélantois"
   },
   {
     "titre": "Les coccinelles des Flandres VIEUX BERQUIN autorisation",
@@ -1155,7 +1204,8 @@
       "sécurité",
       "établissement public",
       "surveillance"
-    ]
+    ],
+    "titre_court": "Vidéosurveillance autorisée à la crèche Vieux-Berquin"
   },
   {
     "titre": "SBE France HALLENNES-LEZ-HAUBOURDIN autorisation",
@@ -1177,7 +1227,8 @@
       "sécurité",
       "surveillance",
       "établissement bancaire"
-    ]
+    ],
+    "titre_court": "SBE France installe des caméras à Hallennes"
   },
   {
     "titre": "Décision n°122-2026 portant délégation de signature du Directeur général du Centre Hospitalier de Lens concernant les gardes de direction",
@@ -1203,7 +1254,8 @@
       "garde direction",
       "continuité soins",
       "groupement hospitalier"
-    ]
+    ],
+    "titre_court": "L'hôpital de Lens organise ses gardes de direction"
   },
   {
     "titre": "Annexe 2 Arrêté subdélégation DDETS 62 compétences préfet 14042026",
@@ -1223,7 +1275,8 @@
       "travail",
       "emploi",
       "compétences préfectorales"
-    ]
+    ],
+    "titre_court": "Le préfet délègue ses pouvoirs à la DDETS"
   },
   {
     "titre": "arrêté attributant l'habilitation sanitaire à Louis chevalier",
@@ -1246,7 +1299,8 @@
       "santé animale",
       "Beaurainville",
       "protection populations"
-    ]
+    ],
+    "titre_court": "Un vétérinaire habilité pour les missions sanitaires"
   },
   {
     "titre": "arrêté attributant l'habilitation sanitaire à Noémie Milliot",
@@ -1268,7 +1322,8 @@
       "santé animale",
       "Pas-de-Calais",
       "profession réglementée"
-    ]
+    ],
+    "titre_court": "Habilitation sanitaire accordée à une vétérinaire"
   },
   {
     "titre": "Décision n°2026-25 portant délégation de signature du chef d'établissement du centre hospitalier de la région de St Omer",
@@ -1290,7 +1345,8 @@
       "gestion administrative",
       "ressources humaines",
       "Centre Hospitalier"
-    ]
+    ],
+    "titre_court": "Saint-Omer : le directeur de l'hôpital délègue ses pouvoirs"
   },
   {
     "titre": "Subdélégation de signature accordée par M. Jérôme COLLAS - gestion budgétaire, ordonnancement secondaire et pouvoir adjudicateur",
@@ -1312,7 +1368,8 @@
       "marchés publics",
       "Secrétariat général",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Collas délègue sa signature à ses adjoints"
   },
   {
     "titre": "Arrêté n°2026-11-28 du 10 avril 2026 organisant la suppléance des fonctions de sous-préfète de Boulogne-sur-Mer",
@@ -1335,7 +1392,8 @@
       "délégation de signature",
       "organisation administrative",
       "Boulogne-sur-Mer"
-    ]
+    ],
+    "titre_court": "Boulogne-sur-Mer : organisation de la suppléance administrative"
   },
   {
     "titre": "Habilitation chambre funéraire Services Funéraires Jean-Michel GALLET à LICQUES",
@@ -1357,7 +1415,8 @@
       "habilitation",
       "services funéraires",
       "Licques"
-    ]
+    ],
+    "titre_court": "Autorisation pour chambre funéraire à Licques"
   },
   {
     "titre": "Arrêté préfectoral portant nomination de l'agent comptable GCS Sant Hainaut Valenciennes",
@@ -1379,7 +1438,8 @@
       "Valenciennes",
       "finances publiques",
       "nomination"
-    ]
+    ],
+    "titre_court": "Une inspectrice nommée agent comptable à Valenciennes"
   },
   {
     "titre": "Habilitation de la SAS BERENICE POUR LA VILLE ET LE COMMERCE afin de réaliser les études d'impact prévues au III de l'article L. 752-6 du code du commerce, sous le numéro AI-59-2026-03-26-02",
@@ -1399,7 +1459,8 @@
       "urbanisme commercial",
       "habilitation",
       "grandes surfaces"
-    ]
+    ],
+    "titre_court": "Nord : Bérénice habilitée pour études commerciales"
   },
   {
     "titre": "Habilitation de la SAS BERENICE POUR LA VILLE ET LE COMMERCE afin d'établir les certificats de conformité prévus au I de l'article L. 752-23 du code du commerce, sous le numéro C-59-2026-03-26-02",
@@ -1419,7 +1480,8 @@
       "certificat de conformité",
       "BERENICE",
       "développement commercial"
-    ]
+    ],
+    "titre_court": "Berenice habilitée à délivrer certificats commerciaux"
   },
   {
     "titre": "DELEGATION TABLEAU CE 2026",
@@ -1439,7 +1501,8 @@
       "code pénitentiaire",
       "commandants",
       "gestion administrative"
-    ]
+    ],
+    "titre_court": "Prison : nouvelles délégations de signature 2026"
   },
   {
     "titre": "AP APG La maison des Aveugles",
@@ -1461,7 +1524,8 @@
       "association",
       "handicap visuel",
       "collecte"
-    ]
+    ],
+    "titre_court": "Quête autorisée pour la Maison des Aveugles"
   },
   {
     "titre": "Carter cash TOURCOING autorisation",
@@ -1483,7 +1547,8 @@
       "sécurité",
       "commerce automobile",
       "surveillance"
-    ]
+    ],
+    "titre_court": "Tourcoing : Carter Cash installe 29 caméras"
   },
   {
     "titre": "[CHL CHBB CHHB CHLB] Décision N°122-2026-Délégation de signature DG-GD",
@@ -1508,7 +1573,8 @@
       "centres hospitaliers",
       "groupement hospitalier",
       "urgence sanitaire"
-    ]
+    ],
+    "titre_court": "Les hôpitaux du Pas-de-Calais délèguent les signatures"
   },
   {
     "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 100304849 -LERNOUT Aurélie",
@@ -1528,7 +1594,8 @@
       "LERNOUT Aurélie",
       "SAP",
       "DDETS"
-    ]
+    ],
+    "titre_court": "Aurélie Lernout agréée pour services à domicile"
   },
   {
     "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 102317534 - CORTANA Cyrielle",
@@ -1548,7 +1615,8 @@
       "CORTANA Cyrielle",
       "SAP",
       "organisme"
-    ]
+    ],
+    "titre_court": "Cyrielle Cortana crée son entreprise de services"
   },
   {
     "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 102318714 - HAFIDI Ryad",
@@ -1568,7 +1636,8 @@
       "SAP",
       "HAFIDI Ryad",
       "aide à domicile"
-    ]
+    ],
+    "titre_court": "Nouvel agrément pour services à domicile"
   },
   {
     "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 893744961 - GRAVELEINE Camille",
@@ -1588,7 +1657,8 @@
       "organisme",
       "GRAVELEINE",
       "récépissé"
-    ]
+    ],
+    "titre_court": "Camille Graveleine autorisée pour services à domicile"
   },
   {
     "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 932716301 - ADRIAENSSENS MONARD Morgan",
@@ -1608,7 +1678,8 @@
       "aide à domicile",
       "emploi",
       "DDETS"
-    ]
+    ],
+    "titre_court": "Aide à domicile : nouvelle entreprise agréée dans le département"
   },
   {
     "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 990390015 - LEDET Caroline",
@@ -1628,7 +1699,8 @@
       "LEDET Caroline",
       "SAP",
       "aide à domicile"
-    ]
+    ],
+    "titre_court": "Caroline Ledet obtient son agrément services à domicile"
   },
   {
     "titre": "Délégation de signature cadre de nuit + signature",
@@ -1650,7 +1722,8 @@
       "délégation de signature",
       "permanence de nuit",
       "EPSM"
-    ]
+    ],
+    "titre_court": "L'EPSM des Flandres délègue les signatures de nuit"
   },
   {
     "titre": "Arrêté préfectoral portant délégation de signature à monsieur Hugo GILARDI, directeur général de l'Agence régionale de santé Hauts-de-France",
@@ -1670,7 +1743,8 @@
       "santé publique",
       "Hauts-de-France",
       "préfet du Nord"
-    ]
+    ],
+    "titre_court": "Le préfet délègue sa signature à Hugo Gilardi"
   },
   {
     "titre": "Convention d'utilisation n° 059-2026-0006 relative au Rectorat",
@@ -1692,7 +1766,8 @@
       "immobilier public",
       "Lille",
       "performance immobilière"
-    ]
+    ],
+    "titre_court": "Le Rectorat de Lille obtient un nouveau bâtiment"
   },
   {
     "titre": "Version accessible - Arrêté préfectoral portant délégation de signature à monsieur Hugo GILARDI, directeur général de l'Agence régionale de santé Hauts-de-France",
@@ -1712,7 +1787,8 @@
       "délégation signature",
       "Hauts-de-France",
       "eaux potables"
-    ]
+    ],
+    "titre_court": "Le préfet délègue ses pouvoirs sanitaires à Gilardi"
   },
   {
     "titre": "AP portant renouvellement habilitation funéraire OGF LA MADELEINE",
@@ -1736,7 +1812,8 @@
       "O.G.F.",
       "renouvellement",
       "services funéraires"
-    ]
+    ],
+    "titre_court": "La Madeleine : renouvellement de l'habilitation funéraire"
   },
   {
     "titre": "AP portant renouvellement habilitation funéraire OGF LAMBERSART",
@@ -1760,7 +1837,8 @@
       "O.G.F.",
       "renouvellement",
       "transport de corps"
-    ]
+    ],
+    "titre_court": "Lambersart renouvelle l'autorisation funéraire"
   },
   {
     "titre": "AP portant renouvellement habilitation funéraire OGF LOOS",
@@ -1784,7 +1862,8 @@
       "PFG",
       "Loos",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Loos : renouvellement d'habilitation pour entreprise funéraire"
   },
   {
     "titre": "AP portant renouvellement habilitation funéraire OGF MARCQ EN BAROEUL",
@@ -1809,7 +1888,8 @@
       "chambre funéraire",
       "renouvellement",
       "services funéraires"
-    ]
+    ],
+    "titre_court": "OGF renouvelée pour accueillir familles Marcq"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF BOURBOURG",
@@ -1831,7 +1911,8 @@
       "OGF",
       "Bourbourg",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Bourbourg : OGF renouvelle son autorisation funéraire"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF chambre funéraire FACHES THUMESNIL",
@@ -1853,7 +1934,8 @@
       "habilitation",
       "OGF",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Renouvellement d'habilitation pour chambre funéraire"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF DOUAI",
@@ -1877,7 +1959,8 @@
       "habilitation",
       "Douai",
       "pompes funèbres"
-    ]
+    ],
+    "titre_court": "OGF Douai renouvelée pour cinq ans"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF DUNKERQUE route de Steendam",
@@ -1902,7 +1985,8 @@
       "OGF",
       "chambre funéraire",
       "Dunkerque"
-    ]
+    ],
+    "titre_court": "Dunkerque : renouvellement d'habilitation pour OGF"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF DUNKERQUE rue Nationale",
@@ -1925,7 +2009,8 @@
       "Dunkerque",
       "OGF",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Dunkerque : renouvellement d'habilitation pour les services funéraires"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF FACHES THUMESNIL",
@@ -1951,7 +2036,8 @@
       "renouvellement",
       "transport de corps",
       "activités funéraires"
-    ]
+    ],
+    "titre_court": "Faches-Thumesnil : renouvellement habilitation pompes funèbres"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF GRAND FORT PHILIPPE",
@@ -1977,7 +2063,8 @@
       "O.G.F.",
       "services funéraires",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Grand-Fort-Philippe renouvelle l'habilitation funéraire OGF"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF GRANDE SYNTHE",
@@ -2002,7 +2089,8 @@
       "pompes funèbres",
       "Grande-Synthe",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Grande-Synthe : renouvellement des activités funéraires"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF GRAVELINES",
@@ -2026,7 +2114,8 @@
       "transport de corps",
       "chambre funéraire",
       "Gravelines"
-    ]
+    ],
+    "titre_court": "Gravelines : renouvellement d'habilitation pour services funéraires"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF PF STOPIN DUNKERQUE",
@@ -2050,7 +2139,8 @@
       "Dunkerque",
       "OGF",
       "renouvellement"
-    ]
+    ],
+    "titre_court": "Stopin renouvelle son agrément funéraire pour cinq ans"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF rue de Douai LILLE",
@@ -2075,7 +2165,8 @@
       "OGF",
       "renouvellement",
       "activités funéraires"
-    ]
+    ],
+    "titre_court": "OGF renouvelle son autorisation funéraire à Lille"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF SAINT POL SUR MER",
@@ -2097,7 +2188,8 @@
       "OGF",
       "renouvellement",
       "services funéraires"
-    ]
+    ],
+    "titre_court": "Saint-Pol-sur-Mer : renouvellement des pompes funèbres STOPIN"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF TOURCOING",
@@ -2123,7 +2215,8 @@
       "OGF",
       "transport de corps",
       "crémation"
-    ]
+    ],
+    "titre_court": "Tourcoing : un établissement funéraire renouvelé cinq ans"
   },
   {
     "titre": "AP renouvellement habilitation funéraire OGF WATTRELOS rue Jean Marais",
@@ -2148,7 +2241,8 @@
       "renouvellement",
       "OGF",
       "Wattrelos"
-    ]
+    ],
+    "titre_court": "Wattrelos : renouvellement d'habilitation pour pompes funèbres"
   },
   {
     "titre": "Bar tabac L'Elysée ANOR autorisation",
@@ -2170,7 +2264,8 @@
       "sécurité",
       "caméras",
       "commerce"
-    ]
+    ],
+    "titre_court": "Trois caméras de surveillance au bar L'Elysée"
   },
   {
     "titre": "Tek Prog by SP Cars VIEUX RENG autorisation",
@@ -2192,7 +2287,8 @@
       "sécurité",
       "caméras",
       "commerce"
-    ]
+    ],
+    "titre_court": "Un garage de Vieux-Reng équipé de caméras"
   },
   {
     "titre": "Décision n°122-2026 portant délégation de signature du Directeur général du Centre Hospitalier de Béthune Beuvry concernant les gardes de direction",
@@ -2215,7 +2311,8 @@
       "garde de direction",
       "Béthune Beuvry",
       "organisation interne"
-    ]
+    ],
+    "titre_court": "L'hôpital de Béthune délègue ses signatures"
   },
   {
     "titre": "Décision n°122-2026 portant délégation de signature du Directeur général du Centre Hospitalier d'Hénin-Beaumont concernant les gardes de direction",
@@ -2237,7 +2334,8 @@
       "garde de direction",
       "organisation interne",
       "continuité administrative"
-    ]
+    ],
+    "titre_court": "Hénin-Beaumont : délégation de signature aux cadres"
   },
   {
     "titre": "2026-01- Arrêté de subdélégation DDETS 62 compétences préfet 14042026",
@@ -2257,7 +2355,8 @@
       "DDETS",
       "préfet",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Le préfet du Pas-de-Calais délègue ses pouvoirs"
   },
   {
     "titre": "2026-02 - Décision Subdélégation Application informatique CHORUS DDETS 14042026",
@@ -2277,7 +2376,8 @@
       "CHORUS",
       "DDETS",
       "gestion budgétaire"
-    ]
+    ],
+    "titre_court": "Pas-de-Calais : habilitation des agents à CHORUS"
   },
   {
     "titre": "2026-03 - Arrêté de subdélégation DDETS 62 - compétence inter-départementalisée préfets des Hauts-de-France 14042026",
@@ -2297,7 +2397,8 @@
       "Pas-de-Calais",
       "Hauts-de-France",
       "compétence inter-départementale"
-    ]
+    ],
+    "titre_court": "Pas-de-Calais : réorganisation administrative des préfets"
   },
   {
     "titre": "Annexe 1 Arrêté subdélégation DDETS 62 compétences préfet 14042026",
@@ -2317,7 +2418,8 @@
       "signature",
       "administration",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Pas-de-Calais délègue ses pouvoirs à la DDETS"
   },
   {
     "titre": "Renouvellement d'habilitation funéraire MARBRERIE LEFEBVRE à Vitry en Artois",
@@ -2339,7 +2441,8 @@
       "habilitation",
       "renouvellement",
       "Vitry-en-Artois"
-    ]
+    ],
+    "titre_court": "La marbrerie Lefebvre renouvelle son autorisation"
   },
   {
     "titre": "DS SIP boulogne sur mer 01022026",
@@ -2361,7 +2464,8 @@
       "contentieux fiscal",
       "recouvrement",
       "administration fiscale"
-    ]
+    ],
+    "titre_court": "Impôts : nouvelles signatures autorisées à Boulogne"
   },
   {
     "titre": "DS SIP bruay 01032026",
@@ -2383,7 +2487,8 @@
       "contentieux fiscal",
       "recouvrement",
       "finances publiques"
-    ]
+    ],
+    "titre_court": "Bruay : délégation de signature aux impôts"
   },
   {
     "titre": "Décision n°2026-92 portant délégation de signature du directeur du centre hospitalier de l'arrondissement de Montreuil-sur-Mer et du centre hospitalier d'Hesdin pour la garde administrative",
@@ -2406,7 +2511,8 @@
       "garde administrative",
       "organisation interne",
       "hôpital"
-    ]
+    ],
+    "titre_court": "Délégation de signature dans deux hôpitaux"
   },
   {
     "titre": "DS PCE ARRAS 01042026",
@@ -2428,7 +2534,8 @@
       "Arras",
       "service comptable",
       "administration fiscale"
-    ]
+    ],
+    "titre_court": "Réorganisation des finances publiques à Arras"
   },
   {
     "titre": "DS SIE Lens 24 03 2026",
@@ -2450,7 +2557,8 @@
       "administration fiscale",
       "gestion interne",
       "Lens"
-    ]
+    ],
+    "titre_court": "Lens : trois adjointes autorisées à signer les actes fiscaux"
   },
   {
     "titre": "Liste Resp Service locaux DDFiP62 - AVRIL 2026",
@@ -2470,7 +2578,8 @@
       "organigramme",
       "services locaux",
       "responsables"
-    ]
+    ],
+    "titre_court": "Nouvelle direction pour les finances publiques"
   },
   {
     "titre": "Liste Resp Service locaux DDFiP62 - MARS 2026",
@@ -2490,7 +2599,8 @@
       "organigramme",
       "services fiscaux",
       "responsables"
-    ]
+    ],
+    "titre_court": "Finances publiques : nouvelle organisation à Arras"
   },
   {
     "titre": "Arrêté n°2026-10-26 du 10 avril 2026 accordant délégation de signature à Christian Védélago, directeur de cabinet de la préfecture du Pas-de-Calais",
@@ -2510,7 +2620,8 @@
       "Pas-de-Calais",
       "directeur de cabinet",
       "Christian Védélago"
-    ]
+    ],
+    "titre_court": "Pas-de-Calais : délégation de signature au directeur de cabinet"
   },
   {
     "titre": "Arrêté n°2026-11-20 du 10 avril 2026 accordant délégation de signature à Isabelle Fradin-Thirode, sous-préfète de Montreuil-sur-Mer, ainsi qu'aux personnes placées sous son autorité",
@@ -2532,7 +2643,8 @@
       "Montreuil-sur-Mer",
       "organisation administrative",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Délégation de signature pour la sous-préfète de Montreuil"
   },
   {
     "titre": "Arrêté n°2026-11-21 du 10 avril 2026 accordant délégation de signature à Agathe Cury, sous-préfète de Calais, ainsi qu'aux personnes placées sous son autorité",
@@ -2554,7 +2666,8 @@
       "Calais",
       "administration préfectorale",
       "Agathe Cury"
-    ]
+    ],
+    "titre_court": "Calais : délégation de signature pour la sous-préfète"
   },
   {
     "titre": "Arrêté n°2026-11-22 du 10 avril 2026 accordant délégation de signature à Sandra Guthleben-Ceccaroni, sous-préfète de Lens ainsi qu'aux personnes placées sous son autorité",
@@ -2576,7 +2689,8 @@
       "Lens",
       "organisation administrative",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Lens : nouvelle délégation de signature pour la sous-préfète"
   },
   {
     "titre": "Arrêté n°2026-11-23 du 10 avril 2026 accordant délégation de signature à Sophie Pages, sous-préfète de Saint-Omer, ainsi qu'aux personnes placées sous son autorité",
@@ -2598,7 +2712,8 @@
       "Saint-Omer",
       "Sophie Pages",
       "organisation administrative"
-    ]
+    ],
+    "titre_court": "Saint-Omer : délégation de signature pour la sous-préfète"
   },
   {
     "titre": "Arrêté n°2026-11-24 du 10 avril 2026 accordant délégation de signature à Sébastien Bécoulet, sous-préfet de Béthune, ainsi qu'aux personnes placées sous son autorité",
@@ -2620,7 +2735,8 @@
       "Béthune",
       "administration préfectorale",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Béthune : délégation de signature pour le sous-préfet"
   },
   {
     "titre": "Arrêté n°2026-11-25 du 10 avril 2026 accordant délégation de signature à Jehane Bensedira, sous-préfète de Boulogne-sur-Mer, ainsi qu'aux personnes placées sous son autorité",
@@ -2642,7 +2758,8 @@
       "Boulogne-sur-Mer",
       "préfecture",
       "organisation administrative"
-    ]
+    ],
+    "titre_court": "Boulogne-sur-Mer : nouvelle délégation pour la sous-préfète"
   },
   {
     "titre": "Arrêté n°2026-40-28 du 10 avril 2026 accordant délégation de signature à Nathalie Chomette, directrice départementale de l'emploi, du travail et des solidarités du Pas-de-Calais pour l'ordonnancement secondaire des dépenses et recettes publiques",
@@ -2662,7 +2779,8 @@
       "ordonnancement secondaire",
       "dépenses publiques",
       "Pas-de-Calais"
-    ]
+    ],
+    "titre_court": "Délégation de signature pour Nathalie Chomette"
   },
   {
     "titre": "Arrêté portant désignation des porteurs de carte d'achat",
@@ -2690,7 +2808,8 @@
       "préfecture",
       "désignation",
       "dépenses publiques"
-    ]
+    ],
+    "titre_court": "Pas-de-Calais : 52 agents autorisés à utiliser des cartes d'achat"
   },
   {
     "titre": "Arrêté modification A2C AUTO ÉCOLE Dylan Seys Grenay",
@@ -2712,7 +2831,8 @@
       "conduite",
       "Grenay",
       "exploitation"
-    ]
+    ],
+    "titre_court": "Modification d'agrément pour auto-école à Grenay"
   },
   {
     "titre": "Décision 2026-16 portant délégation de signature - Direction des finances et direction du contrôle de gestion",
@@ -2734,7 +2854,8 @@
       "finances",
       "contrôle de gestion",
       "ordonnateur"
-    ]
+    ],
+    "titre_court": "L'hôpital de Cambrai délègue ses pouvoirs financiers"
   },
   {
     "titre": "Délégation signature CE1 (CF tableau)",
@@ -2756,7 +2877,8 @@
       "administration pénitentiaire",
       "gestion interne",
       "Quiévrechain"
-    ]
+    ],
+    "titre_court": "Prison de Quiévrechain : délégation de signature validée"
   },
   {
     "titre": "Décision n°2026-017 portant délégation à Monsieur Thomas SIX",
@@ -2778,6 +2900,7 @@
       "vie étudiante",
       "gestion budgétaire",
       "administration universitaire"
-    ]
+    ],
+    "titre_court": "Le Crous de Lille délègue des pouvoirs à Thomas Six"
   }
 ]
