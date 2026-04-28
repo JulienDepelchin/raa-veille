@@ -1,5 +1,5 @@
 @echo off
-SET GIT="C:\Program Files\Git\cmd\git.exe"
+SET GIT="C:\Users\jdepelchin\AppData\Local\Programs\Git\mingw64\bin\git.exe"
 setlocal
 cd /d "D:\raa-veille"
 
