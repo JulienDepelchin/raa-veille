@@ -34,6 +34,18 @@ HEADERS = {
     )
 }
 
+HEADERS_PDF = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/pdf,*/*",
+    "Accept-Language": "fr-FR,fr;q=0.9",
+    "Referer": "https://www.nord.gouv.fr/",
+    "Connection": "keep-alive",
+}
+
 BASE_59 = "https://www.nord.gouv.fr"
 BASE_62 = "https://www.pas-de-calais.gouv.fr"
 
@@ -66,7 +78,8 @@ MOIS_FR_NOM = {
     "septembre": 9, "octobre": 10, "novembre": 11, "decembre": 12, "décembre": 12,
 }
 
-PAUSE_DOWNLOAD = 2   # secondes entre deux téléchargements
+PAUSE_DOWNLOAD = 3   # secondes entre deux téléchargements
+RETRY_DELAY    = 10  # secondes d'attente avant retry RemoteDisconnected
 
 
 # ── Parsing de date dans un nom de fichier ────────────────────────────────────
@@ -176,21 +189,36 @@ def extraire_pdfs(html: str, base_url: str) -> list[dict]:
     return resultats
 
 
+def _telecharger_une_fois(url: str, dest: Path) -> None:
+    """Télécharge url → dest. Lève une exception en cas d'échec."""
+    r = requests.get(url, headers=HEADERS_PDF, timeout=60, stream=True)
+    r.raise_for_status()
+    PDF_DIR.mkdir(parents=True, exist_ok=True)
+    with open(dest, "wb") as f:
+        for chunk in r.iter_content(chunk_size=65536):
+            f.write(chunk)
+
+
 def telecharger_pdf(url: str, nom: str) -> bool:
+    from http.client import RemoteDisconnected
     dest = PDF_DIR / nom
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=60, stream=True)
-        r.raise_for_status()
-        PDF_DIR.mkdir(parents=True, exist_ok=True)
-        with open(dest, "wb") as f:
-            for chunk in r.iter_content(chunk_size=65536):
-                f.write(chunk)
-        taille_mo = dest.stat().st_size / 1_048_576
-        print(f"    OK  {nom}  ({taille_mo:.1f} Mo)")
-        return True
-    except Exception as e:
-        print(f"    ECHEC  {nom} : {e}")
-        return False
+    for tentative in range(2):
+        try:
+            _telecharger_une_fois(url, dest)
+            taille_mo = dest.stat().st_size / 1_048_576
+            print(f"    OK  {nom}  ({taille_mo:.1f} Mo)")
+            return True
+        except RemoteDisconnected as e:
+            if tentative == 0:
+                print(f"    RemoteDisconnected — retry dans {RETRY_DELAY}s...")
+                time.sleep(RETRY_DELAY)
+            else:
+                print(f"    ECHEC (RemoteDisconnected x2)  {nom} : {e}")
+                return False
+        except Exception as e:
+            print(f"    ECHEC  {nom} : {e}")
+            return False
+    return False
 
 
 # ── Scraping par département ──────────────────────────────────────────────────
