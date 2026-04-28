@@ -377,9 +377,17 @@ def pipeline(
 
         # Appliquer le filtre temporel / quantitatif
         if filter_mode == "14jours":
-            # pdfs_deja_vus.txt est le filtre principal : tout PDF non encore
-            # vu est téléchargé quelle que soit sa date de publication.
-            a_traiter = tous_nouveaux
+            if dept == "62":
+                # PDC liste toute l'année : filtre 30 jours sur les non-vus.
+                # Date inconnue → conservé par précaution.
+                limite_pdc = date.today() - timedelta(days=30)
+                a_traiter = [
+                    p for p in tous_nouveaux
+                    if p["date_pdf"] is None or p["date_pdf"] >= limite_pdc
+                ]
+            else:
+                # Nord : page du mois courant seulement, pas de filtre date.
+                a_traiter = tous_nouveaux
         elif filter_mode == "n_recents":
             a_traiter = filtrer_n_recents(tous_nouveaux, n_recents)
         else:  # "tous"
@@ -393,18 +401,21 @@ def pipeline(
         print(f"  Dans pdfs_deja_vus    : {connus}")
         print(f"  Nouveaux (non vus)    : {len(tous_nouveaux)}")
         print(f"  A telecharger         : {len(a_traiter)}"
-              + (f"  (ignores filtre : {ignores})" if ignores else ""))
+              + (f"  (ignores date>30j : {ignores})" if ignores else ""))
 
         # Diagnostic détaillé : raison pour chaque PDF scrappé
+        limite_diag = date.today() - timedelta(days=30)
         print()
         for p in src["pdfs"]:
             nom = p["nom"]
             d = p.get("date_pdf")
             date_str = d.strftime("%Y-%m-%d") if d else "date_inconnue"
             if nom in deja_vus:
-                print(f"    SKIP  deja_vu   [{date_str}]  {nom}")
+                print(f"    SKIP  deja_vu      [{date_str}]  {nom}")
+            elif dept == "62" and d is not None and d < limite_diag:
+                print(f"    SKIP  date>30j     [{date_str}]  {nom}")
             else:
-                print(f"    KEEP  nouveau   [{date_str}]  {nom}")
+                print(f"    KEEP  nouveau      [{date_str}]  {nom}")
 
         if not a_traiter:
             print("\n  -> Rien a telecharger.")
