@@ -4,7 +4,10 @@ scraper.py — Détection et téléchargement des nouveaux RAA
   Dept 62 (Pas-de-Calais) : page annuelle unique
 
 Modes de filtrage disponibles :
-  filter_mode="7jours"   → uniquement les PDFs publiés dans les 7 derniers jours
+  filter_mode="14jours"  → filtre principal : pdfs_deja_vus.txt
+                           tout PDF non encore vu est téléchargé, quelle que
+                           soit sa date. La fenêtre 14 jours ne s'applique
+                           qu'à titre indicatif (marge entre deux runs hebdo).
                            (production / GitHub Actions)
   filter_mode="n_recents" + n=3  → les N PDFs les plus récents non encore vus
                            (test / rattrapage ponctuel)
@@ -254,13 +257,18 @@ def filtrer_nouveaux(pdfs: list[dict], deja_vus: set[str]) -> list[dict]:
     return [p for p in pdfs if p["nom"] not in deja_vus]
 
 
-def filtrer_7_jours(pdfs: list[dict]) -> list[dict]:
+def filtrer_14_jours(pdfs: list[dict]) -> list[dict]:
     """
-    Garde uniquement les PDFs dont la date extraite du nom
-    est dans les 7 derniers jours. Si la date est introuvable,
-    le PDF est conservé par précaution (ne pas rater un acte).
+    Garde uniquement les PDFs dont la date extraite du nom est dans les
+    14 derniers jours. Si la date est introuvable, le PDF est conservé
+    par précaution.
+
+    Note : dans le pipeline "14jours", pdfs_deja_vus.txt est le filtre
+    principal — cette fonction n'est donc jamais appelée sur des PDFs déjà
+    filtrés par filtrer_nouveaux() (qui sont par définition tous non vus).
+    Elle reste disponible pour des usages ponctuels.
     """
-    limite = date.today() - timedelta(days=7)
+    limite = date.today() - timedelta(days=14)
     retenus = []
     for p in pdfs:
         d = p.get("date_pdf")
@@ -285,14 +293,15 @@ def filtrer_n_recents(pdfs: list[dict], n: int) -> list[dict]:
 
 def pipeline(
     simulation: bool = True,
-    filter_mode: str = "7jours",   # "7jours" | "n_recents" | "tous"
+    filter_mode: str = "14jours",   # "14jours" | "n_recents" | "tous"
     n_recents: int = 3,
 ) -> dict:
     """
     Détecte et optionnellement télécharge les nouveaux PDFs.
 
     filter_mode :
-      "7jours"    → PDFs des 7 derniers jours (production)
+      "14jours"   → filtre principal pdfs_deja_vus.txt : tout PDF non vu est
+                    téléchargé quelle que soit sa date (production)
       "n_recents" → les N plus récents non vus  (test)
       "tous"      → tous les non vus            (rattrapage)
     """
@@ -332,8 +341,10 @@ def pipeline(
         stats["deja_connus"] += connus
 
         # Appliquer le filtre temporel / quantitatif
-        if filter_mode == "7jours":
-            a_traiter = filtrer_7_jours(tous_nouveaux)
+        if filter_mode == "14jours":
+            # pdfs_deja_vus.txt est le filtre principal : tout PDF non encore
+            # vu est téléchargé quelle que soit sa date de publication.
+            a_traiter = tous_nouveaux
         elif filter_mode == "n_recents":
             a_traiter = filtrer_n_recents(tous_nouveaux, n_recents)
         else:  # "tous"
@@ -389,7 +400,7 @@ if __name__ == "__main__":
     # Sans --download = simulation seule
     _download = "--download" in sys.argv
     _positional = [a for a in sys.argv[1:] if not a.startswith("--")]
-    _mode = _positional[0] if _positional else "7jours"
+    _mode = _positional[0] if _positional else "14jours"
     _n = int(_positional[1]) if len(_positional) > 1 else 3
 
     if _download:

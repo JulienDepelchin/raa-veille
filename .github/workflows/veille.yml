@@ -51,7 +51,7 @@ jobs:
           python - <<'EOF'
           import sys, os
           os.chdir('/home/runner/work/raa-veille/raa-veille')
-          sys.argv = ['scraper.py', '7jours', '--download']
+          sys.argv = ['scraper.py', '14jours', '--download']
           with open('scraper.py', 'r') as f:
               code = f.read()
           code = code.replace("input(", "raise SystemExit(  # input removed: ")
