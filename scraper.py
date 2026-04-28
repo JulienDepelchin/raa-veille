@@ -395,10 +395,22 @@ def pipeline(
         print(f"  A telecharger         : {len(a_traiter)}"
               + (f"  (ignores filtre : {ignores})" if ignores else ""))
 
+        # Diagnostic détaillé : raison pour chaque PDF scrappé
+        print()
+        for p in src["pdfs"]:
+            nom = p["nom"]
+            d = p.get("date_pdf")
+            date_str = d.strftime("%Y-%m-%d") if d else "date_inconnue"
+            if nom in deja_vus:
+                print(f"    SKIP  deja_vu   [{date_str}]  {nom}")
+            else:
+                print(f"    KEEP  nouveau   [{date_str}]  {nom}")
+
         if not a_traiter:
-            print("  -> Rien a telecharger.")
+            print("\n  -> Rien a telecharger.")
             continue
 
+        print()
         for p in a_traiter:
             date_str = p["date_pdf"].strftime("%d/%m/%Y") if p.get("date_pdf") else "date inconnue"
             print(f"    + [{date_str}] {p['nom']}")
