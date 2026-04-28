@@ -21,6 +21,7 @@ from scraper import date_recueil_str, charger_pdf_urls
 
 PDF_DIR       = Path("pdfs_downloaded")
 ANALYSES_TXT  = Path("data/pdfs_analyses.txt")   # PDFs déjà analysés
+NOUVEAUX_TXT  = Path("data/pdfs_nouveaux.txt")   # PDFs téléchargés ce run (écrit par scraper.py)
 
 
 # ── Détection du département depuis le nom de fichier ────────────────────────
@@ -144,10 +145,36 @@ def afficher_resume(nouveaux: list[dict], tous: list[dict]) -> None:
 
 # ── Sélection des PDFs à traiter ─────────────────────────────────────────────
 
+def pdfs_depuis_run(filtre_dept: str | None = None) -> list[dict]:
+    """
+    PDFs téléchargés lors du run scraper courant (lus depuis pdfs_nouveaux.txt).
+    Retourne None si le fichier n'existe pas ou est vide.
+    """
+    if not NOUVEAUX_TXT.exists():
+        return None
+    noms = [l.strip() for l in NOUVEAUX_TXT.read_text(encoding="utf-8").splitlines() if l.strip()]
+    if not noms:
+        return None
+    deja_analyses = charger_analyses()
+    sources = []
+    for nom in noms:
+        if nom in deja_analyses:
+            continue
+        dept = detecter_dept(nom)
+        if filtre_dept and dept != filtre_dept:
+            continue
+        pdf_path = PDF_DIR / nom
+        if pdf_path.exists():
+            sources.append({"pdf": str(pdf_path), "dept": dept, "nom": nom})
+        else:
+            print(f"  [AVERT] PDF liste dans pdfs_nouveaux.txt mais introuvable : {nom}")
+    return sources
+
+
 def pdfs_a_traiter(filtre_dept: str | None = None) -> list[dict]:
     """
-    Retourne les PDFs de pdfs_downloaded/ non encore analysés.
-    filtre_dept : '59', '62', ou None pour les deux.
+    Fallback : PDFs de pdfs_downloaded/ non encore analysés.
+    Utilisé uniquement en appel manuel (sans pdfs_nouveaux.txt).
     """
     deja_analyses = charger_analyses()
     sources = []
@@ -213,11 +240,21 @@ def main():
 
     api_key = charger_api_key()
 
-    sources = sources_manuelles if sources_manuelles else pdfs_a_traiter(filtre_dept)
+    if sources_manuelles:
+        sources = sources_manuelles
+    else:
+        sources_run = pdfs_depuis_run(filtre_dept)
+        if sources_run is not None:
+            print(f"Mode run scraper : {len(sources_run)} PDF(s) depuis pdfs_nouveaux.txt")
+            sources = sources_run
+        else:
+            print("Mode manuel : scan de pdfs_downloaded/ (pdfs_nouveaux.txt absent)")
+            sources = pdfs_a_traiter(filtre_dept)
 
     if not sources:
-        print("Aucun nouveau PDF a analyser dans pdfs_downloaded/.")
-        print("(Verifiez data/pdfs_analyses.txt et le contenu du dossier)")
+        print("Aucun nouveau PDF a analyser.")
+        if NOUVEAUX_TXT.exists():
+            NOUVEAUX_TXT.unlink()
         sys.exit(0)
 
     print(f"\n{len(sources)} PDF(s) a analyser :")
@@ -235,6 +272,10 @@ def main():
         resultats = etape_analyse(actes, api_key)
         nouveaux_resultats.extend(resultats)
         enregistrer_analyse(src["nom"])
+
+    # Nettoyer pdfs_nouveaux.txt : consommé, ne doit pas persister
+    if NOUVEAUX_TXT.exists():
+        NOUVEAUX_TXT.unlink()
 
     if not nouveaux_resultats:
         print("Aucun acte produit.")

@@ -62,8 +62,9 @@ URL_62_TEMPLATE = (
 def url_pdc_annee(annee: int) -> str:
     return URL_62_TEMPLATE.format(annee=annee)
 
-PDF_DIR      = Path("pdfs_downloaded")
-DEJA_VUS_TXT = Path("data/pdfs_deja_vus.txt")
+PDF_DIR       = Path("pdfs_downloaded")
+DEJA_VUS_TXT  = Path("data/pdfs_deja_vus.txt")
+NOUVEAUX_TXT  = Path("data/pdfs_nouveaux.txt")
 
 MOIS_FR_URL = {
     1: "Janvier", 2: "Fevrier",  3: "Mars",     4: "Avril",
@@ -367,7 +368,7 @@ def pipeline(
     print("=" * 60)
 
     stats = {"telecharges": 0, "deja_connus": 0, "ignores_filtre": 0,
-             "erreurs": 0, "nouveaux": []}
+             "erreurs": 0, "nouveaux": [], "telecharges_noms": []}
 
     for src in sources_brutes:
         dept = src["dept"]
@@ -433,6 +434,7 @@ def pipeline(
                     enregistrer_deja_vu(p["nom"])
                     enregistrer_pdf_url(p["nom"], p["url"])
                     stats["telecharges"] += 1
+                    stats["telecharges_noms"].append(p["nom"])
                     time.sleep(PAUSE_DOWNLOAD)
                 else:
                     stats["erreurs"] += 1
@@ -446,6 +448,15 @@ def pipeline(
     else:
         print(f"BILAN — {stats['telecharges']} telecharge(s)  |  "
               f"{stats['erreurs']} erreur(s)  |  {stats['deja_connus']} deja connus")
+        # Écrire la liste des PDFs téléchargés ce run pour main.py
+        NOUVEAUX_TXT.parent.mkdir(parents=True, exist_ok=True)
+        if stats["telecharges_noms"]:
+            NOUVEAUX_TXT.write_text(
+                "\n".join(stats["telecharges_noms"]) + "\n", encoding="utf-8"
+            )
+            print(f"  -> {NOUVEAUX_TXT} mis a jour ({len(stats['telecharges_noms'])} entrees)")
+        else:
+            NOUVEAUX_TXT.write_text("", encoding="utf-8")
     print("=" * 60)
 
     return stats
