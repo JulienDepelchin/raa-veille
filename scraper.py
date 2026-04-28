@@ -143,9 +143,10 @@ def enregistrer_pdf_url(nom_fichier: str, url: str) -> None:
 def get_page(url: str) -> requests.Response | None:
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
+        print(f"  [HTTP] {url}  →  {r.status_code}")
         return r if r.status_code == 200 else None
     except requests.RequestException as e:
-        print(f"  [ERREUR reseau] {e}")
+        print(f"  [ERREUR reseau] {url}  →  {e}")
         return None
 
 
@@ -215,13 +216,16 @@ def scraper_nord() -> list[dict]:
 
     for tentative in range(3):
         url = url_nord_mois(annee, mois)
-        label = "Tentative" if tentative == 0 else f"Repli -{tentative} mois"
-        print(f"  {label} : {url}")
+        label = "Tentative 0" if tentative == 0 else f"Repli -{tentative} mois"
+        print(f"  [{label}] URL : {url}")
         r = get_page(url)
         if r is not None:
-            print(f"  Status 200 — {MOIS_FR_URL[mois]} {annee}")
             pdfs = extraire_pdfs(r.text, BASE_59)
-            print(f"  {len(pdfs)} PDF(s) trouves")
+            print(f"  Liens PDF trouves sur la page : {len(pdfs)}")
+            for p in pdfs[:3]:
+                print(f"    - {p['nom']}")
+            if len(pdfs) > 3:
+                print(f"    ... ({len(pdfs) - 3} autres)")
             return pdfs
         annee, mois = _mois_precedent(annee, mois)
 
@@ -238,13 +242,16 @@ def scraper_pdc() -> list[dict]:
     annee = date.today().year
     for tentative in range(2):
         url = url_pdc_annee(annee)
-        print(f"  URL : {url}")
+        print(f"  [Tentative {tentative}] URL : {url}")
         r = get_page(url)
         if r is not None:
             pdfs = extraire_pdfs(r.text, BASE_62)
-            print(f"  {len(pdfs)} PDF(s) trouves (apres dedup)")
+            print(f"  Liens PDF trouves sur la page : {len(pdfs)}")
+            for p in pdfs[:3]:
+                print(f"    - {p['nom']}")
+            if len(pdfs) > 3:
+                print(f"    ... ({len(pdfs) - 3} autres)")
             return pdfs
-        print(f"  Repli annee precedente ({annee - 1})...")
         annee -= 1
 
     print("  Impossible d'acceder a la page Pas-de-Calais.")
@@ -354,9 +361,11 @@ def pipeline(
         stats["ignores_filtre"] += ignores
 
         print(f"\n  [{dept}] {src['label']}")
-        print(f"  Total : {len(src['pdfs'])}  |  Deja connus : {connus}  "
-              f"|  Nouveaux bruts : {len(tous_nouveaux)}  |  Apres filtre : {len(a_traiter)}"
-              + (f"  |  Ignores : {ignores}" if ignores else ""))
+        print(f"  Total scrapes         : {len(src['pdfs'])}")
+        print(f"  Dans pdfs_deja_vus    : {connus}")
+        print(f"  Nouveaux (non vus)    : {len(tous_nouveaux)}")
+        print(f"  A telecharger         : {len(a_traiter)}"
+              + (f"  (ignores filtre : {ignores})" if ignores else ""))
 
         if not a_traiter:
             print("  -> Rien a telecharger.")
