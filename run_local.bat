@@ -1,5 +1,5 @@
 @echo off
-SET PATH=%PATH%;C:\Program Files\Git\bin;C:\Program Files\Git\cmd
+SET GIT="C:\Program Files\Git\cmd\git.exe"
 setlocal
 cd /d "D:\raa-veille"
 
@@ -50,10 +50,10 @@ if %NB_NOUVEAUX% GTR 0 (
 echo.
 echo [3/4] Mise a jour Git...
 
-git add data/
-git diff --cached --quiet
+%GIT% add data/
+%GIT% diff --cached --quiet
 if errorlevel 1 (
-    git commit -m "maj RAA %date%"
+    %GIT% commit -m "maj RAA %date%"
 ) else (
     echo    Rien a commiter dans data/.
 )
@@ -61,7 +61,7 @@ if errorlevel 1 (
 :: ── 4. Push ──────────────────────────────────────────────────────────────────
 echo.
 echo [4/4] Git push...
-git push
+%GIT% push
 if errorlevel 1 (
     echo.
     echo ERREUR : git push a echoue.
