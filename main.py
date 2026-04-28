@@ -19,9 +19,10 @@ from config import MIN_SCORE_AFFICHE, OUTPUT_FILE
 from extractor import extraire_actes_depuis_pdf
 from scraper import date_recueil_str, charger_pdf_urls
 
-PDF_DIR       = Path("pdfs_downloaded")
-ANALYSES_TXT  = Path("data/pdfs_analyses.txt")   # PDFs déjà analysés
-NOUVEAUX_TXT  = Path("data/pdfs_nouveaux.txt")   # PDFs téléchargés ce run (écrit par scraper.py)
+_BASE         = Path(__file__).resolve().parent
+PDF_DIR       = _BASE / "pdfs_downloaded"
+ANALYSES_TXT  = _BASE / "data" / "pdfs_analyses.txt"
+NOUVEAUX_TXT  = _BASE / "data" / "pdfs_nouveaux.txt"
 
 
 # ── Détection du département depuis le nom de fichier ────────────────────────

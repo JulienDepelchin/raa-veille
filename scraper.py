@@ -62,9 +62,10 @@ URL_62_TEMPLATE = (
 def url_pdc_annee(annee: int) -> str:
     return URL_62_TEMPLATE.format(annee=annee)
 
-PDF_DIR       = Path("pdfs_downloaded")
-DEJA_VUS_TXT  = Path("data/pdfs_deja_vus.txt")
-NOUVEAUX_TXT  = Path("data/pdfs_nouveaux.txt")
+_BASE         = Path(__file__).resolve().parent
+PDF_DIR       = _BASE / "pdfs_downloaded"
+DEJA_VUS_TXT  = _BASE / "data" / "pdfs_deja_vus.txt"
+NOUVEAUX_TXT  = _BASE / "data" / "pdfs_nouveaux.txt"
 
 MOIS_FR_URL = {
     1: "Janvier", 2: "Fevrier",  3: "Mars",     4: "Avril",
