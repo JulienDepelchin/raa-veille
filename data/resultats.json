@@ -592,6 +592,146 @@
     "date_recueil": "2026-04-15"
   },
   {
+    "titre": "T26-170N projet signé",
+    "titre_complet": "2026-04-27-00004 - T26-170N projet signé",
+    "page_debut": 12,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 4,
+    "titre_court": "L'A16 à Dunkerque fermée pour travaux routiers",
+    "resume": "Un arrêté préfectoral organise la fermeture temporaire de bretelles et la neutralisation de voies de circulation sur l'autoroute A16 dans les deux sens à Dunkerque. Ces travaux de voirie nécessitent la mise en place de portiques et impacteront la circulation automobile dans le secteur.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "A16",
+      "travaux",
+      "fermeture",
+      "circulation",
+      "autoroute"
+    ]
+  },
+  {
+    "titre": "groupé CCF renouvmodif",
+    "titre_complet": "2026-03-23-00021 - groupé CCF renouvmodif",
+    "page_debut": 49,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 4,
+    "titre_court": "Vidéosurveillance étendue dans six banques CCF du Nord",
+    "resume": "Le préfet du Nord renouvelle et modifie les autorisations de systèmes de vidéoprotection pour six agences bancaires CCF situées à Roubaix, Valenciennes, Croix, Dunkerque, Lille et Marcq-en-Barœul. Ces dispositifs, autorisés pour cinq ans, visent à prévenir les atteintes aux personnes et aux biens, ainsi que les actes de terrorisme. Les images seront conservées 30 jours et accessibles aux forces de l'ordre.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roubaix",
+      "Valenciennes",
+      "Croix",
+      "Dunkerque",
+      "Lille",
+      "Marcq-en-Barœul"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "banques CCF",
+      "sécurité",
+      "terrorisme",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "Programme d'actions 2026 de la délégation locale de l'Anah du Nord (territoires hors délégation de compétence)",
+    "titre_complet": "Direction départementale des territoires et de la mer / 2026-04-20-00013 - Programme d'actions 2026 de la délégation locale de l'Anah du Nord (territoires hors délégation de compétence)",
+    "page_debut": 3,
+    "nb_pages": 24,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 4,
+    "titre_court": "25 millions d'euros pour rénover l'habitat dans le Nord",
+    "resume": "L'Agence nationale de l'habitat (Anah) déploie 25,3 millions d'euros en 2026 pour rénover les logements privés dans les territoires du Nord non couverts par une délégation. Le programme vise 449 propriétaires occupants modestes et 116 propriétaires bailleurs, avec une priorité donnée aux rénovations énergétiques et à la lutte contre l'habitat indigne. Un passage obligatoire en Espace Conseil France Rénov' est instauré pour tous les demandeurs.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Bavay",
+      "Landrecies",
+      "Le Quesnoy",
+      "Cambrai",
+      "Aniche",
+      "Auberchicourt",
+      "Somain",
+      "Fourmies"
+    ],
+    "mots_cles": [
+      "rénovation énergétique",
+      "habitat indigne",
+      "logement social",
+      "aide financière",
+      "précarité énergétique"
+    ]
+  },
+  {
+    "titre": "groupé Otera autorisation",
+    "titre_complet": "2026-03-23-00025 - groupé Otera autorisation",
+    "page_debut": 33,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 4,
+    "titre_court": "Vidéosurveillance autorisée dans quatre magasins O'tera",
+    "resume": "Le préfet du Nord autorise l'installation de systèmes de vidéoprotection dans quatre magasins O'tera situés à Avelin, Aulnoy-lez-Valenciennes, Saint-André-lez-Lille et Villeneuve-d'Ascq. Au total, 39 caméras (intérieures et extérieures) pourront filmer pendant cinq ans pour prévenir les agressions, les vols et la démarque inconnue. Les images seront conservées 30 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Avelin",
+      "Aulnoy-lez-Valenciennes",
+      "Saint-André-lez-Lille",
+      "Villeneuve-d'Ascq"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "magasins O'tera",
+      "sécurité",
+      "surveillance",
+      "commerce"
+    ]
+  },
+  {
+    "titre": "commune de Roubaix autorisation",
+    "titre_complet": "2026-04-24-00006 - commune de Roubaix autorisation",
+    "page_debut": 60,
+    "nb_pages": 14,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106201/745736/file/Recueil n°154 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 4,
+    "titre_court": "443 caméras de surveillance autorisées à Roubaix",
+    "resume": "Le préfet du Nord autorise la ville de Roubaix à installer un vaste système de vidéoprotection comprenant 443 caméras pour une durée de cinq ans. Le dispositif comprend 11 caméras intérieures, 51 caméras extérieures et 381 caméras de voie publique, réparties dans toute la commune. Ces installations visent la protection des bâtiments publics, la prévention des infractions routières et la sécurité des personnes dans les lieux exposés à des risques d'agression ou de terrorisme.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roubaix"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "sécurité publique",
+      "surveillance",
+      "caméras",
+      "prévention"
+    ]
+  },
+  {
     "titre": "Arrêté T26-100N portant mesures de restrictions de circulation en 2 phases distinctes, durant les nuits du mardi 21 au jeudi 23 avril 2026, de 20h à 5h chaque nuit, entre les PR 96+500 et 97+800 dans le sens Boulogne-sur Mer vers Dunkerque et entre les PR 98+400 et 97+100 dans le sens Dunkerque vers Boulogne-sur-Mer",
     "titre_complet": "Direction interdépartementale des routes Nord / 62-2026-04-14-00003 - Arrêté T26-100N portant mesures de restrictions de circulation en 2 phases distinctes, durant les nuits du mardi 21 au jeudi 23 avril 2026, de 20h à 5h chaque nuit, entre les PR 96+500 et 97+800 dans le sens Boulogne-sur Mer vers Dunkerque et entre les PR 98+400 et 97+100 dans le sens Dunkerque vers Boulogne-sur-Mer",
     "page_debut": 65,
@@ -1331,6 +1471,485 @@
     "titre_court": "SBE France installe des caméras à Hallennes",
     "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/105990/744408/file/Recueil n°140 du 15 avril 2026.pdf",
     "date_recueil": "2026-04-15"
+  },
+  {
+    "titre": "décision 20 portant mesure temporaire de restriction de navigation",
+    "titre_complet": "Direction départementale des territoires et de la mer / 2026-04-24-00008 - décision 20 portant mesure temporaire de restriction de navigation",
+    "page_debut": 7,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "La Sambre canalisée fermée trois jours à Louvroil",
+    "resume": "La navigation sur la Sambre canalisée sera interdite à Louvroil les 2, 3 et 4 juin 2026, entre 11h30 et 15h30, pour permettre le remplacement de câbles électriques et d'un pylône par RTE. Des zones de stationnement seront aménagées en amont et en aval du chantier. Les travaux concernent le secteur entre les PK 37.550 et 38.310.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Louvroil"
+    ],
+    "mots_cles": [
+      "navigation fluviale",
+      "Sambre",
+      "travaux électriques",
+      "RTE",
+      "restriction temporaire"
+    ]
+  },
+  {
+    "titre": "T25-182N - arrêté temporaire portant réglementation de la circulation sur l'autoroute A2",
+    "titre_complet": "Direction interdépartementale des routes Nord / 2026-04-27-00003 - T25-182N - arrêté temporaire portant réglementation de la circulation sur l'autoroute A2",
+    "page_debut": 9,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Travaux de pontage sur l'A2 à Douchy-les-Mines",
+    "resume": "Un arrêté réglemente temporairement la circulation sur l'autoroute A2 dans le département du Nord pour permettre des travaux de pontage et la neutralisation d'une bande d'arrêt d'urgence à Douchy-les-Mines. Ces mesures provisoires de sécurisation s'inscrivent dans un chantier non courant nécessitant une coordination spécifique de la circulation.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Douchy-les-Mines"
+    ],
+    "mots_cles": [
+      "autoroute A2",
+      "travaux",
+      "pontage",
+      "circulation",
+      "sécurité routière"
+    ]
+  },
+  {
+    "titre": "T26-175N projet signé",
+    "titre_complet": "2026-04-27-00005 - T26-175N projet signé",
+    "page_debut": 16,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Fermeture de bretelle sur l'A25 à Bailleul",
+    "resume": "La bretelle d'insertion n°2 de l'échangeur n°10 de l'A25, dans le sens Lille vers Dunkerque, sera fermée pour des travaux de débroussaillage d'accotement à Bailleul. La déviation estimée rallonge le trajet de 17 km et 11 minutes. Les usagers devront emprunter un itinéraire alternatif via la RD638 et la RD945N.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bailleul"
+    ],
+    "mots_cles": [
+      "A25",
+      "fermeture bretelle",
+      "travaux",
+      "déviation",
+      "autoroute"
+    ]
+  },
+  {
+    "titre": "Dom Turlure LANDAS auto",
+    "titre_complet": "2026-03-23-00016 - Dom Turlure LANDAS auto",
+    "page_debut": 36,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée chez Dom Turlure à Landas",
+    "resume": "Le préfet du Nord autorise la société Dom Turlure à installer un système de vidéoprotection de 5 caméras dans ses locaux de Landas. Le dispositif vise à prévenir les atteintes à la sécurité des personnes et des biens dans les zones accessibles au public. L'autorisation est valable cinq ans.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Landas"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "sécurité",
+      "commerce",
+      "surveillance",
+      "Dom Turlure"
+    ]
+  },
+  {
+    "titre": "ETNB ERINGHEM autorisation",
+    "titre_complet": "2026-03-23-00017 - ETNB ERINGHEM autorisation",
+    "page_debut": 39,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée pour une entreprise de nettoyage à Eringhem",
+    "resume": "Le préfet du Nord autorise l'entreprise ETNB, spécialisée dans le nettoyage et le broyage, à installer 5 caméras de vidéoprotection sur son site de la rue Verroere à Eringhem. Ce système vise à prévenir les atteintes aux personnes et aux biens dans des zones exposées à des risques d'agression ou de vol. L'autorisation est valable cinq ans et les enregistrements seront conservés 21 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Eringhem"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "entreprise",
+      "sécurité",
+      "ETNB",
+      "caméras"
+    ]
+  },
+  {
+    "titre": "groupé Banque Populaire du Nord renouvellement",
+    "titre_complet": "2026-03-23-00020 - groupé Banque Populaire du Nord renouvellement",
+    "page_debut": 46,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Caméras renouvelées dans trois agences bancaires du Nord",
+    "resume": "Le préfet du Nord autorise le renouvellement pour cinq ans des systèmes de vidéoprotection dans trois agences de la Banque Populaire du Nord situées à La Bassée, Cysoing et Annœullin. Ces dispositifs comprennent entre 3 et 6 caméras intérieures par site et visent à prévenir les atteintes aux personnes, les vols et les actes de terrorisme. Les images seront conservées pendant 30 jours.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "La Bassée",
+      "Cysoing",
+      "Annœullin"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "banque",
+      "sécurité",
+      "caméras",
+      "renouvellement"
+    ]
+  },
+  {
+    "titre": "groupé Mc Donalds modification",
+    "titre_complet": "2026-03-23-00023 - groupé Mc Donalds modification",
+    "page_debut": 55,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Six McDonald's du Nord renforcent leur vidéosurveillance",
+    "resume": "La préfecture du Nord autorise la modification des systèmes de vidéoprotection dans six restaurants McDonald's situés à Armentières, Hallennes-lez-Haubourdin, La Gorgue, Lomme, Lille et Saint-André-lez-Lille. Ces modifications concernent principalement le retrait ou l'ajout de caméras intérieures et extérieures pour une durée de cinq ans renouvelable. L'objectif est de prévenir les atteintes à la sécurité des personnes et des biens, et de lutter contre la démarque inconnue.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Armentières",
+      "Hallennes-lez-Haubourdin",
+      "La Gorgue",
+      "Lomme",
+      "Lille",
+      "Saint-André-lez-Lille"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "McDonald's",
+      "sécurité",
+      "caméras",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "groupé Mondial Relay autorisation",
+    "titre_complet": "2026-03-23-00024 - groupé Mondial Relay autorisation",
+    "page_debut": 30,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée dans six Mondial Relay du Nord",
+    "resume": "Le préfet du Nord autorise l'installation de systèmes de vidéoprotection dans six points relais Mondial Relay situés à Aulnoy-lez-Valenciennes, Lille, Mons-en-Barœul, Thumeries et Tourcoing. Les caméras, intérieures ou extérieures selon les sites, visent à prévenir les atteintes aux personnes et aux biens dans ces établissements ouverts au public. L'autorisation est valable cinq ans et les images seront conservées 30 jours.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Aulnoy-lez-Valenciennes",
+      "Lille",
+      "Mons-en-Barœul",
+      "Thumeries",
+      "Tourcoing"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "Mondial Relay",
+      "sécurité",
+      "commerce",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "groupé Pizz Eli autorisation",
+    "titre_complet": "2026-03-23-00026 - groupé Pizz Eli autorisation",
+    "page_debut": 36,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée dans trois pizzerias du Nord",
+    "resume": "Le préfet du Nord autorise l'installation de systèmes de vidéoprotection dans trois pizzerias Pizz Eli situées à La Bassée, Pérenchies et Quesnoy-sur-Deûle. Ces dispositifs, valables cinq ans, visent à prévenir les atteintes à la sécurité des personnes et des biens dans ces établissements exposés à des risques d'agression ou de vol. Au total, 8 caméras intérieures seront installées dans les trois établissements.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "La Bassée",
+      "Pérenchies",
+      "Quesnoy-sur-Deûle"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "pizzeria",
+      "sécurité",
+      "commerce",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "groupé Point P autorisation",
+    "titre_complet": "2026-03-23-00027 - groupé Point P autorisation",
+    "page_debut": 39,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance renouvelée dans deux magasins Point P",
+    "resume": "Le préfet du Nord autorise pour cinq ans le renouvellement des systèmes de vidéoprotection dans les magasins Point P de Roncq et Cambrai. Les installations comprennent respectivement 4 et 6 caméras intérieures, ainsi que 2 caméras extérieures pour chaque site. Les images seront conservées 14 jours et visent à prévenir les atteintes aux biens et lutter contre la démarque inconnue.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roncq",
+      "Cambrai"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "Point P",
+      "magasins",
+      "sécurité",
+      "commerce"
+    ]
+  },
+  {
+    "titre": "La Poste TOURCOING autorisation",
+    "titre_complet": "2026-03-23-00028 - La Poste TOURCOING autorisation",
+    "page_debut": 42,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée à La Poste de Tourcoing",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 2 caméras extérieures à l'agence La Poste située 285 boulevard Constantin Descat à Tourcoing. Ce dispositif, autorisé pour cinq ans renouvelables, vise à prévenir les atteintes à la sécurité des personnes et des biens dans cet établissement ouvert au public, particulièrement exposé aux risques d'agression ou de vol.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Tourcoing"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "La Poste",
+      "sécurité",
+      "surveillance",
+      "agence postale"
+    ]
+  },
+  {
+    "titre": "Mc Donalds TOURCOING autorisation",
+    "titre_complet": "2026-03-23-00031 - Mc Donalds TOURCOING autorisation",
+    "page_debut": 48,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée au McDonald's de Tourcoing",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 16 caméras au restaurant McDonald's situé 210 rue Pont Rompu à Tourcoing. L'objectif est de prévenir les atteintes à la sécurité des personnes et des biens, notamment les risques d'agression ou de vol dans cet établissement ouvert au public. L'autorisation est valable pour une durée de cinq ans renouvelable.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Tourcoing"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "McDonald's",
+      "sécurité",
+      "caméras",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "Normal LOUVROIL autorisation",
+    "titre_complet": "2026-03-23-00032 - Normal LOUVROIL autorisation",
+    "page_debut": 51,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée au magasin Normal de Louvroil",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 28 caméras intérieures dans le magasin Normal du centre commercial Auchan à Louvroil. Ce dispositif vise à prévenir les atteintes à la sécurité des personnes et des biens dans cet établissement particulièrement exposé aux risques d'agression ou de vol. L'autorisation est valable pour cinq ans et les enregistrements seront conservés maximum 30 jours.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Louvroil"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "commerce",
+      "sécurité",
+      "Normal",
+      "Auchan"
+    ]
+  },
+  {
+    "titre": "SARL Tellier BOLLEZEELE renouv",
+    "titre_complet": "2026-03-23-00036 - SARL Tellier BOLLEZEELE renouv",
+    "page_debut": 57,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance renouvelée à Bollezeele",
+    "resume": "La préfecture du Nord renouvelle pour cinq ans l'autorisation de vidéoprotection pour la SARL Tellier située route de Merckeghem à Bollezeele. Le système comprend 11 caméras (10 intérieures et 1 extérieure) qui enregistrent pendant 15 jours. Les forces de l'ordre et les douanes pourront accéder aux images dans le cadre de leurs missions.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bollezeele"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "SARL Tellier",
+      "caméras",
+      "surveillance",
+      "autorisation"
+    ]
+  },
+  {
+    "titre": "VGRF DECHY auto",
+    "titre_complet": "2026-03-23-00038 - VGRF DECHY auto",
+    "page_debut": 62,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée au garage VGRF de Dechy",
+    "resume": "La préfecture du Nord autorise l'installation de 8 caméras de vidéoprotection pour la concession automobile VGRF située rue Barack Obama à Dechy. Le système vise à prévenir les atteintes à la sécurité des personnes et des biens dans cet établissement ouvert au public. L'autorisation est délivrée pour cinq ans renouvelables.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Dechy"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "concession automobile",
+      "sécurité",
+      "caméras",
+      "VGRF"
+    ]
+  },
+  {
+    "titre": "Arrêtés consécutifs à la tenue de la commission du 8 avril 2026 - Arrêtés signés le 23 avril 2026",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-04-23-00006 - Arrêtés consécutifs à la tenue de la commission du 8 avril 2026 - Arrêtés signés le 23 avril 2026",
+    "page_debut": 3,
+    "nb_pages": 29,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106201/745736/file/Recueil n°154 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée dans 20 magasins Mondial Relay",
+    "resume": "Le préfet du Nord autorise l'installation de systèmes de vidéoprotection dans 20 points relais Mondial Relay répartis dans le département (Lille, Roubaix, Tourcoing, etc.) ainsi qu'un magasin Schmidt à Seclin. Ces dispositifs, valables 5 ans, visent à prévenir les agressions et vols dans ces établissements ouverts au public. Les images seront conservées 30 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roubaix",
+      "Lille",
+      "Tourcoing",
+      "Maing",
+      "Halluin",
+      "Raismes",
+      "Cambrai",
+      "Fenain",
+      "Douai",
+      "Bouchain",
+      "Le Quesnoy",
+      "Cassel",
+      "Seclin"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "Mondial Relay",
+      "commerce",
+      "sécurité",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "Arrêtés consécutifs à la tenue de la commission du 8 avril 2026 - Arrêtés signés le 24 avril 2026",
+    "titre_complet": "2026-04-24-00005 - Arrêtés consécutifs à la tenue de la commission du 8 avril 2026 - Arrêtés signés le 24 avril 2026",
+    "page_debut": 32,
+    "nb_pages": 28,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106201/745736/file/Recueil n°154 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée dans 13 commerces du Nord",
+    "resume": "Le préfet du Nord autorise l'installation de systèmes de vidéoprotection dans treize établissements commerciaux (boutiques LOSC, Orange, bureau de tabac) situés à Lille, Villeneuve-d'Ascq, Roncq et Cambrai. Ces dispositifs visent à prévenir les agressions et vols dans des lieux particulièrement exposés. Les images seront conservées entre 14 et 30 jours selon les établissements.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Villeneuve-d'Ascq",
+      "Roncq",
+      "Cambrai"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "commerce",
+      "sécurité",
+      "LOSC",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "Les frérots de la vie LILLE autorisation",
+    "titre_complet": "2026-03-23-00029 - Les frérots de la vie LILLE autorisation",
+    "page_debut": 74,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106201/745736/file/Recueil n°154 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 3,
+    "titre_court": "Vidéosurveillance autorisée chez Les Frérots de la Vie",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection pour l'agence de publicité Les Frérots de la Vie, située rue Solférino à Lille. Une caméra intérieure sera installée pour prévenir les risques d'agression ou de vol dans les locaux ouverts au public. L'autorisation est valable cinq ans.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "sécurité",
+      "publicité",
+      "commerce",
+      "surveillance"
+    ]
   },
   {
     "titre": "Décision n°122-2026 portant délégation de signature du Directeur général du Centre Hospitalier de Lens concernant les gardes de direction",
@@ -2483,6 +3102,410 @@
     "date_recueil": "2026-04-15"
   },
   {
+    "titre": "Arrêté consécutif à la tenue de la commission du 8 avril 2026 - Arrêté signé le 21 avril 2026",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-04-21-00010 - Arrêté consécutif à la tenue de la commission du 8 avril 2026 - Arrêté signé le 21 avril 2026",
+    "page_debut": 21,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance renouvelée pour deux Sephora du Nord",
+    "resume": "Le préfet du Nord renouvelle pour cinq ans l'autorisation de vidéoprotection pour les magasins Sephora de Roncq et d'Englos. Les systèmes comprennent respectivement 13 et 10 caméras intérieures, destinées à prévenir les vols et agressions. Les images seront conservées 15 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roncq",
+      "Englos"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "Sephora",
+      "sécurité",
+      "commerce",
+      "renouvellement"
+    ]
+  },
+  {
+    "titre": "Boulanger GRANDE SYNTHE modifrenouv",
+    "titre_complet": "2026-03-23-00010 - Boulanger GRANDE SYNTHE modifrenouv",
+    "page_debut": 24,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance modifiée au magasin Boulanger de Grande-Synthe",
+    "resume": "Le préfet du Nord autorise la modification du système de vidéoprotection du magasin Boulanger situé route de Spycker à Grande-Synthe. Le nouveau dispositif comprend 27 caméras (17 intérieures et 10 extérieures) contre 43 auparavant, avec un retrait de 16 caméras. L'autorisation est valable pour cinq ans renouvelables.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Grande-Synthe"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "commerce",
+      "sécurité",
+      "caméras",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "boulangerie Ghys SAINGHIN EN MELANTOIS auto",
+    "titre_complet": "2026-03-23-00011 - boulangerie Ghys SAINGHIN EN MELANTOIS auto",
+    "page_debut": 26,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance autorisée dans une boulangerie à Sainghin-en-Mélantois",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 9 caméras dans la boulangerie pâtisserie Ghys située rue de Lille à Sainghin-en-Mélantois. Ce dispositif vise à prévenir les atteintes à la sécurité des personnes et des biens et à lutter contre la démarque inconnue. L'autorisation est valable pour cinq ans renouvelables.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Sainghin-en-Mélantois"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "boulangerie",
+      "sécurité",
+      "commerce",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "cabinet dentaire LECELLES renouv",
+    "titre_complet": "2026-03-23-00012 - cabinet dentaire LECELLES renouv",
+    "page_debut": 29,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Renouvellement de la vidéoprotection du cabinet dentaire de Lecelles",
+    "resume": "Le préfet du Nord autorise le renouvellement pour cinq ans du système de vidéoprotection du cabinet dentaire situé 9 le Clos du Flamsart à Lecelles. Le dispositif comprend deux caméras (une intérieure et une extérieure) installées dans des zones accessibles au public, avec conservation des images pendant 15 jours. Les forces de l'ordre peuvent accéder aux images dans le cadre de leurs missions.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lecelles"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "cabinet dentaire",
+      "sécurité",
+      "surveillance",
+      "renouvellement"
+    ]
+  },
+  {
+    "titre": "Carter Cash MARCQ EN BAROEUL auto",
+    "titre_complet": "2026-03-23-00013 - Carter Cash MARCQ EN BAROEUL auto",
+    "page_debut": 31,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance autorisée au Carter Cash de Marcq-en-Baroeul",
+    "resume": "La préfecture du Nord autorise l'installation d'un système de vidéoprotection composé de 30 caméras (21 intérieures et 9 extérieures) au magasin Carter Cash situé rue de Menin à Marcq-en-Baroeul. Le dispositif vise à prévenir les atteintes à la sécurité des personnes et des biens, ainsi qu'à protéger les commerces exposés à des risques d'agression et de vol. L'autorisation est valable pour cinq ans renouvelables.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Marcq-en-Baroeul"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "sécurité",
+      "commerce",
+      "caméras",
+      "Carter Cash"
+    ]
+  },
+  {
+    "titre": "Crédit mutuel ORCHIES modif",
+    "titre_complet": "2026-03-23-00015 - Crédit mutuel ORCHIES modif",
+    "page_debut": 34,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Modification de la vidéosurveillance du Crédit Mutuel d'Orchies",
+    "resume": "Le préfet du Nord autorise la modification du système de vidéoprotection de la banque Crédit Mutuel située place du Général de Gaulle à Orchies. Le système sera composé de 6 caméras (5 intérieures et 1 extérieure) installées dans des zones accessibles au public, avec 30 jours d'enregistrement. Cette autorisation renouvelle et modifie un dispositif existant depuis 1998.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Orchies"
+    ],
+    "mots_cles": [
+      "vidéosurveillance",
+      "Crédit Mutuel",
+      "sécurité",
+      "banque",
+      "caméras"
+    ]
+  },
+  {
+    "titre": "garage Catteau ARMENTIERES renouvmodif",
+    "titre_complet": "2026-03-23-00018 - garage Catteau ARMENTIERES renouvmodif",
+    "page_debut": 42,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Renouvellement de la vidéosurveillance du garage Catteau",
+    "resume": "Le préfet du Nord autorise le renouvellement et la modification du système de vidéoprotection du garage Catteau situé rue du Kemmel à Armentières. Le dispositif passera de 3 à 16 caméras (7 intérieures et 9 extérieures), avec une conservation des images portée à 30 jours. Cette autorisation est valable pour cinq ans.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Armentières"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "garage",
+      "caméras",
+      "sécurité",
+      "commerce"
+    ]
+  },
+  {
+    "titre": "garage Marquis SAINT PIERRE BROUCK renouv",
+    "titre_complet": "2026-03-23-00019 - garage Marquis SAINT PIERRE BROUCK renouv",
+    "page_debut": 44,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Renouvellement de vidéoprotection pour un garage à Saint-Pierre-Brouck",
+    "resume": "Le préfet du Nord autorise le renouvellement pour cinq ans du système de vidéoprotection du garage Marquis situé rue Verte à Saint-Pierre-Brouck. Le dispositif comprend 4 caméras extérieures installées dans des zones accessibles au public, avec enregistrement des images pendant 30 jours. Les forces de l'ordre peuvent accéder aux images dans le cadre de leurs missions.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Saint-Pierre-Brouck"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "garage",
+      "caméras",
+      "sécurité",
+      "renouvellement"
+    ]
+  },
+  {
+    "titre": "groupé Crédit Mutuel modifrenouv",
+    "titre_complet": "2026-03-23-00022 - groupé Crédit Mutuel modifrenouv",
+    "page_debut": 52,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Renouvellement de caméras de surveillance pour le Crédit Mutuel",
+    "resume": "Le préfet du Nord autorise le Crédit Mutuel à renouveler et modifier ses systèmes de vidéoprotection dans quatre agences bancaires situées à La Chapelle-d'Armentières, Lille, Marcq-en-Baroeul et Maubeuge. Ces installations, autorisées pour cinq ans, visent à prévenir les atteintes aux personnes et aux biens ainsi que les risques d'agression ou de vol. Les images seront conservées 30 jours.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "La Chapelle-d'Armentières",
+      "Lille",
+      "Marcq-en-Baroeul",
+      "Maubeuge"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "Crédit Mutuel",
+      "sécurité bancaire",
+      "caméras surveillance",
+      "agences bancaires"
+    ]
+  },
+  {
+    "titre": "Crédit mutuel AVESNES LES AUBERT autorisation",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-03-23-00014 - Crédit mutuel AVESNES LES AUBERT autorisation",
+    "page_debut": 27,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance autorisée au Crédit Mutuel d'Avesnes-lès-Aubert",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 5 caméras à l'agence du Crédit Mutuel située 13 rue Camélinat à Avesnes-lès-Aubert. Ce dispositif, valable cinq ans, vise à prévenir les risques d'agression et de vol dans cet établissement bancaire ouvert au public. Les images seront conservées 30 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Avesnes-lès-Aubert"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "banque",
+      "sécurité",
+      "Crédit Mutuel",
+      "caméras"
+    ]
+  },
+  {
+    "titre": "Mc Donalds BAILLEUL auto",
+    "titre_complet": "2026-03-23-00030 - Mc Donalds BAILLEUL auto",
+    "page_debut": 45,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance autorisée au McDonald's de Bailleul",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 8 caméras (5 intérieures et 3 extérieures) au restaurant McDonald's de Bailleul, avenue des Nations Unies. L'autorisation est valable pour cinq ans renouvelables et vise à prévenir les atteintes à la sécurité des personnes et des biens ainsi qu'à lutter contre la démarque inconnue. Les enregistrements seront conservés 30 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bailleul"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "McDonald's",
+      "sécurité",
+      "caméras",
+      "commerce"
+    ]
+  },
+  {
+    "titre": "Pharmacie Delahaye AUBERS autorisation",
+    "titre_complet": "2026-03-23-00034 - Pharmacie Delahaye AUBERS autorisation",
+    "page_debut": 54,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance autorisée à la pharmacie Delahaye d'Aubers",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 7 caméras (4 intérieures et 3 extérieures) à la pharmacie Delahaye située 27 bis rue de Verdun à Aubers. Le dispositif vise à prévenir les atteintes à la sécurité des personnes et des biens dans cet établissement ouvert au public. L'autorisation est valable pour une durée de cinq ans renouvelable.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Aubers"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "pharmacie",
+      "sécurité",
+      "surveillance",
+      "Aubers"
+    ]
+  },
+  {
+    "titre": "Tao Bento ORCHIES auto",
+    "titre_complet": "2026-03-23-00037 - Tao Bento ORCHIES auto",
+    "page_debut": 59,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Cinq caméras autorisées au restaurant Tao Bento d'Orchies",
+    "resume": "La préfecture du Nord autorise l'installation d'un système de vidéoprotection composé de 5 caméras (3 intérieures et 2 extérieures) au restaurant Tao Bento, situé 35 zone de l'Europe à Orchies. L'autorisation est accordée pour une durée de cinq ans renouvelable, dans le but de prévenir les atteintes à la sécurité des personnes et des biens. Les enregistrements seront conservés 30 jours maximum.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Orchies"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "restaurant",
+      "sécurité",
+      "caméras",
+      "Tao Bento"
+    ]
+  },
+  {
+    "titre": "Wing store Euralille LILLE auto",
+    "titre_complet": "2026-03-23-00039 - Wing store Euralille LILLE auto",
+    "page_debut": 65,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106200/745731/file/Recueil n°153 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Caméras de surveillance au Wing Store d'Euralille",
+    "resume": "Le préfet du Nord autorise l'installation d'un système de vidéoprotection composé de 3 caméras intérieures au restaurant Wing Store situé dans le centre commercial Euralille à Lille. L'autorisation est délivrée pour cinq ans renouvelables et vise à prévenir les atteintes à la sécurité des personnes et des biens dans cet établissement ouvert au public.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "caméras",
+      "sécurité",
+      "restaurant",
+      "centre commercial"
+    ]
+  },
+  {
+    "titre": "Pharmacie de l'Eglise LA BASSEE renouv",
+    "titre_complet": "2026-03-23-00033 - Pharmacie de l'Eglise LA BASSEE renouv",
+    "page_debut": 77,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106201/745736/file/Recueil n°154 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Vidéosurveillance renouvelée à la pharmacie de La Bassée",
+    "resume": "Le préfet du Nord autorise le renouvellement pour cinq ans du système de vidéoprotection de la pharmacie de l'Église située avenue Jean-Baptiste Lebas à La Bassée. Deux caméras intérieures pourront enregistrer pendant 30 jours dans les zones accessibles au public. Les forces de l'ordre sont autorisées à accéder aux images.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "La Bassée"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "pharmacie",
+      "renouvellement",
+      "sécurité",
+      "surveillance"
+    ]
+  },
+  {
+    "titre": "Pharmacie Picot LA GORGUE renouv",
+    "titre_complet": "2026-03-23-00035 - Pharmacie Picot LA GORGUE renouv",
+    "page_debut": 79,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106201/745736/file/Recueil n°154 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 2,
+    "titre_court": "Renouvellement de la vidéosurveillance de la pharmacie Picot",
+    "resume": "Le préfet du Nord autorise le renouvellement pour cinq ans du système de vidéoprotection de la pharmacie Picot située rue Jean Mermoz à La Gorgue. Le dispositif comprend 3 caméras intérieures avec conservation des images pendant 30 jours. Les forces de l'ordre et les douanes sont autorisées à accéder aux images.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "La Gorgue"
+    ],
+    "mots_cles": [
+      "vidéoprotection",
+      "pharmacie",
+      "sécurité",
+      "surveillance",
+      "commerce"
+    ]
+  },
+  {
     "titre": "Décision n°122-2026 portant délégation de signature du Directeur général du Centre Hospitalier de Béthune Beuvry concernant les gardes de direction",
     "titre_complet": "Centre Hospitalier Béthune Beuvry / 62-2026-04-09-00011 - Décision n°122-2026 portant délégation de signature du Directeur général du Centre Hospitalier de Béthune Beuvry concernant les gardes de direction",
     "page_debut": 4,
@@ -3148,6 +4171,31 @@
     "titre_court": "Le Crous de Lille délègue des pouvoirs à Thomas Six",
     "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/105990/744408/file/Recueil n°140 du 15 avril 2026.pdf",
     "date_recueil": "2026-04-15"
+  },
+  {
+    "titre": "Décision relative à la délégation de signature du directeur général pour la coordination générale des soins et la coordination générale des formations et de la recherche paramédicale",
+    "titre_complet": "Centre hospitalier universitaire de Lille / 2026-04-24-00007 - Décision relative à la délégation de signature du directeur général pour la coordination générale des soins et la coordination générale des formations et de la recherche paramédicale",
+    "page_debut": 3,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Centre hospitalier universitaire de Lille - 2026-04-24-00007 - Décision relative à la délégation de signature du directeur général pour la 3\ncoordination générale des soins et la coordination générale des formations et de la recherche paramédicale\nCentre hospitalier universitaire de Lille - 2026-04-24-00007 - Décision relative à la délégation de signature du directeur général pour la 4\ncoordination générale des soins et la coordination générale des formations et de la recherche paramédicale\nCentre hospitalier universitaire de Lille - 2026-04-24-00007 - Décision relative à la délégation de signature du directeur général pour la 5\ncoordination générale des soins et la coordination générale des formations et de la recherche paramédicale\nCentre hospitalier universitaire de Lille - 2026-04-24-00007 - Décision relative à la délégation de signature du directeur général pour la 6\ncoordination générale des soins et la coordination générale des formations et de la recherche paramédicale",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106199/745726/file/Recueil n°152 du 28 avril 2026.pdf",
+    "date_recueil": "2026-04-28",
+    "score": 1,
+    "titre_court": "Nouvelle délégation de signature au CHU de Lille",
+    "resume": "Le directeur général du Centre hospitalier universitaire de Lille délègue sa signature pour la coordination générale des soins et des formations paramédicales. Cette décision concerne l'organisation administrative interne de l'hôpital.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "CHU Lille",
+      "délégation signature",
+      "soins",
+      "formations paramédicales",
+      "directeur général"
+    ]
   },
   {
     "titre": "Arrêté modificatif de la composition de la CLAH",
