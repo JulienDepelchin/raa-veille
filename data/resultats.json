@@ -1037,16 +1037,16 @@
     "dept": "59",
     "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106058/744791/file/Recueil n°145 du 21 avril 2026.pdf",
     "date_recueil": "2026-04-21",
-    "score": 4,
-    "titre_court": "Suspension d'un mandataire judiciaire dans le Nord",
-    "resume": "La préfecture du Nord a suspendu l'agrément de Livrance Laurent, mandataire judiciaire à la protection des majeurs exerçant à titre individuel. Cette mesure administrative empêche temporairement la professionnelle d'exercer ses fonctions de protection des personnes vulnérables. Les raisons précises de cette suspension ne sont pas détaillées dans l'acte publié.",
+    "score": 3,
+    "titre_court": "Suspension d'agrément d'une mandataire judiciaire du Nord",
+    "resume": "Le préfet du Nord a suspendu pour huit jours l'agrément de Livrance Laurent, mandataire judiciaire à la protection des majeurs exerçant à titre individuel. Cette décision intervient suite à plusieurs manquements graves : exercice d'activités non déclarées, acceptation de mesures de curatelle sans accord de l'employeur, et violation de la confidentialité des données personnelles des majeurs protégés.",
     "type_acte": "ARRÊTÉ",
     "communes": [],
     "mots_cles": [
-      "protection des majeurs",
       "mandataire judiciaire",
-      "suspension agrément",
-      "personnes vulnérables",
+      "protection des majeurs",
+      "suspension d'agrément",
+      "manquements professionnels",
       "Nord"
     ]
   },
