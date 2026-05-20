@@ -22,8 +22,7 @@ SEUIL_TEXTE_CHARS = 200
 def _page_est_image(page) -> bool:
     """Retourne True si la page contient principalement des images (peu de texte)."""
     nb_chars = len(page.chars)
-    nb_images = len(page.images)
-    return nb_chars < SEUIL_TEXTE_CHARS and nb_images > 0
+    return nb_chars < SEUIL_TEXTE_CHARS
 
 
 def rendre_page_en_base64(chemin_pdf: str, numero_page: int, dpi: int = 150) -> str:
@@ -68,8 +67,19 @@ def extraire_texte_pages(pdf, chemin_pdf: str, debut: int, nb_pages: int) -> dic
 
     if mode == "image":
         return {"mode": "image", "texte": "", "images_b64": images_b64}
-    else:
-        return {"mode": "texte", "texte": "\n".join(textes), "images_b64": []}
+
+    texte_final = "\n".join(textes)
+
+    # Densité de texte insuffisante → probablement des pages image mal détectées
+    if nb_pages > 1 and len(texte_final) / nb_pages < 800:
+        images_b64 = [
+            rendre_page_en_base64(chemin_pdf, i)
+            for i in range(debut, debut + nb_pages)
+            if i <= len(pdf.pages)
+        ]
+        return {"mode": "image", "texte": "", "images_b64": images_b64}
+
+    return {"mode": "texte", "texte": texte_final, "images_b64": []}
 
 
 def _nettoyer_titre(texte_brut: str) -> str:
