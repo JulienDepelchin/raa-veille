@@ -1791,6 +1791,31 @@
     ]
   },
   {
+    "titre": "T26-265N reluDLIL v4 verifbp signéDAM raa",
+    "titre_complet": "Direction interdépartementale des routes Nord / 2026-06-16-00005 - T26-265N reluDLIL v4 verifbp signéDAM raa",
+    "page_debut": 3,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106883/750292/file/recueil-2026-203-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "N356 à Lille fermée pour réfection de chaussée",
+    "resume": "Un arrêté préfectoral impose des restrictions de circulation sur la route nationale N356 à Lille du 16 au 17 juin 2026 pour permettre des travaux de réfection de chaussée, neutralisation de voie et fermeture de bretelle. Des déviations sont mises en place pour les usagers, notamment via les autoroutes A25 et A1.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "N356",
+      "fermeture routière",
+      "travaux",
+      "circulation",
+      "déviation"
+    ]
+  },
+  {
     "titre": "Arrêté les 4 jours de Dunkerque 2026",
     "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Béthune 62-2026-05-18-00001 - Arrêté les 4 jours de Dunkerque 2026",
     "page_debut": 3,
@@ -7273,6 +7298,106 @@
     ]
   },
   {
+    "titre": "arrêté portant sur la composition et le fonctionnement de la commission communale d'accessibilité de Roubaix",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-05-18-00011 - arrêté portant sur la composition et le fonctionnement de la commission communale d'accessibilité de Roubaix",
+    "page_debut": 17,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 2,
+    "titre_court": "Roubaix actualise sa commission d'accessibilité",
+    "resume": "La préfecture du Nord met à jour la composition et le fonctionnement de la commission communale d'accessibilité de Roubaix. Cet arrêté, qui remplace celui de 2020, intègre les changements issus des élections municipales de mars 2026 et précise les modalités de fonctionnement de cette instance consultative chargée d'examiner l'accessibilité des bâtiments publics et installations.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roubaix"
+    ],
+    "mots_cles": [
+      "accessibilité",
+      "handicap",
+      "commission communale",
+      "bâtiments publics",
+      "urbanisme"
+    ]
+  },
+  {
+    "titre": "ARRETE D'IDENTIFICATION IP FLANDRES BETON",
+    "titre_complet": "2026-06-03-00014 - ARRETE D'IDENTIFICATION IP FLANDRES BETON",
+    "page_debut": 20,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 2,
+    "titre_court": "Identification d'une plateforme portuaire à Dunkerque",
+    "resume": "Le préfet du Nord identifie officiellement l'installation portuaire de Flandres Béton au sein du Grand Port Maritime de Dunkerque. Il s'agit d'une plateforme de déchargement et stockage de sable marin, soumise aux normes de sécurité portuaire. Cette identification administrative formalise les responsabilités et obligations réglementaires de l'exploitant.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "port maritime",
+      "installation portuaire",
+      "sécurité",
+      "Flandres Béton",
+      "sable marin"
+    ]
+  },
+  {
+    "titre": "arrêté portant dissolution de la commission de sécurité incendie de Bourbourg",
+    "titre_complet": "2026-06-16-00002 - arrêté portant dissolution de la commission de sécurité incendie de Bourbourg",
+    "page_debut": 25,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 2,
+    "titre_court": "Bourbourg : dissolution de la commission sécurité incendie",
+    "resume": "La préfecture du Nord dissout la commission communale de sécurité contre les risques d'incendie et de panique de Bourbourg. Cette commission, qui supervisait les établissements recevant du public de catégories 2 à 5, disparaît après plus de 30 ans d'existence. Ses dossiers en cours seront transférés à la commission d'arrondissement de Dunkerque.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bourbourg"
+    ],
+    "mots_cles": [
+      "dissolution",
+      "commission sécurité",
+      "incendie",
+      "établissements publics",
+      "réorganisation administrative"
+    ]
+  },
+  {
+    "titre": "arrêté portant dissolution de la commission de sécurité incendie de Coudekrque Branche",
+    "titre_complet": "2026-06-16-00003 - arrêté portant dissolution de la commission de sécurité incendie de Coudekrque Branche",
+    "page_debut": 27,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 2,
+    "titre_court": "Dissolution d'une commission de sécurité incendie",
+    "resume": "La préfecture du Nord dissout la commission communale de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public (ERP) de catégories 2 à 5 sur le territoire de Coudekerque-Branche. Les dossiers étudiés par cette commission seront transférés au secrétariat de la commission d'arrondissement de sécurité incendie de Dunkerque.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Coudekerque-Branche"
+    ],
+    "mots_cles": [
+      "commission de sécurité",
+      "incendie",
+      "ERP",
+      "dissolution",
+      "Coudekerque-Branche"
+    ]
+  },
+  {
     "titre": "Subdélégation de signature du DDTM du Pas-de-Calais en matière d'ordonnancement secondaire et du pouvoir adjudicateur",
     "titre_complet": "Direction départementale des territoires et de la mer / 62-2026-05-19-00002 - Subdélégation de signature du DDTM du Pas-de-Calais en matière d'ordonnancement secondaire et du pouvoir adjudicateur",
     "page_debut": 3,
@@ -9604,6 +9729,203 @@
       "habilitation",
       "correction administrative",
       "SARL Lemière"
+    ]
+  },
+  {
+    "titre": "CSA Nomination des membres 05",
+    "titre_complet": "Direction de l'administration pénitentiaire / Direction interrégionale des services pénitentiaires de Lille 2026-05-05-00017 - CSA Nomination des membres 05",
+    "page_debut": 3,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Nominations au comité social de Dunkerque",
+    "resume": "Arrêté du ministère de la Justice nommant les représentants du personnel et de l'administration au comité social d'administration spécial de la Maison d'Arrêt de Dunkerque. Les mandats sont fixés pour quatre ans. Acte de gestion administrative interne sans impact direct sur le public.",
+    "type_acte": "NOMINATION",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "comité social",
+      "administration pénitentiaire",
+      "représentation du personnel",
+      "Dunkerque"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 103285771 - MABREK Hamza",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-06-10-00008 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 103285771 - MABREK Hamza",
+    "page_debut": 5,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Enregistrement d'une entreprise de services à domicile",
+    "resume": "La Direction départementale de l'emploi du Nord enregistre une nouvelle entreprise individuelle, MABREK Hamza, spécialisée dans l'entretien de la maison et les travaux ménagers. Cet enregistrement, effectué sous le numéro SAP 103285771, permet à l'entreprise d'exercer légalement ses activités de services à la personne.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Marcq-en-Baroeul"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "entreprise individuelle",
+      "enregistrement",
+      "ménage",
+      "travaux domestiques"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 103394128 - CHOUAKRI Mohamed",
+    "titre_complet": "2026-06-10-00010 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 103394128 - CHOUAKRI Mohamed",
+    "page_debut": 7,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Enregistrement d'un service à la personne à Lille",
+    "resume": "Récépissé administratif de déclaration d'activité pour un organisme de services à la personne (entretien de maison et travaux ménagers) exploité par Mohamed Chouakri à Lille. Acte de simple formalité administrative d'enregistrement sans impact public particulier.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "enregistrement",
+      "déclaration d'activité",
+      "ménage"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 104903471 - CHERIET Adel",
+    "titre_complet": "2026-06-11-00012 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 104903471 - CHERIET Adel",
+    "page_debut": 9,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Enregistrement d'un service à la personne à La Madeleine",
+    "resume": "La Direction départementale de l'emploi du Nord enregistre officiellement l'organisme CHERIET Adel, situé à La Madeleine, pour l'exercice d'activités de soutien scolaire ou cours à domicile. Cet acte purement administratif formalise l'inscription de ce prestataire de services auprès des autorités compétentes.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "La Madeleine"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "soutien scolaire",
+      "enregistrement",
+      "organisme privé"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 105962609 - HAMMOU Dounia",
+    "titre_complet": "2026-06-10-00009 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 105962609 - HAMMOU Dounia",
+    "page_debut": 11,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Enregistrement d'une entreprise de services à la personne",
+    "resume": "La préfecture du Nord enregistre la déclaration d'activité de l'entreprise HAMMOU Dounia, spécialisée dans la garde d'enfants et l'accompagnement d'enfants de plus de 3 ans, ainsi que l'entretien ménager et travaux. L'organisme, basé à Lille, est désormais enregistré sous le numéro SAP 105962609.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "garde enfants",
+      "enregistrement entreprise",
+      "HAMMOU Dounia",
+      "SAP"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 106125560 - ENTZMANN Alexandra",
+    "titre_complet": "2026-06-11-00011 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 106125560 - ENTZMANN Alexandra",
+    "page_debut": 13,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Enregistrement d'une entreprise de services à domicile",
+    "resume": "La préfecture du Nord enregistre une déclaration d'activité pour l'entreprise ENTZMANN Alexandra, spécialisée dans l'entretien ménager, les petits travaux de jardinage, la préparation de repas et l'assistance administrative à domicile. Cet enregistrement, effectué sous le numéro SAP 106125560, relève de la gestion administrative courante des services à la personne.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Marcq-en-Barceul"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "enregistrement",
+      "activité professionnelle",
+      "entretien ménager",
+      "aide à domicile"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 106155963 - CISSE Aicha",
+    "titre_complet": "2026-06-12-00010 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 106155963 - CISSE Aicha",
+    "page_debut": 15,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Enregistrement d'un organisme de services à domicile",
+    "resume": "La préfecture du Nord enregistre officiellement la société CISSE Aicha comme organisme de services à la personne. Cette déclaration, déposée le 12 juin 2026, autorise l'entreprise à exercer l'activité d'entretien de la maison et de travaux ménagers sous le numéro SAP 106155963.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "enregistrement",
+      "activité ménagère",
+      "agrément préfectoral",
+      "CISSE Aicha"
+    ]
+  },
+  {
+    "titre": "Arrêté portant dissolution de la commission d'accessibilité de Coudekerque Branche",
+    "titre_complet": "2026-06-16-00001 - Arrêté portant dissolution de la commission d'accessibilité de Coudekerque Branche",
+    "page_debut": 23,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/106881/750282/file/Recueil n°202 du 16 juin 2026.pdf",
+    "date_recueil": "2026-06-16",
+    "score": 1,
+    "titre_court": "Dissolution d'une commission d'accessibilité locale",
+    "resume": "La préfecture du Nord dissout la commission communale d'accessibilité de Coudekerque-Branche, qui était chargée d'évaluer l'accessibilité des établissements recevant du public de 2ème à 5ème catégorie. Les dossiers traités seront transmis à la commission d'arrondissement de Dunkerque.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Coudekerque-Branche"
+    ],
+    "mots_cles": [
+      "accessibilité",
+      "commission",
+      "établissements publics",
+      "handicap",
+      "dissolution"
     ]
   },
   {
