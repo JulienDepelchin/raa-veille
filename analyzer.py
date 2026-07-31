@@ -14,6 +14,11 @@ ANALYSIS_PROMPT_IMAGE = """Tu es un assistant spécialisé dans l'analyse d'acte
 Analyse l'acte administratif affiché dans les images ci-jointes (pages scannées du Recueil des Actes Administratifs).
 Son titre est : {titre}
 
+Règles de rigueur factuelle (impératives) :
+- Ne résume jamais l'acte à partir de son seul intitulé. Les intitulés d'actes préfectoraux (« portant restriction de navigation », « portant interdiction temporaire »...) sont des catégories juridiques standardisées qui ne décrivent pas fidèlement la mesure réelle. Fonde le résumé et le titre_court sur le dispositif décrit dans le corps de l'acte (articles, DECIDE/ARRETE), pas sur son intitulé.
+- N'emploie jamais un terme plus fort que ce que dit le texte. Une restriction encadrée (ralentissement, alternat, dispositif de coexistence, vigie, priorité de passage, autorisation sous conditions...) n'est pas une interdiction : ne parle d'« interdiction » que si le texte prévoit explicitement l'arrêt total de l'activité concernée.
+- N'invente et ne déduis aucune information absente du texte, y compris à partir des images si elles sont peu lisibles. En cas d'incertitude sur la portée exacte d'une mesure, choisis la formulation la plus prudente et la plus proche du texte source.
+
 Retourne UNIQUEMENT un objet JSON valide, sans texte autour :
 {{
   "score": <entier de 1 à 5 selon l'intérêt journalistique>,

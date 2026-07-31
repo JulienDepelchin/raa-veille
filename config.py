@@ -13,12 +13,17 @@ PREFECTURE_URLS = {
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
 # Modèle Claude à utiliser
-CLAUDE_MODEL = "claude-sonnet-4-5"
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 
 # Prompt d'analyse envoyé à Claude pour chaque acte administratif
 ANALYSIS_PROMPT = """Tu es un assistant spécialisé dans l'analyse d'actes administratifs préfectoraux français.
 
 Analyse l'acte administratif suivant et retourne UNIQUEMENT un objet JSON valide, sans texte autour.
+
+Règles de rigueur factuelle (impératives) :
+- Ne résume jamais l'acte à partir de son seul intitulé. Les intitulés d'actes préfectoraux (« portant restriction de navigation », « portant interdiction temporaire »...) sont des catégories juridiques standardisées qui ne décrivent pas fidèlement la mesure réelle. Fonde le résumé et le titre_court sur le dispositif décrit dans le corps de l'acte (articles, DECIDE/ARRETE), pas sur son intitulé.
+- N'emploie jamais un terme plus fort que ce que dit le texte. Une restriction encadrée (ralentissement, alternat, dispositif de coexistence, vigie, priorité de passage, autorisation sous conditions...) n'est pas une interdiction : ne parle d'« interdiction » que si le texte prévoit explicitement l'arrêt total de l'activité concernée.
+- N'invente et ne déduis aucune information absente du texte. En cas d'incertitude sur la portée exacte d'une mesure, choisis la formulation la plus prudente et la plus proche du texte source.
 
 Acte à analyser :
 {texte}
