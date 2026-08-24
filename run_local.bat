@@ -1,9 +1,9 @@
 @echo off
-SET GIT="C:\Users\jdepelchin\AppData\Local\Programs\Git\mingw64\bin\git.exe"
+SET GIT="C:\Program Files\Git\mingw64\bin\git.exe"
 setlocal
 cd /d "D:\raa-veille"
 
-set PYTHON=C:\Users\jdepelchin\AppData\Local\Programs\Python\Python312\python.exe
+set PYTHON=C:\Users\jdepelchin\AppData\Local\miniconda3\python.exe
 
 echo.
 echo === Veille Prefectorale - demarrage ===
@@ -13,10 +13,6 @@ echo.
 echo [1/4] Scraping et telechargement des PDFs...
 echo.
 
-:: Compter les PDFs avant pour savoir si de nouveaux ont ete telecharges
-for /f %%c in ('dir /b /a-d "pdfs_downloaded\*.pdf" 2^>nul ^| find /c /v ""') do set NB_AVANT=%%c
-if not defined NB_AVANT set NB_AVANT=0
-
 "%PYTHON%" scraper.py 14jours --download
 if errorlevel 1 (
     echo.
@@ -24,26 +20,19 @@ if errorlevel 1 (
     goto :fin
 )
 
-for /f %%c in ('dir /b /a-d "pdfs_downloaded\*.pdf" 2^>nul ^| find /c /v ""') do set NB_APRES=%%c
-if not defined NB_APRES set NB_APRES=0
-
-set /a NB_NOUVEAUX=%NB_APRES%-%NB_AVANT%
+:: ── 2. Analyse Claude ─────────────────────────────────────────────────────────
+:: main.py decide lui-meme s'il y a du nouveau a analyser (via pdfs_nouveaux.txt,
+:: avec repli sur un scan complet de pdfs_downloaded/ contre pdfs_analyses.txt).
+:: Ne pas se fier a un comptage de fichiers cote .bat : peu fiable avec les noms
+:: accentues du dossier, et ca peut faire sauter l'analyse en silence.
 echo.
-echo    PDFs avant : %NB_AVANT%  ^|  apres : %NB_APRES%  ^|  nouveaux : %NB_NOUVEAUX%
-
-:: ── 2. Analyse Claude (seulement si nouveaux PDFs) ───────────────────────────
+echo [2/4] Lancement de l'analyse Claude...
 echo.
-if %NB_NOUVEAUX% GTR 0 (
-    echo [2/4] %NB_NOUVEAUX% nouveau^(x^) PDF^(s^) - lancement de l'analyse Claude...
+"%PYTHON%" main.py
+if errorlevel 1 (
     echo.
-    "%PYTHON%" main.py
-    if errorlevel 1 (
-        echo.
-        echo ERREUR : main.py a echoue ^(voir les logs ci-dessus^).
-        goto :fin
-    )
-) else (
-    echo [2/4] Aucun nouveau PDF - analyse Claude ignoree.
+    echo ERREUR : main.py a echoue ^(voir les logs ci-dessus^).
+    goto :fin
 )
 
 :: ── 3. Git ───────────────────────────────────────────────────────────────────
