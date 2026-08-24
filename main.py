@@ -19,6 +19,15 @@ from config import MIN_SCORE_AFFICHE, OUTPUT_FILE
 from extractor import extraire_actes_depuis_pdf
 from scraper import date_recueil_str, charger_pdf_urls
 
+# La console Windows utilise par defaut cp1252, qui ne couvre pas tous les
+# caracteres pouvant apparaitre dans les resumes generes par Claude (ex: em
+# dash, guillemets typographiques). On force l'UTF-8 pour eviter un crash
+# en fin de run (UnicodeEncodeError) apres que les resultats sont deja
+# sauvegardes.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 _BASE         = Path(__file__).resolve().parent
 PDF_DIR       = _BASE / "pdfs_downloaded"
 ANALYSES_TXT  = _BASE / "data" / "pdfs_analyses.txt"
