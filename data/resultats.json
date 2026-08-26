@@ -7167,45 +7167,49 @@
     "titre": "26-62-0458 PF ET MARBRERIE TOUPET SOTTY Marquise",
     "titre_complet": "62-2026-07-30-00006 - 26-62-0458 PF ET MARBRERIE TOUPET SOTTY Marquise",
     "page_debut": 26,
-    "nb_pages": 2,
+    "nb_pages": 3,
     "mode": "image",
     "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/86950/544485/file/Recueil des actes administratifs n°225 en date du 03 août 2026.pdf",
     "date_recueil": "2026-08-03",
-    "score": 1,
-    "titre_court": "Acte administratif interne – contenu non lisible",
-    "resume": "Le document fourni ne contient que la page de couverture du Recueil des Actes Administratifs de la Préfecture du Pas-de-Calais, sans accès au contenu substantiel de l'acte portant le numéro 62-2026-07-30-00006 relatif à « 26-62-0458 PF ET MARBRERIE TOUPET SOTTY Marquise ». L'absence de corps de texte, de dispositif ou d'articles empêche toute analyse factuelle de la mesure réelle.",
-    "type_acte": "AUTRE",
+    "score": 2,
+    "titre_court": "Habilitation funéraire accordée à Marquise",
+    "resume": "La préfecture du Pas-de-Calais autorise l'établissement secondaire « Pompes Funèbres et Marbrerie Toupet Sotty » à exercer l'activité funéraire sur le territoire national jusqu'au 30 juillet 2031. Cette habilitation, délivrée sous le numéro 26-62-0458, couvre le transport des corps, l'organisation d'obsèques, les soins de conservation et la gestion des chambres funéraires.",
+    "type_acte": "HABILITATION",
     "communes": [
       "Marquise"
     ],
     "mots_cles": [
-      "acte administratif",
-      "Préfecture Pas-de-Calais",
-      "Marquise"
+      "pompes funèbres",
+      "habilitation funéraire",
+      "marbrerie",
+      "établissement secondaire"
     ]
   },
   {
     "titre": "26-62-0459 PF SOTTY ROBERT Menneville",
     "titre_complet": "62-2026-07-30-00007 - 26-62-0459 PF SOTTY ROBERT Menneville",
     "page_debut": 29,
-    "nb_pages": 2,
+    "nb_pages": 3,
     "mode": "image",
     "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/86950/544485/file/Recueil des actes administratifs n°225 en date du 03 août 2026.pdf",
     "date_recueil": "2026-08-03",
-    "score": 1,
-    "titre_court": "Acte administratif interne sans contenu public",
-    "resume": "Le document fourni ne contient que l'en-tête et la référence administrative d'un acte préfectoral (62-2026-07-30-00007, concernant PF SOTTY ROBERT à Menneville). Le corps de l'acte n'est pas visible sur les pages transmises, rendant impossible toute analyse de son contenu, de ses dispositions ou de son impact.",
-    "type_acte": "AUTRE",
+    "score": 2,
+    "titre_court": "Habilitation d'une pompes funèbres à Menneville",
+    "resume": "La préfecture du Pas-de-Calais autorise l'établissement secondaire de Pompes Funèbres Sotty Robert, situé 23 rue de l'Épinoy à Menneville, à exercer l'activité funéraire sur l'ensemble du territoire national jusqu'au 30 juillet 2031. Cette habilitation permet à l'entreprise de proposer le transport des corps, l'organisation d'obsèques, les soins de conservation et la fourniture de cercueils et accessoires funéraires.",
+    "type_acte": "HABILITATION",
     "communes": [
       "Menneville"
     ],
     "mots_cles": [
-      "acte interne",
-      "données insuffisantes"
+      "pompes funèbres",
+      "habilitation",
+      "activité funéraire",
+      "Menneville",
+      "2031"
     ]
   },
   {
@@ -7865,44 +7869,53 @@
     "titre": "26-62-0083 PF MARBRERIE LELEU Etaples",
     "titre_complet": "62-2026-08-10-00014 - 26-62-0083 PF MARBRERIE LELEU Etaples",
     "page_debut": 63,
-    "nb_pages": 2,
+    "nb_pages": 3,
     "mode": "image",
     "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87047/545050/file/Recueil des actes administratifs n°237 en date du 13 août 2026.pdf",
     "date_recueil": "2026-08-13",
-    "score": 1,
-    "titre_court": "Acte administratif de gestion courante",
-    "resume": "Document administratif de la Préfecture du Pas-de-Calais sans contenu lisible dans les images fournies. L'acte concerne une entité nommée « MARBRERIE LELEU Etaples » mais le dispositif et les mesures ne sont pas consultables sur les pages scannées.",
-    "type_acte": "AUTRE",
+    "score": 2,
+    "titre_court": "Renouvellement d'habilitation pour une entreprise de pompes funèbres",
+    "resume": "La préfecture du Pas-de-Calais renouvelle l'habilitation de l'entreprise « Pompes Funèbres Marbrerie Leleu » établie à Étaples pour une durée de cinq ans (jusqu'au 10 août 2031). Cette habilitation lui permet d'exercer les activités funéraires réglementées : transport de corps, organisation d'obsèques, soins de conservation et fourniture de services funéraires.",
+    "type_acte": "HABILITATION",
     "communes": [
       "Étaples"
     ],
     "mots_cles": [
-      "marbrerie",
-      "Étaples",
-      "acte administratif"
+      "pompes funèbres",
+      "habilitation",
+      "entreprise funéraire",
+      "renouvellement",
+      "activité réglementée"
     ]
   },
   {
     "titre": "T26-401P",
     "titre_complet": "62-2026-08-13-00004 - T26-401P",
     "page_debut": 8,
-    "nb_pages": 5,
+    "nb_pages": 6,
     "mode": "image",
     "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87051/545070/file/Recueil des actes administratifs n°240 en date du 14 août 2026.pdf",
     "date_recueil": "2026-08-14",
-    "score": 1,
-    "titre_court": "Page de garde d'un recueil administratif",
-    "resume": "Il s'agit d'une page de couverture du Recueil des Actes Administratifs de la Direction interdépartementale des routes Nord, datée du 13 août 2026. Aucun contenu substantif n'est visible sur cette image.",
-    "type_acte": "AUTRE",
-    "communes": [],
+    "score": 4,
+    "titre_court": "A16 fermée pour travaux d'août à Dunkerque",
+    "resume": "L'autoroute A16 sera soumise à des restrictions de circulation successives du 17 au 20 août 2026, de 05h00 à 13h00, dans les deux sens au niveau des échangeurs 34, 35, 37 et 38 entre Saint-Inglevert et Wacquinghen. Ces fermetures de bretelles et déviation du trafic permettront la réalisation de travaux de fauchage et débroussaillage. Les horaires peuvent être reportés au 21 août selon les conditions météorologiques.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Saint-Inglevert",
+      "Leubringhen",
+      "Marquise",
+      "Wacquinghen"
+    ],
     "mots_cles": [
-      "recueil administratif",
-      "routes",
-      "Nord"
+      "A16",
+      "fermeture bretelles",
+      "travaux",
+      "restriction circulation",
+      "déviation"
     ]
   },
   {
@@ -7933,21 +7946,25 @@
     "titre": "T26-349P signé",
     "titre_complet": "Direction interdépartementale des routes Nord / 62-2026-07-24-00008 - T26-349P signé",
     "page_debut": 10,
-    "nb_pages": 5,
+    "nb_pages": 6,
     "mode": "image",
     "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/86873/544064/file/Recueil des actes administratifs n°216 en date du 27 juillet 2026.pdf",
     "date_recueil": "2026-07-27",
-    "score": 1,
-    "titre_court": "Acte administratif interne sans contenu visible",
-    "resume": "Le document affiché ne contient que les en-têtes et références administratives (numéro de dossier 62-2026-07-24-00008, signature T26-349P) de la Direction interdépartementale des routes Nord. Le corps de l'acte n'est pas visible sur les pages fournies.",
-    "type_acte": "AUTRE",
-    "communes": [],
+    "score": 4,
+    "titre_court": "L'A16 fermée à Marck pour travaux routiers",
+    "resume": "La préfecture du Pas-de-Calais impose des restrictions de circulation sur l'autoroute A16 à Marck du 3 au 7 août 2026 pour permettre des travaux de réfection de la couche de roulement. Deux bretelles seront fermées alternativement dans chaque sens, avec des déviations mises en place pour assurer la continuité du trafic. L'opération comprend également une neutralisation temporaire de voie.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Marck"
+    ],
     "mots_cles": [
-      "Direction routes Nord",
-      "acte administratif",
-      "document incomplet"
+      "A16",
+      "restriction circulation",
+      "travaux routiers",
+      "fermeture bretelles",
+      "août 2026"
     ]
   },
   {
@@ -8176,42 +8193,47 @@
     "titre": "DS SGC LENS 10 08 2026 GALLET JONATHAN version publiable",
     "titre_complet": "Direction départementale des finances publiques / 62-2026-08-10-00018 - DS SGC LENS 10 08 2026 GALLET JONATHAN version publiable",
     "page_debut": 3,
-    "nb_pages": 1,
-    "mode": "texte",
-    "texte": "Direction départementale des finances\npubliques\n62-2026-08-10-00018\nDS SGC LENS 10 08 2026 GALLET JONATHAN\nversion publiable\nDirection départementale des finances publiques - 62-2026-08-10-00018 - DS SGC LENS 10 08 2026 GALLET JONATHAN version 3\npubliable",
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87127/545455/file/Recueil des actes administratifs n°248 en date du 24 août 2026.pdf",
     "date_recueil": "2026-08-24",
     "score": 1,
-    "titre_court": "Document administratif interne sans contenu analysable",
-    "resume": "Acte de la direction départementale des finances publiques du Pas-de-Calais. Le document ne contient que des mentions administratives (numéro de dossier, date, auteur) sans dispositif, articles ou mesures identifiables.",
-    "type_acte": "AUTRE",
+    "titre_court": "Délégation de signature au contrôleur des finances",
+    "resume": "La Direction départementale des finances publiques du Pas-de-Calais délègue au contrôleur Jonathan Gallet la signature de documents relatifs aux régies d'avances et de recettes. Il s'agit d'une mesure administrative interne de gestion des pouvoirs de signature.",
+    "type_acte": "DÉLÉGATION",
     "communes": [],
     "mots_cles": [
+      "délégation de signature",
       "finances publiques",
-      "administration interne",
-      "document incomplet"
+      "contrôleur",
+      "régies d'avances"
     ]
   },
   {
     "titre": "T26-421P signé -RAA",
     "titre_complet": "Direction interdépartementale des routes Nord / 62-2026-08-25-00001 - T26-421P signé -RAA",
     "page_debut": 3,
-    "nb_pages": 5,
+    "nb_pages": 6,
     "mode": "image",
     "texte": "",
     "dept": "62",
     "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87134/545495/file/Recueil des actes administratifs n°249 en date du 25 août 2026.pdf",
     "date_recueil": "2026-08-25",
-    "score": 1,
-    "titre_court": "Document administratif incomplet du RAA Nord",
-    "resume": "Seule la couverture du Recueil des Actes Administratifs (RAA) de la Direction interdépartementale des routes Nord est visible. L'acte T26-421P signé RAA n'est pas consultable dans les pages fournies. Impossible d'analyser la mesure réelle.",
-    "type_acte": "AUTRE",
-    "communes": [],
+    "score": 4,
+    "titre_court": "Fermeture de l'A16 à Marck pour débroussaillage routier",
+    "resume": "L'autorité préfectorale ferme la bretelle de sortie n°1 de l'échangeur n°48 de l'A16 (sens Calais-Dunkerque) le lundi 31 août 2026 de 9h à 18h pour permettre des travaux de débroussaillage. Une déviation est mise en place via l'A16, l'échangeur n°49 et la D940. Un report de 24 heures est possible le 1er septembre selon conditions météorologiques.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Marck"
+    ],
     "mots_cles": [
-      "RAA",
-      "routes Nord",
-      "acte incomplet"
+      "fermeture routière",
+      "A16",
+      "travaux débroussaillage",
+      "déviation",
+      "sécurité"
     ]
   },
   {

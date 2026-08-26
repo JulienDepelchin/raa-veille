@@ -49,37 +49,29 @@ def extraire_texte_pages(pdf, chemin_pdf: str, debut: int, nb_pages: int) -> dic
       - "texte" : texte brut si les pages sont textuelles
       - "images_b64" : liste de base64 PNG si les pages sont des images
       - "mode" : "texte" ou "image"
+
+    Un acte est presque toujours annoncé sur toute sa plage de pages : dès
+    qu'une seule page de la plage est jugée "image" (page de garde peu
+    fournie en texte, page scannée...), on bascule la plage ENTIÈRE en mode
+    image plutôt que de mélanger texte partiel et image partielle — sinon on
+    perd silencieusement le contenu des pages textuelles voisines.
     """
-    textes = []
-    images_b64 = []
-    mode = "texte"
+    pages = [i for i in range(debut, debut + nb_pages) if i <= len(pdf.pages)]
 
-    for i in range(debut, debut + nb_pages):
-        if i <= len(pdf.pages):
-            page = pdf.pages[i - 1]
-            if _page_est_image(page):
-                mode = "image"
-                images_b64.append(rendre_page_en_base64(chemin_pdf, i))
-            else:
-                t = page.extract_text()
-                if t:
-                    textes.append(t)
+    mode_image = any(_page_est_image(pdf.pages[i - 1]) for i in pages)
 
-    if mode == "image":
-        return {"mode": "image", "texte": "", "images_b64": images_b64}
+    if not mode_image:
+        texte_final = "\n".join(
+            t for i in pages for t in [pdf.pages[i - 1].extract_text()] if t
+        )
+        # Densité de texte insuffisante → probablement des pages image mal détectées
+        if nb_pages > 1 and len(texte_final) / nb_pages < 800:
+            mode_image = True
+        else:
+            return {"mode": "texte", "texte": texte_final, "images_b64": []}
 
-    texte_final = "\n".join(textes)
-
-    # Densité de texte insuffisante → probablement des pages image mal détectées
-    if nb_pages > 1 and len(texte_final) / nb_pages < 800:
-        images_b64 = [
-            rendre_page_en_base64(chemin_pdf, i)
-            for i in range(debut, debut + nb_pages)
-            if i <= len(pdf.pages)
-        ]
-        return {"mode": "image", "texte": "", "images_b64": images_b64}
-
-    return {"mode": "texte", "texte": texte_final, "images_b64": []}
+    images_b64 = [rendre_page_en_base64(chemin_pdf, i) for i in pages]
+    return {"mode": "image", "texte": "", "images_b64": images_b64}
 
 
 def _nettoyer_titre(texte_brut: str) -> str:
@@ -145,6 +137,17 @@ def extraire_actes_depuis_pdf(chemin_pdf: str) -> list[dict]:
         entrees = parser_sommaire(texte_sommaire)
         if not entrees:
             return _extraction_naive(pdf, chemin_pdf)
+
+        # Le nombre de pages imprimé dans le sommaire n'est pas fiable pour
+        # tous les départements (sous-compté de 1 sur certains recueils du
+        # Pas-de-Calais, vérifié empiriquement). On le recalcule à partir de
+        # la position réelle de l'acte suivant, plus robuste que le chiffre
+        # annoncé.
+        for i, entree in enumerate(entrees):
+            if i + 1 < len(entrees):
+                entree["nb_pages"] = entrees[i + 1]["page_debut"] - entree["page_debut"]
+            else:
+                entree["nb_pages"] = nb_total - entree["page_debut"] + 1
 
         # -- 3. Extraire le contenu de chaque acte
         actes = []
