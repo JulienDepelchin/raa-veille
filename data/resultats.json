@@ -2339,6 +2339,31 @@
     ]
   },
   {
+    "titre": "Arrêté temporaire portant réglementation de la circulation sur la RN2 Etroeungt",
+    "titre_complet": "2 Direction interdépartementale des routes Nord / 2026-09-07-00006 - Arrêté temporaire portant réglementation de la circulation sur la RN2 Etroeungt",
+    "page_debut": 39,
+    "nb_pages": 8,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 4,
+    "titre_court": "RN2 : circulation alternée et ralentie le 17 septembre",
+    "resume": "Un arrêté temporaire réglemente la circulation sur la RN2 à Etroeungt le 17 septembre 2026 de 7h à 18h pour travaux de purge de chaussée. La mesure prévoit la neutralisation d'une voie rapide en sens Belgique-Paris, une circulation alternée par feux commandés, des limitations de vitesse (50 à 70 km/h selon les tronçons) et la fermeture de la RD2602 avec déviation obligatoire.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Etroeungt"
+    ],
+    "mots_cles": [
+      "circulation alternée",
+      "RN2",
+      "travaux chaussée",
+      "restriction temporaire",
+      "sécurité routière"
+    ]
+  },
+  {
     "titre": "Autorisation de spectacle aérien public d'aéronefs sans équipage à bord et dérogation vol de nuit Magic Event - Le Touquet",
     "titre_complet": "Préfecture du Pas-de-Calais / Direction des sécurités 62-2026-08-10-00008 - Autorisation de spectacle aérien public d'aéronefs sans équipage à bord et dérogation vol de nuit Magic Event - Le Touquet",
     "page_debut": 47,
@@ -4618,6 +4643,219 @@
     ]
   },
   {
+    "titre": "Avenant 1 - DECISION 40",
+    "titre_complet": "Direction départementale des territoires et de la mer / 2026-09-07-00008 - Avenant 1 - DECISION 40",
+    "page_debut": 24,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Travaux de pont prolongés jusqu'en octobre à Merville",
+    "resume": "L'État prolonge jusqu'au 16 octobre 2026 les travaux d'entretien du pont sur la rivière Lys à Merville. Pendant cette période, la navigation fluviale sera soumise à un plan de signalisation spécifique et à une circulation en alternat, sous surveillance de l'ouvrage. Les usagers de la voie d'eau doivent respecter strictement cette signalisation.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Merville"
+    ],
+    "mots_cles": [
+      "travaux fluviaux",
+      "pont Lys",
+      "navigation fluviale",
+      "signalisation",
+      "circulation alternat"
+    ]
+  },
+  {
+    "titre": "DECISION 80",
+    "titre_complet": "2026-09-02-00020 - DECISION 80",
+    "page_debut": 26,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Autorisation d'une manifestation nautique sur la Lys",
+    "resume": "Le préfet du Nord autorise l'association Nord Paddle Club à organiser une manifestation nautique intitulée « L'enfer des Canaux » le 26 septembre 2026 sur la Lys entre Aïre et Warneton. L'événement, limité à 8h-19h, s'accompagne de deux interruptions temporaires de la navigation fluviale avec mise en place de vigies équipées de drapeaux rouges pour informer les usagers.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Aïre",
+      "Warneton",
+      "Thiennes",
+      "Haverskerque",
+      "Merville",
+      "Estaires",
+      "Steenwerck",
+      "Esquinghem-Lys",
+      "Armentières",
+      "Nieppe",
+      "Houplines",
+      "Frelinghien",
+      "Deûlemont"
+    ],
+    "mots_cles": [
+      "manifestation nautique",
+      "navigation fluviale",
+      "Lys",
+      "interruption de navigation",
+      "Nord Paddle Club"
+    ]
+  },
+  {
+    "titre": "DECISION 82",
+    "titre_complet": "2026-09-07-00009 - DECISION 82",
+    "page_debut": 29,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Inspection du pont Rouge à Dunkerque en octobre",
+    "resume": "La préfecture autorise une inspection de l'ouvrage d'art du pont Rouge sur le canal de Bergues à Dunkerque, prévue le 22 octobre 2026 de 20h30 à minuit. Pendant cette opération, une surveillance visuelle sera maintenue à 300 mètres de part et d'autre du pont, et une vigie VHF sur canal 10 permettra de gérer les passages de bateaux de commerce.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "inspection d'ouvrage",
+      "canal de Bergues",
+      "pont Rouge",
+      "navigation fluviale",
+      "restriction temporaire"
+    ]
+  },
+  {
+    "titre": "DECISION 83",
+    "titre_complet": "2026-09-07-00010 - DECISION 83",
+    "page_debut": 31,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Inspection du pont de l'Hôtel de Ville à Coudekerque-Branche",
+    "resume": "Le préfet autorise une inspection d'ouvrage avec nacelle négative sur le canal de Bergues à Coudekerque-Branche le 22 octobre 2026, de 18h00 à 20h30. L'inspection sera encadrée par une surveillance visuelle à 300 mètres et une vigie VHF pour assurer la sécurité du franchissement du pont et libérer la navigation commerciale dans les délais.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Coudekerque-Branche"
+    ],
+    "mots_cles": [
+      "inspection d'ouvrage",
+      "canal de Bergues",
+      "navigation",
+      "sécurité fluviale",
+      "restriction temporaire"
+    ]
+  },
+  {
+    "titre": "DECISION 84",
+    "titre_complet": "2026-09-08-00003 - DECISION 84",
+    "page_debut": 33,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Inspection du pont de Dunkerque en octobre",
+    "resume": "La préfecture du Nord autorise une inspection d'ouvrage sur le canal de Bourbourg à Dunkerque, prévue le 23 octobre 2026 de 00h00 à 02h30. Cette inspection, effectuée avec une nacelle négative, nécessitera une surveillance visuelle à 300 mètres et une vigie VHF pour sécuriser le passage des bateaux de commerce pendant les travaux.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "inspection d'ouvrage",
+      "canal de Bourbourg",
+      "restriction de navigation",
+      "sécurité fluviale",
+      "pont de la redoute du marais"
+    ]
+  },
+  {
+    "titre": "Décision 85/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art qui aura lieu du 29 septembre au 01 octobre 2026 au PK10.800 du canal de Pommeroeul-Condé",
+    "titre_complet": "2026-09-08-00004 - Décision 85/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art qui aura lieu du 29 septembre au 01 octobre 2026 au PK10.800 du canal de Pommeroeul-Condé",
+    "page_debut": 35,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Inspection d'ouvrages : navigation restreinte en septembre",
+    "resume": "Le préfet du Nord impose une restriction temporaire de la navigation sur le canal de Pommeroeul-Condé du 29 septembre au 1er octobre 2026, de 8h30 à 18h, au niveau du PK 10.800. Cette mesure vise à permettre une inspection détaillée d'ouvrages d'art. Les usagers devront exercer une extrême vigilance à l'approche du site et signaler leur présence sur le canal 10 de la VHF.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Condé-sur-l'Escaut"
+    ],
+    "mots_cles": [
+      "navigation fluviale",
+      "restriction temporaire",
+      "inspection ouvrages",
+      "canal Pommeroeul-Condé",
+      "sécurité"
+    ]
+  },
+  {
+    "titre": "décision 86/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art du 29 septembre au 01 octobre au PK28.745 de la rivière de l'Escaut canalisé",
+    "titre_complet": "2026-09-08-00005 - décision 86/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art du 29 septembre au 01 octobre au PK28.745 de la rivière de l'Escaut canalisé",
+    "page_debut": 37,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Inspection d'ouvrages sur l'Escaut : navigation encadrée fin septembre",
+    "resume": "Une inspection détaillée d'ouvrages d'art aura lieu sur la rivière de l'Escaut canalisé du 29 septembre au 1er octobre 2026. Pendant cette période, la navigation sera soumise à des mesures de restriction : une vigie équipée de VHF devra surveiller le secteur et maintenir une vision directe à 300 mètres de l'ouvrage, et les usagers devront annoncer leur approche sur le canal 10 de la VHF.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Fresnes-sur-Escaut"
+    ],
+    "mots_cles": [
+      "restriction de navigation",
+      "Escaut canalisé",
+      "inspection d'ouvrages",
+      "VHF",
+      "surveillance fluviale"
+    ]
+  },
+  {
+    "titre": "T26-450N RAA arrete de circulation portant sur l'A25 pour fermeture de la bretelle n°2 de l'échangeur n°5 les nuits du 19/10/2026 21h00 au 23/10/2026 05h00 pour des travaux d'entretien verts.",
+    "titre_complet": "2026-09-08-00006 - T26-450N RAA arrete de circulation portant sur l'A25 pour fermeture de la bretelle n°2 de l'échangeur n°5 les nuits du 19/10/2026 21h00 au 23/10/2026 05h00 pour des travaux d'entretien verts.",
+    "page_debut": 47,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 3,
+    "titre_court": "Fermeture nocturne de la bretelle A25 pour travaux d'entretien",
+    "resume": "L'autoroute A25 connaîtra des restrictions de circulation nocturnes du 19 au 23 octobre 2026, de 21h à 5h du matin, dans le secteur de Lille-Dunkerque. La bretelle d'entrée n°2 de l'échangeur n°5 sera fermée pour permettre des travaux d'entretien des espaces verts. Un itinéraire de déviation est mis en place via l'échangeur n°5 et l'échangeur n°3 de l'A25.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Loos"
+    ],
+    "mots_cles": [
+      "A25",
+      "fermeture bretelle",
+      "travaux entretien",
+      "restriction circulation",
+      "déviation"
+    ]
+  },
+  {
     "titre": "Arrêté du 10 août 2026 portant dissolution de l'ASA du lotissement Les Garennes",
     "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Montreuil-sur-Mer 62-2026-08-10-00001 - Arrêté du 10 août 2026 portant dissolution de l'ASA du lotissement Les Garennes",
     "page_debut": 82,
@@ -5621,6 +5859,31 @@
       "autorisation",
       "Trail'Orientation",
       "septembre 2026"
+    ]
+  },
+  {
+    "titre": "Arrêté retrait auto-école de Laventie Nicolas Wypych Laventie",
+    "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Béthune 62-2026-08-27-00018 - Arrêté retrait auto-école de Laventie Nicolas Wypych Laventie",
+    "page_debut": 88,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 2,
+    "titre_court": "Fermeture de l'auto-école de Laventie",
+    "resume": "La préfecture du Pas-de-Calais a retiré l'agrément d'exploitation de l'auto-école de Laventie, exploitée par Nicolas Wypych sous le numéro E 18 062 0003 0. Cette fermeture intervient suite à la déclaration de cessation d'activité datée du 18 août 2026, notifiée par l'établissement lui-même.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Laventie"
+    ],
+    "mots_cles": [
+      "auto-école",
+      "retrait d'agrément",
+      "cessation d'activité",
+      "enseignement conduite",
+      "Laventie"
     ]
   },
   {
@@ -7434,6 +7697,229 @@
       "collectivités locales",
       "renouvellement membres",
       "élections municipales"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
+    "titre_complet": "Préfecture du Nord / Service de la représentation de l'État 2026-09-08-00001 - Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
+    "page_debut": 3,
+    "nb_pages": 1,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108035/757308/file/Recueil n°317 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Un gendarme récompensé pour acte de courage",
+    "resume": "Le préfet du Nord accorde une lettre de félicitations à Joran Scharre, gendarme, pour son acte de courage et de dévouement exemplaire. Le 30 mars 2026 à Merville, il a permis le sauvetage d'une personne suicidaire retranchée dans son garage, en tentant de mettre fin à ses jours.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Merville"
+    ],
+    "mots_cles": [
+      "récompense",
+      "acte de courage",
+      "gendarme",
+      "sauvetage",
+      "dévouement"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
+    "titre_complet": "2026-09-08-00002 - Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
+    "page_debut": 4,
+    "nb_pages": 1,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108035/757308/file/Recueil n°317 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Un gendarme récompensé pour un sauvetage à Merville",
+    "resume": "Le préfet du Nord reconnaît l'acte de courage et de dévouement du brigadier Florian Legrain, gendarme, qui a permis le sauvetage d'une personne en danger le 30 mars 2026 à Merville. Une lettre de félicitations lui est décernée pour ses qualités professionnelles et son engagement exemplaire.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Merville"
+    ],
+    "mots_cles": [
+      "sauvetage",
+      "courage",
+      "gendarme",
+      "distinction honorifique",
+      "Merville"
+    ]
+  },
+  {
+    "titre": "DÉCISION RELATIVE A L'OUVERTURE DE CONCOURS SUR TITRES POUR L'ACCÈS AU CORPS DES AUXILIAIRES MÉDICAUX EXERÇANT EN PRATIQUE AVANCÉE",
+    "titre_complet": "Centre hospitalier universitaire de Lille / 2026-08-26-00010 - DÉCISION RELATIVE A L'OUVERTURE DE CONCOURS SUR TITRES POUR L'ACCÈS AU CORPS DES AUXILIAIRES MÉDICAUX EXERÇANT EN PRATIQUE AVANCÉE",
+    "page_debut": 4,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Concours de recrutement pour auxiliaires médicaux en pratique avancée",
+    "resume": "Le CHU de Lille ouvre un concours sur titres pour pourvoir 3 postes d'auxiliaires médicaux exerçant en pratique avancée. Le concours, dont le dossier doit être déposé avant le 2 octobre 2026, comprend une présentation orale devant un jury suivi d'une discussion portant sur l'expérience professionnelle et les compétences du candidat.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "concours recrutement",
+      "auxiliaires médicaux",
+      "pratique avancée",
+      "CHU Lille",
+      "fonction publique hospitalière"
+    ]
+  },
+  {
+    "titre": "Décision portant fermeture définitive d'un débit de tabac ordinaire permanent",
+    "titre_complet": "Direction régionale des douanes de Lille / 2026-09-02-00021 - Décision portant fermeture définitive d'un débit de tabac ordinaire permanent",
+    "page_debut": 51,
+    "nb_pages": 1,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Fermeture d'un débit de tabac à Waziers",
+    "resume": "La direction régionale des douanes et droits indirects de Lille prononce la fermeture définitive d'un débit de tabac ordinaire permanent situé à Waziers (rue Lucien Moreau). Cette fermeture prendra effet le 2 septembre 2026. La décision s'inscrit dans l'application du monopole de vente au détail des tabacs manufacturés réglementé par le Code de la santé publique.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Waziers"
+    ],
+    "mots_cles": [
+      "débit de tabac",
+      "fermeture définitive",
+      "monopole tabac",
+      "douanes"
+    ]
+  },
+  {
+    "titre": "AP habilitation funéraire - ROC ECLERC - DENAIN",
+    "titre_complet": "Préfecture du Nord / Direction de la réglementation et de la citoyenneté 2026-09-04-00009 - AP habilitation funéraire - ROC ECLERC - DENAIN",
+    "page_debut": 67,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "ROC Éclerc autorisée à exercer les activités funéraires à Denain",
+    "resume": "L'établissement secondaire « ROC ÉCLERC » situé à Denain est habilité à exercer l'ensemble des activités funéraires sur le territoire national pour une durée de 5 ans. Cette habilitation couvre le transport de corps, l'organisation d'obsèques, les soins de conservation, la fourniture de cercueils et de services connexes.",
+    "type_acte": "HABILITATION",
+    "communes": [
+      "Denain"
+    ],
+    "mots_cles": [
+      "habilitation funéraire",
+      "ROC ÉCLERC",
+      "activités funéraires",
+      "entreprise de pompes funèbres"
+    ]
+  },
+  {
+    "titre": "AP renouvellement habilitation funéraire - PF de Wasquehal - WASQUEHAL",
+    "titre_complet": "2026-09-04-00007 - AP renouvellement habilitation funéraire - PF de Wasquehal - WASQUEHAL",
+    "page_debut": 71,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Wasquehal : renouvellement d'habilitation funéraire",
+    "resume": "La préfecture du Nord renouvelle pour cinq ans l'habilitation de l'établissement secondaire « pompes funèbres de Wasquehal » à exercer les activités funéraires sur le territoire national. Cette autorisation, valable jusqu'en octobre 2031, couvre le transport de corps, l'organisation d'obsèques, les soins de conservation et la mise à disposition d'une chambre funéraire équipée.",
+    "type_acte": "HABILITATION",
+    "communes": [
+      "Wasquehal"
+    ],
+    "mots_cles": [
+      "pompes funèbres",
+      "habilitation funéraire",
+      "renouvellement",
+      "obsèques",
+      "établissement secondaire"
+    ]
+  },
+  {
+    "titre": "AP renouvellement habilitation funéraire - PF de Wattrelos",
+    "titre_complet": "2026-09-04-00008 - AP renouvellement habilitation funéraire - PF de Wattrelos",
+    "page_debut": 75,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Renouvellement de l'habilitation funéraire à Wattrelos",
+    "resume": "La préfecture du Nord renouvelle pour cinq ans (2026-2031) l'habilitation de l'établissement secondaire « Pompes funèbres de Wattrelos – Francis VAN WYNSBERGHE » à exercer les activités funéraires sur le territoire national. Cet établissement, situé à Wattrelos, est autorisé à poursuivre le transport de corps, l'organisation d'obsèques, les soins de conservation et la gestion d'une chambre funéraire.",
+    "type_acte": "HABILITATION",
+    "communes": [
+      "Wattrelos"
+    ],
+    "mots_cles": [
+      "pompes funèbres",
+      "habilitation",
+      "renouvellement",
+      "services funéraires",
+      "Wattrelos"
+    ]
+  },
+  {
+    "titre": "AP renouvellement habilitation funéraire - PF PRINCE - FUNECAP - DUNKERQUE",
+    "titre_complet": "2026-09-04-00010 - AP renouvellement habilitation funéraire - PF PRINCE - FUNECAP - DUNKERQUE",
+    "page_debut": 79,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Dunkerque : renouvellement d'habilitation funéraire",
+    "resume": "La préfecture du Nord renouvelle l'habilitation de l'établissement secondaire « pompes funèbres PRINCE » à Dunkerque pour exercer les activités funéraires sur l'ensemble du territoire national. Cette habilitation, valable jusqu'en octobre 2031, couvre le transport de corps, l'organisation d'obsèques, les soins de conservation et la fourniture de services connexes.",
+    "type_acte": "HABILITATION",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "pompes funèbres",
+      "habilitation",
+      "activités funéraires",
+      "transport de corps",
+      "obsèques"
+    ]
+  },
+  {
+    "titre": "AP renouvellement habilitation funéraire - PF Yves VANLAERES - COUDEKERQUE BRANCHE",
+    "titre_complet": "2026-09-04-00011 - AP renouvellement habilitation funéraire - PF Yves VANLAERES - COUDEKERQUE BRANCHE",
+    "page_debut": 83,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 2,
+    "titre_court": "Renouvellement d'habilitation funéraire à Coudekerque-Branche",
+    "resume": "La préfecture du Nord renouvelle l'habilitation de l'établissement secondaire « pompes funèbres Yves VANLAERES » à Coudekerque-Branche pour exercer les activités funéraires (transports de corps, organisation d'obsèques, fourniture de cercueils et urnes). Cette habilitation, valable jusqu'en octobre 2031, a été précédemment octroyée en 2021 et fait suite à des rapports de conformité technique.",
+    "type_acte": "HABILITATION",
+    "communes": [
+      "Coudekerque-Branche"
+    ],
+    "mots_cles": [
+      "pompes funèbres",
+      "habilitation",
+      "activités funéraires",
+      "Coudekerque-Branche",
+      "renouvellement"
     ]
   },
   {
@@ -9478,6 +9964,887 @@
       "administration pénitentiaire",
       "Maison d'Arrêt",
       "agents pénitentiaires"
+    ]
+  },
+  {
+    "titre": "Arrete Delegation signature ordonnancement recettes depenses CRC HdF",
+    "titre_complet": "Chambre Régionale des Comptes Hauts-de-France / 62-2026-09-01-00035 - Arrete Delegation signature ordonnancement recettes depenses CRC HdF",
+    "page_debut": 4,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Chambre Régionale des Comptes\nHauts-de-France\n62-2026-09-01-00035\nArrete Delegation signature ordonnancement\nrecettes depenses CRC HdF\nChambre Régionale des Comptes Hauts-de-France - 62-2026-09-01-00035 - Arrete Delegation signature ordonnancement recettes 4\ndepenses CRC HdF\nArrêté no 2026-66\nportant délégation de signature\nen matière d’ordonnancement secondaire des recettes et des dépenses\nLe Président de la chambre régionale des comptes Hauts-de-France,\nVu le décret no2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable\npublique;\nVu le code des juridictions financières et notamment son article R.212-5, lequel dispose\nque le président de la chambre régionale des comptes est ordonnateur secondaire des\ndépenses et des recettes de la juridiction qu’il préside. Il peut déléguer sa signature à un\nautre magistrat et au secrétaire général de cette juridiction. En cas d’absence,\nd’empêchement ou de vacance du secrétaire général, il peut déléguer sa signature à un\nautre fonctionnaire de la chambre;\nVu le code des juridictions financières et notamment son article R. 212-6, lequel dispose\nqu’en cas d’absence, d’empêchement ou de vacance, le président de la chambre régionale\ndes comptes est remplacé le cas échéant, par le vice-président, ou, à défaut, par le\nmagistrat du siège le plus ancien dans le grade le plus élevé;\nVu le décret du Président de la République en date du 2 février 2024 par lequel\nMonsieur Jean-Paul Albertini, conseiller maître à la Cour des comptes, est affecté en qualité\nde président de la chambre régionale des comptes Hauts-de-France, à compter du\n20 février 2024;\nVu le décret en date du 2 mars 2023 portant nomination de M. Christophe Luprich, conseiller\nréférendaire à la Cour des comptes, en qualité de vice-président de la chambre régionale\ndes comptes Hauts-de-France;\nVu l’arrêté du Premier président de la Cour des comptes en date du 25 mars 2024,\nnommant Mme Fanny Bonnay, attachée d’administration de l’État, secrétaire générale de\nla chambre régionale des comptes Hauts-de-France, à compter du 1eravril 2024 ;\nVu l’arrêté de la Première présidente de la Cour des comptes en date du 28 juillet 2026,\nportant prise en charge et affectant M. Abdelkader Rahaoui, attaché d’administration de\nl’État, en qualité de secrétaire général adjoint auprès de la chambre régionaledes comptes\nHauts-de-France, à compter du 1erseptembre 2026 ;\n-1-\nHôtel Dubois de Fosseux ▪14, rue du Marché au Filé ▪62012 ARRAS cedex ▪T.+33 3 21 50 75 00 ▪\nhautsdefrance@ccomptes.fr\nChambre Régionale des Comptes Hauts-de-France - 62-2026-09-01-00035 - Arrete Delegation signature ordonnancement recettes 5\ndepenses CRC HdF\nArrête\nArticle 1er: délégation permanente est donnée à Monsieur Christophe Luprich,\nvice-président, au nom du président, à l’effet de:\na. signer tous actes de recettes et de dépenses, y compris numériquement\nà travers les applicatifs du système d’information de l’État, ayant trait à\nl’exécution ou à la gestion administrative des crédits de l’unité\nopérationnelle « CRC» du programme 164 «Cour des comptes et autres\njuridictions financières» (rôle «valideur »);\nb. signer toutes décisions relatives aux déplacements temporaires des\nagents des juridictions financières ou aux états de frais associés ainsi que\nde transcrire toutes pièces dans l’application Chorus – Déplacements\ntemporaires (rôle « SG »);\nc. valider les actes relatifs à la gestion du temps des personnels;\nArticle 2: autorisation est donnée à Madame Fanny Bonnay, secrétaire généralede la\nchambre régionale des comptes Hauts-de-France, à l’effet d’accomplir les\nactes mentionnés aux a), b) et c) de l’article 1er;\nArticle 3: autorisation est donnée à Monsieur Abdelkader Rahaoui, secrétaire général\nadjoint, à l’effet d’accomplir les actes mentionnés aux a), b) et c) de\nl’article 1er;\nArticle 4: l’arrêté no2024-48 du 2 avril 2024 du président de la chambre régionale des\ncomptes Hauts-de-France, est abrogé à compter du 1erseptembre 2026.\nArticle 5: la secrétaire générale est chargéede l’exécution du présent arrêté.\nArticle 6: cet arrêté sera publié au recueil officiel des actes administratifs.\nFait à la chambre, le 1erseptembre 2026\nLe Président,\nSIGNÉ\nJean-Paul Albertini\n-2-\nChambre Régionale des Comptes Hauts-de-France - 62-2026-09-01-00035 - Arrete Delegation signature ordonnancement recettes 6\ndepenses CRC HdF\nDELÉGATION DE SIGNATURE EN MATIÈRE D’ORDONNANCEMENT SECONDAIRE\nSPÉCIMENSDE SIGNATURE\nM. ALBERTINI Jean-Paul – Président SIGNÉ\nM. LUPRICH Christophe – Vice-président SIGNÉ\nSIGNÉ\nMme BONNAY Fanny –Secrétaire générale\nM. RAHAOUI Abdelkader –Secrétaire général adjoint SIGNÉ\nHôtel Dubois de Fosseux ▪14, rue du Marché au Filé ▪62012 ARRAS cedex ▪T.+33 3 21 50 75 00 ▪\nhautsdefrance@ccomptes.fr\nChambre Régionale des Comptes Hauts-de-France - 62-2026-09-01-00035 - Arrete Delegation signature ordonnancement recettes 7\ndepenses CRC HdF",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "La CRC Hauts-de-France redéfinit ses pouvoirs de signature",
+    "resume": "La Chambre Régionale des Comptes Hauts-de-France procède à une redistribution interne des pouvoirs de signature en matière de gestion budgétaire et comptable. Le vice-président, la secrétaire générale et le secrétaire général adjoint sont autorisés à signer les actes relatifs aux recettes, dépenses et gestion du personnel de la juridiction.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "ordonnancement",
+      "gestion budgétaire",
+      "CRC Hauts-de-France",
+      "administration interne"
+    ]
+  },
+  {
+    "titre": "Arrêté Délégation signature CP VLV 07",
+    "titre_complet": "Direction de l'administration pénitentiaire / Centre de détention de Vendin le Vieil 62-2026-09-07-00001 - Arrêté Délégation signature CP VLV 07",
+    "page_debut": 8,
+    "nb_pages": 32,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégations de signature au centre pénitentiaire de Vendin-le-Vieil",
+    "resume": "Arrêté portant délégation permanente de signature à 36 agents du centre pénitentiaire de Vendin-le-Vieil, à compter du 7 septembre 2026. Ces délégations permettent aux agents désignés de signer les actes, décisions et correspondances relatifs à l'exercice de leurs fonctions respectives, selon leur corps d'emploi (directrices de services, attachées, officiers pénitentiaires, majors, brigadiers-chefs).",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Vendin-le-Vieil"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "administration pénitentiaire",
+      "centre pénitentiaire",
+      "agents publics"
+    ]
+  },
+  {
+    "titre": "DS SDIF 01 09 2026 version publiable",
+    "titre_complet": "Direction départementale des finances publiques / 62-2026-09-01-00031 - DS SDIF 01 09 2026 version publiable",
+    "page_debut": 40,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00031\nDS SDIF 01 09 2026 version publiable\nDirection départementale des finances publiques - 62-2026-09-01-00031 - DS SDIF 01 09 2026 version publiable 40\nDELEGATION DE SIGNATURE\nRESPONSABLE DE SERVICE DEPARTEMENTAL DES IMPOTS FONCIERS\nLa responsable du Service Départemental des Impôts Fonciers (SDIF) du Pas-de-Calais\nVu le code général des impôts, et notamment son article 408 de son annexe II et les articles 212 à 217 de\nson annexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nArrête :\nArticle 1er\nDélégation de signature est donnée à :\n- Mme Christelle GALLET, Inspectrice divisionnaire des finances publiques, adjointe au responsable du\nSDIF du Pas-de-Calais\n- Mme Mélanie HUYGHE, Inspectrice divisionnaire des finances publiques, adjointe au responsable du SDIF\ndu Pas-de-Calais\nà l’effet de signer :\n1°) dans la limite de 100 000 €, en matière de contentieux fiscal d’assiette, les décisions d’admission totale,\nd'admission partielle ou de rejet, de dégrèvement ou restitution d’office et sans limitation de montant, les\ndécisions prises sur les demandes de dégrèvement de taxe foncière pour les pertes de récolte.\n2°) les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses sans\nlimitation de montant.\nArticle 2\nDélégation de signature est donnée à l’effet de signer en matière de contentieux fiscal d’assiette, les\ndécisions d’admission totale, d'admission partielle ou de rejet, de dégrèvement ou restitution d’office :\na) dans la limite de 30 000 €, aux agents des finances publiques de catégorie A désignés ci-après :\n- AGUILAR Catherine\n- DELEPLANQUE Océane\n- DEON Florence\n- GHILBERT-CARLUS Aurore\n- GLAVIEUX Wilfried\n- LEJEUNE Isabelle\n- MAKLES Christophe\n- MANOWSKI Béatrice\n- ROUSSEL Christophe\n- TRICART David\n- ZAWODNYJean-Pierre\nb) dans la limite de 15 000 €, aux agents des finances publiques de catégorie B désignés ci-après :\n- BALTRUKOWICZ Sabine\n- BERNARD Catherine\nDirection départementale des finances publiques - 62-2026-09-01-00031 - DS SDIF 01 09 2026 version publiable 41\n- BISKUP Anne-Marie\n- BRISBART Pauline\n- BROUTIN Carine\n- BRUCHET Clotilde\n- COURAT Stéphane\n- DOURLENS Steve\n- DROT Marie-Christine\n- DUVAL Matthieu\n- EMERIAU Nathalie\n- HERBAUT Sophie\n- HERENGUEL Cindy\n- HEZEQUES Nicolas\n- HOLIN Stéphanie\n- KRIEGER Christelle\n- LEBECQ Anais\n- LEQUENNE Benoit\n- MARSY Christelle\n- MORLET Jean-Louis\n- MOUDEN Ghita\n- RENAULT Audrey\n- VILETTE Catherine\n- VINCENT Coralie\n- WINDELS Ophélie\nc) dans la limite de 5 000 €, aux agents des finances publiques de catégorie C désignés ci-après :\n- ANDRIEUX Alexandre\n- BRICHE Charlotte\n- BRUSEL Betty\n- COURTIN Christine\n- DELSALLE Clément\n- DUCROCQ Julie\n- DUMAS Sébastien\n- FOURNIER Céline\n- GELEZ Laurence\n- HURTRELLE Anne-Sophie\n- LEFEBVRE Sophie\n- PAGNIEZ Clothilde\n- PAUWELS Maryline\n- SAUVAGE Adeline\n- SRUTEWA Laëtitia\nArticle 3\nLe présent arrêté sera publié au recueil des actes administratifs du département du Pas-de-Calais.\nArticle 4\nLe présent arrêté sera affiché dans les locaux de chaque Centre des Finances Publiques où le service est\nimplanté.\nA ARRAS, le 01/09/2026\nLa responsable du Service Départemental des Impôts\nFonciers du Pas-de-Calais,\nSigné\nCécile BERNARD\nDirection départementale des finances publiques - 62-2026-09-01-00031 - DS SDIF 01 09 2026 version publiable 42",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégations de signature aux finances foncières",
+    "resume": "La Direction départementale des finances publiques du Pas-de-Calais délègue son pouvoir de signature à plusieurs agents pour traiter les contentieux fiscaux d'assiette (dégrevements, admissions, rejets) selon des seuils de montant variables (5 000 à 100 000 euros) selon leur catégorie professionnelle.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "finances publiques",
+      "délégation de signature",
+      "contentieux fiscal",
+      "impôts fonciers",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "DS SGC LENS 02 09 2026 DELAUDIER Sébastien version publiable",
+    "titre_complet": "62-2026-09-02-00010 - DS SGC LENS 02 09 2026 DELAUDIER Sébastien version publiable",
+    "page_debut": 43,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-02-00010\nDS SGC LENS 02 09 2026 DELAUDIER Sébastien\nversion publiable\nDirection départementale des finances publiques - 62-2026-09-02-00010 - DS SGC LENS 02 09 2026 DELAUDIER Sébastien version 43\npubliable\nLens, le 02/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, Patrick THIERY, responsable du Service de Gestion Comptable de Lens.\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à M. DELAUDIER Sébastien, inspecteur\ndes Finances publiques, à l’effet de :\nx statuer sur les demandes de délai de paiement, le délai accordé ne pouvant excéder 24 mois et\nporter sur une somme supérieure à 10 000 euros ;\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\nx d’effectuer les déclarations de créances en matière de procédures collectives d’apurement du\npassif et d’agir en justice en mes lieux et place.\nx suppléer le chef de poste dans l’ensemble de ses prérogatives en cas d’absence de celui-ci.\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-02-00010 - DS SGC LENS 02 09 2026 DELAUDIER Sébastien version 44\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature à un inspecteur des finances",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais accorde une délégation permanente de signature à M. Sébastien Delaudier, inspecteur des Finances publiques. Cette habilitation lui permet de statuer sur les demandes de délai de paiement, de gérer les recettes et dépenses, et d'exercer les poursuites en matière de recouvrement au nom du comptable.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "recouvrement",
+      "gestion comptable",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "DS SGC LILLERS DERISBOURG 01 09 2026 version publiable",
+    "titre_complet": "62-2026-09-01-00033 - DS SGC LILLERS DERISBOURG 01 09 2026 version publiable",
+    "page_debut": 45,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00033\nDS SGC LILLERS DERISBOURG 01 09 2026 version\npubliable\nDirection départementale des finances publiques - 62-2026-09-01-00033 - DS SGC LILLERS DERISBOURG 01 09 2026 version publiable 45\nLillers, le 1er septembre 2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, Patrice GOUY, responsable du Service de Gestion Comptable de Lillers\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à Mme Julie DERISBOURG, Contrôleuse\ndes Finances Publiques à l’effet de :\nx statuer sur les demandes de délai de paiement, le délai accordé ne pouvant excéder 12 mois et\nporter sur une somme supérieure à 5000 euros ;\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\n Autres (veuillez préciser les éventuelles compétences déléguées au mandataire)#\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-01-00033 - DS SGC LILLERS DERISBOURG 01 09 2026 version publiable 46",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature à la DGFIP de Lillers",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais délègue ses pouvoirs de signature à Mme Julie Derisbourg, Contrôleuse des Finances Publiques. Cette délégation permanente couvre le traitement des demandes de délai de paiement, la gestion des recettes et dépenses, le recouvrement, et l'ensemble des actes administratifs et comptables du service.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lillers"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "comptabilité",
+      "recouvrement",
+      "gestion administrative"
+    ]
+  },
+  {
+    "titre": "DS SGC MONTREUIL HANOCQ 02 09 2026 version publiable",
+    "titre_complet": "62-2026-09-02-00008 - DS SGC MONTREUIL HANOCQ 02 09 2026 version publiable",
+    "page_debut": 47,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-02-00008\nDS SGC MONTREUIL HANOCQ 02 09 2026\nversion publiable\nDirection départementale des finances publiques - 62-2026-09-02-00008 - DS SGC MONTREUIL HANOCQ 02 09 2026 version 47\npubliable\nEcuires, le 02/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, VALERY WIMETZ, responsable du Service de Gestion Comptable de Montreuil sur Mer.\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n° 2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à Mme HANOCQ Caroline, à l’effet de :\nx statuer sur les demandes de délai de paiement, le délai accordé ne pouvant excéder 36 mois et\nporter sur une somme supérieure à 10 000 euros ;\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\n Autres (veuillez préciser les éventuelles compétences déléguées au mandataire)#\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nSIGNE VALERY WIMETZ SIGNE CAROLINE HANOCQ\nDirection départementale des finances publiques - 62-2026-09-02-00008 - DS SGC MONTREUIL HANOCQ 02 09 2026 version 48\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature à la DDFP de Montreuil",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais confère une délégation permanente de signature à Mme Caroline Hanocq, responsable du Service de Gestion Comptable de Montreuil-sur-Mer. Cette habilitation couvre le traitement des demandes de délai de paiement (jusqu'à 36 mois et 10 000 euros minimum), la gestion des recettes et dépenses, et l'ensemble des actes administratifs de recouvrement et de gestion du service fiscal local.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Montreuil-sur-Mer"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "gestion comptable",
+      "finances publiques",
+      "recouvrement",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "DS SGC Saint-Omer 01 09 2026 ELODIE PEYRON version publiable",
+    "titre_complet": "62-2026-09-01-00024 - DS SGC Saint-Omer 01 09 2026 ELODIE PEYRON version publiable",
+    "page_debut": 49,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00024\nDS SGC Saint-Omer 01 09 2026 ELODIE PEYRON\nversion publiable\nDirection départementale des finances publiques - 62-2026-09-01-00024 - DS SGC Saint-Omer 01 09 2026 ELODIE PEYRON version 49\npubliable\nLonguenesse, le 01/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, Alain DURAND, responsable du Service de Gestion Comptable de Saint-Omer\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à Madame Elodie PEYRON, Inspectrice\ndes Finances Publiques, à l’effet de :\nx statuer sur les demandes de délai de paiement.\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nAlain DURAND Elodie PEYRON\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-01-00024 - DS SGC Saint-Omer 01 09 2026 ELODIE PEYRON version 50\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature à la DGFP Saint-Omer",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais confie une délégation permanente de signature à Madame Elodie Peyron, Inspectrice des Finances Publiques. Cette délégation lui permet de statuer sur les demandes de délai de paiement, d'opérer les recettes et dépenses, et de gérer l'ensemble des actes administratifs et comptables du service de Saint-Omer.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Omer"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "comptabilité",
+      "recouvrement"
+    ]
+  },
+  {
+    "titre": "DS SGC Saint-Omer 01 09 2026 MARIE DURLIN version publiable",
+    "titre_complet": "62-2026-09-01-00025 - DS SGC Saint-Omer 01 09 2026 MARIE DURLIN version publiable",
+    "page_debut": 51,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00025\nDS SGC Saint-Omer 01 09 2026 MARIE DURLIN\nversion publiable\nDirection départementale des finances publiques - 62-2026-09-01-00025 - DS SGC Saint-Omer 01 09 2026 MARIE DURLIN version 51\npubliable\nLonguenesse, le 01/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, Alain DURAND, responsable du Service de Gestion Comptable de Saint-Omer\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à Madame Marie DURLIN, Inspectrice\ndes Finances Publiques, à l’effet de :\nx statuer sur les demandes de délai de paiement.\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nAlain DURAND Marie DURLIN\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-01-00025 - DS SGC Saint-Omer 01 09 2026 MARIE DURLIN version 52\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature à une inspectrice des finances",
+    "resume": "La Direction départementale des finances publiques du Pas-de-Calais confère une délégation permanente de signature à Madame Marie Durlin, inspectrice des finances publiques. Cette habilitation lui permet d'exercer l'ensemble des fonctions comptables et de gestion financière du service de Saint-Omer, notamment le traitement des délais de paiement, la perception des recettes et l'engagement de poursuites.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Omer"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "comptabilité",
+      "gestion administrative",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "DS SGC Saint-Omer 01 09 2026 MYLENE HERMANT version publiable",
+    "titre_complet": "62-2026-09-01-00026 - DS SGC Saint-Omer 01 09 2026 MYLENE HERMANT version publiable",
+    "page_debut": 53,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00026\nDS SGC Saint-Omer 01 09 2026 MYLENE\nHERMANT version publiable\nDirection départementale des finances publiques - 62-2026-09-01-00026 - DS SGC Saint-Omer 01 09 2026 MYLENE HERMANT version 53\npubliable\nLonguenesse, le 01/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, Alain DURAND, responsable du Service de Gestion Comptable de Saint-Omer\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à Madame Mylène HERMANT, Inspectrice\ndes Finances Publiques, à l’effet de :\nx statuer sur les demandes de délai de paiement.\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nAlain DURAND Mylène HERMANT\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-01-00026 - DS SGC Saint-Omer 01 09 2026 MYLENE HERMANT version 54\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature à l'inspectrice Mylène Hermant",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais confère une délégation permanente de signature à Mylène Hermant, inspectrice des Finances publiques. Cette habilitation lui permet de statuer sur les demandes de délai de paiement, de gérer l'ensemble des opérations comptables et de recouvrement, et de représenter l'administration en justice.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Omer",
+      "Arras",
+      "Longuenesse"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "comptabilité",
+      "recouvrement",
+      "gestion administrative"
+    ]
+  },
+  {
+    "titre": "DS SGC Saint-Omer 01 09 2026 PATRICIA PACHECO version publiable",
+    "titre_complet": "62-2026-09-01-00027 - DS SGC Saint-Omer 01 09 2026 PATRICIA PACHECO version publiable",
+    "page_debut": 55,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00027\nDS SGC Saint-Omer 01 09 2026 PATRICIA\nPACHECO version publiable\nDirection départementale des finances publiques - 62-2026-09-01-00027 - DS SGC Saint-Omer 01 09 2026 PATRICIA PACHECO 55\nversion publiable\nLonguenesse, le 01/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de signature\nLe comptable, Alain DURAND, responsable du Service de Gestion Comptable de Saint-Omer\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nArrête :\nArticle 1er – Délégation permanente de signature est donnée à Madame Patricia PACHECO, Inspectrice\ndes Finances Publiques, à l’effet de :\nx statuer sur les demandes de délai de paiement.\nx opérer les recettes et les dépenses relatives à tous les services, sans exception ;\nx recevoir et de payer toutes sommes qui sont ou pourraient être légitimement dues, à quelque\ntitre que ce soit, par tous contribuables, débiteurs ou créanciers des divers services dont la\ngestion lui est confiée ;\nx exercer toutes poursuites, d’acquitter tous mandats, et d’exiger la remise des titres, quittances et\npièces justificatives prescrites par les règlements ;\nx donner ou retirer quittance valable de toutes sommes reçues ou payées ;\nx de signer récépissés, quittances et décharges ;\nx de fournir tous états de situation et toutes autres pièces demandées par l’Administration ;\nx signer, au nom et sous la responsabilité du comptable soussigné, l'ensemble des actes relatifs au\nrecouvrement, et notamment les actes de poursuite et les déclarations de créances ainsi que\npour ester en justice, ainsi que tous actes d'administrations et de gestion du service ;\nx prendre l’engagement de ratifier tout ce que son mandataire aura pu faire en vertu de la présente\nprocuration.\nArticle 2 – La présente décision de délégation sera publiée au recueil des actes administratifs de la\nPréfecture du Pas-de-Calais.\nLe Comptable, Le Mandataire,\nAlain DURAND Patricia PACHECO\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-01-00027 - DS SGC Saint-Omer 01 09 2026 PATRICIA PACHECO 56\nversion publiable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature au service des finances publiques",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais a accordé une délégation permanente de signature à Madame Patricia Pacheco, Inspectrice des Finances Publiques. Cette habilitation lui permet d'exercer l'ensemble des actes relatifs au recouvrement fiscal, à la gestion comptable et à l'administration du service du Saint-Omer.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Omer",
+      "Longuenesse"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "comptabilité",
+      "recouvrement fiscal",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "DS SIE ARRAS 01-09-2026 version publiable",
+    "titre_complet": "62-2026-09-01-00022 - DS SIE ARRAS 01-09-2026 version publiable",
+    "page_debut": 57,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature au service des impôts des entreprises",
+    "resume": "Arrêté de délégation de signature accordant à plusieurs agents (inspectrice et inspecteur des finances publiques, contrôleurs et contrôleuses) le pouvoir de signer les décisions fiscales relatives aux impôts des entreprises du département du Pas-de-Calais, dans les limites de montants définis pour chaque catégorie d'acte (contentieux, gracieux, remboursement de TVA, délai de paiement).",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "impôts entreprises",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "DS SIE BOULOGNE 01 09 2026 version publiable",
+    "titre_complet": "62-2026-09-01-00034 - DS SIE BOULOGNE 01 09 2026 version publiable",
+    "page_debut": 62,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégations de signature au service des impôts",
+    "resume": "Arrêté portant délégation de signature à plusieurs agents du service des impôts des entreprises de Boulogne-sur-Mer et Montreuil-sur-Mer. L'acte précise les limites de montants et domaines de compétence (contentieux fiscal, gracieux fiscal, TVA, délais de paiement, recouvrement) pour chaque agent signataire.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Boulogne-sur-Mer",
+      "Montreuil-sur-Mer"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "impôts des entreprises",
+      "contentieux fiscal",
+      "gracieux fiscal"
+    ]
+  },
+  {
+    "titre": "DS SIE LENS 02 09 2026 version publiable",
+    "titre_complet": "62-2026-09-02-00011 - DS SIE LENS 02 09 2026 version publiable",
+    "page_debut": 67,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-02-00011\nDS SIE LENS 02 09 2026 version publiable\nDirection départementale des finances publiques - 62-2026-09-02-00011 - DS SIE LENS 02 09 2026 version publiable 67\nDELEGATION DE SIGNATURE\nD’UN RESPONSABLE DE SERVICE DES IMPÔTS DES ENTREPRISES\nLe comptable, responsable du service des impôts des entreprises de LENS\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son\nannexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nArrête :\nArticle 1er\nDélégation de signature est donnée à Madame RENARD Magalie, Madame NORMAND Dominique et\nMadame VASSEUR Audrey adjointes au responsable du service des impôts des entreprises de Lens, à\nl’effet de signer :\n1°)en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite de 100 000 € ;\n2°)en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet, dans la limite\nde 100 000 € ;\n3°)les décisions sur les demandes de plafonnement en fonction de la valeur ajoutée de contribution\néconomique territoriale, sans limite de montant pour les entreprises dont tous les établissements sont\nsitués dans le ressort du service ;\n4°)les décisions sur les demandes de remboursement de crédit de TVA, dans la limite de 200 000 € par\ndemande ;\n5°)les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses sans\nlimitation de montant ;\n6°)au nom et sous la responsabilité du comptable soussigné,\na) les décisions relatives aux demandes de délai de paiement, le délai accordé ne pouvant excéder\n12 mois et porter sur une somme supérieure à 50 000€\nb) les avis de mise en recouvrement et les mises en demeure de payer ;\nc) l'ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les\ndéclarations de créances ainsi que pour ester en justice ;\nd) tous actes d'administration et de gestion du service.\nDirection départementale des finances publiques - 62-2026-09-02-00011 - DS SIE LENS 02 09 2026 version publiable 68\nArticle 2\nDélégation de signature est donnée à l’effet de signer :\n1°)en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite précisée dans le tableau ci-dessous ;\n2°)en matière de gracieux fiscal d’assiette (*) et de recouvrement, les décisions portant remise, modération\nou rejet, dans la limite précisée dans le tableau ci-dessous ;\n3°)les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n4°)les avis de mise en recouvrement et les mises en demeure de payer ;\n5°)l'ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les déclarations\nde créances ;\naux agents désignés ci-après :\nLimite\nDurée\ndes décisions Somme maximale\nLimite maximale\nNom et prénom des gracieuses pour laquelle un\nGrade des décisions des délais\nagents d’assiette (*) et délai de paiement\ncontentieuses de\nde peut être accordé\npaiement\nrecouvrement\nMagalie RENARD\nDominique NORMAND\ninspectrice 50 000 euros 50 000 euros 12 mois 50 000 euros\nAudrey VASSEUR\nFrédéric ZASLONA\nAudrey JOLY\nLaurence BOUCHER\nLaurence LAUDE\nMarc GUILLUY\nDamien BOBER\nJonathan DELANNOY\ncontrôleur/\nXavier SERAFINOWSKI\nCarole MAISON contrôleur 30 000 euros 30 000 euros 6 mois 30 000 euros\nArmelle SUROWIEC principal\nCedric LECUYER\nYannick HOFFMANN\nSandrine BARBIER\nVincent UTYK\nLionel PAGIE\nSophie MINCKE\nMaxime SEL\nAurore ALVES-MARINHO\nClara BERRIER agent administratif 5 000 euros 0 euros 6 mois 5 000 euros\nGunes UNVER\nSamira BAHIJ principal(*)\nChloé GOURNAY\n(*) le gracieux d’assiette continue, dans le département, d’être exclu de la délégation susceptible d’être\naccordée aux agents de catégorie C.\nArticle 3\nLe présent arrêté sera publié au recueil des actes administratif du département du Pas-de-Calais\nA Lens, le 2 Septembre 2026\nLe comptable,\nResponsable du service des impôts des entreprises,\nLESTIENNE Philippe\nSigné\nDirection départementale des finances publiques - 62-2026-09-02-00011 - DS SIE LENS 02 09 2026 version publiable 69",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature au service des impôts de Lens",
+    "resume": "La direction départementale des finances publiques du Pas-de-Calais confie à trois adjointes et plusieurs agents du service des impôts des entreprises de Lens le pouvoir de signer des décisions fiscales dans des limites de montants définis (de 30 000 à 200 000 euros selon le type de dossier). Cet acte concerne uniquement l'organisation interne de l'administration fiscale locale.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lens"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "impôts",
+      "finances publiques",
+      "administration interne"
+    ]
+  },
+  {
+    "titre": "DS SIP BRUAY 03 09 2026 version publiable",
+    "titre_complet": "62-2026-09-03-00005 - DS SIP BRUAY 03 09 2026 version publiable",
+    "page_debut": 70,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-03-00005\nDS SIP BRUAY 03 09 2026 version publiable\nDirection départementale des finances publiques - 62-2026-09-03-00005 - DS SIP BRUAY 03 09 2026 version publiable 70\nDELEGATION DE SIGNATURE\nD’UN RESPONSABLE DE SERVICE DES IMPÔTS DES PARTICULIERS\nLe comptable, responsable du service des impôts des particuliers de BRUAY LA BUISSIERE\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son\nannexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nArrête :\nArticle 1er\nDélégation de signature est donnée à Mme CARON Sandrine, Inspectrice des Finances Publiques ,\nadjoint au responsable du service des impôts des particuliers de BRUAY LA BUISSIERE , à l’effet de signer :\n1°) dans la limite de 100 000 €, en matière de contentieux fiscal d’assiette, les décisions d’admission totale,\nd'admission partielle ou de rejet, de dégrèvement ou restitution d’office et sans limitation de montant, les\ndécisions prises sur les demandes de dégrèvement de taxe foncière pour pertes de récoltes] ;\n2°) en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet dans la limite\nde 100 000 € ;\n3°) les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses, sans\nlimitation de montant ;\n4°) au nom et sous la responsabilité du comptable soussigné,\na) les décisions relatives aux demandes de délai de paiement, le délai accordé ne pouvant excéder\nN mois et porter sur une somme supérieure à 50 000 € ;\nb) les avis de mise en recouvrement et les mises en demeure de payer ;\nc) l'ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les\ndéclarations de créances ainsi que pour ester en justice ;\nd) tous actes d'administration et de gestion du service.\nArticle 2 (mission d’assiette)\nDélégation de signature est donnée à l’effet de signer, en matière de contentieux fiscal d’assiette, les\ndécisions d’admission totale, d'admission partielle ou de rejet, de dégrèvement ou restitution d’office et, en\nmatière de gracieux fiscal d’assiette (*), les décisions portant remise, modération ou rejet :\n1°) dans la limite de 50 000 €, aux agents des finances publiques de catégorie A désignés ci-après :\n- CARON Sandrine\n2°) dans la limite de 30 000 €, aux agents des finances publiques de catégorie B désignés ci-après :\n- DEBOMY Bruno\n- MOROY Christel\n- GAVREL Romuald\nDirection départementale des finances publiques - 62-2026-09-03-00005 - DS SIP BRUAY 03 09 2026 version publiable 71\n- ROUSSEL Éric\n- SALOME Alexandre\n- DELOUMEAUX Lucile\n3°) dans la limite de 5 000 €, aux agents des finances publiques de catégorie C désignés ci-après (*) :\n- VIANDIER Yannick\n- DUBARRAL Christine\n- LEMAIRE Isabelle\n- LAMBERT Laurent\n- KORDAS-LEBLOND Cécile\n(*) le gracieux d’assiette continue, dans le département, d’être exclu de la délégation susceptible d’être\naccordée aux agents de catégorie C.\nArticle 3 (mission recouvrement)\nDélégation de signature est donnée à l'effet de signer :\n1°) les décisions gracieuses, relatives aux pénalités et aux frais de poursuites, portant remise, modération\nou rejet, dans la limite précisée dans le tableau ci-dessous ;\n2°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n3°) les avis de mise en recouvrement et les mises en demeure de payer ;\n4°) l'ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les déclarations\nde créances ;\naux agents désignés ci-après :\nSomme maximale\nLimite Durée maximale\nNom et prénom pour laquelle un\nGrade des décisions des délais de\ndes agents délai de paiement\ngracieuses paiement\npeut être accordé\nCARON Sandrine inspecteur 15 000 euros 12 mois 15 000 euros\nDELOUMEAUX contrôleur/contrôleur\nLucile principal\n10 000 euros 6 mois 5 000 euros\nSALOME\nAlexandre\nKORDAS- agent administratif/agent\nLEBLOND Cécile administratif principal 5 000 euros 6 mois 2 000 euros\nLAMBERT Laurent\nArticle 4 (mission accueil : assiette et recouvrement)\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite précisée dans le tableau ci-dessous ;\n2°) en matière de gracieux fiscal d’assiette (*) et de recouvrement, les décisions portant remise, modération\nou rejet, dans la limite précisée dans le tableau ci-dessous ;\n3°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\naux agents désignés ci-après :\nDirection départementale des finances publiques - 62-2026-09-03-00005 - DS SIP BRUAY 03 09 2026 version publiable 72\nSomme\nLimite\nLimite des Durée maximale pour\nNom et des décisions\ndécisions maximale laquelle un délai\nprénom des Grade gracieuses\ncontentieus des délais de paiement\nagents d’assiette (*) et\nes de paiement peut être\nde recouvrement\naccordé\nCARON inspectrice\n50 000 euros 15 000 euros 12 mois 15 000 euros\nSandrine\nSALOME\nAlexandre\nROUSSEL Éric\nDEBOMY\nBruno\ncontrôleur/contrôleur\nMOROY 30 000 euros 10 000 euros 6 mois 5 000 euros\nprincipal\nChristel\nGAVREL\nRomuald\nDELOUMEAUX\nLucile\nVIANDIER agent administratif/agent\nYannick administratif principal\nLAMBERT\nLaurent\n5 000 euros 5 000 euros 6 mois 2 000 euros\nKORDAS-\nLEBLOND\nCécile\n(*) le gracieux d’assiette continue, dans le département, d’être exclu de la délégation susceptible d’être\naccordée aux agents de catégorie C.\nArticle 5\nLe présent arrêté sera publié au recueil des actes administratifs du département du Pas-de-Calais\nA BRUYA LA BUISSIERE le 3 Septembre\nLe comptable,\nResponsable de service des impôts des particuliers,\nSigné\nChristophe DUMINY\nDirection départementale des finances publiques - 62-2026-09-03-00005 - DS SIP BRUAY 03 09 2026 version publiable 73",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de signature au service des impôts de Bruay",
+    "resume": "La direction départementale des finances publiques du Pas-de-Calais confère une délégation de signature à plusieurs agents du service des impôts des particuliers de Bruay-la-Buissière. Cette habilitation leur permet de signer des décisions fiscales (contentieux, gracieux, recouvrement) dans des limites de montant variables selon leur catégorie professionnelle.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Bruay-la-Buissière"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "impôts",
+      "contentieux fiscal",
+      "gracieux fiscal",
+      "recouvrement"
+    ]
+  },
+  {
+    "titre": "DS SIP MONTREUIL 01 09 2026 version publiable",
+    "titre_complet": "62-2026-09-01-00036 - DS SIP MONTREUIL 01 09 2026 version publiable",
+    "page_debut": 74,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00036\nDS SIP MONTREUIL 01 09 2026 version publiable\nDirection départementale des finances publiques - 62-2026-09-01-00036 - DS SIP MONTREUIL 01 09 2026 version publiable 74\nDÉLÉGATION DE SIGNATURE\nD’UN RESPONSABLE DE SERVICE DES IMPÔTS DES PARTICULIERS\nLe comptable, responsable du service des impôts des particuliers de Montreuil-Sur-Mer\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son\nannexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nArrête :\nArticle 1er\nDélégation de signature est donnée à Mme DUFLOT Nathalie, INSPECTRICE, adjointe au responsable du\nservice des impôts des particuliers de Montreuil-sur-Mer\nDélégation de signature est donnée à M. TASARZ Samuel, INSPECTEUR, adjoint au responsable du\nservice des impôts des particuliers de Montreuil-sur-Mer\nà l’effet de signer :\n1°) dans la limite de 100 000 €, en matière de contentieux fiscal d’assiette, les décisions d’admission totale,\nd'admission partielle ou de rejet, de dégrèvement ou restitution d’office ;\n2°) en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet dans la limite\nde 100 000 € ;\n3°) les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses, sans\nlimitation de montant ;\n4°) au nom et sous la responsabilité du comptable soussigné,\na) les décisions relatives aux demandes de délai de paiement, le délai accordé ne pouvant excéder\n12 mois et porter sur une somme supérieure à 60 000 € ;\nb) les avis de mise en recouvrement et les mises en demeure de payer ;\nc) l'ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les\ndéclarations de créances ainsi que pour ester en justice ;\nd) tous actes d'administration et de gestion du service.\nDirection départementale des finances publiques - 62-2026-09-01-00036 - DS SIP MONTREUIL 01 09 2026 version publiable 75\nArticle 2 (mission d’assiette)\nDélégation de signature est donnée à l’effet de signer, en matière de contentieux fiscal d’assiette, les\ndécisions d’admission totale, d'admission partielle ou de rejet, de dégrèvement ou restitution d’office et, en\nmatière de gracieux fiscal d’assiette (*), les décisions portant remise, modération ou rejet :\n1°) dans la limite de 50 000 €, aux agents des finances publiques de catégorie A désignés ci-après :\n- DUFLOS Nathalie\n- TASARZ Samuel\n2°) dans la limite de 10 000 €, aux agents des finances publiques de catégorie B désignés ci-après :\n- PETREE Catherine\n- SAISON Céline\n- HERTAULT Christine\n- MARET Catherine\n3°) dans la limite de 2 000 €, aux agents des finances publiques de catégorie C désignés ci-après (*) :\n- HENNEVIN Alexandre\n- RENIER Anaîs\n- GOUDAL Gaétan\n- LECOINTE Jordan\n- HOFFMAN Morgane\n(*) le gracieux d’assiette continue, dans le département, d’être exclu de la délégation susceptible d’être\naccordée aux agents de catégorie C.\nArticle 3 (mission recouvrement)\nDélégation de signature est donnée à l'effet de signer :\n1°) les décisions gracieuses, relatives aux pénalités et aux frais de poursuites, portant remise, modération\nou rejet, dans la limite précisée dans le tableau ci-dessous ;\n2°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n3°) les avis de mise en recouvrement et les mises en demeure de payer ;\n4°) l'ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les déclarations\nde créances ;\naux agents désignés ci-après :\nSomme maximale\nLimite Durée maximale\npour laquelle un\nNom et prénom des agents Grade des décisions des délais de\ndélai de paiement\ngracieuses paiement\npeut être accordé\nTASARZ Samuel Inspecteur 5000 euros 8 mois 50 000 €\nDUFLOS Nathalie Inspecteur 5000 euros 8 mois 50 000 €\nVANHOYE Jean-Robert contrôleur\n2000 euros 8 mois 10 000 euros\nprincipal\nDUBRULLE Murielle contrôleur\n2000 euros 8 mois 10 000 euros\nprincipal\nDESREMAUX Samuel agent administratif\n1000 euros 8 mois 5 000 euros\nprincipal\nDUCROCQ Emeline agent administratif\n1000 euros 8 mois 5 000 euros\nprincipal\nDEBEUGNY Kevin agent administratif\n1000 euros 8 mois 5 000 euros\nprincipal\nMATHIEU Laurent agent administratif\n1000 euros 8 mois 5 000 euros\nprincipal\nDirection départementale des finances publiques - 62-2026-09-01-00036 - DS SIP MONTREUIL 01 09 2026 version publiable 76\nArticle 4\nLe présent arrêté sera publié au recueil des actes administratifs du département du Pas-de-Calais\nA Ecuires, le 1er septembre 2026\nLe comptable,\nResponsable de service des impôts des particuliers,\nSigné\nJérôme CRAPET\nDirection départementale des finances publiques - 62-2026-09-01-00036 - DS SIP MONTREUIL 01 09 2026 version publiable 77",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégations de signature au service des impôts de Montreuil",
+    "resume": "L'administration fiscale confère des pouvoirs de signature à plusieurs agents des impôts à Montreuil-sur-Mer pour traiter les contentieux et le recouvrement fiscal. Les inspecteurs peuvent signer jusqu'à 100 000 euros, les agents de catégorie B jusqu'à 10 000 euros, et ceux de catégorie C jusqu'à 2 000 euros selon leur domaine d'intervention.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Montreuil-sur-Mer"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "contentieux fiscal",
+      "recouvrement"
+    ]
+  },
+  {
+    "titre": "Liste Resp Service locaux DDFiP62 - SEPTEMBRE 2026",
+    "titre_complet": "62-2026-09-01-00029 - Liste Resp Service locaux DDFiP62 - SEPTEMBRE 2026",
+    "page_debut": 78,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00029\nListe Resp Service locaux DDFiP62 - SEPTEMBRE\n2026\nDirection départementale des finances publiques - 62-2026-09-01-00029 - Liste Resp Service locaux DDFiP62 - SEPTEMBRE 2026 78\nDIRECTION DEPARTEMENTALE DES FINANCES PUBLIQUES DU PAS-DE-CALAIS\nListe des responsables de service disposant de la délégation de signature en matière de contentieux et de gracieux fiscal\nPrévue par III de l'article 408 de l'annexe II au code général des impôts\nDate de mise à jour : 01/09/2026\nCette liste remplace la liste publiée précédemment, à compter du 1ER SEPTEMBRE 2026\nResponsables de service Services\nBrigades de vérification et de contrôle\nMR Cédric D'HONDT BDV ARRAS\nMR Sébastien COLLIN BDV BRUAY\nMM Stéphanie PARMENTIER BDV BOULOGNE\nMR Claude FIDELLE BCR\nMR Bertrand FLAVIGNY PCRP\nPôles départementaux\nMR Nelson LANDAS POLE DEPARTEMENTAL D’EXPERTISE\nMR Olivier DEFOSSEZ POLE DEPARTEMENTAL DE PROGRAMMATION\nPôle de Recouvrement Spécialisé\nMR Michael LACRAMPE PRS\nService Départemental des Impôts Fonciers\nMM Cécile BERNARD SDIF\nServices de Publicité Foncière et Services de Publicité Foncière et Enregistrement\nMM Caroline BAILLIET SPFE ARRAS\nMR Sébastien DESMET SPFE BETHUNE\nMM Nathalie HURET SPFE BOULOGNE-SUR-MER\nServices des Impôts des Entreprises\nMR Patrice DURIEZ SIE ARRAS\nMM Marie-Pierre DELEU SIE BETHUNE\nMR Laurent BELVAL SIE BOULOGNE-SUR-MER\nMR Sébastien HUTEAU SIE CALAIS\nMR Philippe LESTIENNE SIE LENS\nServices des Impôts des Particuliers\nMR Sylvain CITERNE SIP ARRAS\nMM Anne-Marie ROUTIER SIP BETHUNE\nMR Christophe NOISETTE SIP BOULOGNE-SUR-MER\nMR Erwan TEURNIER SIP CALAIS\nMR Christophe DUMINY SIP BRUAY-LA-BUISSIERE\nMR Michel PAVY SIP HENIN-BEAUMONT\nMR Bruno GIARRUSSO SIP LILLERS\nMR Olivier LELEU SIP LENS\nMR Jérôme CRAPET SIP MONTREUIL-SUR-MER\nMR Arnaud TELLIER SIP SAINT-OMER\nPôle National de Contrôle à Distance des Particuliers\nMM Florine LEMAIRE PNCD BETHUNE\nPour le Directeur Départemental des Finances Publiques,\nL’Administrateur des Finances Publiques Adjoint,\nGuillaume FOUGNIES\nDirection départementale des finances publiques - 62-2026-09-01-00029 - Liste Resp Service locaux DDFiP62 - SEPTEMBRE 2026 79",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégations de signature aux responsables de la DDFiP 62",
+    "resume": "La Direction départementale des finances publiques du Pas-de-Calais publie sa liste mise à jour des responsables de service disposant d'une délégation de signature en matière de contentieux et de gracieux fiscal. Ce document administratif interne désigne les agents compétents pour représenter l'administration fiscale dans les différents services locaux.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Arras",
+      "Bruay",
+      "Boulogne-sur-Mer",
+      "Béthune",
+      "Calais",
+      "Lens",
+      "Henin-Beaumont",
+      "Lillers",
+      "Montreuil-sur-Mer",
+      "Saint-Omer"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "contentieux fiscal",
+      "services locaux",
+      "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "PC SGC LILLERS DERISBOURG 01 09 2026 version publiable",
+    "titre_complet": "62-2026-09-01-00032 - PC SGC LILLERS DERISBOURG 01 09 2026 version publiable",
+    "page_debut": 80,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00032\nPC SGC LILLERS DERISBOURG 01 09 2026 version\npubliable\nDirection départementale des finances publiques - 62-2026-09-01-00032 - PC SGC LILLERS DERISBOURG 01 09 2026 version publiable 80\nLillers, le 1er septembre 2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de pouvoir relative aux procédures collectives\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction\nGénérale des Finances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques,\nVu le décret n°2006-1709 du 23 décembre 2006 pris en application de la loi n°2005-845 du 26 juillet\n2005 de sauvegarde des entreprises et portant diverses dispositions relatives aux administrateurs\njudiciaires et aux mandatires judiciaires\nArrête :\nLe comptable, Patrice GOUY, responsable du Service de Gestion Comptable de Liller, declare et donne\ndélégation permanente de pouvoir à Mme Julie DERISBOURG, contrôleuse des Finances Publiques,\nd’effectuer les déclarations de créances en matière de procédures collectives d’apurement du passif et\nde d’agir en justice en mes lieu et place\nLa présente décision de délégation sera publiée au recueil des actes administratifs de la Préfecture du\nPas-de-Calais.\nLe Comptable, Le Mandataire,\nSigné Signé\nDirection départementale des finances publiques - 62-2026-09-01-00032 - PC SGC LILLERS DERISBOURG 01 09 2026 version publiable 81",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de pouvoir interne aux Finances Publiques",
+    "resume": "La Direction départementale des Finances Publiques du Pas-de-Calais confère une délégation permanente de pouvoir à Mme Julie Derisbourg, contrôleuse des Finances Publiques, pour effectuer les déclarations de créances en matière de procédures collectives et agir en justice au nom du comptable Patrice Gouy.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lillers"
+    ],
+    "mots_cles": [
+      "délégation de pouvoir",
+      "procédures collectives",
+      "finances publiques",
+      "déclarations de créances",
+      "mandataire"
+    ]
+  },
+  {
+    "titre": "PC SGC MONTREUIL HANOCQ 02 09 2026 version publiable",
+    "titre_complet": "62-2026-09-02-00009 - PC SGC MONTREUIL HANOCQ 02 09 2026 version publiable",
+    "page_debut": 82,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-02-00009\nPC SGC MONTREUIL HANOCQ 02 09 2026\nversion publiable\nDirection départementale des finances publiques - 62-2026-09-02-00009 - PC SGC MONTREUIL HANOCQ 02 09 2026 version 82\npubliable\nEcuires, le 02/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de pouvoir relative aux procédures collectives\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction Générale des\nFinances Publiques,\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des Finances\nPubliques,\nVu le décret n° 2006-1709 du 23 décembre 2006 pris en application de la loi n° 2005-845 du 26 juillet 2005 de\nsauvegarde des entreprises et portant diverses dispositions relatives aux administrateurs judiciaires et aux\nmandataires judiciaires,\nArrête :\nLe comptable, Valéry WIMETZ, responsable du Service de Gestion Compable de Montreuil sur Mer, déclare et\ndonne délégation permanente de pouvoir à Mme HANOCQ Caroline, inspectrice, d’effectuer les déclarations de\ncréances en matière de procédures collectives d’apurement du passif et d’agir en justice en mes lieu et place.\nLa présente décision de délégation sera publiée au recueil des actes administratifs de la Préfecture du Pas-de-\nCalais.\nLe Comptable, Le Mandataire,\nSIGNE VALERY WIMETZ SIGNE CAROLINE HANOCQ\nDirection départementale des finances publiques - 62-2026-09-02-00009 - PC SGC MONTREUIL HANOCQ 02 09 2026 version 83\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de pouvoir à la DGFIP de Montreuil",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais transfère, par acte interne, des pouvoirs au comptable responsable du Service de Gestion Comptable de Montreuil sur Mer. Mme Caroline Hanocq, inspectrice, est autorisée à effectuer les déclarations de créances en procédures collectives et à agir en justice au nom de l'administration.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Montreuil-sur-Mer"
+    ],
+    "mots_cles": [
+      "délégation de pouvoir",
+      "DGFIP",
+      "procédures collectives",
+      "gestion comptable",
+      "pouvoirs judiciaires"
+    ]
+  },
+  {
+    "titre": "PC SGC Saint-Omer 01 09 2026 ELODIE PEYRON version publiable",
+    "titre_complet": "62-2026-09-01-00028 - PC SGC Saint-Omer 01 09 2026 ELODIE PEYRON version publiable",
+    "page_debut": 84,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00028\nPC SGC Saint-Omer 01 09 2026 ELODIE PEYRON\nversion publiable\nDirection départementale des finances publiques - 62-2026-09-01-00028 - PC SGC Saint-Omer 01 09 2026 ELODIE PEYRON version 84\npubliable\nLonguenesse, le 01/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de pouvoir relative aux procédures collectives\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction Générale des\nFinances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des Finances\nPubliques,\nVu le décret n°2006-1709 du 23 décembre 2006 pris en application de la loi n° 2005-845 du 26 juillet 2005 de\nsauvegarde des entreprises et portant diverses dispositions relatives aux administrateurs judiciaires et aux\nmandataires judiciaires,\nArrête :\nLe comptable,Alain DURAND, responsable du Service de Gestion Comptable de Saint-Omer, déclare et donne\ndélégation permanente de pouvoir à Madame Elodie PEYRON, Inspectrice Divisionnaire des Finances Publiques,\nd’effectuer les déclarations de créances en matière de procédures collectives d’apurement du passif et d’agir en\njustice en mes lieu et place.\nLa présente décision de délégation sera publiée au recueil des actes administratifs de la Préfecture du Pas-de-\nCalais.\nLe Comptable, Le Mandataire\nSigné Signé\nAlain DURAND Elodie PEYRON\nDirection départementale des finances publiques - 62-2026-09-01-00028 - PC SGC Saint-Omer 01 09 2026 ELODIE PEYRON version 85\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de pouvoir aux finances publiques",
+    "resume": "La Direction départementale des finances publiques du Pas-de-Calais transfère par délégation permanente de pouvoir à Madame Elodie Peyron, Inspectrice Divisionnaire, l'habilitation à déclarer les créances en procédures collectives et à agir en justice pour l'apurement du passif. Cette mesure est interne à l'administration fiscale.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Omer"
+    ],
+    "mots_cles": [
+      "délégation de pouvoir",
+      "finances publiques",
+      "procédures collectives",
+      "apurement du passif"
+    ]
+  },
+  {
+    "titre": "PC SGC Saint-Omer 01 09 2026 MYLENE HERMANT version publiable",
+    "titre_complet": "2 62-2026-09-01-00023 - PC SGC Saint-Omer 01 09 2026 MYLENE HERMANT version publiable",
+    "page_debut": 86,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-09-01-00023\nPC SGC Saint-Omer 01 09 2026 MYLENE\nHERMANT version publiable\nDirection départementale des finances publiques - 62-2026-09-01-00023 - PC SGC Saint-Omer 01 09 2026 MYLENE HERMANT version 86\npubliable\nLonguenesse, le 01/09/2026\nDirection départementale\ndes Finances publiques du Pas-de-Calais\nDivision Stratégie et Communication\n5, rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDélégation de pouvoir relative aux procédures collectives\nVu le Code Général des Impôts, et notamment les articles 396 A et 410 de son annexe II ;\nVu le Livre de Procédures Fiscales ;\nVu le décret n°2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique,\nVu le décret n°2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction Générale des\nFinances Publiques,\nVu le décret n°2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des Finances\nPubliques,\nVu le décret n°2006-1709 du 23 décembre 2006 pris en application de la loi n° 2005-845 du 26 juillet 2005 de\nsauvegarde des entreprises et portant diverses dispositions relatives aux administrateurs judiciaires et aux\nmandataires judiciaires,\nArrête :\nLe comptable,Alain DURAND, responsable du Service de Gestion Comptable de Saint-Omer, déclare et donne\ndélégation permanente de pouvoir à Madame Mylène HERMANT, Inspectrice Divisionnaire des Finances Publiques,\nd’effectuer les déclarations de créances en matière de procédures collectives d’apurement du passif et d’agir en\njustice en mes lieu et place.\nLa présente décision de délégation sera publiée au recueil des actes administratifs de la Préfecture du Pas-de-\nCalais.\nLe Comptable, Le Mandataire\nSigné Signé\nAlain DURAND Mylène HERMANT\nDirection départementale des finances publiques - 62-2026-09-01-00023 - PC SGC Saint-Omer 01 09 2026 MYLENE HERMANT version 87\npubliable",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Délégation de pouvoir aux finances publiques",
+    "resume": "La Direction départementale des Finances publiques du Pas-de-Calais transfère par délégation permanente de pouvoir à Mylène Hermant, Inspectrice Divisionnaire, la compétence d'effectuer les déclarations de créances en matière de procédures collectives et d'agir en justice. Cette mesure relève de la gestion administrative interne du service.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Omer",
+      "Longuenesse"
+    ],
+    "mots_cles": [
+      "délégation de pouvoir",
+      "finances publiques",
+      "procédures collectives",
+      "déclarations de créances"
+    ]
+  },
+  {
+    "titre": "arrêté retrait autorisation temporaire d'enseigner Amélie Cornart",
+    "titre_complet": "62-2026-08-20-00014 - arrêté retrait autorisation temporaire d'enseigner Amélie Cornart",
+    "page_debut": 91,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Retrait d'autorisation d'enseignement à la conduite",
+    "resume": "La Préfecture du Pas-de-Calais retire l'autorisation temporaire d'enseigner la conduite automobile à Amélie Cornart. Cette mesure, prise à titre onéreux, prend fin le 18 août 2026. L'acte sera enregistré au registre national de l'enseignement de la conduite.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [],
+    "mots_cles": [
+      "autorisation d'enseignement",
+      "conduite automobile",
+      "retrait",
+      "instructeur",
+      "sécurité routière"
+    ]
+  },
+  {
+    "titre": "Arrêté portant modification des statuts de l'ASA Val des Sablons II",
+    "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Montreuil-sur-Mer 62-2026-09-07-00002 - Arrêté portant modification des statuts de l'ASA Val des Sablons II",
+    "page_debut": 93,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87306/546513/file/Recueil des actes administratifs n°266 en date du 07 septembre 2026.pdf",
+    "date_recueil": "2026-09-07",
+    "score": 1,
+    "titre_court": "Modification des statuts de l'ASA Val des Sablons II",
+    "resume": "La préfecture du Pas-de-Calais approuve les modifications des statuts de l'association syndicale autorisée (ASA) Val des Sablons II, adoptées par l'assemblée des propriétaires le 25 avril 2026. Ces changements sont conformes à la législation applicable aux associations syndicales de propriétaires.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Montreuil-sur-Mer"
+    ],
+    "mots_cles": [
+      "ASA",
+      "statuts",
+      "association syndicale",
+      "propriétaires"
+    ]
+  },
+  {
+    "titre": "[CHBB]Décision N°30-2026-Délégation de signature DG-LABM",
+    "titre_complet": "Centre Hospitalier Béthune Beuvry / 62-2026-09-07-00003 - [CHBB]Décision N°30-2026-Délégation de signature DG-LABM",
+    "page_debut": 3,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature au laboratoire de biologie médicale",
+    "resume": "Le directeur général du Centre Hospitalier de Béthune Beuvry délègue sa signature à quatre responsables du Laboratoire d'Analyses de Biologie Médicale (LABM) pour les actes courants d'exploitation (commandes, facturation, audits qualité). Cette délégation facilite la gestion administrative du laboratoire tout en préservant certains actes stratégiques à la signature du directeur général.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Béthune"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "laboratoire biologie médicale",
+      "gestion administrative",
+      "hôpital"
+    ]
+  },
+  {
+    "titre": "[CHL]Décision N°96-2026-Délégation de signature DG-LABM",
+    "titre_complet": "Centre Hospitalier de Lens / 62-2026-08-12-00007 - [CHL]Décision N°96-2026-Délégation de signature DG-LABM",
+    "page_debut": 7,
+    "nb_pages": 6,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature pour le laboratoire de biologie",
+    "resume": "Le directeur général du Centre Hospitalier de Lens délègue sa signature à dix responsables du Laboratoire d'Analyses de Biologie Médicale pour certains actes administratifs et financiers, dans des limites de montants prédéfinis. Cette délégation prend effet le 12 août 2026 et remplace les décisions antérieures.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lens"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "laboratoire biologie médicale",
+      "gestion administrative",
+      "Centre Hospitalier Lens"
+    ]
+  },
+  {
+    "titre": "SIGNE SAP106082837 MARIEN",
+    "titre_complet": "Direction départementale de l'emploi du travail et des solidarités / 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN",
+    "page_debut": 13,
+    "nb_pages": 5,
+    "mode": "texte",
+    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00039\nSIGNE SAP106082837 MARIEN\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 13\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/106082837\n«MARIEN ESPACES VERTS»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 14\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 15\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 1er août 2026 par Matthis Marien, en qualité\nde gérant pour l’organisme «MARIEN ESPACES VERTS» dont l’établissement principal est situé au\n66 rue du Cornet Bourdois, à Lillers (62190).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «MARIEN ESPACES VERTS» dont l’établissement principal est situé au 66 rue du\nCornet Bourdois, à Lillers (62190), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Petits travaux de jardinage\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 16\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 17",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'un organisme de services à la personne",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais délivre un récépissé de déclaration pour l'organisme « MARIEN ESPACES VERTS », enregistré sous le numéro SAP/106082837. Cet acte formalise l'inscription de ce prestataire de services à la personne dans le registre départemental conformément à la réglementation du Code du travail.",
+    "type_acte": "AUTRE",
+    "communes": [],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "enregistrement",
+      "Pas-de-Calais",
+      "organisme"
+    ]
+  },
+  {
+    "titre": "SIGNE SAP107030439 POMART",
+    "titre_complet": "62-2026-09-01-00038 - SIGNE SAP107030439 POMART",
+    "page_debut": 18,
+    "nb_pages": 5,
+    "mode": "texte",
+    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00038\nSIGNE SAP107030439 POMART\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 18\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/107030439\n«SANDR’CLEAN»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 19\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 20\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 5 août 2026 par Sandra Pomart, en qualité\nde gérante pour l’organisme «SANDR’CLEAN» dont l’établissement principal est situé au 19\nrésidence la reine des prés, à Auchy-lès-Hesdin (62770).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «SANDR’CLEAN» dont l’établissement principal est situé au 19 résidence la reine des\nprés, à Auchy-lès-Hesdin (62770), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\n• Petits travaux de jardinage\n• Soins et promenade(s) d’animaux pour personnes dépendantes\n• Accompagnement des personnes présentant une invalidité temporaire\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 21\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 22",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Déclaration administrative d'organisme de services",
+    "resume": "La direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais enregistre la déclaration de l'organisme « Sandr'Clean » en tant que prestataire de services à la personne. Cet enregistrement, effectué sous le numéro SAP/107030439, intervient en application des dispositions du Code du travail relatives aux services à la personne.",
+    "type_acte": "DÉCISION",
+    "communes": [],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration administrative",
+      "Pas-de-Calais",
+      "organisme prestataire",
+      "enregistrement"
+    ]
+  },
+  {
+    "titre": "SIGNE SAP532235900 MARMUSE",
+    "titre_complet": "62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE",
+    "page_debut": 23,
+    "nb_pages": 5,
+    "mode": "texte",
+    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00037\nSIGNE SAP532235900 MARMUSE\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 23\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/532235900\n«AMLIA»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 24\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 4 août 2026 par Aurélie Marmuse, en qualité\nde gérante pour l’organisme «AMLIA» dont l’établissement principal est situé au 7 rue Abbé Aimé\nVanhove, à Lens (62300).\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 25\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «AMLIA» dont l’établissement principal est situé au 7 rue Abbé Aimé Vanhove, à Lens\n(62300), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\n• Garde d’enfants de plus de 3 ans à domicile\n• Accompagnement des enfants de plus de 3 ans dans leurs déplacements\n• Petits travaux de jardinage\n• Travaux de petit bricolage\n• Préparation de repas à domicile\n• Livraison de repas à domicile\n• Collecte et livraison à domicile de linge repassé\n• Livraison de courses à domicile\n• Maintenance, entretien et vigilance temporaires à domicile\n• Soins et promenade(s) d’animaux pour personnes dépendantes\n• Conduite du véhicule des personnes en cas d’invalidité temporaire\n• Accompagnement des personnes présentant une invalidité temporaire\n• Assistance aux personnes ayant besoin d’une aide temporaire à leur domicile\n• Livraison de repas à domicile exclusivement pour personnes fragiles\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 26\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 27",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'un organisme de services à la personne",
+    "resume": "Le préfet du Pas-de-Calais enregistre l'organisme « AMLIA » comme prestataire de services à la personne sous le numéro SAP/532235900. Cet enregistrement intervient conformément à la réglementation du Code du travail relative aux services à la personne et aux entreprises d'insertion.",
+    "type_acte": "DÉCISION",
+    "communes": [],
+    "mots_cles": [
+      "services à la personne",
+      "enregistrement",
+      "SAP",
+      "Code du travail"
+    ]
+  },
+  {
+    "titre": "SIGNE SAP849509146 ROBIN",
+    "titre_complet": "62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN",
+    "page_debut": 28,
+    "nb_pages": 5,
+    "mode": "texte",
+    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00040\nSIGNE SAP849509146 ROBIN\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 28\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/849509146\n«CLEANBYCEL»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 29\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 30\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 27 juillet 2026 par Céline Robin, en qualité\nde gérante pour l’organisme «CLEANBYCEL» dont l’établissement principal est situé au 3 rue du 8\nmai, à Mondicourt (62760).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «CLEANBYCEL» dont l’établissement principal est situé au 3 rue du 8 mai, à\nMondicourt (62760), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\n• Collecte et livraison à domicile de linge repassé\n• Maintenance, entretien et vigilance temporaires à domicile\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 31\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 32",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Récépissé de déclaration d'organisme de services",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais enregistre la déclaration de l'organisme « CLEANBYCEL » en tant que service à la personne, conformément aux dispositions du Code du travail. Ce récépissé atteste de l'enregistrement sous le numéro SAP/849509146 et valide la conformité administrative de l'organisme.",
+    "type_acte": "DÉCISION",
+    "communes": [],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "enregistrement",
+      "Pas-de-Calais",
+      "CLEANBYCEL"
+    ]
+  },
+  {
+    "titre": "2026-25 Délégation de signature DRH",
+    "titre_complet": "Etablissement public de santé mentale Val de Lys - Artois / 62-2026-08-25-00016 - 2026-25 Délégation de signature DRH",
+    "page_debut": 3,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature à la direction des RH",
+    "resume": "L'établissement public de santé mentale Val de Lys–Artois délègue ses pouvoirs de signature en matière de ressources humaines à plusieurs cadres administratifs et médicaux. Madame Julie Vandaele assure la direction générale des RH, tandis que d'autres cadres sont habilités à signer les actes relatifs aux contrats, aux congés et à la gestion des carrières du personnel.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "ressources humaines",
+      "établissement public santé mentale",
+      "gestion du personnel"
+    ]
+  },
+  {
+    "titre": "2026-26 Délégation de signature astreinte de direction",
+    "titre_complet": "62-2026-08-25-00018 - 2026-26 Délégation de signature astreinte de direction",
+    "page_debut": 8,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature au directeur par intérim",
+    "resume": "L'établissement public de santé mentale Val de Lys-Artois délègue sa signature à son directeur par intérim, Frédéric Macabiau, ainsi qu'à six cadres de direction (directrice des soins, directeurs adjoints, directrice adjointe et directeur délégué) pour les périodes de gardes administratives. Cette délégation couvre les décisions urgentes et les actes courants de gestion de l'établissement.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant",
+      "Artois"
+    ],
+    "mots_cles": [
+      "santé mentale",
+      "délégation de signature",
+      "directeur par intérim",
+      "établissement public"
+    ]
+  },
+  {
+    "titre": "2026-29 Délégation de signature Direction des relations avec les usagers - Astreintes",
+    "titre_complet": "62-2026-08-25-00015 - 2026-29 Délégation de signature Direction des relations avec les usagers - Astreintes",
+    "page_debut": 11,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature interne à l'établissement de santé mentale",
+    "resume": "L'établissement public de santé mentale Val de Lys-Artois (EPSM) délègue sa signature à cinq responsables administratifs pour l'exercice de fonctions liées au suivi et au contrôle des mesures d'isolement et de contention des patients hospitalisés. Cette délégation concerne spécifiquement les relations avec les autorités judiciaires chargées de ces contrôles.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant",
+      "Artois"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "santé mentale",
+      "isolement et contention",
+      "administration hospitalière"
+    ]
+  },
+  {
+    "titre": "2026-30 Délégation de signature Campus des Métiers",
+    "titre_complet": "62-2026-08-25-00017 - 2026-30 Délégation de signature Campus des Métiers",
+    "page_debut": 14,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature interne à l'EPSM Val de Lys",
+    "resume": "L'établissement public de santé mentale Val de Lys-Artois (EPSM) délègue à deux responsables du Campus des Métiers le pouvoir de signer les actes administratifs courants de gestion (convocations aux instances, attestations scolaires, commandes de matériel, conventions de formation). Cette délégation s'applique en cas d'absence ou d'empêchement du signataire initial.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant",
+      "Artois"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "EPSM",
+      "actes administratifs",
+      "Campus des Métiers",
+      "gestion courante"
+    ]
+  },
+  {
+    "titre": "2026-31 Délégation de signature Admissions",
+    "titre_complet": "62-2026-08-25-00012 - 2026-31 Délégation de signature Admissions",
+    "page_debut": 17,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature pour les admissions hospitalières",
+    "resume": "L'établissement public de santé mentale Val de Lys-Artois délègue sa signature pour la gestion administrative des admissions de patients. Cette délégation est confiée à deux responsables administratifs en priorité, avec des suppléants en cas d'absence.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "admissions",
+      "santé mentale",
+      "gestion administrative"
+    ]
+  },
+  {
+    "titre": "2026-35 Délégation de signature DAF - Frais de Séjour",
+    "titre_complet": "62-2026-08-25-00013 - 2026-35 Délégation de signature DAF - Frais de Séjour",
+    "page_debut": 20,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature interne à l'EPSM Val de Lys",
+    "resume": "L'établissement public de santé mentale Val de Lys - Artois délègue à sa directrice adjointe chargée des affaires financières le pouvoir de signer les actes relatifs à la gestion budgétaire, aux frais de séjour et aux régies d'avances et de recettes. Des suppléantes sont désignées en cas d'absence.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "affaires financières",
+      "frais de séjour",
+      "établissement public santé mentale"
+    ]
+  },
+  {
+    "titre": "2026-42 Délégation de signature Communication culture",
+    "titre_complet": "62-2026-08-25-00019 - 2026-42 Délégation de signature Communication culture",
+    "page_debut": 23,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature à la direction communication",
+    "resume": "Le directeur par intérim de l'établissement public de santé mentale Val de Lys-Artois délègue sa signature à Madame Anne-Sophie Legrand, responsable de la direction de la communication et de la culture, pour les actes relevant de ses attributions. Cette délégation lui permet de signer au nom du directeur les courriers, actes administratifs et conventions se rapportant à ses fonctions.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "communication",
+      "santé mentale",
+      "EPSM"
+    ]
+  },
+  {
+    "titre": "2026-43 - Délégation de signature Direction des usagers",
+    "titre_complet": "62-2026-08-25-00014 - 2026-43 - Délégation de signature Direction des usagers",
+    "page_debut": 26,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature interne à l'établissement psychiatrique",
+    "resume": "La direction de l'établissement public de santé mentale Val de Lys-Artois (EPSM) à Saint-Venant confie à quatre agents des pouvoirs de signature pour gérer les actes administratifs relevant de la direction des relations avec les usagers. Il s'agit d'une réorganisation interne sans impact direct sur le public.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Saint-Venant"
+    ],
+    "mots_cles": [
+      "santé mentale",
+      "délégation administrative",
+      "EPSM",
+      "relations usagers",
+      "gestion interne"
     ]
   },
   {
@@ -12899,6 +14266,321 @@
       "défense et sécurité",
       "cabinet préfectoral",
       "État-major de zone"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP106924632 - FOURMEAUX Jules",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-09-02-00017 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP106924632 - FOURMEAUX Jules",
+    "page_debut": 6,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Agrément administratif d'un coach sportif à domicile",
+    "resume": "La préfecture du Nord enregistre la déclaration d'activité de services à la personne de M. Jules Fourmeaux, coach sportif exerçant à Marpent. Cet enregistrement sous numéro SAP106924632 autorise l'entreprise à proposer du soutien scolaire et des cours à domicile en tant que prestataire, sous réserve du respect des conditions légales applicables aux services à la personne.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Marpent"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "coach sportif",
+      "enregistrement",
+      "déclaration d'activité",
+      "Marpent"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP104284625",
+    "titre_complet": "2026-09-04-00012 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP104284625",
+    "page_debut": 8,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'un prestataire de services à la personne",
+    "resume": "La Direction départementale de l'emploi du Nord établit un récépissé de déclaration pour la société Rémi Débette, spécialisée dans l'entretien de maison, travaux de jardinage et petit bricolage. Cet enregistrement sous le numéro SAP104284625 formalise l'accès de ce prestataire aux dispositifs légaux applicables aux services à la personne.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Roncq"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "prestataire privé",
+      "enregistrement",
+      "travaux ménagers",
+      "activité commerciale"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108016775",
+    "titre_complet": "2026-09-07-00011 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108016775",
+    "page_debut": 12,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'une entreprise de services à domicile",
+    "resume": "La préfecture du Nord enregistre la déclaration d'activité de l'entreprise AUDREY&LA, établie à Loon-Plage, comme organisme de services à la personne. L'entreprise est autorisée à exercer l'entretien de la maison et travaux ménagers en mode prestataire, à compter du 10 août 2026.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Loon-Plage"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "enregistrement",
+      "travaux ménagers",
+      "Loon-Plage"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108184854",
+    "titre_complet": "2026-09-07-00013 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108184854",
+    "page_debut": 14,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'une entreprise de services à domicile",
+    "resume": "La préfecture du Nord enregistre la déclaration d'activité de la société BERKOUK IFIRES, domiciliée à Halluin, spécialisée dans l'entretien de la maison et les travaux de ménage. Cet enregistrement, effectué le 31 juillet 2026, lui permet d'exercer légalement cette activité de prestataire de services à la personne sous le numéro SAP108184854.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Halluin"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "entreprise de ménage",
+      "enregistrement",
+      "prestataire",
+      "entretien domiciliaire"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108344847",
+    "titre_complet": "2026-09-07-00014 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108344847",
+    "page_debut": 16,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Récépissé d'enregistrement d'un organisme de garde d'enfants",
+    "resume": "La préfecture du Nord enregistre auprès du service instructeur la déclaration d'activités de services à la personne de l'entreprise individuelle Wesolek Laurence, basée à Pecquencourt. L'organisme est autorisé à exercer la garde d'enfants de plus de 3 ans à domicile et l'entretien de la maison et travaux ménagers, sous réserve du respect de la réglementation en vigueur.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Pecquencourt"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "garde d'enfants",
+      "enregistrement",
+      "déclaration",
+      "ménage"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108694753 - LEFEVRE Marine",
+    "titre_complet": "2026-09-02-00018 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108694753 - LEFEVRE Marine",
+    "page_debut": 18,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'une structure de services à domicile",
+    "resume": "La Direction Départementale de l'Emploi, du Travail et des Solidarités du Nord enregistre l'organisme AIDE À DOMICILE, dirigé par Mme Marine Lefevre, pour exercer deux activités : garde d'enfants de plus de 3 ans à domicile et entretien de la maison et travaux ménagers. Cet enregistrement est délivré sous le numéro SAP108694753.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Denain"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "aide à domicile",
+      "garde d'enfants",
+      "enregistrement",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP881228845 - BOUCHON François",
+    "titre_complet": "2026-09-02-00019 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP881228845 - BOUCHON François",
+    "page_debut": 20,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Enregistrement d'un service d'aide informatique à domicile",
+    "resume": "La préfecture du Nord enregistre la déclaration d'activité de l'entreprise individuelle BOUCHON François, établie à Templeuve-en-Pévèle, auprès du service départemental de l'emploi. Cette entreprise propose un service d'assistance informatique à domicile en mode prestataire. L'enregistrement est valide sur l'ensemble du territoire national sous le numéro SAP881228845.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Templeuve-en-Pévèle"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "assistance informatique",
+      "enregistrement",
+      "entreprise individuelle",
+      "déclaration d'activité"
+    ]
+  },
+  {
+    "titre": "Récépissé modificatif N°01 de déclaration d'un organisme de services à la personne enregistré sous le N° SAP994552255",
+    "titre_complet": "2026-09-07-00012 - Récépissé modificatif N°01 de déclaration d'un organisme de services à la personne enregistré sous le N° SAP994552255",
+    "page_debut": 22,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Modification d'agrément pour services à la personne",
+    "resume": "La direction départementale de l'emploi du Nord enregistre une modification de déclaration pour l'entreprise HASSAN DAHER Yasmin (SAP994552255), basée à Grande-Synthe. L'ajout d'activité concerne la garde d'enfants de plus de trois ans en mode préstataire. Les autres dispositions de l'agrément initial restent inchangées.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Grande-Synthe"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "garde d'enfants",
+      "agrément modificatif",
+      "prestataire"
+    ]
+  },
+  {
+    "titre": "Décision portant délégation de signature en matière d'ordonnancement secondaire - centre de gestion financière",
+    "titre_complet": "Direction régionale des finances publiques / 2026-09-01-00051 - Décision portant délégation de signature en matière d'ordonnancement secondaire - centre de gestion financière",
+    "page_debut": 52,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES\nDIRECTION RÉGIONALE DES FINANCES PUBLIQUES\nDES HAUTS-DE-FRANCE ET DU DÉPARTEMENT DU\nNORD\n82, avenue Kennedy\n59033 LILLE CEDEX\nDÉCISION PORTANT DÉLÉGATION DE SIGNATURE\nEN MATIÈRE D’ORDONNANCEMENT – CENTRE DE GESTION FINANCIÈRE\nLe directeur du pôle gestion publique de la direction régionale des finances\npubliques des Hauts-de-France et du département du Nord,\nVu le décret n° 2004-1085 du 14 octobre 2004 modifié relatif à la délégation de gestion\ndans les services de l’État ;\nVu le décret n° 2009-208 du 20 février 2009 modifié relatif au statut particulier des\nadministrateurs des finances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 modifié relatif aux services déconcentrés de la\ndirection générale des finances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 modifié relatif à la gestion budgétaire et\ncomptable publique ;\nVu le décret n° 2018-803 du 24 septembre 2018 modifiant le décret n° 2012-1246 du 7\nnovembre 2012 relatif à la gestion budgétaire et comptable publique et autorisant diverses\nexpérimentations, notamment son article 37 ;\nVu le décret du 27 mars 2012 portant affectation de M.Christophe MILH à la direction\ngénérale des finances publiques des Hauts-de-France et du département du Nord ;\nVu les conventions de délégation de gestion relatives au centre de gestion financière Bloc 2 placé sous l'autorité\ndu directeur régional des finances publiques des Hauts-de-France et du département du Nord,\nDécide :\nArticle 1er\nDélégation est donnée à l’effet de signer tous actes relatifs à l’exécution des opérations prévues dans les\nconventions de délégation de gestion susvisées, dans la limite de leurs attributions au sein du centre de gestion\nfinancière Bloc 2, à :\n1° M. Sébastien HERAULT, administrateur des finances publiques adjoint,\n2° M. Thibaut FOURDRIN, inspecteur principal des finances publiques,\n3° Mme Muriel LEFEVRE, inspectrice principale des finances publiques,\n4° Mme Véronique CAREYE, secrétaire administrative classe exceptionnelle,\n5° M. Sébastien SENESSE, contrôleur principal des finances publiques,\nDirection régionale des finances publiques - 2026-09-01-00051 - Décision portant délégation de signature en matière 52\nd'ordonnancement secondaire - centre de gestion financière\n6° Mme Virginie ANQUEZ, contrôleur des finances publiques,\n7° M. Jean-François BARBET, agent des finances publiques,\n8° Mme Corinne BRUGIERE, agent des finances publiques,\n9° Mme Sandra CLIQUE, agent des finances publiques,\n10° Mme Florence DESTEIRDT, agent des finances publiques,\n11° Mme Sophie GOETHALS, agent des finances publiques,\n12° Mme Lydie HAUTIER, agent des finances publiques,\n13° Mme Virginie HOUSSEAU, agent des finances publiques,\n14° Mme Elise JAKUBOWICZ, agent des finances publiques,\n15° Mme Sandra LAMAILLE, contrôleur des finances publiques,\n16° Mme Marie LAROSE, adjointe administrative,\n17° Mme Odile LEBRUN, contrôleur des finances publiques,\n18° M. Vincent MAYEUR, inspecteur des finances publiques,\n19° M. Hubert DEBLANC, contrôleur principal des finances publiques,\n20° Mme Dorine HERNOUT, contrôleur des finances publiques,\n21° M. Sylvain KORNOBIS, contrôleur des finances publiques,\n22° M. Eric LAUWERIE, contrôleur principal des finances publiques,\n23° M. Sébastien MANFROY, contrôleur des finances publiques,\n24° Mme Pauline RACHEZ, agent des finances publiques,\n25° M. Benoît ROUGERON, adjoint administratif.\nArticle 2\nLa présente décision entre en vigueur le 1er septembre 2026.\nArticle 3\nLa présente décision sera publiée au recueil des actes administratifs.\nLille, le 1er septembre 2026.\nLe directeur du pôle gestion publique\nChristophe MILH\nDirection régionale des finances publiques - 2026-09-01-00051 - Décision portant délégation de signature en matière 53\nd'ordonnancement secondaire - centre de gestion financière",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature pour le centre de gestion financière",
+    "resume": "La Direction régionale des finances publiques des Hauts-de-France autorise 25 agents à signer les actes relatifs à l'exécution des opérations du centre de gestion financière Bloc 2, dans le cadre de leurs attributions respectives. Cette mesure administrative interne prend effet le 1er septembre 2026.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "finances publiques",
+      "délégation de signature",
+      "ordonnancement",
+      "gestion financière",
+      "Hauts-de-France"
+    ]
+  },
+  {
+    "titre": "Décision portant délégation de signature en matière d'ordonnancement secondaire - Centre de gestion financière Justice",
+    "titre_complet": "2026-09-01-00052 - Décision portant délégation de signature en matière d'ordonnancement secondaire - Centre de gestion financière Justice",
+    "page_debut": 54,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES\nDIRECTION RÉGIONALE DES FINANCES PUBLIQUES\nDES HAUTS-DE-FRANCE ET DU DÉPARTEMENT DU\nNORD\n82, avenue Kennedy\n59033 LILLE CEDEX\nDÉCISION PORTANT DÉLÉGATION DE SIGNATURE\nEN MATIÈRE D’ORDONNANCEMENT – CENTRE DE GESTION FINANCIÈRE\nLe directeur du pôle gestion publique de la direction régionale des finances\npubliques des Hauts-de-France et du département du Nord,\nVu le décret n° 2004-1085 du 14 octobre 2004 modifié relatif à la délégation de gestion\ndans les services de l’État ;\nVu le décret n° 2009-208 du 20 février 2009 modifié relatif au statut particulier des\nadministrateurs des finances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 modifié relatif aux services déconcentrés de la\ndirection générale des finances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 modifié relatif à la gestion budgétaire et\ncomptable publique ;\nVu le décret n° 2018-803 du 24 septembre 2018 modifiant le décret n° 2012-1246 du 7\nnovembre 2012 relatif à la gestion budgétaire et comptable publique et autorisant diverses\nexpérimentations, notamment son article 37 ;\nVu le décret du 27 mars 2012 portant affectation de M.Christophe MILH à la direction\ngénérale des finances publiques des Hauts-de-France et du département du Nord ;\nVu les conventions de délégation de gestion relatives au centre de gestion financière Justice placé sous\nl'autorité du directeur régional des finances publiques des Hauts-de-France et du département du Nord,\nDécide :\nArticle 1er\nDélégation est donnée à l’effet de signer tous actes relatifs à l’exécution des opérations prévues dans les\nconventions de délégation de gestion susvisées, dans la limite de leurs attributions au sein du centre de gestion\nfinancière Justice, à :\n1° M. Sébastien HERAULT, administrateur des finances publiques adjoint,\n2° M. Thibaut FOURDRIN, inspecteur principal des finances publiques,\n3° Mme Muriel LEFEVRE, inspectrice principale des finances publiques,\n4° Mme Lucille NIGGEL, inspectrice des finances publiques,\n5° Mme Marie-France BEAUFORT, contrôleur principal des finances publiques,\nDirection régionale des finances publiques - 2026-09-01-00052 - Décision portant délégation de signature en matière 54\nd'ordonnancement secondaire - Centre de gestion financière Justice\n6° M. David CAPELLE, contrôleur principal des finances publiques,\n7° Mme Amandine LEFORT, secrétaire administrative,\n8° M. Grégory SPINETTE, secrétaire administratif,\n9° Mme Brigitte BLANDIN, agent administratif des finances publiques,\n10° Mme Zineb BOUMALLA, contrôleur des finances publiques,\n11° Mme Catherine BRIDELANCE, adjointe administrative\n12° M. Geoffroy BUYENS, agent administratif des finances publiques,\n13° Mme Antonia CANY, adjointe administrative,\n14° M. Frédéric DAUX, contrôleur des finances publiques,\n15° M. Nicolas DOGIMONT, contrôleur des finances publiques,\n16° M. Laurent DUPUIS, contrôleur principal des finances publiques,\n17° Mme Naouelle KHEZAMI, adjointe administrative,\n18° Mme Madyson KNOCKAERT, agente contractuelle,\n19° Mme Christine LASSALLE, agent administratif des finances publiques,\n20° Mme Virginie MARTEL, adjointe administrative,\n21° M. Gautier MASURE, agent contractuel,\n22° M. Marc NYBELEN, agent administratif des finances publiques,\n23° Mme Leïla OUALI, adjointe administrative,\n24° M. Stéphane POCCHIO, adjoint administratif,\n25° M. Romain ROBYN, agent administratif des finances publiques,\n26° Mme Camille TAILLEZ, contrôleur des finances publiques,\n27° Mme Saïda ZAIDI, adjointe administrative,\n28° M. Vincent MAYEUR, inspecteur des finances publiques,\n29° M. Hubert DEBLANC, contrôleur principal des finances publiques,\n30° Mme Dorine HERNOUT, contrôleur des finances publiques ,\n31° M. Sylvain KORNOBIS, contrôleur des finances publiques,\n32° M. Eric LAUWERIE, contrôleur principal des finances publiques,\n33° M. Sébastien MANFROY, contrôleur des finances publiques,\n34° Mme Pauline RACHEZ, agent des finances publiques,\n35° M. Benoît ROUGERON, adjoint administratif.\nArticle 2\nLa présente décision entre en vigueur le 1er septembre 2026.\nArticle 3\nLa présente décision sera publiée au recueil des actes administratifs.\nFait à Lille, le 1er septembre 2026.\nLe directeur du pôle gestion publique\nChristophe MILH\nDirection régionale des finances publiques - 2026-09-01-00052 - Décision portant délégation de signature en matière 55\nd'ordonnancement secondaire - Centre de gestion financière Justice",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature aux agents du centre de gestion financière",
+    "resume": "La direction régionale des finances publiques des Hauts-de-France délègue le pouvoir de signature en matière d'ordonnancement à 35 agents du centre de gestion financière Justice. Cette délégation porte sur l'exécution des opérations prévues dans les conventions de gestion existantes, dans la limite de leurs attributions respectives.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "finances publiques",
+      "ordonnancement",
+      "centre de gestion financière",
+      "Hauts-de-France"
+    ]
+  },
+  {
+    "titre": "Délégations de signature du SIE de Lille 1",
+    "titre_complet": "2026-09-01-00054 - Délégations de signature du SIE de Lille 1",
+    "page_debut": 56,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "DELEGATION DE SIGNATURE\nDU RESPONSABLE DU SERVICE DES IMPÔTS DES ENTREPRISES\nDE LILLE 1\nLe comptable, responsable du service des impôts des entreprises de Lille 1\nVu le code général des impôts, et notamment les articles 408 et 410 de son annexe II et les articles 212 à 217\nde son annexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247, L. 257 A et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nArrête :\nArticle 1\nDélégation de signature est donnée à\nMonsieur SEVIN Mathieu, Inspecteur Divisionnaire des finances publiques,\nMadame ABRAHAM Sylvie, Inspectrice des finances publiques,\nMadame NISON Sarah, Inspectrice des finances publiques,\nMadame LAIGLE Mélanie, Inspectrice des finances publiques,\nMonsieur ROUSSEL Pierre Marie, Inspecteur des finances publiques,\nMonsieur SLABOLEPSZY Philippe, Inspecteur des finances publiques,\nMonsieur CLOWEZ Baptiste, Inspecteur des finances publiques.\nMonsieur LEMAIRE Théo Inspecteur des finances publiques.\nadjoints au responsable du service des impôts des entreprises de Lille 1, à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d’admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite de 100 000 € pour M Mathieu Sevin et dans\nla limite de 60 000 € pour Mme ABRAHAM Sylvie, Mme NISON Sarah, Mme LAIGLE Mélanie ,\nM ROUSSEL Pierre Marie, M SLABOLEPSZY Philippe, M CLOWEZ Baptiste et Monsieur LEMAIRE\nThéo;\n2°) en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet dans la limite\nde 100 000 € pour M Mathieu Sevin et dans la limite de 60 000 € pour Mme ABRAHAM Sylvie, Mme\nNISON Sarah, Mme LAIGLE Mélanie, MROUSSEL Pierre Marie , M SLABOLEPSZY Philippe,\nM CLOWEZ Baptiste et Monsieur LEMAIRE Théo;\n3°) les décisions sur les demandes de plafonnement en fonction de la valeur ajoutée de contribution\néconomique territoriale, sans limite de montant pour les entreprises dont tous les établissements sont\nsitués dans le ressort du service ;\n4°) les décisions sur les demandes de remboursement de crédit de TVA dans la limite de 200 000 € par\ndemande pour M Mathieu Sevin et les demandes de remboursement de crédit d’impôt, dans la limite de 100\n000 € par demande pour Mme ABRAHAM Sylvie, Mme NISON Sarah,Mme LAIGLE Mélanie,\nM ROUSSEL Pierre Marie, M SLABOLEPSZY Philippe, M CLOWEZ Baptiste et Monsieur LEMAIRE\nThéo;\n5°) les documents nécessaires à l’exécution comptable des décisions contentieuses et gracieuses sans\nlimitation de montant ;\n6°) les avis de mise en recouvrement et les mises en demeure de payer ;\n7°) au nom et sous la responsabilité du comptable soussigné,\na) les décisions relatives aux demandes de délai de paiement ;\nb) l’ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les\ndéclarations de créances ainsi que pour ester en justice ;\nDirection régionale des finances publiques - 2026-09-01-00054 - Délégations de signature du SIE de Lille 1 56\nc) tous actes d’administration et de gestion du service.\n8°) pour les actes de recouvrement et de garanties/suretés, délégation est donnée à M Mathieu Sevin\nArticle 2\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d’admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, et, en matière de gracieux fiscal, les décisions portant remise,\nmodération ou rejet, dans la limite précisée dans le tableau ci-dessous ;\n2°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n3°) les avis de mise en recouvrement et les mises en demeure de payer ;\n4°) l’ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les déclarations de\ncréances ;\naux agents des Finances publiques désignés ci-après :\nDirection régionale des finances publiques - 2026-09-01-00054 - Délégations de signature du SIE de Lille 1 57\nPrénom et Nom Grade Limite des Limite des Durée Somme maximale\ndes agents décisions décisions maximale pour laquelle un\ncontentieuses gracieuses des délais délai de paiement\nde paiement peut être accordé\nMathieu SEVIN Inspecteur Divisionnaire 100 000 € 100 000 € 24 mois 100 000 €\nSylvie ABRAHAM Inspectrice 60 000 € 60 000 € 24 mois 100 000 €\nSarah NISON Inspectrice 60 000 € 60 000 € 24 mois 100 000 €\nMélanie LAIGLE Inspectrice 60 000 € 60 000 € 24 mois 100 000 €\nPierre Marie ROUSSEL Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nPhilippe SLABOLEPSZY Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nBaptiste CLOWEZ Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nThéo LEMAIRE Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nLaurent BLAEVOET contrôleur principal 30 000 € 30 000 €\nOlivier QUIQUE contrôleur 30 000 € 30 000 €\nFabrice FROMENT contrôleur principal 30 000 € 30 000 €\nBertrand JANKOWSKI contrôleur 30 000 € 30 000 € 12 mois 50 000€\nMonique DEHEN contrôleur principal 30 000 € 30 000 € 12 mois 50 000€\nAbdenbi ALILOU contrôleur 30 000 € 30 000 €\nElodie REAL contrôleur 30 000 € 30 000 €\nAudrey COACHE contrôleur 30 000 € 30 000 €\nGeneviève SENECHAL contrôleur principal 30 000 € 30 000 €\nLinda BOUADLA contrôleur 30 000 € 30 000 €\nLyasmine BOUMEDIENE contrôleur principal 30 000 € 30 000 €\nMaryse GOSSELIN contrôleur principal 30 000 € 30 000 €\nVéronique DIERS contrôleur principal 30 000 € 30 000 € 12 mois 50 000€\nSébastien DUPONT contrôleur principal 30 000 € 30 000 € 12 mois 50 000€\nAurélie KOWALSKI contrôleur 30 000 € 30 000 € 12 mois 50 000€\nLudovic ACHISPON contrôleur 30 000 € 30 000 €\nAurèlien BERDELOU contrôleur 30 000 € 30 000 €\nFabien DEMOOR contrôleur 30 000 € 30 000 €\nPerrine LETAILLEUR contrôleur 30 000 € 30 000 €\nLucie BEYTOUT contrôleur 10 000 € 10 000 €\nDelphine TAURET contrôleur principal 30 000 € 30 000 €\nAicha ELAMMARI contrôleur 30 000 € 30 000 €\nJustine BROGNIEZ Agent administratif principal 5 000 € 5 000 € 12 mois 50 000 €\nCaroline HENNEBERT Agent administratif principal 5 000 € 5 000 € 12 mois 50 000€\nLaura BLONSKI Agent administratif principal 5 000 € 5 000 €\nCyprienne ALI Agent administratif principal 5 000 € 5 000 €\nActal JOOMUN Agent administratif 5 000 € 5 000 € 12 mois 50 000€\nLaury-Ann NAPPEE Agent administratif 5 000 € 5 000 € 12 mois 50 000€\nSamir TABET Agent administratif 5 000 € 5 000 €\nArticle 3\nLe présent arrêté sera publié au recueil des actes administratifs du département du NORD.\nLe présent acte prend effet au 01/09/2026\nA Lille, le 01 septembre 2026\nLe comptable, responsable du Service des Impôts des Entreprises\nde Lille 1,\nLoetitia Jacquemin-Lorriaux\nComptable publique\nDirection régionale des finances publiques - 2026-09-01-00054 - Délégations de signature du SIE de Lille 1 58",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégations de signature au service des impôts de Lille",
+    "resume": "Le responsable du service des impôts des entreprises de Lille 1 délègue ses pouvoirs de signature à huit agents (inspecteurs et inspecteur divisionnaire) pour traiter les contentieux fiscaux, les demandes de gracieux fiscal, les remboursements de crédits de TVA et les actes de recouvrement, dans le cadre de limites de montants variables selon leur grade.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "impôts des entreprises",
+      "contentieux fiscal",
+      "recouvrement",
+      "remise de dettes"
+    ]
+  },
+  {
+    "titre": "Délégations de signature du SIP de Lille 2",
+    "titre_complet": "2026-09-07-00015 - Délégations de signature du SIP de Lille 2",
+    "page_debut": 59,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "DÉLÉGATION DE SIGNATURE EN MATIÈRE DE CONTENTIEUX\nET DE GRACIEUX FISCAL\nLe comptable public, responsable du Service des Impôts des Particuliers (SIP) de LILLE 2\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son\nannexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 257 A, L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nARRETE\nArticle 1er\nDélégation de signature est donnée à compter du 01/09/2026 à :\n- Mme Muriel LIEVIN, inspectrice des finances publiques, adjointe au SIP LILLE 2,\n- M. Willy PANI NCHANWOU, inspecteur des finances publiques, adjoint au SIP LILLE 2,\n- Mme Angélique PETIT, Inspectrice des finances publiques, adjointe au SIP de Lille 2,\nà l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite de 100 000 € ;\n2°) en matière de gracieux fiscal d’assiette et de recouvrement, les décisions portant remise, modération,\ntransaction ou rejet, dans la limite de 100 000 € ;\n3°) les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses sans\nlimitation de montant ;\n4°) les avis de mise en recouvrement et les mises en demeure de payer ;\n5°) les décisions relatives aux demandes de délai de paiement, le délai accordé ne pouvant excéder\n12 mois et porter sur une somme supérieure à 100 000 € ;\n6°) l'ensemble des actes relatifs au recouvrement, et notamment les bordereaux de situation, les actes de\npoursuites et les déclarations de créances ainsi que pour ester en justice ;\n7°) tous actes d'administration et de gestion du service.\nArticle 2\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite précisée dans le tableau ci-après ;\n1/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 59\n2°) en matière de gracieux fiscal d'assiette, les décisions portant remise, modération ou rejet, dans la limite\nprécisée dans le tableau ci-après ;\naux agents désignés ci-dessous :\nNom et prénom des Grade Limite des décisions Limite des décisions\nagents contentieuses gracieuses\nLIEVIN Muriel Inspectrice 100 000 € 100 000 €\nPANI NCHANWOU Willy Inspecteur 100 000 € 100 000 €\nPETIT Angélique Inspectrice 100 000 € 100 000 €\nAMIOT Emmanuel Contrôleur principal 30 000 € 30 000 €\nBINON Véronique Contrôleuse principale 30 000 € 30 000 €\nCRETON David Contrôleur Principal 30 000 € 30 000 €\nDECOSTER Estelle Contrôleuse Principale 30 000 € 30 000 €\nDELBROEUVE Louis Contrôleur Principal 30 000 € 30 000 €\nBOULARAOUI Salima Contrôleuse 30 000 € 30 000 €\nEL-AMMARI Hafid Contrôleur 30 000 € 30 000 €\nJEANNEY Christophe Contrôleur 30 000 € 30 000 €\nPRUVOST Eric Contrôleur 30 000 € 30 000 €\nT’HOOFT Denis Contrôleur 30 000 € 30 000 €\nWERLY Ophélie Contrôleuse 30 000 € 30 000 €\nABDELLAOUI Sarah Agente Administrative Principale 5 000 € 5 000 €\nALI-BACHA Hamidouche Agent Administratif Principal 5 000 € 5 000 €\nBAUDELLE Meggy Agente Administrative Principale 5 000 € 5 000 €\nCARON Léo Agent Administratif Principal 5 000 € 5 000 €\nCHANTREAU Louisa Agente administrative Principale 5 000 € 5 000 €\nDELMOTTE Patrick Agent Administratif Principal 5 000 € 5 000 €\nGUESSOUM Aghiles Agent Administratif Principal 5 000 € 5 000 €\nHERISSE Nicolas Agent Administratif Principal 5 000 € 5 000 €\nLAURENT Martine Agente administrative Principale 5 000 € 5 000 €\nLEFEBVRE Pauline Agente Administrative Principale 5 000 € 5 000 €\nMARTIN Geoffrey Agent Administratif Principal 5 000 € 5 000 €\nPEDROL Stéphanie Agente Administrative Principale 5 000 € 5 000 €\nRAMBAUX Aristide Agent Administratif Principal 5 000 € 5 000 €\nVERDON Claude Agent Administratif Principal 5 000 € 5 000 €\nArticle 3\n2/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 60\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de gracieux fiscal de recouvrement, les décisions portant remise, modération ou rejet, dans\nla limite précisée dans le tableau ci-dessous ;\n2°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n3°) les avis de mise en recouvrement et les mises en demeure de payer ;\n4°) l'ensemble des actes relatifs au recouvrement, et notamment les bordereaux de situation, les actes de\npoursuites et les déclarations de créances ;\naux agents désignés ci-après :\nLimite Durée Somme maximale\nNom et prénom des Grade des décisions maximale des pour laquelle un\nagents gracieuses délais de délai de paiement\npaiement peut être accordé\nLIEVIN Muriel Inspectrice 100 000€ 12 mois 100 000 €\nPANI NCHANWOU Willy Inspecteur 100 000€ 12 mois 100 000 €\nPETIT Angélique Inspectrice 100 000€ 12 mois 100 000 €\nAMIOT Emmanuel Contrôleur Principal 5 000 € 12 mois 30 000 €\nBINON Véronique Contrôleuse principale 5 000 € 12 mois 30 000 €\nCRETON David Contrôleur Principal 5 000 € 12 mois 30 000 €\nDECOSTER Estelle Contrôleuse Principale 5 000 € 12 mois 30 000 €\nDELBROEUVE Louis Contrôleur principal 5 000 € 12 mois 30 000 €\nBOULARAOUI Salima Contrôleuse 5 000 € 12 mois 30 000 €\nEL-AMMARI Hafid Contrôleur 5 000 € 12 mois 30 000 €\nJEANNEY Christophe Contrôleuse 5 000 € 12 mois 30 000 €\nPRUVOST Eric Contrôleur 5 000 € 12 mois 30 000 €\nT’HOOFT Denis Contrôleur 5 000 € 12 mois 30 000 €\nWERLY Ophélie Contrôleuse 5 000 € 12 mois 30 000 €\nABDELLAOUI Sarah Agente Administrative Principale 2 000 € 12 mois 10 000 €\nALI-BACHA Hamidouche Agent Administratif Principal 2 000 € 12 mois 10 000 €\nBAUDELLE Meggy Agente Administrative Principale 2 000 € 12 mois 10 000 €\nCARON Léo Agent Administratif Principal 2 000 € 12 mois 10 000 €\nCHANTREAU Louisa Agente administrative Principale 2 000 € 12 mois 10 000 €\nDELMOTTE Patrick Agent Administratif Principal 2 000 € 12 mois 10 000 €\nGUESSOUM Aghiles Agent Administratif Principal 2 000 € 12 mois 10 000 €\nGUISSE Souleymane Agent Administratif Principal 2 000 € 12 mois 10 000 €\nHAMEAUX Yves-Marie Agent Administratif Principal 2 000 € 12 mois 10 000 €\nHERISSE Nicolas Agent Administratif Principal 2 000 € 12 mois 10 000 €\n3/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 61\nLimite Durée Somme maximale\nNom et prénom des Grade des décisions maximale des pour laquelle un\nagents gracieuses délais de délai de paiement\npaiement peut être accordé\nLAURENT Martine Agente Administrative Principale 2 000 € 12 mois 10 000 €\nLEFEBVRE Pauline Agente Administrative Principale 2 000 € 12 mois 10 000 €\nMARTIN Geoffrey Agent Administratif Principal 2 000 € 12 mois 10 000 €\nPEDROL Stéphanie Agente Administrative Principale 2 000 € 12 mois 10 000 €\nRAMBAUX Aristide Agent Administratif Principal 2 000 € 12 mois 10 000 €\nVERDON Claude Agent Administratif Principal 2 000 € 12 mois 10 000 €\nSZYSZKA Zacharie Agent Administratif Principal 2 000 € 12 mois 10 000 €\nArticle 4\nLe présent arrêté prend effet au 01 septembre 2026.\nArticle 5\nLe présent arrêté sera publié au recueil des actes administratif du département du Nord.\nA Lille le 07/09/2026\nLe comptable public,\nResponsable du Service des Impôts des Particuliers de Lille 2\nGéraldine GRADELLE\nCheffe de Service Comptable\n4/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 62",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégations de signature au service fiscal de Lille",
+    "resume": "L'arrêté délègue le pouvoir de signature à 24 agents du Service des Impôts des Particuliers de Lille 2 pour traiter les dossiers de contentieux et de gracieux fiscal. Les inspecteurs sont autorisés à signer des décisions jusqu'à 100 000 €, les contrôleurs jusqu'à 30 000 €, et les agents administratifs jusqu'à 5 000 €. Cette mesure prend effet le 1er septembre 2026.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "impôts",
+      "contentieux fiscal",
+      "gracieux fiscal",
+      "limites de montant"
+    ]
+  },
+  {
+    "titre": "Délégation de signature Direction DAF",
+    "titre_complet": "Etablissement public de santé mentale des Flandres / 2026-09-01-00053 - Délégation de signature Direction DAF",
+    "page_debut": 63,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
+    "date_recueil": "2026-09-08",
+    "score": 1,
+    "titre_court": "Délégation de signature interne à l'EPSM des Flandres",
+    "resume": "La directrice de l'Établissement public de santé mentale des Flandres délègue sa signature à plusieurs cadres pour la gestion des affaires financières, des frais de séjour et des structures médico-sociales. Cette délégation, qui prend effet le 1er janvier 2026, précise les actes que chaque délégataire peut signer, avec des seuils financiers spécifiques pour certaines opérations.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "EPSM Flandres",
+      "affaires financières",
+      "structures médico-sociales",
+      "gestion administrative"
     ]
   },
   {
