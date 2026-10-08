@@ -13,7 +13,7 @@ PREFECTURE_URLS = {
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
 # Modèle Claude à utiliser
-CLAUDE_MODEL = "claude-haiku-4-5-20251001"
+CLAUDE_MODEL = "claude-haiku-5-5"
 
 # Prompt d'analyse envoyé à Claude pour chaque acte administratif
 ANALYSIS_PROMPT = """Tu es un assistant spécialisé dans l'analyse d'actes administratifs préfectoraux français.

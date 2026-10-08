@@ -37,6 +37,15 @@ Critères de scoring (1 à 5) :
 5 = Acte majeur : décision structurante, sécurité publique, environnement, urbanisme important"""
 
 
+def _texte_reponse(message: anthropic.types.Message) -> str:
+    """Extrait le bloc texte d'une réponse, qui peut être précédé d'un bloc de
+    réflexion (thinking) — ne pas supposer que content[0] est le texte."""
+    for bloc in message.content:
+        if bloc.type == "text":
+            return bloc.text
+    return ""
+
+
 def _parse_json_response(contenu: str) -> dict:
     """Parse la réponse JSON de Claude, tolère les blocs markdown."""
     contenu = contenu.strip()
@@ -76,10 +85,11 @@ def analyser_acte_texte(texte_acte: str, client: anthropic.Anthropic) -> dict:
     message = _appel_api_avec_retry(
         client,
         model=CLAUDE_MODEL,
-        max_tokens=512,
+        max_tokens=2000,
+        output_config={"effort": "low"},
         messages=[{"role": "user", "content": prompt}],
     )
-    return _parse_json_response(message.content[0].text)
+    return _parse_json_response(_texte_reponse(message))
 
 
 def analyser_acte_image(titre: str, images_b64: list[str], client: anthropic.Anthropic) -> dict:
@@ -104,10 +114,11 @@ def analyser_acte_image(titre: str, images_b64: list[str], client: anthropic.Ant
     message = _appel_api_avec_retry(
         client,
         model=CLAUDE_MODEL,
-        max_tokens=512,
+        max_tokens=2000,
+        output_config={"effort": "low"},
         messages=[{"role": "user", "content": contenu_message}],
     )
-    return _parse_json_response(message.content[0].text)
+    return _parse_json_response(_texte_reponse(message))
 
 
 def analyser_actes(actes: list[dict], api_key: str = None) -> list[dict]:
