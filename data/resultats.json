@@ -1663,31 +1663,6 @@
     ]
   },
   {
-    "titre": "Arrêté temporaire portant réglementation de la circulation sur la RN2 Etroeungt",
-    "titre_complet": "2 Direction interdépartementale des routes Nord / 2026-09-07-00006 - Arrêté temporaire portant réglementation de la circulation sur la RN2 Etroeungt",
-    "page_debut": 39,
-    "nb_pages": 8,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 4,
-    "titre_court": "RN2 : circulation alternée et ralentie le 17 septembre",
-    "resume": "Un arrêté temporaire réglemente la circulation sur la RN2 à Etroeungt le 17 septembre 2026 de 7h à 18h pour travaux de purge de chaussée. La mesure prévoit la neutralisation d'une voie rapide en sens Belgique-Paris, une circulation alternée par feux commandés, des limitations de vitesse (50 à 70 km/h selon les tronçons) et la fermeture de la RD2602 avec déviation obligatoire.",
-    "type_acte": "ARRÊTÉ",
-    "communes": [
-      "Etroeungt"
-    ],
-    "mots_cles": [
-      "circulation alternée",
-      "RN2",
-      "travaux chaussée",
-      "restriction temporaire",
-      "sécurité routière"
-    ]
-  },
-  {
     "titre": "Arrêté temporaire T26-475NP réglementant la circulation sur l'A21 dans le sens Valenciennes vers Aix Noulette",
     "titre_complet": "2026-09-11-00005 - Arrêté temporaire T26-475NP réglementant la circulation sur l'A21 dans le sens Valenciennes vers Aix Noulette",
     "page_debut": 30,
@@ -3298,6 +3273,90 @@
       "ordre public",
       "Lens",
       "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "Arrêté portant interdiction de toute représentation artistique dans laquelle M. Dieudonné M'Bala M'Bala est comédien, metteur en scène ou auteur le 9 octobre 2026 dans les arrondissements de Lille, Douai, Cambrai, Valenciennes et Avesnes-sur-Helpe",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-09-00003 - Arrêté portant interdiction de toute représentation artistique dans laquelle M. Dieudonné M'Bala M'Bala est comédien, metteur en scène ou auteur le 9 octobre 2026 dans les arrondissements de Lille, Douai, Cambrai, Valenciennes et Avesnes-sur-Helpe",
+    "page_debut": 54,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Nord : spectacle de Dieudonné interdit le 9 octobre",
+    "resume": "Le préfet du Nord interdit toute représentation artistique dans laquelle Dieudonné M'Bala M'Bala est comédien, metteur en scène ou auteur, dans les arrondissements de Lille, Douai, Cambrai, Valenciennes et Avesnes-sur-Helpe, du vendredi 9 octobre 2026 à 20h au samedi 10 octobre 2026 à 23h, quels que soient le lieu et l'intitulé. La mesure vise le spectacle « Shiva », initialement prévu à Valenciennes, dont le lieu n'était pas précisé. Le préfet invoque le risque de propos antisémites, racistes ou diffamatoires et de troubles graves à l'ordre public, ainsi que le risque de changement de lieu.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Douai",
+      "Cambrai",
+      "Valenciennes",
+      "Avesnes-sur-Helpe",
+      "Hérin",
+      "Lestrem",
+      "Ouistreham",
+      "Paris"
+    ],
+    "mots_cles": [
+      "interdiction spectacle",
+      "Dieudonné",
+      "ordre public",
+      "préfet du Nord",
+      "Valenciennes"
+    ]
+  },
+  {
+    "titre": "Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installées sur des aéronefs par la direction interdépartementale de la police nationale du Nord à l'occasion de manifestations le vendredi 9 octobre 2026 à DUNKERQUE et à GRANDE-SYNTHE",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-08-00006 - Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installées sur des aéronefs par la direction interdépartementale de la police nationale du Nord à l'occasion de manifestations le vendredi 9 octobre 2026 à DUNKERQUE et à GRANDE-SYNTHE",
+    "page_debut": 3,
+    "nb_pages": 7,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108378/759401/file/recueil-2026-373-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Drones de police autorisés à Dunkerque et Grande-Synthe le 9 octobre",
+    "resume": "La préfecture du Nord autorise la police nationale à filmer depuis des drones, le vendredi 9 octobre 2026 de 7h à 19h, à l'occasion d'appels à rassemblements à Dunkerque et à Grande-Synthe. Quatre caméras au maximum peuvent fonctionner en même temps, uniquement dans les périmètres définis par les cartes annexées (centre de Dunkerque, Malo-les-Bains, et abords de lycées à Grande-Synthe). L'objectif affiché est de prévenir les atteintes à l'ordre public et d'appuyer les policiers au sol, dans un contexte de mobilisation lycéenne et de rassemblements appelés sur les réseaux sociaux.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Dunkerque",
+      "Grande-Synthe"
+    ],
+    "mots_cles": [
+      "drones",
+      "caméras aéroportées",
+      "manifestations",
+      "ordre public",
+      "lycéens"
+    ]
+  },
+  {
+    "titre": "Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installées sur des aéronefs par la direction interdépartementale de la police nationale du Nord à l'occasion de manifestations le vendredi 9 octobre 2026 à Roubaix",
+    "titre_complet": "2026-10-08-00005 - Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installées sur des aéronefs par la direction interdépartementale de la police nationale du Nord à l'occasion de manifestations le vendredi 9 octobre 2026 à Roubaix",
+    "page_debut": 10,
+    "nb_pages": 7,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108378/759401/file/recueil-2026-373-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Drones de police autorisés à Roubaix le 9 octobre",
+    "resume": "La préfecture du Nord autorise la police nationale à utiliser quatre caméras embarquées sur deux drones lors de l'appel à rassemblements du vendredi 9 octobre 2026 à Roubaix, de 7h30 à 17h. Cette mesure fait suite à une série de blocages de lycées, de dégradations et d'incendies de poubelles observés depuis fin septembre, et vise à prévenir les atteintes aux personnes et aux biens ainsi qu'à appuyer les effectifs au sol. Les images ne peuvent être captées que dans les périmètres autour de plusieurs lycées de la ville, figurant sur des plans annexés à l'arrêté.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roubaix"
+    ],
+    "mots_cles": [
+      "drones",
+      "caméras aéroportées",
+      "Roubaix",
+      "manifestations",
+      "lycées"
     ]
   },
   {
@@ -4971,219 +5030,6 @@
       "dérogation agricole",
       "protection des eaux",
       "nitrates"
-    ]
-  },
-  {
-    "titre": "Avenant 1 - DECISION 40",
-    "titre_complet": "Direction départementale des territoires et de la mer / 2026-09-07-00008 - Avenant 1 - DECISION 40",
-    "page_debut": 24,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Travaux de pont prolongés jusqu'en octobre à Merville",
-    "resume": "L'État prolonge jusqu'au 16 octobre 2026 les travaux d'entretien du pont sur la rivière Lys à Merville. Pendant cette période, la navigation fluviale sera soumise à un plan de signalisation spécifique et à une circulation en alternat, sous surveillance de l'ouvrage. Les usagers de la voie d'eau doivent respecter strictement cette signalisation.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Merville"
-    ],
-    "mots_cles": [
-      "travaux fluviaux",
-      "pont Lys",
-      "navigation fluviale",
-      "signalisation",
-      "circulation alternat"
-    ]
-  },
-  {
-    "titre": "DECISION 80",
-    "titre_complet": "2026-09-02-00020 - DECISION 80",
-    "page_debut": 26,
-    "nb_pages": 3,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Autorisation d'une manifestation nautique sur la Lys",
-    "resume": "Le préfet du Nord autorise l'association Nord Paddle Club à organiser une manifestation nautique intitulée « L'enfer des Canaux » le 26 septembre 2026 sur la Lys entre Aïre et Warneton. L'événement, limité à 8h-19h, s'accompagne de deux interruptions temporaires de la navigation fluviale avec mise en place de vigies équipées de drapeaux rouges pour informer les usagers.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Aïre",
-      "Warneton",
-      "Thiennes",
-      "Haverskerque",
-      "Merville",
-      "Estaires",
-      "Steenwerck",
-      "Esquinghem-Lys",
-      "Armentières",
-      "Nieppe",
-      "Houplines",
-      "Frelinghien",
-      "Deûlemont"
-    ],
-    "mots_cles": [
-      "manifestation nautique",
-      "navigation fluviale",
-      "Lys",
-      "interruption de navigation",
-      "Nord Paddle Club"
-    ]
-  },
-  {
-    "titre": "DECISION 82",
-    "titre_complet": "2026-09-07-00009 - DECISION 82",
-    "page_debut": 29,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Inspection du pont Rouge à Dunkerque en octobre",
-    "resume": "La préfecture autorise une inspection de l'ouvrage d'art du pont Rouge sur le canal de Bergues à Dunkerque, prévue le 22 octobre 2026 de 20h30 à minuit. Pendant cette opération, une surveillance visuelle sera maintenue à 300 mètres de part et d'autre du pont, et une vigie VHF sur canal 10 permettra de gérer les passages de bateaux de commerce.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Dunkerque"
-    ],
-    "mots_cles": [
-      "inspection d'ouvrage",
-      "canal de Bergues",
-      "pont Rouge",
-      "navigation fluviale",
-      "restriction temporaire"
-    ]
-  },
-  {
-    "titre": "DECISION 83",
-    "titre_complet": "2026-09-07-00010 - DECISION 83",
-    "page_debut": 31,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Inspection du pont de l'Hôtel de Ville à Coudekerque-Branche",
-    "resume": "Le préfet autorise une inspection d'ouvrage avec nacelle négative sur le canal de Bergues à Coudekerque-Branche le 22 octobre 2026, de 18h00 à 20h30. L'inspection sera encadrée par une surveillance visuelle à 300 mètres et une vigie VHF pour assurer la sécurité du franchissement du pont et libérer la navigation commerciale dans les délais.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Coudekerque-Branche"
-    ],
-    "mots_cles": [
-      "inspection d'ouvrage",
-      "canal de Bergues",
-      "navigation",
-      "sécurité fluviale",
-      "restriction temporaire"
-    ]
-  },
-  {
-    "titre": "DECISION 84",
-    "titre_complet": "2026-09-08-00003 - DECISION 84",
-    "page_debut": 33,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Inspection du pont de Dunkerque en octobre",
-    "resume": "La préfecture du Nord autorise une inspection d'ouvrage sur le canal de Bourbourg à Dunkerque, prévue le 23 octobre 2026 de 00h00 à 02h30. Cette inspection, effectuée avec une nacelle négative, nécessitera une surveillance visuelle à 300 mètres et une vigie VHF pour sécuriser le passage des bateaux de commerce pendant les travaux.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Dunkerque"
-    ],
-    "mots_cles": [
-      "inspection d'ouvrage",
-      "canal de Bourbourg",
-      "restriction de navigation",
-      "sécurité fluviale",
-      "pont de la redoute du marais"
-    ]
-  },
-  {
-    "titre": "Décision 85/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art qui aura lieu du 29 septembre au 01 octobre 2026 au PK10.800 du canal de Pommeroeul-Condé",
-    "titre_complet": "2026-09-08-00004 - Décision 85/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art qui aura lieu du 29 septembre au 01 octobre 2026 au PK10.800 du canal de Pommeroeul-Condé",
-    "page_debut": 35,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Inspection d'ouvrages : navigation restreinte en septembre",
-    "resume": "Le préfet du Nord impose une restriction temporaire de la navigation sur le canal de Pommeroeul-Condé du 29 septembre au 1er octobre 2026, de 8h30 à 18h, au niveau du PK 10.800. Cette mesure vise à permettre une inspection détaillée d'ouvrages d'art. Les usagers devront exercer une extrême vigilance à l'approche du site et signaler leur présence sur le canal 10 de la VHF.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Condé-sur-l'Escaut"
-    ],
-    "mots_cles": [
-      "navigation fluviale",
-      "restriction temporaire",
-      "inspection ouvrages",
-      "canal Pommeroeul-Condé",
-      "sécurité"
-    ]
-  },
-  {
-    "titre": "décision 86/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art du 29 septembre au 01 octobre au PK28.745 de la rivière de l'Escaut canalisé",
-    "titre_complet": "2026-09-08-00005 - décision 86/2026 portant mesure temporaire de restriction de navigation pour permettre une inspection d'ouvrages d'art du 29 septembre au 01 octobre au PK28.745 de la rivière de l'Escaut canalisé",
-    "page_debut": 37,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Inspection d'ouvrages sur l'Escaut : navigation encadrée fin septembre",
-    "resume": "Une inspection détaillée d'ouvrages d'art aura lieu sur la rivière de l'Escaut canalisé du 29 septembre au 1er octobre 2026. Pendant cette période, la navigation sera soumise à des mesures de restriction : une vigie équipée de VHF devra surveiller le secteur et maintenir une vision directe à 300 mètres de l'ouvrage, et les usagers devront annoncer leur approche sur le canal 10 de la VHF.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Fresnes-sur-Escaut"
-    ],
-    "mots_cles": [
-      "restriction de navigation",
-      "Escaut canalisé",
-      "inspection d'ouvrages",
-      "VHF",
-      "surveillance fluviale"
-    ]
-  },
-  {
-    "titre": "T26-450N RAA arrete de circulation portant sur l'A25 pour fermeture de la bretelle n°2 de l'échangeur n°5 les nuits du 19/10/2026 21h00 au 23/10/2026 05h00 pour des travaux d'entretien verts.",
-    "titre_complet": "2026-09-08-00006 - T26-450N RAA arrete de circulation portant sur l'A25 pour fermeture de la bretelle n°2 de l'échangeur n°5 les nuits du 19/10/2026 21h00 au 23/10/2026 05h00 pour des travaux d'entretien verts.",
-    "page_debut": 47,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 3,
-    "titre_court": "Fermeture nocturne de la bretelle A25 pour travaux d'entretien",
-    "resume": "L'autoroute A25 connaîtra des restrictions de circulation nocturnes du 19 au 23 octobre 2026, de 21h à 5h du matin, dans le secteur de Lille-Dunkerque. La bretelle d'entrée n°2 de l'échangeur n°5 sera fermée pour permettre des travaux d'entretien des espaces verts. Un itinéraire de déviation est mis en place via l'échangeur n°5 et l'échangeur n°3 de l'A25.",
-    "type_acte": "ARRÊTÉ",
-    "communes": [
-      "Lille",
-      "Loos"
-    ],
-    "mots_cles": [
-      "A25",
-      "fermeture bretelle",
-      "travaux entretien",
-      "restriction circulation",
-      "déviation"
     ]
   },
   {
@@ -7046,6 +6892,83 @@
     ]
   },
   {
+    "titre": "Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le département du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens de circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à Grande-Synthe",
+    "titre_complet": "Direction interdépartementale des routes Nord / 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le département du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens de circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à Grande-Synthe",
+    "page_debut": 25,
+    "nb_pages": 13,
+    "mode": "texte",
+    "texte": "Direction interdépartementale des routes Nord\n2026-10-09-00002\nArrêté n°T 26 - 536N / Dépt 59 - Autoroute A25\ndans le département du Nord - Dans les deux\nsens de circulation - Route Nationale N225 dans\nle département du Nord - Dans les deux sens de\ncirculation - Travaux de fauchage - Neutralisation\nde la voie droite, fermetures de bretelles -\nCommunes de Nieppe à Grande-Synthe\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 25\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\nDirection interdépartementale\ndes routes Nord\nAutoroute A25 dans le département du Nord – Dans les deux sens de circulation\nRoute Nationale N225 dans le département du Nord – Dans les deux sens de circulation\nTravaux de fauchage – Neutralisation de la voie droite, fermetures de bretelles – Communes de\nNieppe à Grande-Synthe.\nArrêté n°T 26 – 536N / Dépt 59\nVu le Code de la Route et notamment les articles L. 411-8, R.411-8, R411-18, R.411-21-1 et R.411-25,\nVu le Code Pénal,\nVu le Code Général des Collectivités Territoriales,\nVu le Code de la Voirie Routière,\nVu le décret 2010-146 du 16 février 2010 modifiant le décret 2004-374 du 29 avril 2004 relatif aux\npouvoirs des préfets, à l’organisation et à l’action des services de l’État dans les Régions et\nDépartements,\nVu le décret du 17 janvier 2024 du président de la République nommant monsieur Bertrand GAUME,\npréfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité nord, préfet du\nNord,\nVu l’arrêté du 28 mars 2024, portant délégation de Monsieur le Préfet du Département du Nord à\nMadame Nathalie Degryse, Directrice Interdépartementale des Routes Nord,\nVu l'arrêté du 17 juillet 2026 portant délégation de signature de la Directrice Interdépartementale\ndes Routes Nord à ses collaborateurs,\nVu l’arrêté interministériel du 24 novembre 1967 relatif à la signalisation des routes modifié par des\narrêtés subséquents,\nVu l’instruction interministérielle sur la signalisation temporaire (livre I – huitième partie –\nsignalisation temporaire) approuvée par arrêté du 06 novembre 1992 modifié par des arrêtés\nsubséquents,\nVu la circulaire du 29 janvier 2026 du ministre des Transports fixant le calendrier des jours « hors\nchantier », pour l’année 2026 et le mois de janvier 2027,\n1/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 26\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\nVu la note technique du 14 avril 2016 relative à la coordination des chantiers sur le réseau routier\nnational abrogeant la circulaire n°96-14 du 6 février 1996 relative à l’exploitation sous chantier,\nVu l’information à M. le Commandant de la Compagnie Républicaine de Sécurité autoroutière Nord-\nPas-de-Calais,\nVu l’information à M. le Responsable de l’arrondissement routier de Dunkerque, Département du\nNord,\nConsidérant qu’il est indispensable de réglementer la circulation :\n• sur l’A25, entre les PR 20+410 et 62+1066, dans les deux de circulation,\n• sur la N225, entre les PR 0+000 et 10+670, dans les deux sens de circulation,\n• dans la bretelle d’insertion n°2 de l’échangeur n°9 dans le sens Lille vers Dunkerque, et dans la\nbretelle de sortie n°4 de l’échangeur n°9 dans le sens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°10 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°10 dans le\nsens Dunkerque vers Lille,\n• dans la bretelle de sortie n°1 de l’échangeur n°11 dans le sens Lille vers Dunkerque, et dans la\nbretelle d’insertion n°2 de l’échangeur n°11 dans le sens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°12 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°12 dans le\nsens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°13 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°13 dans le\nsens Dunkerque vers Lille,\n• dans la bretelle de sortie n°1 de l’échangeur n°14 dans le sens Lille vers Dunkerque, et\nd’insertion n°2 de l’échangeur n°14 dans le sens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°15 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°15 dans le\nsens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°16 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°16 dans le\nsens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°17 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°17 dans le\nsens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°18 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°18 dans le\nsens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 de l’échangeur n°19a, de sortie n°2 de l’échangeur n°19b, et\nd’insertion n°3 de l’échangeur n°19 dans le sens Lille vers Dunkerque, et dans les bretelles de\nsortie n°4 de l’échangeur n°19b, de sortie n°5 de l’échangeur n°19a, et d’insertion n°6 de\nl’échangeur n°19 dans le sens Dunkerque vers Lille,\n• dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°20 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°20 dans le\nsens Dunkerque vers Lille,\npour permettre la réalisation des travaux de fauchage,\n2/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 27\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\nConsidérant qu’il s’agit d’un chantier « non courant » au sens de la circulaire n° 96.14 du 06 février\n1996 abrogée par la note technique du 14 avril 2016,\nConsidérant qu’il convient de prendre des mesures pour faciliter le déroulement des travaux et\nprévenir des accidents,\nSur proposition de Mme la Directrice Interdépartementale des Routes Nord,\nARRÊTE\nARTICLE 1 :\nDes restrictions de circulation seront appliquées, de manière successive selon l’état d’avancement\ndes travaux :\n• durant la période du lundi 12 octobre 2026, 21h00 au vendredi 30 octobre 2026, 21h00,\nhormis les week-ends :\n◦ sur l’A25, entre les PR 20+410 et 62+1066, dans les deux de circulation,\n◦ sur la N225, entre les PR 0+000 et 10+670, dans les deux sens de circulation,\n• durant la période du lundi 12 octobre 2026, 21h00 au vendredi 30 octobre 2026, 21h00,\nhormis les week-ends pour une durée maximale d’une heure\n◦ dans la bretelle d’insertion n°2 de l’échangeur n°9 dans le sens Lille vers Dunkerque, et\ndans la bretelle de sortie n°4 de l’échangeur n°9 dans le sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°10 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°10 dans\nle sens Dunkerque vers Lille,\n◦ dans la bretelle de sortie n°1 de l’échangeur n°11 dans le sens Lille vers Dunkerque, et dans\nla bretelle d’insertion n°2 de l’échangeur n°11 dans le sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°12 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°12 dans\nle sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°13 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°13 dans\nle sens Dunkerque vers Lille,\n◦ dans la bretelle de sortie n°1 de l’échangeur n°14 dans le sens Lille vers Dunkerque, et\nd’insertion n°2 de l’échangeur n°14 dans le sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°15 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°15 dans\nle sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°16 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°16 dans\nle sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°17 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°17 dans\nle sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°18 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°18 dans\nle sens Dunkerque vers Lille,\n3/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 28\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n◦ dans les bretelles de sortie n°1 de l’échangeur n°19a, de sortie n°2 de l’échangeur n°19b, et\nd’insertion n°3 de l’échangeur n°19 dans le sens Lille vers Dunkerque, et dans les bretelles\nde sortie n°4 de l’échangeur n°19b, de sortie n°5 de l’échangeur n°19a, et d’insertion n°6\nde l’échangeur n°19 dans le sens Dunkerque vers Lille,\n◦ dans les bretelles de sortie n°1 et d’insertion n°2 de l’échangeur n°20 dans le sens Lille vers\nDunkerque, et dans les bretelles de sortie n°3 et d’insertion n°4 de l’échangeur n°20 dans\nle sens Dunkerque vers Lille,\nafin de permettre la réalisation des travaux susmentionnés, de garantir la sécurité des usagers et du\npersonnel intervenant.\nLes horaires définis dans le présent article comprennent la pose et la dépose du balisage.\nLes restrictions de circulation appliquées pendant cette période sont décrites à l’article 2.\nARTICLE 2 :\nLes restrictions de circulation appliquées sur l’A25 consistent en :\nDans les deux sens de circulation :\n• la neutralisation de la voie de droite par FLR entre les PR 20+410 et 62+1066 selon le schéma\ntype F.213b (neutralisation de voie par FLR – chantiers fixes) du guide du CEREMA édition de\n2020 « Signalisation temporaire – routes à chaussées séparées, Manuel du chef de chantier\nvolume 2 » sur une longueur maximale de 10km,\nDans le sens Lille vers Dunkerque pour une durée maximale d’une heure:\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°9,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la bretelle\nd’insertion de l’échangeur n°9 vers l’A25 Lille, prendre la bretelle de sortie de l’échangeur\nn°8, prendre la 3ème sortie du giratoire vers la D222, prendre la 3ème sortie du giratoire vers\nla bretelle d’insertion de l’échangeur n°8 où les usagers retrouvent l’accès à l’A25 vers\nDunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°10,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°11, prendre la 3ème sortie du giratoire\nvers la D642 Hazebrouck, prendre la bretelle d’insertion de l’échangeur n°11 vers A25 Lille où\nles usagers retrouvent l’accès à Bailleul,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°10,\npour pallier cette fermeture, une déviation est mise en place et consiste à partir du giratoire\nde l’Avenue des Nations Unies à Bailleul, prendre la RD933B vers A25 Lille, prendre la\nbretelle d’insertion de l’échangeur n°10 vers l’A25 Lille, prendre la bretelle de sortie de\nl’échangeur n°9, prendre à gauche la RD945N vers Armentières, prendre la bretelle\nd’insertion de l’échangeur n°9 où les usagers retrouvent l’accès à l’A25 vers Dunkerque,\n4/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 29\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°11,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°13, prendre à droite la D948 vers\nPoperinge, prendre la 5ème sortie du giratoire vers la D948 Steenvoorde, prendre la D37 où\nles usagers retrouvent l’accès à Hazebrouck / St Omer,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°12,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°13, prendre la D948 vers Poperinge,\nprendre la 5ème sortie du giratoire vers la D948 Steenvoorde, à l’intersection de la D948 et\nD37 prendre la 4ème sortie du giratoire, prendre la bretelle d’insertion de l’échangeur n°13\nvers l’A25 Lille où les usagers retrouvent l’accès à Cassel / Méteren,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°12,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°12 vers l’A25 Lille, prendre la bretelle de sortie de\nl’échangeur n°10, prendre la D933B vers Bailleul, prendre la 4ème sortie du giratoire vers\nl’Avenue des Nations Unis, prendre la bretelle d’insertion de l’échangeur n°10 où les usagers\nretrouvent l’accès à l’A25 vers Dunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°13,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°14, prendre à gauche la D947, prendre la\nbretelle d’insertion de l’échangeur n°14 vers l’A25 Lille où les usagers retrouvent l’accès à\nPoperinge / Steenvoorde,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°13,\npour pallier cette fermeture, une déviation est mise en place et consiste à partir de la D948,\nprendre la bretelle d’insertion de l’échangeur n°13 vers A25 Lille, prendre la bretelle de sortie\nde l’échangeur n°12, prendre à gauche la D933 vers Méteren, prendre à gauche la bretelle\nd’insertion de l’échangeur n°12 où les usagers retrouvent l’accès à l’A25 vers Dunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°14,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°15, prendre la 1ère sortie du giratoire,\nprendre la D17 vers Herzeele, continuer jusqu’à l’intersection avec la D947 où les usagers\nretrouvent l‘accès à Hondschoote / Winnezeele,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°15,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°16, prendre la D916 vers Quaëdypre,\nprendre la bretelle d’insertion de l’échangeur n°16 vers l’A25 Lille où les usagers retrouvent\nl’accès à Wormhout / Herzeele,\n5/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 30\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°15,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°15 vers l’A25 Lille, prendre la bretelle de sortie de\nl’échangeur n°13, prendre la D948 vers Steenvoorde, prendre la 4ème sortie du giratoire,\nprendre la D948 vers Poperinge, prendre la 5ème sortie du giratoire, prendre la bretelle\nd’insertion de l’échangeur n°13 où les usagers retrouvent l’accès à l’A25 vers Dunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°16,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°17, prendre la 4ème sortie du giratoire\nvers la D352 Pitgam, prendre la bretelle d’insertion de l’échangeur n°17 de la N225 vers Lille\noù les usagers retrouvent l’accès à Bergues,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°16,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°16 vers A25 Lille, prendre la bretelle de sortie de\nl’échangeur n°15, prendre la 3ème sortie du 1er giratoire et prendre la D17 vers Herzeele, au\nsecond giratoire prendre la 2ème sortie et prendre la bretelle d’insertion de l’échangeur n°15\noù les usagers retrouvent l’accès à l’A25 vers Dunkerque,\nDans le sens Dunkerque vers Lille pour une durée maximale d’une heure:\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°16,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25 vers Lille, prendre la bretelle de sortie de l’échangeur n°15, prendre la 3ème sortie du\ngiratoire vers la D17 Herzeele, prendre la bretelle d’insertion de l’échangeur n°15 vers l’A25\nDunkerque où les usagers retrouvent l’accès à Bergues/Wormhout,\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°16,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°16 vers l’A25 Dunkerque, prendre la bretelle de sortie\nde l’échangeur n°17 de la N225, prendre la 4ème sortie du giratoire vers la D352 Pitgam,\nprendre la bretelle d’insertion de l’échangeur n°17 de la N225 vers Lille où les usagers\nretrouvent l’accès à l’A25 vers Lille,\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°15,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°13, prendre la D948 vers Steenvoorde,\nprendre la 4ème sortie du giratoire, prendre la D948 vers Poperinge, prendre la 5ème sortie\ndu giratoire, prendre la bretelle d’insertion de l’échangeur n°13 vers l’A25 Dunkerque où les\nusagers retrouvent l’accès à Herzeele / Wormhout ZI,\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°15,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°15 vers l’A25 Dunkerque, prendre la bretelle de sortie\nde l’échangeur n°16, prendre la D916 vers Quaëdypre, prendre la bretelle d’insertion de\nl’échangeur n°16 où les usagers retrouvent l’accès à l’A25 vers Lille,\n6/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 31\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°14,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nD947 vers Steenvoorde, prendre la D948 puis la D947 vers Poperinge, à l’intersection de la\nD947 et D37 prendre la 3ème sortie du giratoire, prendre la D37 puis D948 vers Poperinge,\nprendre la bretelle d’insertion de l’échangeur n°13 où les usagers retrouvent l’accès à l’A25\nvers Lille,\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°13,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°12, prendre la D933 vers Méteren,\nprendre la bretelle d’insertion de l’échangeur n°12 vers l’A25 Dunkerque où les usagers\nretrouvent l’accès à Steenvoorde / Ypres,\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°13,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°13 vers l’A25 Dunkerque, prendre la bretelle de sortie\nde l’échangeur n°14, prendre à gauche la D947, prendre la bretelle d’insertion de l’échangeur\nn°14 où les usagers retrouvent l’accès à l’A25 vers Lille,\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°12,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°10, prendre la D933B vers Bailleul,\nprendre la 4ème sortie du giratoire vers l’Avenue des Nations Unis, prendre la bretelle\nd’insertion de l’échangeur n°10 vers l’A25 Dunkerque où les usagers retrouvent l’accès à\nBailleul centre / Méteren\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°12,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°12 vers l’A25 Dunkerque, prendre la bretelle de sortie\nde l’échangeur n°13, prendre la D948 vers Poperinge, prendre la 5ème sortie du giratoire vers\nla D948 Steenvoorde, à l’intersection de la D948 et D37 prendre la 4ème sortie du giratoire,\nprendre la bretelle d’insertion de l’échangeur n°13 où les usagers retrouvent l’accès à l’A25\nvers Lille,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°11,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nD642 puis D944 vers Bailleul, prendre à droite la D933 vers Armentières, prendre la D933B\nvers Steenwerck, prendre la bretelle d’insertion de l’échangeur n°10 où les usagers\nretrouvent l’accès à l’A25 vers Lille,\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°10,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°9, prendre à gauche la D945N vers\nArmentières, prendre la bretelle d’insertion de l’échangeur n°9 vers A25 Dunkerque où les\nusagers retrouvent l’accès à Estaires / Bailleul ZI,\n7/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 32\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°10,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nD933B vers Bailleul, prendre la 4ème sortie du giratoire vers l’Avenue des Nations Unis,\nprendre la bretelle d’insertion vers l’A25 Dunkerque, prendre la bretelle de sortie de\nl’échangeur n°11, prendre la 3ème sortie du giratoire vers la D642 Hazebrouck, prendre la\nbretelle d’insertion de l’échangeur n°11 où les usagers retrouvent l’accès à l’A25 vers Lille,\n• la fermeture de la bretelle de sortie n°4 de l’échangeur n°9,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur\nl’A25, prendre la bretelle de sortie de l’échangeur n°8, prendre la 3ème sortie du giratoire\nvers la D222, prendre la 3ème sortie du giratoire vers la bretelle d’insertion de l’échangeur\nn°8 vers l’A25 Dunkerque où les usagers retrouvent l’accès à Armentières / Nieppe,\nLes restrictions de circulation appliquées sur la N225 consistent en :\nDans les deux sens de circulation :\n• la neutralisation de la voie de droite par FLR entre les PR 0+000 et 10+670 selon le schéma\ntype F.213b (neutralisation de voie par FLR – chantiers fixes) du guide du CEREMA édition de\n2020 « Signalisation temporaire – routes à chaussées séparées, Manuel du chef de chantier\nvolume 2 » sur une longueur maximale de 10km,\nDans le sens Lille vers Dunkerque pour une durée maximale d’une heure:\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°17,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°18, prendre la 3ème sortie du giratoire\nvers la D252 Armbouts village, prendre la 2ème sortie du giratoire, prendre la bretelle\nd’insertion de l’échangeur n°18 vers la N225 Lille où les usagers retrouvent l’accès à Bierne /\nSteene,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°17,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°17 vers la N225 Lille, prendre la bretelle de sortie de\nl’échangeur n°16 de l’A25, prendre la D916 vers Bergues, prendre la bretelle d’insertion de\nl’échangeur n°16 où les usagers retrouvent l’accès à la N225 vers Dunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°18,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°19b, prendre la D52 vers Spycker,\nprendre la bretelle d’insertion de l’échangeur n°19 vers la N225 Lille où les usagers\nretrouvent l’accès à Cappelle-la-Grande,\n8/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 33\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°18,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la bretelle\nd’insertion de l’échangeur n°18 vers la N225 Lille, prendre la bretelle de sortie de l’échangeur\nn°17, prendre la D352 vers Bierne, prendre la 3ème sortie du giratoire, prendre la bretelle\nd’insertion de l’échangeur n°17 où les usagers retrouvent l’accès à la N225 vers Dunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°19a,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°20, prendre l’Avenue de la Garonne,\nprendre à droite la D52 où les usagers retrouvent l’accès à Armbouts le lac,\n• la fermeture de la bretelle de sortie n°2 de l’échangeur n°19b,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nRN225, prendre la bretelle de liaison N225 vers l’A16 Calais, prendre la bretelle de\nl’échangeur n°57a de l’A16 vers la N225 Lille, où les usagers retrouvent l’accès à Spycker,\n• la fermeture de la bretelle d’insertion n°3 de l’échangeur n°19,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°19 vers la N225 Lille, prendre la bretelle de sortie de\nl’échangeur n°18, prendre la 3ème sortie du giratoire vers la D252 Cappelle-la-Grande,\nprendre la 2ème sortie du giratoire du Hooghe Porte, prendre la bretelle d’insertion de\nl’échangeur n°18 où les usagers retrouvent l’accès à la N225 vers Dunkerque,\n• la fermeture de la bretelle de sortie n°1 de l’échangeur n°20,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de liaison vers l’A16 Ostende, prendre la bretelle de sortie de\nl’échangeur n°58, prendre à droite l’Avenue du Bénélux où les usagers retrouvent l’accès à la\nZI de Petite-Synthe,\n• la fermeture de la bretelle d’insertion n°2 de l’échangeur n°20,\npour pallier cette fermeture, une déviation est mise en place et consiste à partir de\nl’intersection de l’Avenue de la Garonne et de l’Avenue de la Gironde, prendre la D52 vers\nl’A25 Lille, à l’intersection de la D52 et de la D2, prendre la 2ème sortie du giratoire, prendre\nla bretelle d’insertion de l’échangeur n°19 où les usagers retrouvent l’accès à la N225 vers\nDunkerque,\nDans le sens Dunkerque vers Lille pour une durée maximale d’une heure:\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°20,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°19a, prendre la D52 vers Armbouts-\nCappel, à l’intersection de la D52 et D2 prendre la 2ème sortie du giratoire, prendre la rue\nAchille Péres vers Petite-Synthe, prendre à gauche la rue Alexis Carrel où les usagers\nretrouvent l’accès à la Z.I. de Grande-Synthe,\n9/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 34\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°20,\npour pallier cette fermeture, une déviation est mise en place et consiste à partir de la rue\nVancauwenberghe, prendre la rue de la Gare, prendre à droite la rue Alexis Carrel vers\nPetite-Synthe, prendre à droite la rue Achille Péres, poursuivre sur la D52 vers Armbouts-\nCappel, prendre la bretelle d’insertion de l’échangeur n°19 où les usagers retrouvent l’accès\nà la N225 vers Lille,\n• la fermeture de la bretelle de sortie n°4 de l’échangeur n°19b,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°18, prendre la 3ème sortie du giratoire\nsud vers la D252, prendre la 2ème sortie du giratoire nord, prendre la bretelle d’insertion de\nl’échangeur n°18 vers la N225 Dunkerque où les usagers retrouvent l’accès à Spycker /\nArmbouts village,\n• la fermeture de la bretelle de sortie n°5 de l’échangeur n°19a,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°18, prendre la 3ème sortie du giratoire\nsud vers la D252, puis prendre la 2ème sortie du giratoire nord, prendre la bretelle\nd’insertion de l’échangeur n°18 vers la N225 Dunkerque où les usagers retrouvent l’accès à\nArmbouts-Cappel le lac,\n• la fermeture de la bretelle d’insertion n°6 de l’échangeur n°19,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°19 vers la N225 Dunkerque, prendre la bretelle de\nliaison N225 vers l’A16 Calais, prendre la bretelle de l’échangeur n°57a de l’A16 où les usagers\nretrouvent l’accès à la RN225 vers Lille,\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°18,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°17, prendre à gauche la D352 vers\nBierne, prendre la 3ème sortie du giratoire, prendre la bretelle d’insertion de l’échangeur\nn°17 vers la N225 Dunkerque où les usagers retrouvent l’accès à Cappelle-la-Grande,\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°18,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°18 vers la N225 Dunkerque, prendre la bretelle de\nsortie de l’échangeur n°19b, prendre la D52 vers Spycker, prendre la bretelle d’insertion de\nl’échangeur n°19 où les usagers retrouvent l’accès à la N225 vers Lille,\n• la fermeture de la bretelle de sortie n°3 de l’échangeur n°17,\npour pallier cette fermeture, une déviation est mise en place et consiste à poursuivre sur la\nN225, prendre la bretelle de sortie de l’échangeur n°16 de l’A25, prendre la D916 vers\nBergues, prendre la bretelle d’insertion de l’échangeur n°16 vers la N225 Dunkerque où les\nusagers retrouvent l’accès à Bierne /Steene,\n10/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 35\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\n• la fermeture de la bretelle d’insertion n°4 de l’échangeur n°17,\npour pallier cette fermeture, une déviation est mise en place et consiste à prendre la\nbretelle d’insertion de l’échangeur n°17 vers la N225 Dunkerque, prendre la bretelle de\nsortie de l’échangeur n°18, prendre la 3ème sortie du giratoire vers la D252 Armbouts village,\nprendre la 2ème sortie du giratoire, prendre la bretelle d’insertion de l’échangeur n°18 où les\nusagers retrouvent l’accès à la N225 vers Lille.\nL’application des distances de visibilité définies dans le guide Setra d’utilisation des FLR à savoir\n400 mètres pour les routes dont la vitesse autorisée est de 130km/h, 300 mètres pour les routes dont\nla vitesse autorisée est de 110km/h, 200 mètres pour les routes dont la vitesse autorisée est de\n90km/h.\nARTICLE 3 :\nLa signalisation temporaire est conforme aux prescriptions de l’instruction interministérielle sur la\nsignalisation routière, notamment la 8ᵉ partie « signalisation temporaire » approuvée par l’arrêté du 6\nnovembre 1992 modifié et conforme aux recommandations du Service d’Études Techniques des\nRoutes et Autoroutes.\nLes travaux, la pose, la maintenance et la dépose de l’ensemble des dispositifs de signalisation\ntemporaire seront assurées par le CEI de Steenvoorde.\nLe District du Littoral est le gestionnaire de la voie.\nARTICLE 4 :\nL’inter-distance entre ce chantier et d’autres chantiers « courants » pourra être inférieure à la\nréglementation en vigueur.\nARTICLE 5 :\nLes dispositions du présent arrêté prennent effet dès mise en place de la signalisation temporaire. Le\nprésent arrêté sera publié au recueil des actes administratifs de la préfecture du Nord.\nARTICLE 6 :\nToute infraction au présent arrêté sera constatée et poursuivie conformément aux lois et textes en\nvigueur.\nARTICLE 7 :\nMadame la Directrice Interdépartementale des Routes Nord est chargée de l’exécution du présent\narrêté dont copie sera adressée à :\nM. le Secrétaire Général de la Préfecture du Nord,\nM. le Directeur de Cabinet de la préfecture du Nord,\nM. le Sous-Préfet de Dunkerque,\nM. le Directeur Départemental des Territoires et de la Mer du Nord,\nM. le Chef du Service Régional des Transports de la DREAL Hauts de France,\nM. le Directeur zonal des CRS Nord de Lille,\nM. le Commandant du Groupement de Gendarmerie Départementale du Nord,\n11/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 36\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe\nMM. les Présidents des Syndicats de Transporteurs,\nM. le Directeur Départemental de la Sécurité Publique du Nord,\nM. le Directeur Départemental des Services de Secours et de Lutte contre l’Incendie du Nord,\nM. le Responsable du Service d’Aide Médicale d’Urgence du Nord,\nM. le Président du Conseil Départemental du Nord.\nMme. la Cheffe de l’Arrondissement Gestion de la Route Ouest – DIR Nord,\nM. le Chef du Service d’Ingénierie Routière Ouest – DIR Nord,\nM. le Chef du CIGT de Lille – DIR Nord,\nM. le Chef du District du Littoral – DIR Nord,\nM. le Chef du CEI de Steenvoorde – DIR Nord,\nM. le Chef de SPT/CPR – DIR Nord.\nPeuplingues, le\nLe Préfet\nPour le Préfet et par délégation\nLa Directrice\nPar délégation\nLe Chef du District Littoral\nStéphane Signature\nnumérique de\nMILLE\nStéphane MILLE\nstephane.mill stephane.mille\nDate : 2026.10.09\ne\n14:45:30 +02'00'\nStéphane MILLE\n12/12\nDirection interdépartementale des routes Nord - 2026-10-09-00002 - Arrêté n°T 26 - 536N / Dépt 59 - Autoroute A25 dans le 37\ndépartement du Nord - Dans les deux sens de circulation - Route Nationale N225 dans le département du Nord - Dans les deux sens\nde circulation - Travaux de fauchage - Neutralisation de la voie droite, fermetures de bretelles - Communes de Nieppe à\nGrande-Synthe",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 3,
+    "titre_court": "Fauchage : circulation réglementée sur l'A25 et la N225",
+    "resume": "Cet arrêté encadre la circulation sur des sections de l'A25 et de la N225 dans le Nord, entre Nieppe et Grande-Synthe, dans les deux sens, pour des travaux de fauchage. Il vise aussi plusieurs bretelles d'échangeurs, dont les numéros 1 à 4 des échangeurs 9 et 10 sont cités dans les considérants. Le texte fourni étant tronqué, le détail précis des mesures (voies concernées, horaires, durée) n'y figure pas.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Nieppe",
+      "Grande-Synthe"
+    ],
+    "mots_cles": [
+      "fauchage",
+      "A25",
+      "N225",
+      "circulation",
+      "bretelles"
+    ]
+  },
+  {
+    "titre": "Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le département du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de Godewaersvelde et Winnezeele",
+    "titre_complet": "2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le département du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de Godewaersvelde et Winnezeele",
+    "page_debut": 38,
+    "nb_pages": 7,
+    "mode": "texte",
+    "texte": "Direction interdépartementale des routes Nord\n2026-10-08-00007\nArrêté n°T 26 - 546N / Dépt 59 - Autoroute A25\ndans le département du Nord - Dans le sens Lille\nvers Dunkerque - Neutralisation de la voie de\ndroite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 38\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\nDirection interdépartementale\ndes routes Nord\nAutoroute A25 dans le département du Nord – Dans le sens Lille vers Dunkerque – Neutralisation de\nla voie de droite – Travaux de chaussée\nCommunes de Godewaersvelde et Winnezeele\nArrêté n°T 26 – 546N / Dépt 59\nVu le Code de la Route et notamment les articles L. 411-8, R.411-8, R411-18, R.411-21-1 et R.411-25,\nVu le Code Pénal,\nVu le Code Général des Collectivités Territoriales,\nVu le Code de la Voirie Routière,\nVu le décret 2010-146 du 16 février 2010 modifiant le décret 2004-374 du 29 avril 2004 relatif aux\npouvoirs des préfets, à l’organisation et à l’action des services de l’État dans les Régions et\nDépartements,\nVu le décret du 17 janvier 2024 du président de la République nommant monsieur Bertrand GAUME,\npréfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité nord, préfet du\nNord,\nVu l’arrêté du 28 mars 2024, portant délégation de Monsieur le Préfet du Département du Nord à\nMadame Nathalie Degryse, Directrice Interdépartementale des Routes Nord,\nVu l'arrêté du 17 juillet 2026 portant délégation de signature de la Directrice Interdépartementale\ndes Routes Nord à ses collaborateurs,\nVu l’arrêté interministériel du 24 novembre 1967 relatif à la signalisation des routes modifié par des\narrêtés subséquents,\nVu l’instruction interministérielle sur la signalisation temporaire (livre I – huitième partie –\nsignalisation temporaire) approuvée par arrêté du 06 novembre 1992 modifié par des arrêtés\nsubséquents,\nVu la circulaire du 29 janvier 2026 du ministre des Transports fixant le calendrier des jours « hors\nchantier », pour l’année 2026 et le mois de janvier 2027,\n1/6\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 39\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\nVu la note technique du 14 avril 2016 relative à la coordination des chantiers sur le réseau routier\nnational abrogeant la circulaire n°96-14 du 6 février 1996 relative à l’exploitation sous chantier,\nVu l’information à M. le Commandant de la Compagnie Républicaine de Sécurité autoroutière Nord-\nPas-de-Calais,\nVu l’information à M. le Responsable de l’arrondissement routier de Dunkerque, Département du\nNord,\nConsidérant qu’il est indispensable de réglementer la circulation sur l’A25, entre les PR 38+400 et\n40+500, et entre les PR 46+900 et 48+400, dans le sens Lille vers Dunkerque, pour permettre les\ntravaux de chaussée,\nConsidérant qu’il s’agit d’un chantier « non courant » au sens de la circulaire n° 96.14 du 06 février\n1996 abrogée par la note technique du 14 avril 2016,\nConsidérant qu’il convient de prendre des mesures pour faciliter le déroulement des travaux et\nprévenir des accidents,\nSur proposition de Mme la Directrice Interdépartementale des Routes Nord,\nARRÊTE\nARTICLE 1 :\nDes restrictions de circulation seront appliquées sur l’A25, entre les PR 38+400 et 40+500, et entre les\nPR 46+900 et 48+400, dans le sens Lille vers Dunkerque, en continu durant la période du lundi 19\noctobre 2026, 09h00, au mercredi 21 octobre 2026, 16h00, afin de permettre la réalisation des\ntravaux susmentionnés, de garantir la sécurité des usagers et du personnel intervenant.\nSelon les aléas météorologiques et techniques, les travaux pourront être reportés jusqu’au jeudi 22\noctobre 2026, 16h00.\nLes horaires définis dans le présent article comprennent la pose et la dépose du balisage.\nLes restrictions de circulation appliquées pendant cette période sont décrites à l’article 2.\nARTICLE 2 :\nLes restrictions de circulation appliquées sur l’A25 consistent en :\nDans le sens Lille vers Dunkerque :\n• l’interdiction de dépassement à tous les véhicules entre les PR 38+400 et 40+500,\n• la limitation de la vitesse à 110 km/h entre les PR 38+400 et 38+600,\n• la limitation de la vitesse à 90 km/h entre les PR 38+600 et 40+500,\n• la neutralisation de la voie de droite entre les PR 38+800 et 40+450,\n2/6\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 40\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\nDans le sens Lille vers Dunkerque :\n• l’interdiction de dépassement à tous les véhicules entre les PR 46+900 et 48+400,\n• la limitation de la vitesse à 110 km/h entre les PR 46+900 et 47+100,\n• la limitation de la vitesse à 90 km/h entre les PR 47+100 et 48+400,\n• la neutralisation de la voie de droite entre les PR 47+300 et 48+350,\nLes balisages mis en place seront conformes aux schémas en annexe.\nARTICLE 3 :\nLa signalisation temporaire est conforme aux prescriptions de l’instruction interministérielle sur la\nsignalisation routière, notamment la 8ᵉ partie « signalisation temporaire » approuvée par l’arrêté du 6\nnovembre 1992 modifié et conforme aux recommandations du Service d’Études Techniques des\nRoutes et Autoroutes.\nLa pose, la maintenance et la dépose de l’ensemble des dispositifs de signalisation temporaire seront\nassurées par le CEI de Steenvoorde.\nLes travaux seront assurés par l’entreprise COLAS.\nLe District du Littoral est le gestionnaire de la voie.\nARTICLE 4 :\nL’inter-distance entre ce chantier et d’autres chantiers « courants » pourra être inférieure à la\nréglementation en vigueur.\nARTICLE 5 :\nLes dispositions du présent arrêté prennent effet dès mise en place de la signalisation temporaire. Le\nprésent arrêté sera publié au recueil des actes administratifs de la préfecture du Nord.\nARTICLE 6 :\nToute infraction au présent arrêté sera constatée et poursuivie conformément aux lois et textes en\nvigueur.\nARTICLE 7 :\nMadame la Directrice Interdépartementale des Routes Nord est chargée de l’exécution du présent\narrêté dont copie sera adressée à :\nM. le Secrétaire Général de la Préfecture du Nord,\nM. le Directeur de Cabinet de la préfecture du Nord,\nM. le Sous-Préfet de Dunkerque,\nM. le Directeur Départemental des Territoires et de la Mer du Nord,\nM. le Chef du Service Régional des Transports de la DREAL Hauts de France,\nM. le Directeur zonal des CRS Nord de Lille,\nM. le Commandant du Groupement de Gendarmerie Départementale du Nord,\n3/6\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 41\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\nMM. les Présidents des Syndicats de Transporteurs,\nM. le Directeur Départemental de la Sécurité Publique du Nord,\nM. le Directeur Départemental des Services de Secours et de Lutte contre l’Incendie du Nord,\nM. le Responsable du Service d’Aide Médicale d’Urgence du Nord,\nM. le Président du Conseil Départemental du Nord.\nMme. la Cheffe de l’Arrondissement Gestion de la Route Ouest – DIR Nord,\nM. le Chef du Service d’Ingénierie Routière Ouest – DIR Nord,\nM. le Chef du CIGT de Lille – DIR Nord,\nM. le Chef du District du Littoral – DIR Nord,\nM. le Chef du CEI de Steenvoorde – DIR Nord,\nM. le Chef de SPT/CPR – DIR Nord.\nPeuplingues, le\nLe Préfet\nPour le Préfet et par délégation\nLa Directrice\nPar délégation\nLe Chef du District Littoral\nStéphane Signature\nnumérique de\nMILLE\nStéphane MILLE\nstephane.milstephane.mille\nDate : 2026.10.08\nle\n16:10:05 +02'00'\nStéphane MILLE\n4/6\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 42\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\nANNEXE\nSchéma de balisage\n5/6\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 43\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele\n6/6\nDirection interdépartementale des routes Nord - 2026-10-08-00007 - Arrêté n°T 26 - 546N / Dépt 59 - Autoroute A25 dans le 44\ndépartement du Nord - Dans le sens Lille vers Dunkerque - Neutralisation de la voie de droite - Travaux de chaussée - Communes de\nGodewaersvelde et Winnezeele",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 3,
+    "titre_court": "A25 : voie de droite fermée pendant des travaux",
+    "resume": "Du lundi 19 au mercredi 21 octobre 2026, la circulation sera réglementée sur l'A25, dans le sens Lille vers Dunkerque, sur deux sections situées entre Godewaersvelde et Winnezeele, le temps de travaux de chaussée. Le texte prévoit la neutralisation de la voie de droite ; les travaux pourront être reportés au jeudi 22 octobre 2026 en cas d'aléas météorologiques ou techniques.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Godewaersvelde",
+      "Winnezeele"
+    ],
+    "mots_cles": [
+      "A25",
+      "travaux de chaussée",
+      "circulation",
+      "neutralisation voie de droite",
+      "Dunkerque"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant dérogation minimal de participation du maître d'ouvrage pour les travaux de reconstruction du pont de l'Helpe de la commune de Saint-Hilaire-sur-Helpe",
+    "titre_complet": "2026-06-10-00012 - Arrêté préfectoral portant dérogation minimal de participation du maître d'ouvrage pour les travaux de reconstruction du pont de l'Helpe de la commune de Saint-Hilaire-sur-Helpe",
+    "page_debut": 51,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 3,
+    "titre_court": "Saint-Hilaire-sur-Helpe : la commune allégée de sa part de financement du pont",
+    "resume": "Par un arrêté du 10 juin 2026, le préfet du Nord autorise la commune de Saint-Hilaire-sur-Helpe, maître d'ouvrage, à financer les travaux de reconstruction du pont de l'Helpe avec une participation inférieure au minimum habituel de 20 % du montant total des financements apportés par des personnes publiques. Le texte justifie cette dérogation par la détérioration significative de l'ouvrage, la nécessité de garantir la sécurité des habitants et usagers, et le caractère disproportionné de la part de 20 % au regard de la situation financière de la commune.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Saint-Hilaire-sur-Helpe"
+    ],
+    "mots_cles": [
+      "pont de l'Helpe",
+      "Saint-Hilaire-sur-Helpe",
+      "dérogation",
+      "participation financière",
+      "reconstruction"
+    ]
+  },
+  {
     "titre": "Arrêté agrément auto-école Dominique de Laventie Noémie Picavez Laventie",
     "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Béthune 62-2026-08-27-00019 - Arrêté agrément auto-école Dominique de Laventie Noémie Picavez Laventie",
     "page_debut": 174,
@@ -8631,229 +8554,6 @@
       "risque incendie",
       "abrogation",
       "restriction levée"
-    ]
-  },
-  {
-    "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
-    "titre_complet": "Préfecture du Nord / Service de la représentation de l'État 2026-09-08-00001 - Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
-    "page_debut": 3,
-    "nb_pages": 1,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108035/757308/file/Recueil n°317 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Un gendarme récompensé pour acte de courage",
-    "resume": "Le préfet du Nord accorde une lettre de félicitations à Joran Scharre, gendarme, pour son acte de courage et de dévouement exemplaire. Le 30 mars 2026 à Merville, il a permis le sauvetage d'une personne suicidaire retranchée dans son garage, en tentant de mettre fin à ses jours.",
-    "type_acte": "ARRÊTÉ",
-    "communes": [
-      "Merville"
-    ],
-    "mots_cles": [
-      "récompense",
-      "acte de courage",
-      "gendarme",
-      "sauvetage",
-      "dévouement"
-    ]
-  },
-  {
-    "titre": "Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
-    "titre_complet": "2026-09-08-00002 - Arrêté préfectoral accordant récompense pour acte de courage et de dévouement",
-    "page_debut": 4,
-    "nb_pages": 1,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108035/757308/file/Recueil n°317 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Un gendarme récompensé pour un sauvetage à Merville",
-    "resume": "Le préfet du Nord reconnaît l'acte de courage et de dévouement du brigadier Florian Legrain, gendarme, qui a permis le sauvetage d'une personne en danger le 30 mars 2026 à Merville. Une lettre de félicitations lui est décernée pour ses qualités professionnelles et son engagement exemplaire.",
-    "type_acte": "ARRÊTÉ",
-    "communes": [
-      "Merville"
-    ],
-    "mots_cles": [
-      "sauvetage",
-      "courage",
-      "gendarme",
-      "distinction honorifique",
-      "Merville"
-    ]
-  },
-  {
-    "titre": "DÉCISION RELATIVE A L'OUVERTURE DE CONCOURS SUR TITRES POUR L'ACCÈS AU CORPS DES AUXILIAIRES MÉDICAUX EXERÇANT EN PRATIQUE AVANCÉE",
-    "titre_complet": "Centre hospitalier universitaire de Lille / 2026-08-26-00010 - DÉCISION RELATIVE A L'OUVERTURE DE CONCOURS SUR TITRES POUR L'ACCÈS AU CORPS DES AUXILIAIRES MÉDICAUX EXERÇANT EN PRATIQUE AVANCÉE",
-    "page_debut": 4,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Concours de recrutement pour auxiliaires médicaux en pratique avancée",
-    "resume": "Le CHU de Lille ouvre un concours sur titres pour pourvoir 3 postes d'auxiliaires médicaux exerçant en pratique avancée. Le concours, dont le dossier doit être déposé avant le 2 octobre 2026, comprend une présentation orale devant un jury suivi d'une discussion portant sur l'expérience professionnelle et les compétences du candidat.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Lille"
-    ],
-    "mots_cles": [
-      "concours recrutement",
-      "auxiliaires médicaux",
-      "pratique avancée",
-      "CHU Lille",
-      "fonction publique hospitalière"
-    ]
-  },
-  {
-    "titre": "Décision portant fermeture définitive d'un débit de tabac ordinaire permanent",
-    "titre_complet": "Direction régionale des douanes de Lille / 2026-09-02-00021 - Décision portant fermeture définitive d'un débit de tabac ordinaire permanent",
-    "page_debut": 51,
-    "nb_pages": 1,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Fermeture d'un débit de tabac à Waziers",
-    "resume": "La direction régionale des douanes et droits indirects de Lille prononce la fermeture définitive d'un débit de tabac ordinaire permanent situé à Waziers (rue Lucien Moreau). Cette fermeture prendra effet le 2 septembre 2026. La décision s'inscrit dans l'application du monopole de vente au détail des tabacs manufacturés réglementé par le Code de la santé publique.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Waziers"
-    ],
-    "mots_cles": [
-      "débit de tabac",
-      "fermeture définitive",
-      "monopole tabac",
-      "douanes"
-    ]
-  },
-  {
-    "titre": "AP habilitation funéraire - ROC ECLERC - DENAIN",
-    "titre_complet": "Préfecture du Nord / Direction de la réglementation et de la citoyenneté 2026-09-04-00009 - AP habilitation funéraire - ROC ECLERC - DENAIN",
-    "page_debut": 67,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "ROC Éclerc autorisée à exercer les activités funéraires à Denain",
-    "resume": "L'établissement secondaire « ROC ÉCLERC » situé à Denain est habilité à exercer l'ensemble des activités funéraires sur le territoire national pour une durée de 5 ans. Cette habilitation couvre le transport de corps, l'organisation d'obsèques, les soins de conservation, la fourniture de cercueils et de services connexes.",
-    "type_acte": "HABILITATION",
-    "communes": [
-      "Denain"
-    ],
-    "mots_cles": [
-      "habilitation funéraire",
-      "ROC ÉCLERC",
-      "activités funéraires",
-      "entreprise de pompes funèbres"
-    ]
-  },
-  {
-    "titre": "AP renouvellement habilitation funéraire - PF de Wasquehal - WASQUEHAL",
-    "titre_complet": "2026-09-04-00007 - AP renouvellement habilitation funéraire - PF de Wasquehal - WASQUEHAL",
-    "page_debut": 71,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Wasquehal : renouvellement d'habilitation funéraire",
-    "resume": "La préfecture du Nord renouvelle pour cinq ans l'habilitation de l'établissement secondaire « pompes funèbres de Wasquehal » à exercer les activités funéraires sur le territoire national. Cette autorisation, valable jusqu'en octobre 2031, couvre le transport de corps, l'organisation d'obsèques, les soins de conservation et la mise à disposition d'une chambre funéraire équipée.",
-    "type_acte": "HABILITATION",
-    "communes": [
-      "Wasquehal"
-    ],
-    "mots_cles": [
-      "pompes funèbres",
-      "habilitation funéraire",
-      "renouvellement",
-      "obsèques",
-      "établissement secondaire"
-    ]
-  },
-  {
-    "titre": "AP renouvellement habilitation funéraire - PF de Wattrelos",
-    "titre_complet": "2026-09-04-00008 - AP renouvellement habilitation funéraire - PF de Wattrelos",
-    "page_debut": 75,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Renouvellement de l'habilitation funéraire à Wattrelos",
-    "resume": "La préfecture du Nord renouvelle pour cinq ans (2026-2031) l'habilitation de l'établissement secondaire « Pompes funèbres de Wattrelos – Francis VAN WYNSBERGHE » à exercer les activités funéraires sur le territoire national. Cet établissement, situé à Wattrelos, est autorisé à poursuivre le transport de corps, l'organisation d'obsèques, les soins de conservation et la gestion d'une chambre funéraire.",
-    "type_acte": "HABILITATION",
-    "communes": [
-      "Wattrelos"
-    ],
-    "mots_cles": [
-      "pompes funèbres",
-      "habilitation",
-      "renouvellement",
-      "services funéraires",
-      "Wattrelos"
-    ]
-  },
-  {
-    "titre": "AP renouvellement habilitation funéraire - PF PRINCE - FUNECAP - DUNKERQUE",
-    "titre_complet": "2026-09-04-00010 - AP renouvellement habilitation funéraire - PF PRINCE - FUNECAP - DUNKERQUE",
-    "page_debut": 79,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Dunkerque : renouvellement d'habilitation funéraire",
-    "resume": "La préfecture du Nord renouvelle l'habilitation de l'établissement secondaire « pompes funèbres PRINCE » à Dunkerque pour exercer les activités funéraires sur l'ensemble du territoire national. Cette habilitation, valable jusqu'en octobre 2031, couvre le transport de corps, l'organisation d'obsèques, les soins de conservation et la fourniture de services connexes.",
-    "type_acte": "HABILITATION",
-    "communes": [
-      "Dunkerque"
-    ],
-    "mots_cles": [
-      "pompes funèbres",
-      "habilitation",
-      "activités funéraires",
-      "transport de corps",
-      "obsèques"
-    ]
-  },
-  {
-    "titre": "AP renouvellement habilitation funéraire - PF Yves VANLAERES - COUDEKERQUE BRANCHE",
-    "titre_complet": "2026-09-04-00011 - AP renouvellement habilitation funéraire - PF Yves VANLAERES - COUDEKERQUE BRANCHE",
-    "page_debut": 83,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 2,
-    "titre_court": "Renouvellement d'habilitation funéraire à Coudekerque-Branche",
-    "resume": "La préfecture du Nord renouvelle l'habilitation de l'établissement secondaire « pompes funèbres Yves VANLAERES » à Coudekerque-Branche pour exercer les activités funéraires (transports de corps, organisation d'obsèques, fourniture de cercueils et urnes). Cette habilitation, valable jusqu'en octobre 2031, a été précédemment octroyée en 2021 et fait suite à des rapports de conformité technique.",
-    "type_acte": "HABILITATION",
-    "communes": [
-      "Coudekerque-Branche"
-    ],
-    "mots_cles": [
-      "pompes funèbres",
-      "habilitation",
-      "activités funéraires",
-      "Coudekerque-Branche",
-      "renouvellement"
     ]
   },
   {
@@ -11744,339 +11444,202 @@
     ]
   },
   {
-    "titre": "[CHBB]Décision N°30-2026-Délégation de signature DG-LABM",
-    "titre_complet": "Centre Hospitalier Béthune Beuvry / 62-2026-09-07-00003 - [CHBB]Décision N°30-2026-Délégation de signature DG-LABM",
-    "page_debut": 3,
-    "nb_pages": 4,
+    "titre": "Arrêté préfectoral portant agrément comme organisme d'accueil communautaire et d'activités solidaires de l'association abej solidarité",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-10-01-00033 - Arrêté préfectoral portant agrément comme organisme d'accueil communautaire et d'activités solidaires de l'association abej solidarité",
+    "page_debut": 4,
+    "nb_pages": 3,
     "mode": "image",
     "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature au laboratoire de biologie médicale",
-    "resume": "Le directeur général du Centre Hospitalier de Béthune Beuvry délègue sa signature à quatre responsables du Laboratoire d'Analyses de Biologie Médicale (LABM) pour les actes courants d'exploitation (commandes, facturation, audits qualité). Cette délégation facilite la gestion administrative du laboratoire tout en préservant certains actes stratégiques à la signature du directeur général.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Béthune"
-    ],
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Abej Solidarité agréée organisme d'accueil communautaire",
+    "resume": "La préfecture du Nord accorde à l'association abej SOLIDARITÉ l'agrément d'organisme d'accueil communautaire et d'activités solidaires, pour une durée de cinq ans à compter du 9 novembre 2026, renouvelable. L'agrément peut être retiré si l'organisme ne remplit plus les conditions ou manque gravement ou de façon répétée à ses obligations, et l'association doit transmettre chaque année un compte rendu de son activité et ses comptes financiers. L'arrêté ouvre aussi à l'association le bénéfice de l'article L. 241-12 du code de la sécurité sociale, si elle le demande.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [],
     "mots_cles": [
-      "délégation de signature",
-      "laboratoire biologie médicale",
-      "gestion administrative",
-      "hôpital"
+      "agrément",
+      "organisme d'accueil communautaire",
+      "activités solidaires",
+      "abej Solidarité",
+      "préfecture du Nord"
     ]
   },
   {
-    "titre": "[CHL]Décision N°96-2026-Délégation de signature DG-LABM",
-    "titre_complet": "Centre Hospitalier de Lens / 62-2026-08-12-00007 - [CHL]Décision N°96-2026-Délégation de signature DG-LABM",
+    "titre": "Arrêté préfectoral portant agrément comme organisme d'accueil communautaire et d'activités solidaires de l'association des amis et de la communauté des chiffonniers bâtisseurs de Lille",
+    "titre_complet": "2026-10-01-00032 - Arrêté préfectoral portant agrément comme organisme d'accueil communautaire et d'activités solidaires de l'association des amis et de la communauté des chiffonniers bâtisseurs de Lille",
     "page_debut": 7,
-    "nb_pages": 6,
+    "nb_pages": 3,
     "mode": "image",
     "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature pour le laboratoire de biologie",
-    "resume": "Le directeur général du Centre Hospitalier de Lens délègue sa signature à dix responsables du Laboratoire d'Analyses de Biologie Médicale pour certains actes administratifs et financiers, dans des limites de montants prédéfinis. Cette délégation prend effet le 12 août 2026 et remplace les décisions antérieures.",
-    "type_acte": "DÉLÉGATION",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Lille : agrément pour l'association des chiffonniers bâtisseurs",
+    "resume": "Le préfet du Nord agrée l'Association des amis et de la communauté des chiffonniers bâtisseurs de Lille comme organisme d'accueil communautaire et d'activités solidaires. L'agrément prend effet le 1er novembre 2026 pour cinq ans, renouvelables, et peut être retiré si l'organisme ne remplit plus les conditions ou manque gravement ou de façon répétée à ses obligations. L'association devra transmettre chaque année un compte rendu de son activité et ses comptes financiers.",
+    "type_acte": "ARRÊTÉ",
     "communes": [
-      "Lens"
+      "Lille"
     ],
     "mots_cles": [
-      "délégation de signature",
-      "laboratoire biologie médicale",
-      "gestion administrative",
-      "Centre Hospitalier Lens"
+      "agrément",
+      "accueil communautaire",
+      "activités solidaires",
+      "Lille",
+      "DDETS du Nord"
     ]
   },
   {
-    "titre": "SIGNE SAP106082837 MARIEN",
-    "titre_complet": "Direction départementale de l'emploi du travail et des solidarités / 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN",
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 106053002 - BETTIR Ali",
+    "titre_complet": "2026-10-09-00001 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 106053002 - BETTIR Ali",
+    "page_debut": 10,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Un entrepreneur de Lomme déclaré pour services à la personne",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Nord a enregistré, sous le numéro SAP 106053002, la déclaration d'Ali Bettir, entreprise individuelle établie à Lomme, pour des activités d'entretien de la maison et de travaux ménagers, ainsi que de soutien scolaire ou de cours à domicile, en mode d'intervention prestataire. Le récépissé prend effet à compter du 8 octobre 2026, n'est pas limité dans le temps et a une portée nationale. Toute modification des activités devra faire l'objet d'une déclaration modificative préalable.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lomme"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "entretien ménager",
+      "soutien scolaire",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 108807926 - KABUYA MBOYO Keren",
+    "titre_complet": "2026-10-06-00014 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 108807926 - KABUYA MBOYO Keren",
     "page_debut": 13,
-    "nb_pages": 5,
-    "mode": "texte",
-    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00039\nSIGNE SAP106082837 MARIEN\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 13\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/106082837\n«MARIEN ESPACES VERTS»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 14\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 15\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 1er août 2026 par Matthis Marien, en qualité\nde gérant pour l’organisme «MARIEN ESPACES VERTS» dont l’établissement principal est situé au\n66 rue du Cornet Bourdois, à Lillers (62190).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «MARIEN ESPACES VERTS» dont l’établissement principal est situé au 66 rue du\nCornet Bourdois, à Lillers (62190), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Petits travaux de jardinage\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 16\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00039 - SIGNE SAP106082837 MARIEN 17",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'un organisme de services à la personne",
-    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais délivre un récépissé de déclaration pour l'organisme « MARIEN ESPACES VERTS », enregistré sous le numéro SAP/106082837. Cet acte formalise l'inscription de ce prestataire de services à la personne dans le registre départemental conformément à la réglementation du Code du travail.",
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Garde d'enfants et ménage : structure déclarée à Villeneuve-d'Ascq",
+    "resume": "La préfecture du Nord a enregistré la déclaration d'activité de services à la personne de l'entreprise individuelle ANO, dont l'établissement est situé à Villeneuve-d'Ascq. Elle porte sur la garde d'enfants de plus de 3 ans à domicile, l'accompagnement de ces enfants dans leurs déplacements et l'entretien de la maison, en mode prestataire. Les effets courent depuis le 6 octobre 2026, sous réserve que ces activités soient exercées à titre exclusif, et toute modification devra faire l'objet d'une déclaration préalable.",
     "type_acte": "AUTRE",
-    "communes": [],
+    "communes": [
+      "Villeneuve-d'Ascq"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "garde d'enfants",
+      "déclaration",
+      "entretien ménager",
+      "Villeneuve-d'Ascq"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 130080567 - CAMARA Aissata",
+    "titre_complet": "2026-10-06-00013 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 130080567 - CAMARA Aissata",
+    "page_debut": 16,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Garde d'enfants et ménage : déclaration SAP à Lille",
+    "resume": "La DDETS du Nord a enregistré la déclaration d'une entreprise individuelle installée à Lille, qui intervient comme prestataire pour la garde d'enfants de plus de 3 ans à domicile, l'accompagnement de ces enfants dans leurs déplacements et l'entretien de la maison. L'enregistrement prend effet à la date de dépôt de la déclaration, le 21 septembre 2026, et n'est pas limité dans le temps. Il ouvre droit aux avantages prévus par le Code du travail et le Code de la sécurité sociale, sous réserve que les activités soient exercées à titre exclusif.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Lille",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration SAP",
+      "garde d'enfants",
+      "entretien ménager",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 130442338 - PODEVINS Guillaume",
+    "titre_complet": "2026-10-07-00012 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 130442338 - PODEVINS Guillaume",
+    "page_debut": 19,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Un prestataire de services à la personne déclaré dans le Nord",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Nord a enregistré la déclaration d'activité de services à la personne de l'entreprise individuelle PODEVINS Guillaume, dont l'établissement principal est situé à Annoeullin. L'enregistrement, valable sans limite de durée et à portée nationale, porte sur l'activité de soutien scolaire ou cours à domicile en mode d'intervention prestataire, et prend effet à compter du 6 octobre 2026.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Annoeullin"
+    ],
     "mots_cles": [
       "services à la personne",
       "déclaration",
-      "enregistrement",
-      "Pas-de-Calais",
-      "organisme"
+      "soutien scolaire",
+      "Annoeullin",
+      "DDETS Nord"
     ]
   },
   {
-    "titre": "SIGNE SAP107030439 POMART",
-    "titre_complet": "62-2026-09-01-00038 - SIGNE SAP107030439 POMART",
-    "page_debut": 18,
-    "nb_pages": 5,
-    "mode": "texte",
-    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00038\nSIGNE SAP107030439 POMART\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 18\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/107030439\n«SANDR’CLEAN»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 19\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 20\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 5 août 2026 par Sandra Pomart, en qualité\nde gérante pour l’organisme «SANDR’CLEAN» dont l’établissement principal est situé au 19\nrésidence la reine des prés, à Auchy-lès-Hesdin (62770).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «SANDR’CLEAN» dont l’établissement principal est situé au 19 résidence la reine des\nprés, à Auchy-lès-Hesdin (62770), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\n• Petits travaux de jardinage\n• Soins et promenade(s) d’animaux pour personnes dépendantes\n• Accompagnement des personnes présentant une invalidité temporaire\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 21\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00038 - SIGNE SAP107030439 POMART 22",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Déclaration administrative d'organisme de services",
-    "resume": "La direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais enregistre la déclaration de l'organisme « Sandr'Clean » en tant que prestataire de services à la personne. Cet enregistrement, effectué sous le numéro SAP/107030439, intervient en application des dispositions du Code du travail relatives aux services à la personne.",
-    "type_acte": "DÉCISION",
-    "communes": [],
-    "mots_cles": [
-      "services à la personne",
-      "déclaration administrative",
-      "Pas-de-Calais",
-      "organisme prestataire",
-      "enregistrement"
-    ]
-  },
-  {
-    "titre": "SIGNE SAP532235900 MARMUSE",
-    "titre_complet": "62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE",
-    "page_debut": 23,
-    "nb_pages": 5,
-    "mode": "texte",
-    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00037\nSIGNE SAP532235900 MARMUSE\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 23\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/532235900\n«AMLIA»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 24\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 4 août 2026 par Aurélie Marmuse, en qualité\nde gérante pour l’organisme «AMLIA» dont l’établissement principal est situé au 7 rue Abbé Aimé\nVanhove, à Lens (62300).\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 25\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «AMLIA» dont l’établissement principal est situé au 7 rue Abbé Aimé Vanhove, à Lens\n(62300), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\n• Garde d’enfants de plus de 3 ans à domicile\n• Accompagnement des enfants de plus de 3 ans dans leurs déplacements\n• Petits travaux de jardinage\n• Travaux de petit bricolage\n• Préparation de repas à domicile\n• Livraison de repas à domicile\n• Collecte et livraison à domicile de linge repassé\n• Livraison de courses à domicile\n• Maintenance, entretien et vigilance temporaires à domicile\n• Soins et promenade(s) d’animaux pour personnes dépendantes\n• Conduite du véhicule des personnes en cas d’invalidité temporaire\n• Accompagnement des personnes présentant une invalidité temporaire\n• Assistance aux personnes ayant besoin d’une aide temporaire à leur domicile\n• Livraison de repas à domicile exclusivement pour personnes fragiles\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 26\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00037 - SIGNE SAP532235900 MARMUSE 27",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'un organisme de services à la personne",
-    "resume": "Le préfet du Pas-de-Calais enregistre l'organisme « AMLIA » comme prestataire de services à la personne sous le numéro SAP/532235900. Cet enregistrement intervient conformément à la réglementation du Code du travail relative aux services à la personne et aux entreprises d'insertion.",
-    "type_acte": "DÉCISION",
-    "communes": [],
-    "mots_cles": [
-      "services à la personne",
-      "enregistrement",
-      "SAP",
-      "Code du travail"
-    ]
-  },
-  {
-    "titre": "SIGNE SAP849509146 ROBIN",
-    "titre_complet": "62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN",
-    "page_debut": 28,
-    "nb_pages": 5,
-    "mode": "texte",
-    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-09-01-00040\nSIGNE SAP849509146 ROBIN\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 28\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n01/09/2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/849509146\n«CLEANBYCEL»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 29\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-01 du 14 avril 2026 portant subdélégation de signature de Nathalie Chomette,\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à Patrick\nDebruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 30\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activités de services à la personne a été déposée le 27 juillet 2026 par Céline Robin, en qualité\nde gérante pour l’organisme «CLEANBYCEL» dont l’établissement principal est situé au 3 rue du 8\nmai, à Mondicourt (62760).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activités de services à la personne a été enregistré au nom de l’entreprise\nindividuelle «CLEANBYCEL» dont l’établissement principal est situé au 3 rue du 8 mai, à\nMondicourt (62760), pour les activités suivantes :\n➢ Activités relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\n• Collecte et livraison à domicile de linge repassé\n• Maintenance, entretien et vigilance temporaires à domicile\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 31\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nSIGNE\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-09-01-00040 - SIGNE SAP849509146 ROBIN 32",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87315/546569/file/Recueil des actes administratifs n°267 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Récépissé de déclaration d'organisme de services",
-    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais enregistre la déclaration de l'organisme « CLEANBYCEL » en tant que service à la personne, conformément aux dispositions du Code du travail. Ce récépissé atteste de l'enregistrement sous le numéro SAP/849509146 et valide la conformité administrative de l'organisme.",
-    "type_acte": "DÉCISION",
-    "communes": [],
-    "mots_cles": [
-      "services à la personne",
-      "déclaration",
-      "enregistrement",
-      "Pas-de-Calais",
-      "CLEANBYCEL"
-    ]
-  },
-  {
-    "titre": "2026-25 Délégation de signature DRH",
-    "titre_complet": "Etablissement public de santé mentale Val de Lys - Artois / 62-2026-08-25-00016 - 2026-25 Délégation de signature DRH",
-    "page_debut": 3,
-    "nb_pages": 5,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature à la direction des RH",
-    "resume": "L'établissement public de santé mentale Val de Lys–Artois délègue ses pouvoirs de signature en matière de ressources humaines à plusieurs cadres administratifs et médicaux. Madame Julie Vandaele assure la direction générale des RH, tandis que d'autres cadres sont habilités à signer les actes relatifs aux contrats, aux congés et à la gestion des carrières du personnel.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Saint-Venant"
-    ],
-    "mots_cles": [
-      "délégation de signature",
-      "ressources humaines",
-      "établissement public santé mentale",
-      "gestion du personnel"
-    ]
-  },
-  {
-    "titre": "2026-26 Délégation de signature astreinte de direction",
-    "titre_complet": "62-2026-08-25-00018 - 2026-26 Délégation de signature astreinte de direction",
-    "page_debut": 8,
+    "titre": "Arrêté de prorogation du délai de commencement des travaux de subvention accordée à la commune de Raimbeaucourt au titre de la dotation d'équipement des territoires ruraux (DETR) pour l'année 2022",
+    "titre_complet": "Préfecture du Nord / Direction des relations avec les collectivités territoriales 2026-07-23-00013 - Arrêté de prorogation du délai de commencement des travaux de subvention accordée à la commune de Raimbeaucourt au titre de la dotation d'équipement des territoires ruraux (DETR) pour l'année 2022",
+    "page_debut": 45,
     "nb_pages": 3,
     "mode": "image",
     "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature au directeur par intérim",
-    "resume": "L'établissement public de santé mentale Val de Lys-Artois délègue sa signature à son directeur par intérim, Frédéric Macabiau, ainsi qu'à six cadres de direction (directrice des soins, directeurs adjoints, directrice adjointe et directeur délégué) pour les périodes de gardes administratives. Cette délégation couvre les décisions urgentes et les actes courants de gestion de l'établissement.",
-    "type_acte": "DÉLÉGATION",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Raimbeaucourt: délai de travaux DETR prolongé jusqu'en 2027",
+    "resume": "La préfecture du Nord prolonge jusqu'au 4 avril 2027 le délai de commencement des travaux financés par une subvention de 47 326,95 € accordée à la commune de Raimbeaucourt au titre de la DETR 2022. Ces travaux concernent le réaménagement du centre-bourg (aménagement urbain et paysager, mise aux normes d'accessibilité et de sécurité des accès des écoles et de leurs parvis). La prorogation fait suite à la demande du maire du 11 mai 2026, qui invoque le classement sans suite de la consultation des entreprises menée en 2025.",
+    "type_acte": "ARRÊTÉ",
     "communes": [
-      "Saint-Venant",
-      "Artois"
+      "Raimbeaucourt"
     ],
     "mots_cles": [
-      "santé mentale",
-      "délégation de signature",
-      "directeur par intérim",
-      "établissement public"
+      "DETR",
+      "Raimbeaucourt",
+      "subvention",
+      "prorogation",
+      "centre-bourg"
     ]
   },
   {
-    "titre": "2026-29 Délégation de signature Direction des relations avec les usagers - Astreintes",
-    "titre_complet": "62-2026-08-25-00015 - 2026-29 Délégation de signature Direction des relations avec les usagers - Astreintes",
-    "page_debut": 11,
+    "titre": "Arrêté préfectoral portant dérogation minimal de participation du maître d'ouvrage pour les travaux de reconstruction de la toiture de l'église Saint Martin - Commune d'Arnèke",
+    "titre_complet": "2 2026-10-06-00011 - Arrêté préfectoral portant dérogation minimal de participation du maître d'ouvrage pour les travaux de reconstruction de la toiture de l'église Saint Martin - Commune d'Arnèke",
+    "page_debut": 48,
     "nb_pages": 3,
     "mode": "image",
     "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature interne à l'établissement de santé mentale",
-    "resume": "L'établissement public de santé mentale Val de Lys-Artois (EPSM) délègue sa signature à cinq responsables administratifs pour l'exercice de fonctions liées au suivi et au contrôle des mesures d'isolement et de contention des patients hospitalisés. Cette délégation concerne spécifiquement les relations avec les autorités judiciaires chargées de ces contrôles.",
-    "type_acte": "DÉLÉGATION",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Arnèke : participation réduite pour l'église Saint-Martin",
+    "resume": "Le préfet du Nord autorise la commune d'Arnèke, maître d'ouvrage des travaux de réfection de la toiture de l'église Saint-Martin, à apporter une participation inférieure à 20 % du montant total des financements publics. Cette dérogation, demandée par le maire, fait suite à des avis favorables de la direction régionale des affaires culturelles et du sous-préfet de Dunkerque, le projet concernant un patrimoine protégé. L'arrêté a été signé le 6 octobre 2026.",
+    "type_acte": "ARRÊTÉ",
     "communes": [
-      "Saint-Venant",
-      "Artois"
+      "Arnèke"
     ],
     "mots_cles": [
-      "délégation de signature",
-      "santé mentale",
-      "isolement et contention",
-      "administration hospitalière"
-    ]
-  },
-  {
-    "titre": "2026-30 Délégation de signature Campus des Métiers",
-    "titre_complet": "62-2026-08-25-00017 - 2026-30 Délégation de signature Campus des Métiers",
-    "page_debut": 14,
-    "nb_pages": 3,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature interne à l'EPSM Val de Lys",
-    "resume": "L'établissement public de santé mentale Val de Lys-Artois (EPSM) délègue à deux responsables du Campus des Métiers le pouvoir de signer les actes administratifs courants de gestion (convocations aux instances, attestations scolaires, commandes de matériel, conventions de formation). Cette délégation s'applique en cas d'absence ou d'empêchement du signataire initial.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Saint-Venant",
-      "Artois"
-    ],
-    "mots_cles": [
-      "délégation de signature",
-      "EPSM",
-      "actes administratifs",
-      "Campus des Métiers",
-      "gestion courante"
-    ]
-  },
-  {
-    "titre": "2026-31 Délégation de signature Admissions",
-    "titre_complet": "62-2026-08-25-00012 - 2026-31 Délégation de signature Admissions",
-    "page_debut": 17,
-    "nb_pages": 3,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature pour les admissions hospitalières",
-    "resume": "L'établissement public de santé mentale Val de Lys-Artois délègue sa signature pour la gestion administrative des admissions de patients. Cette délégation est confiée à deux responsables administratifs en priorité, avec des suppléants en cas d'absence.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Saint-Venant"
-    ],
-    "mots_cles": [
-      "délégation de signature",
-      "admissions",
-      "santé mentale",
-      "gestion administrative"
-    ]
-  },
-  {
-    "titre": "2026-35 Délégation de signature DAF - Frais de Séjour",
-    "titre_complet": "62-2026-08-25-00013 - 2026-35 Délégation de signature DAF - Frais de Séjour",
-    "page_debut": 20,
-    "nb_pages": 3,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature interne à l'EPSM Val de Lys",
-    "resume": "L'établissement public de santé mentale Val de Lys - Artois délègue à sa directrice adjointe chargée des affaires financières le pouvoir de signer les actes relatifs à la gestion budgétaire, aux frais de séjour et aux régies d'avances et de recettes. Des suppléantes sont désignées en cas d'absence.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Saint-Venant"
-    ],
-    "mots_cles": [
-      "délégation de signature",
-      "affaires financières",
-      "frais de séjour",
-      "établissement public santé mentale"
-    ]
-  },
-  {
-    "titre": "2026-42 Délégation de signature Communication culture",
-    "titre_complet": "62-2026-08-25-00019 - 2026-42 Délégation de signature Communication culture",
-    "page_debut": 23,
-    "nb_pages": 3,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature à la direction communication",
-    "resume": "Le directeur par intérim de l'établissement public de santé mentale Val de Lys-Artois délègue sa signature à Madame Anne-Sophie Legrand, responsable de la direction de la communication et de la culture, pour les actes relevant de ses attributions. Cette délégation lui permet de signer au nom du directeur les courriers, actes administratifs et conventions se rapportant à ses fonctions.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Saint-Venant"
-    ],
-    "mots_cles": [
-      "délégation de signature",
-      "communication",
-      "santé mentale",
-      "EPSM"
-    ]
-  },
-  {
-    "titre": "2026-43 - Délégation de signature Direction des usagers",
-    "titre_complet": "62-2026-08-25-00014 - 2026-43 - Délégation de signature Direction des usagers",
-    "page_debut": 26,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87316/546574/file/Recueil des actes administratifs n°268 en date du 08 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature interne à l'établissement psychiatrique",
-    "resume": "La direction de l'établissement public de santé mentale Val de Lys-Artois (EPSM) à Saint-Venant confie à quatre agents des pouvoirs de signature pour gérer les actes administratifs relevant de la direction des relations avec les usagers. Il s'agit d'une réorganisation interne sans impact direct sur le public.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Saint-Venant"
-    ],
-    "mots_cles": [
-      "santé mentale",
-      "délégation administrative",
-      "EPSM",
-      "relations usagers",
-      "gestion interne"
+      "Arnèke",
+      "église Saint-Martin",
+      "toiture",
+      "participation financière",
+      "patrimoine protégé"
     ]
   },
   {
@@ -15100,321 +14663,6 @@
       "Lille",
       "gestion administrative",
       "ressources humaines"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP106924632 - FOURMEAUX Jules",
-    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-09-02-00017 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP106924632 - FOURMEAUX Jules",
-    "page_debut": 6,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Agrément administratif d'un coach sportif à domicile",
-    "resume": "La préfecture du Nord enregistre la déclaration d'activité de services à la personne de M. Jules Fourmeaux, coach sportif exerçant à Marpent. Cet enregistrement sous numéro SAP106924632 autorise l'entreprise à proposer du soutien scolaire et des cours à domicile en tant que prestataire, sous réserve du respect des conditions légales applicables aux services à la personne.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Marpent"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "coach sportif",
-      "enregistrement",
-      "déclaration d'activité",
-      "Marpent"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP104284625",
-    "titre_complet": "2026-09-04-00012 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP104284625",
-    "page_debut": 8,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'un prestataire de services à la personne",
-    "resume": "La Direction départementale de l'emploi du Nord établit un récépissé de déclaration pour la société Rémi Débette, spécialisée dans l'entretien de maison, travaux de jardinage et petit bricolage. Cet enregistrement sous le numéro SAP104284625 formalise l'accès de ce prestataire aux dispositifs légaux applicables aux services à la personne.",
-    "type_acte": "AUTRE",
-    "communes": [
-      "Roncq"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "prestataire privé",
-      "enregistrement",
-      "travaux ménagers",
-      "activité commerciale"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108016775",
-    "titre_complet": "2026-09-07-00011 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108016775",
-    "page_debut": 12,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'une entreprise de services à domicile",
-    "resume": "La préfecture du Nord enregistre la déclaration d'activité de l'entreprise AUDREY&LA, établie à Loon-Plage, comme organisme de services à la personne. L'entreprise est autorisée à exercer l'entretien de la maison et travaux ménagers en mode prestataire, à compter du 10 août 2026.",
-    "type_acte": "AUTRE",
-    "communes": [
-      "Loon-Plage"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "enregistrement",
-      "travaux ménagers",
-      "Loon-Plage"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108184854",
-    "titre_complet": "2026-09-07-00013 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108184854",
-    "page_debut": 14,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'une entreprise de services à domicile",
-    "resume": "La préfecture du Nord enregistre la déclaration d'activité de la société BERKOUK IFIRES, domiciliée à Halluin, spécialisée dans l'entretien de la maison et les travaux de ménage. Cet enregistrement, effectué le 31 juillet 2026, lui permet d'exercer légalement cette activité de prestataire de services à la personne sous le numéro SAP108184854.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Halluin"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "entreprise de ménage",
-      "enregistrement",
-      "prestataire",
-      "entretien domiciliaire"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108344847",
-    "titre_complet": "2026-09-07-00014 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108344847",
-    "page_debut": 16,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Récépissé d'enregistrement d'un organisme de garde d'enfants",
-    "resume": "La préfecture du Nord enregistre auprès du service instructeur la déclaration d'activités de services à la personne de l'entreprise individuelle Wesolek Laurence, basée à Pecquencourt. L'organisme est autorisé à exercer la garde d'enfants de plus de 3 ans à domicile et l'entretien de la maison et travaux ménagers, sous réserve du respect de la réglementation en vigueur.",
-    "type_acte": "AUTRE",
-    "communes": [
-      "Pecquencourt"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "garde d'enfants",
-      "enregistrement",
-      "déclaration",
-      "ménage"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108694753 - LEFEVRE Marine",
-    "titre_complet": "2026-09-02-00018 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP108694753 - LEFEVRE Marine",
-    "page_debut": 18,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'une structure de services à domicile",
-    "resume": "La Direction Départementale de l'Emploi, du Travail et des Solidarités du Nord enregistre l'organisme AIDE À DOMICILE, dirigé par Mme Marine Lefevre, pour exercer deux activités : garde d'enfants de plus de 3 ans à domicile et entretien de la maison et travaux ménagers. Cet enregistrement est délivré sous le numéro SAP108694753.",
-    "type_acte": "DÉCISION",
-    "communes": [
-      "Denain"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "aide à domicile",
-      "garde d'enfants",
-      "enregistrement",
-      "Nord"
-    ]
-  },
-  {
-    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP881228845 - BOUCHON François",
-    "titre_complet": "2026-09-02-00019 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP881228845 - BOUCHON François",
-    "page_debut": 20,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Enregistrement d'un service d'aide informatique à domicile",
-    "resume": "La préfecture du Nord enregistre la déclaration d'activité de l'entreprise individuelle BOUCHON François, établie à Templeuve-en-Pévèle, auprès du service départemental de l'emploi. Cette entreprise propose un service d'assistance informatique à domicile en mode prestataire. L'enregistrement est valide sur l'ensemble du territoire national sous le numéro SAP881228845.",
-    "type_acte": "AUTRE",
-    "communes": [
-      "Templeuve-en-Pévèle"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "assistance informatique",
-      "enregistrement",
-      "entreprise individuelle",
-      "déclaration d'activité"
-    ]
-  },
-  {
-    "titre": "Récépissé modificatif N°01 de déclaration d'un organisme de services à la personne enregistré sous le N° SAP994552255",
-    "titre_complet": "2026-09-07-00012 - Récépissé modificatif N°01 de déclaration d'un organisme de services à la personne enregistré sous le N° SAP994552255",
-    "page_debut": 22,
-    "nb_pages": 2,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Modification d'agrément pour services à la personne",
-    "resume": "La direction départementale de l'emploi du Nord enregistre une modification de déclaration pour l'entreprise HASSAN DAHER Yasmin (SAP994552255), basée à Grande-Synthe. L'ajout d'activité concerne la garde d'enfants de plus de trois ans en mode préstataire. Les autres dispositions de l'agrément initial restent inchangées.",
-    "type_acte": "AUTRE",
-    "communes": [
-      "Grande-Synthe"
-    ],
-    "mots_cles": [
-      "services à la personne",
-      "garde d'enfants",
-      "agrément modificatif",
-      "prestataire"
-    ]
-  },
-  {
-    "titre": "Décision portant délégation de signature en matière d'ordonnancement secondaire - centre de gestion financière",
-    "titre_complet": "Direction régionale des finances publiques / 2026-09-01-00051 - Décision portant délégation de signature en matière d'ordonnancement secondaire - centre de gestion financière",
-    "page_debut": 52,
-    "nb_pages": 2,
-    "mode": "texte",
-    "texte": "DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES\nDIRECTION RÉGIONALE DES FINANCES PUBLIQUES\nDES HAUTS-DE-FRANCE ET DU DÉPARTEMENT DU\nNORD\n82, avenue Kennedy\n59033 LILLE CEDEX\nDÉCISION PORTANT DÉLÉGATION DE SIGNATURE\nEN MATIÈRE D’ORDONNANCEMENT – CENTRE DE GESTION FINANCIÈRE\nLe directeur du pôle gestion publique de la direction régionale des finances\npubliques des Hauts-de-France et du département du Nord,\nVu le décret n° 2004-1085 du 14 octobre 2004 modifié relatif à la délégation de gestion\ndans les services de l’État ;\nVu le décret n° 2009-208 du 20 février 2009 modifié relatif au statut particulier des\nadministrateurs des finances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 modifié relatif aux services déconcentrés de la\ndirection générale des finances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 modifié relatif à la gestion budgétaire et\ncomptable publique ;\nVu le décret n° 2018-803 du 24 septembre 2018 modifiant le décret n° 2012-1246 du 7\nnovembre 2012 relatif à la gestion budgétaire et comptable publique et autorisant diverses\nexpérimentations, notamment son article 37 ;\nVu le décret du 27 mars 2012 portant affectation de M.Christophe MILH à la direction\ngénérale des finances publiques des Hauts-de-France et du département du Nord ;\nVu les conventions de délégation de gestion relatives au centre de gestion financière Bloc 2 placé sous l'autorité\ndu directeur régional des finances publiques des Hauts-de-France et du département du Nord,\nDécide :\nArticle 1er\nDélégation est donnée à l’effet de signer tous actes relatifs à l’exécution des opérations prévues dans les\nconventions de délégation de gestion susvisées, dans la limite de leurs attributions au sein du centre de gestion\nfinancière Bloc 2, à :\n1° M. Sébastien HERAULT, administrateur des finances publiques adjoint,\n2° M. Thibaut FOURDRIN, inspecteur principal des finances publiques,\n3° Mme Muriel LEFEVRE, inspectrice principale des finances publiques,\n4° Mme Véronique CAREYE, secrétaire administrative classe exceptionnelle,\n5° M. Sébastien SENESSE, contrôleur principal des finances publiques,\nDirection régionale des finances publiques - 2026-09-01-00051 - Décision portant délégation de signature en matière 52\nd'ordonnancement secondaire - centre de gestion financière\n6° Mme Virginie ANQUEZ, contrôleur des finances publiques,\n7° M. Jean-François BARBET, agent des finances publiques,\n8° Mme Corinne BRUGIERE, agent des finances publiques,\n9° Mme Sandra CLIQUE, agent des finances publiques,\n10° Mme Florence DESTEIRDT, agent des finances publiques,\n11° Mme Sophie GOETHALS, agent des finances publiques,\n12° Mme Lydie HAUTIER, agent des finances publiques,\n13° Mme Virginie HOUSSEAU, agent des finances publiques,\n14° Mme Elise JAKUBOWICZ, agent des finances publiques,\n15° Mme Sandra LAMAILLE, contrôleur des finances publiques,\n16° Mme Marie LAROSE, adjointe administrative,\n17° Mme Odile LEBRUN, contrôleur des finances publiques,\n18° M. Vincent MAYEUR, inspecteur des finances publiques,\n19° M. Hubert DEBLANC, contrôleur principal des finances publiques,\n20° Mme Dorine HERNOUT, contrôleur des finances publiques,\n21° M. Sylvain KORNOBIS, contrôleur des finances publiques,\n22° M. Eric LAUWERIE, contrôleur principal des finances publiques,\n23° M. Sébastien MANFROY, contrôleur des finances publiques,\n24° Mme Pauline RACHEZ, agent des finances publiques,\n25° M. Benoît ROUGERON, adjoint administratif.\nArticle 2\nLa présente décision entre en vigueur le 1er septembre 2026.\nArticle 3\nLa présente décision sera publiée au recueil des actes administratifs.\nLille, le 1er septembre 2026.\nLe directeur du pôle gestion publique\nChristophe MILH\nDirection régionale des finances publiques - 2026-09-01-00051 - Décision portant délégation de signature en matière 53\nd'ordonnancement secondaire - centre de gestion financière",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature pour le centre de gestion financière",
-    "resume": "La Direction régionale des finances publiques des Hauts-de-France autorise 25 agents à signer les actes relatifs à l'exécution des opérations du centre de gestion financière Bloc 2, dans le cadre de leurs attributions respectives. Cette mesure administrative interne prend effet le 1er septembre 2026.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [],
-    "mots_cles": [
-      "finances publiques",
-      "délégation de signature",
-      "ordonnancement",
-      "gestion financière",
-      "Hauts-de-France"
-    ]
-  },
-  {
-    "titre": "Décision portant délégation de signature en matière d'ordonnancement secondaire - Centre de gestion financière Justice",
-    "titre_complet": "2026-09-01-00052 - Décision portant délégation de signature en matière d'ordonnancement secondaire - Centre de gestion financière Justice",
-    "page_debut": 54,
-    "nb_pages": 2,
-    "mode": "texte",
-    "texte": "DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES\nDIRECTION RÉGIONALE DES FINANCES PUBLIQUES\nDES HAUTS-DE-FRANCE ET DU DÉPARTEMENT DU\nNORD\n82, avenue Kennedy\n59033 LILLE CEDEX\nDÉCISION PORTANT DÉLÉGATION DE SIGNATURE\nEN MATIÈRE D’ORDONNANCEMENT – CENTRE DE GESTION FINANCIÈRE\nLe directeur du pôle gestion publique de la direction régionale des finances\npubliques des Hauts-de-France et du département du Nord,\nVu le décret n° 2004-1085 du 14 octobre 2004 modifié relatif à la délégation de gestion\ndans les services de l’État ;\nVu le décret n° 2009-208 du 20 février 2009 modifié relatif au statut particulier des\nadministrateurs des finances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 modifié relatif aux services déconcentrés de la\ndirection générale des finances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 modifié relatif à la gestion budgétaire et\ncomptable publique ;\nVu le décret n° 2018-803 du 24 septembre 2018 modifiant le décret n° 2012-1246 du 7\nnovembre 2012 relatif à la gestion budgétaire et comptable publique et autorisant diverses\nexpérimentations, notamment son article 37 ;\nVu le décret du 27 mars 2012 portant affectation de M.Christophe MILH à la direction\ngénérale des finances publiques des Hauts-de-France et du département du Nord ;\nVu les conventions de délégation de gestion relatives au centre de gestion financière Justice placé sous\nl'autorité du directeur régional des finances publiques des Hauts-de-France et du département du Nord,\nDécide :\nArticle 1er\nDélégation est donnée à l’effet de signer tous actes relatifs à l’exécution des opérations prévues dans les\nconventions de délégation de gestion susvisées, dans la limite de leurs attributions au sein du centre de gestion\nfinancière Justice, à :\n1° M. Sébastien HERAULT, administrateur des finances publiques adjoint,\n2° M. Thibaut FOURDRIN, inspecteur principal des finances publiques,\n3° Mme Muriel LEFEVRE, inspectrice principale des finances publiques,\n4° Mme Lucille NIGGEL, inspectrice des finances publiques,\n5° Mme Marie-France BEAUFORT, contrôleur principal des finances publiques,\nDirection régionale des finances publiques - 2026-09-01-00052 - Décision portant délégation de signature en matière 54\nd'ordonnancement secondaire - Centre de gestion financière Justice\n6° M. David CAPELLE, contrôleur principal des finances publiques,\n7° Mme Amandine LEFORT, secrétaire administrative,\n8° M. Grégory SPINETTE, secrétaire administratif,\n9° Mme Brigitte BLANDIN, agent administratif des finances publiques,\n10° Mme Zineb BOUMALLA, contrôleur des finances publiques,\n11° Mme Catherine BRIDELANCE, adjointe administrative\n12° M. Geoffroy BUYENS, agent administratif des finances publiques,\n13° Mme Antonia CANY, adjointe administrative,\n14° M. Frédéric DAUX, contrôleur des finances publiques,\n15° M. Nicolas DOGIMONT, contrôleur des finances publiques,\n16° M. Laurent DUPUIS, contrôleur principal des finances publiques,\n17° Mme Naouelle KHEZAMI, adjointe administrative,\n18° Mme Madyson KNOCKAERT, agente contractuelle,\n19° Mme Christine LASSALLE, agent administratif des finances publiques,\n20° Mme Virginie MARTEL, adjointe administrative,\n21° M. Gautier MASURE, agent contractuel,\n22° M. Marc NYBELEN, agent administratif des finances publiques,\n23° Mme Leïla OUALI, adjointe administrative,\n24° M. Stéphane POCCHIO, adjoint administratif,\n25° M. Romain ROBYN, agent administratif des finances publiques,\n26° Mme Camille TAILLEZ, contrôleur des finances publiques,\n27° Mme Saïda ZAIDI, adjointe administrative,\n28° M. Vincent MAYEUR, inspecteur des finances publiques,\n29° M. Hubert DEBLANC, contrôleur principal des finances publiques,\n30° Mme Dorine HERNOUT, contrôleur des finances publiques ,\n31° M. Sylvain KORNOBIS, contrôleur des finances publiques,\n32° M. Eric LAUWERIE, contrôleur principal des finances publiques,\n33° M. Sébastien MANFROY, contrôleur des finances publiques,\n34° Mme Pauline RACHEZ, agent des finances publiques,\n35° M. Benoît ROUGERON, adjoint administratif.\nArticle 2\nLa présente décision entre en vigueur le 1er septembre 2026.\nArticle 3\nLa présente décision sera publiée au recueil des actes administratifs.\nFait à Lille, le 1er septembre 2026.\nLe directeur du pôle gestion publique\nChristophe MILH\nDirection régionale des finances publiques - 2026-09-01-00052 - Décision portant délégation de signature en matière 55\nd'ordonnancement secondaire - Centre de gestion financière Justice",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature aux agents du centre de gestion financière",
-    "resume": "La direction régionale des finances publiques des Hauts-de-France délègue le pouvoir de signature en matière d'ordonnancement à 35 agents du centre de gestion financière Justice. Cette délégation porte sur l'exécution des opérations prévues dans les conventions de gestion existantes, dans la limite de leurs attributions respectives.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [],
-    "mots_cles": [
-      "délégation de signature",
-      "finances publiques",
-      "ordonnancement",
-      "centre de gestion financière",
-      "Hauts-de-France"
-    ]
-  },
-  {
-    "titre": "Délégations de signature du SIE de Lille 1",
-    "titre_complet": "2026-09-01-00054 - Délégations de signature du SIE de Lille 1",
-    "page_debut": 56,
-    "nb_pages": 3,
-    "mode": "texte",
-    "texte": "DELEGATION DE SIGNATURE\nDU RESPONSABLE DU SERVICE DES IMPÔTS DES ENTREPRISES\nDE LILLE 1\nLe comptable, responsable du service des impôts des entreprises de Lille 1\nVu le code général des impôts, et notamment les articles 408 et 410 de son annexe II et les articles 212 à 217\nde son annexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247, L. 257 A et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nArrête :\nArticle 1\nDélégation de signature est donnée à\nMonsieur SEVIN Mathieu, Inspecteur Divisionnaire des finances publiques,\nMadame ABRAHAM Sylvie, Inspectrice des finances publiques,\nMadame NISON Sarah, Inspectrice des finances publiques,\nMadame LAIGLE Mélanie, Inspectrice des finances publiques,\nMonsieur ROUSSEL Pierre Marie, Inspecteur des finances publiques,\nMonsieur SLABOLEPSZY Philippe, Inspecteur des finances publiques,\nMonsieur CLOWEZ Baptiste, Inspecteur des finances publiques.\nMonsieur LEMAIRE Théo Inspecteur des finances publiques.\nadjoints au responsable du service des impôts des entreprises de Lille 1, à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d’admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite de 100 000 € pour M Mathieu Sevin et dans\nla limite de 60 000 € pour Mme ABRAHAM Sylvie, Mme NISON Sarah, Mme LAIGLE Mélanie ,\nM ROUSSEL Pierre Marie, M SLABOLEPSZY Philippe, M CLOWEZ Baptiste et Monsieur LEMAIRE\nThéo;\n2°) en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet dans la limite\nde 100 000 € pour M Mathieu Sevin et dans la limite de 60 000 € pour Mme ABRAHAM Sylvie, Mme\nNISON Sarah, Mme LAIGLE Mélanie, MROUSSEL Pierre Marie , M SLABOLEPSZY Philippe,\nM CLOWEZ Baptiste et Monsieur LEMAIRE Théo;\n3°) les décisions sur les demandes de plafonnement en fonction de la valeur ajoutée de contribution\néconomique territoriale, sans limite de montant pour les entreprises dont tous les établissements sont\nsitués dans le ressort du service ;\n4°) les décisions sur les demandes de remboursement de crédit de TVA dans la limite de 200 000 € par\ndemande pour M Mathieu Sevin et les demandes de remboursement de crédit d’impôt, dans la limite de 100\n000 € par demande pour Mme ABRAHAM Sylvie, Mme NISON Sarah,Mme LAIGLE Mélanie,\nM ROUSSEL Pierre Marie, M SLABOLEPSZY Philippe, M CLOWEZ Baptiste et Monsieur LEMAIRE\nThéo;\n5°) les documents nécessaires à l’exécution comptable des décisions contentieuses et gracieuses sans\nlimitation de montant ;\n6°) les avis de mise en recouvrement et les mises en demeure de payer ;\n7°) au nom et sous la responsabilité du comptable soussigné,\na) les décisions relatives aux demandes de délai de paiement ;\nb) l’ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les\ndéclarations de créances ainsi que pour ester en justice ;\nDirection régionale des finances publiques - 2026-09-01-00054 - Délégations de signature du SIE de Lille 1 56\nc) tous actes d’administration et de gestion du service.\n8°) pour les actes de recouvrement et de garanties/suretés, délégation est donnée à M Mathieu Sevin\nArticle 2\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d’admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, et, en matière de gracieux fiscal, les décisions portant remise,\nmodération ou rejet, dans la limite précisée dans le tableau ci-dessous ;\n2°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n3°) les avis de mise en recouvrement et les mises en demeure de payer ;\n4°) l’ensemble des actes relatifs au recouvrement, et notamment les actes de poursuites et les déclarations de\ncréances ;\naux agents des Finances publiques désignés ci-après :\nDirection régionale des finances publiques - 2026-09-01-00054 - Délégations de signature du SIE de Lille 1 57\nPrénom et Nom Grade Limite des Limite des Durée Somme maximale\ndes agents décisions décisions maximale pour laquelle un\ncontentieuses gracieuses des délais délai de paiement\nde paiement peut être accordé\nMathieu SEVIN Inspecteur Divisionnaire 100 000 € 100 000 € 24 mois 100 000 €\nSylvie ABRAHAM Inspectrice 60 000 € 60 000 € 24 mois 100 000 €\nSarah NISON Inspectrice 60 000 € 60 000 € 24 mois 100 000 €\nMélanie LAIGLE Inspectrice 60 000 € 60 000 € 24 mois 100 000 €\nPierre Marie ROUSSEL Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nPhilippe SLABOLEPSZY Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nBaptiste CLOWEZ Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nThéo LEMAIRE Inspecteur 60 000 € 60 000 € 24 mois 100 000 €\nLaurent BLAEVOET contrôleur principal 30 000 € 30 000 €\nOlivier QUIQUE contrôleur 30 000 € 30 000 €\nFabrice FROMENT contrôleur principal 30 000 € 30 000 €\nBertrand JANKOWSKI contrôleur 30 000 € 30 000 € 12 mois 50 000€\nMonique DEHEN contrôleur principal 30 000 € 30 000 € 12 mois 50 000€\nAbdenbi ALILOU contrôleur 30 000 € 30 000 €\nElodie REAL contrôleur 30 000 € 30 000 €\nAudrey COACHE contrôleur 30 000 € 30 000 €\nGeneviève SENECHAL contrôleur principal 30 000 € 30 000 €\nLinda BOUADLA contrôleur 30 000 € 30 000 €\nLyasmine BOUMEDIENE contrôleur principal 30 000 € 30 000 €\nMaryse GOSSELIN contrôleur principal 30 000 € 30 000 €\nVéronique DIERS contrôleur principal 30 000 € 30 000 € 12 mois 50 000€\nSébastien DUPONT contrôleur principal 30 000 € 30 000 € 12 mois 50 000€\nAurélie KOWALSKI contrôleur 30 000 € 30 000 € 12 mois 50 000€\nLudovic ACHISPON contrôleur 30 000 € 30 000 €\nAurèlien BERDELOU contrôleur 30 000 € 30 000 €\nFabien DEMOOR contrôleur 30 000 € 30 000 €\nPerrine LETAILLEUR contrôleur 30 000 € 30 000 €\nLucie BEYTOUT contrôleur 10 000 € 10 000 €\nDelphine TAURET contrôleur principal 30 000 € 30 000 €\nAicha ELAMMARI contrôleur 30 000 € 30 000 €\nJustine BROGNIEZ Agent administratif principal 5 000 € 5 000 € 12 mois 50 000 €\nCaroline HENNEBERT Agent administratif principal 5 000 € 5 000 € 12 mois 50 000€\nLaura BLONSKI Agent administratif principal 5 000 € 5 000 €\nCyprienne ALI Agent administratif principal 5 000 € 5 000 €\nActal JOOMUN Agent administratif 5 000 € 5 000 € 12 mois 50 000€\nLaury-Ann NAPPEE Agent administratif 5 000 € 5 000 € 12 mois 50 000€\nSamir TABET Agent administratif 5 000 € 5 000 €\nArticle 3\nLe présent arrêté sera publié au recueil des actes administratifs du département du NORD.\nLe présent acte prend effet au 01/09/2026\nA Lille, le 01 septembre 2026\nLe comptable, responsable du Service des Impôts des Entreprises\nde Lille 1,\nLoetitia Jacquemin-Lorriaux\nComptable publique\nDirection régionale des finances publiques - 2026-09-01-00054 - Délégations de signature du SIE de Lille 1 58",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégations de signature au service des impôts de Lille",
-    "resume": "Le responsable du service des impôts des entreprises de Lille 1 délègue ses pouvoirs de signature à huit agents (inspecteurs et inspecteur divisionnaire) pour traiter les contentieux fiscaux, les demandes de gracieux fiscal, les remboursements de crédits de TVA et les actes de recouvrement, dans le cadre de limites de montants variables selon leur grade.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [],
-    "mots_cles": [
-      "délégation de signature",
-      "impôts des entreprises",
-      "contentieux fiscal",
-      "recouvrement",
-      "remise de dettes"
-    ]
-  },
-  {
-    "titre": "Délégations de signature du SIP de Lille 2",
-    "titre_complet": "2026-09-07-00015 - Délégations de signature du SIP de Lille 2",
-    "page_debut": 59,
-    "nb_pages": 4,
-    "mode": "texte",
-    "texte": "DÉLÉGATION DE SIGNATURE EN MATIÈRE DE CONTENTIEUX\nET DE GRACIEUX FISCAL\nLe comptable public, responsable du Service des Impôts des Particuliers (SIP) de LILLE 2\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son\nannexe IV ;\nVu le livre des procédures fiscales, et notamment les articles L. 257 A, L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des\nfinances publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des\nfinances publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, et\nnotamment son article 16 ;\nARRETE\nArticle 1er\nDélégation de signature est donnée à compter du 01/09/2026 à :\n- Mme Muriel LIEVIN, inspectrice des finances publiques, adjointe au SIP LILLE 2,\n- M. Willy PANI NCHANWOU, inspecteur des finances publiques, adjoint au SIP LILLE 2,\n- Mme Angélique PETIT, Inspectrice des finances publiques, adjointe au SIP de Lille 2,\nà l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite de 100 000 € ;\n2°) en matière de gracieux fiscal d’assiette et de recouvrement, les décisions portant remise, modération,\ntransaction ou rejet, dans la limite de 100 000 € ;\n3°) les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses sans\nlimitation de montant ;\n4°) les avis de mise en recouvrement et les mises en demeure de payer ;\n5°) les décisions relatives aux demandes de délai de paiement, le délai accordé ne pouvant excéder\n12 mois et porter sur une somme supérieure à 100 000 € ;\n6°) l'ensemble des actes relatifs au recouvrement, et notamment les bordereaux de situation, les actes de\npoursuites et les déclarations de créances ainsi que pour ester en justice ;\n7°) tous actes d'administration et de gestion du service.\nArticle 2\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de contentieux fiscal d’assiette, les décisions d’admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d’office, dans la limite précisée dans le tableau ci-après ;\n1/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 59\n2°) en matière de gracieux fiscal d'assiette, les décisions portant remise, modération ou rejet, dans la limite\nprécisée dans le tableau ci-après ;\naux agents désignés ci-dessous :\nNom et prénom des Grade Limite des décisions Limite des décisions\nagents contentieuses gracieuses\nLIEVIN Muriel Inspectrice 100 000 € 100 000 €\nPANI NCHANWOU Willy Inspecteur 100 000 € 100 000 €\nPETIT Angélique Inspectrice 100 000 € 100 000 €\nAMIOT Emmanuel Contrôleur principal 30 000 € 30 000 €\nBINON Véronique Contrôleuse principale 30 000 € 30 000 €\nCRETON David Contrôleur Principal 30 000 € 30 000 €\nDECOSTER Estelle Contrôleuse Principale 30 000 € 30 000 €\nDELBROEUVE Louis Contrôleur Principal 30 000 € 30 000 €\nBOULARAOUI Salima Contrôleuse 30 000 € 30 000 €\nEL-AMMARI Hafid Contrôleur 30 000 € 30 000 €\nJEANNEY Christophe Contrôleur 30 000 € 30 000 €\nPRUVOST Eric Contrôleur 30 000 € 30 000 €\nT’HOOFT Denis Contrôleur 30 000 € 30 000 €\nWERLY Ophélie Contrôleuse 30 000 € 30 000 €\nABDELLAOUI Sarah Agente Administrative Principale 5 000 € 5 000 €\nALI-BACHA Hamidouche Agent Administratif Principal 5 000 € 5 000 €\nBAUDELLE Meggy Agente Administrative Principale 5 000 € 5 000 €\nCARON Léo Agent Administratif Principal 5 000 € 5 000 €\nCHANTREAU Louisa Agente administrative Principale 5 000 € 5 000 €\nDELMOTTE Patrick Agent Administratif Principal 5 000 € 5 000 €\nGUESSOUM Aghiles Agent Administratif Principal 5 000 € 5 000 €\nHERISSE Nicolas Agent Administratif Principal 5 000 € 5 000 €\nLAURENT Martine Agente administrative Principale 5 000 € 5 000 €\nLEFEBVRE Pauline Agente Administrative Principale 5 000 € 5 000 €\nMARTIN Geoffrey Agent Administratif Principal 5 000 € 5 000 €\nPEDROL Stéphanie Agente Administrative Principale 5 000 € 5 000 €\nRAMBAUX Aristide Agent Administratif Principal 5 000 € 5 000 €\nVERDON Claude Agent Administratif Principal 5 000 € 5 000 €\nArticle 3\n2/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 60\nDélégation de signature est donnée à l’effet de signer :\n1°) en matière de gracieux fiscal de recouvrement, les décisions portant remise, modération ou rejet, dans\nla limite précisée dans le tableau ci-dessous ;\n2°) les décisions relatives aux demandes de délai de paiement, dans les limites de durée et de montant\nindiquées dans le tableau ci-après ;\n3°) les avis de mise en recouvrement et les mises en demeure de payer ;\n4°) l'ensemble des actes relatifs au recouvrement, et notamment les bordereaux de situation, les actes de\npoursuites et les déclarations de créances ;\naux agents désignés ci-après :\nLimite Durée Somme maximale\nNom et prénom des Grade des décisions maximale des pour laquelle un\nagents gracieuses délais de délai de paiement\npaiement peut être accordé\nLIEVIN Muriel Inspectrice 100 000€ 12 mois 100 000 €\nPANI NCHANWOU Willy Inspecteur 100 000€ 12 mois 100 000 €\nPETIT Angélique Inspectrice 100 000€ 12 mois 100 000 €\nAMIOT Emmanuel Contrôleur Principal 5 000 € 12 mois 30 000 €\nBINON Véronique Contrôleuse principale 5 000 € 12 mois 30 000 €\nCRETON David Contrôleur Principal 5 000 € 12 mois 30 000 €\nDECOSTER Estelle Contrôleuse Principale 5 000 € 12 mois 30 000 €\nDELBROEUVE Louis Contrôleur principal 5 000 € 12 mois 30 000 €\nBOULARAOUI Salima Contrôleuse 5 000 € 12 mois 30 000 €\nEL-AMMARI Hafid Contrôleur 5 000 € 12 mois 30 000 €\nJEANNEY Christophe Contrôleuse 5 000 € 12 mois 30 000 €\nPRUVOST Eric Contrôleur 5 000 € 12 mois 30 000 €\nT’HOOFT Denis Contrôleur 5 000 € 12 mois 30 000 €\nWERLY Ophélie Contrôleuse 5 000 € 12 mois 30 000 €\nABDELLAOUI Sarah Agente Administrative Principale 2 000 € 12 mois 10 000 €\nALI-BACHA Hamidouche Agent Administratif Principal 2 000 € 12 mois 10 000 €\nBAUDELLE Meggy Agente Administrative Principale 2 000 € 12 mois 10 000 €\nCARON Léo Agent Administratif Principal 2 000 € 12 mois 10 000 €\nCHANTREAU Louisa Agente administrative Principale 2 000 € 12 mois 10 000 €\nDELMOTTE Patrick Agent Administratif Principal 2 000 € 12 mois 10 000 €\nGUESSOUM Aghiles Agent Administratif Principal 2 000 € 12 mois 10 000 €\nGUISSE Souleymane Agent Administratif Principal 2 000 € 12 mois 10 000 €\nHAMEAUX Yves-Marie Agent Administratif Principal 2 000 € 12 mois 10 000 €\nHERISSE Nicolas Agent Administratif Principal 2 000 € 12 mois 10 000 €\n3/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 61\nLimite Durée Somme maximale\nNom et prénom des Grade des décisions maximale des pour laquelle un\nagents gracieuses délais de délai de paiement\npaiement peut être accordé\nLAURENT Martine Agente Administrative Principale 2 000 € 12 mois 10 000 €\nLEFEBVRE Pauline Agente Administrative Principale 2 000 € 12 mois 10 000 €\nMARTIN Geoffrey Agent Administratif Principal 2 000 € 12 mois 10 000 €\nPEDROL Stéphanie Agente Administrative Principale 2 000 € 12 mois 10 000 €\nRAMBAUX Aristide Agent Administratif Principal 2 000 € 12 mois 10 000 €\nVERDON Claude Agent Administratif Principal 2 000 € 12 mois 10 000 €\nSZYSZKA Zacharie Agent Administratif Principal 2 000 € 12 mois 10 000 €\nArticle 4\nLe présent arrêté prend effet au 01 septembre 2026.\nArticle 5\nLe présent arrêté sera publié au recueil des actes administratif du département du Nord.\nA Lille le 07/09/2026\nLe comptable public,\nResponsable du Service des Impôts des Particuliers de Lille 2\nGéraldine GRADELLE\nCheffe de Service Comptable\n4/4\nDirection régionale des finances publiques - 2026-09-07-00015 - Délégations de signature du SIP de Lille 2 62",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégations de signature au service fiscal de Lille",
-    "resume": "L'arrêté délègue le pouvoir de signature à 24 agents du Service des Impôts des Particuliers de Lille 2 pour traiter les dossiers de contentieux et de gracieux fiscal. Les inspecteurs sont autorisés à signer des décisions jusqu'à 100 000 €, les contrôleurs jusqu'à 30 000 €, et les agents administratifs jusqu'à 5 000 €. Cette mesure prend effet le 1er septembre 2026.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [
-      "Lille"
-    ],
-    "mots_cles": [
-      "délégation de signature",
-      "impôts",
-      "contentieux fiscal",
-      "gracieux fiscal",
-      "limites de montant"
-    ]
-  },
-  {
-    "titre": "Délégation de signature Direction DAF",
-    "titre_complet": "Etablissement public de santé mentale des Flandres / 2026-09-01-00053 - Délégation de signature Direction DAF",
-    "page_debut": 63,
-    "nb_pages": 4,
-    "mode": "image",
-    "texte": "",
-    "dept": "59",
-    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108034/757303/file/Recueil n°316 du 8 septembre 2026.pdf",
-    "date_recueil": "2026-09-08",
-    "score": 1,
-    "titre_court": "Délégation de signature interne à l'EPSM des Flandres",
-    "resume": "La directrice de l'Établissement public de santé mentale des Flandres délègue sa signature à plusieurs cadres pour la gestion des affaires financières, des frais de séjour et des structures médico-sociales. Cette délégation, qui prend effet le 1er janvier 2026, précise les actes que chaque délégataire peut signer, avec des seuils financiers spécifiques pour certaines opérations.",
-    "type_acte": "DÉLÉGATION",
-    "communes": [],
-    "mots_cles": [
-      "délégation de signature",
-      "EPSM Flandres",
-      "affaires financières",
-      "structures médico-sociales",
-      "gestion administrative"
     ]
   },
   {
@@ -22844,6 +22092,32 @@
       "entretien ménager",
       "soutien scolaire",
       "Villeneuve-d'Ascq"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 990446338 - BALLO Mahougnon",
+    "titre_complet": "2026-10-06-00012 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 990446338 - BALLO Mahougnon",
+    "page_debut": 22,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108395/759497/file/recueil-2026-374-recueil-des-actes-administratifs-1.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Une structure de soutien scolaire déclarée à Villeneuve-d'Ascq",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Nord enregistre la déclaration d'activité de services à la personne de l'entreprise individuelle BALLO Mahougnon, exploitée sous l'enseigne « La Cité de Savoirs Construits et de l'Excellence - CSCE », établie à Villeneuve d'Ascq. L'activité déclarée est le soutien scolaire ou les cours à domicile, en mode d'intervention prestataire. Le récépissé, daté du 6 octobre 2026, précise que l'enregistrement n'est pas limité dans le temps, qu'il produit effet à compter du dépôt de la déclaration et qu'il peut être retiré dans les conditions prévues par le code du travail.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Villeneuve d'Ascq",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "soutien scolaire",
+      "déclaration d'activité",
+      "Villeneuve d'Ascq",
+      "DDETS Nord"
     ]
   },
   {
