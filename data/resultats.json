@@ -240,6 +240,36 @@
     ]
   },
   {
+    "titre": "20261026 AP-mineurs",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-26-00001 - 20261026 AP-mineurs",
+    "page_debut": 3,
+    "nb_pages": 12,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108593/760720/file/Recueil n°413 du 26 octobre 2026.pdf",
+    "date_recueil": "2026-10-26",
+    "score": 5,
+    "titre_court": "Interdiction aux mineurs non accompagnés dans six communes du Nord",
+    "resume": "Le préfet du Nord interdit aux mineurs non accompagnés d'une personne civilement responsable de se déplacer dans des périmètres délimités de Lille, Wattignies, Denain, Douai, Marly et Valenciennes, du lundi 26 octobre 2026 à 21 heures au jeudi 29 octobre 2026 à 6 heures. La mesure fait suite à une série de violences, dégradations et incendies survenus les week-ends précédents, notamment lors de manifestations, et s'appuie sur des périmètres précis décrits en annexes (par exemple un secteur de Douai délimité par le boulevard Pasteur et la Scarpe). Tout contrevenant s'expose aux sanctions prévues par les lois et règlements en vigueur.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Wattignies",
+      "Denain",
+      "Douai",
+      "Marly",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "mineurs non accompagnés",
+      "arrêté préfectoral",
+      "ordre public",
+      "périmètres",
+      "violences urbaines"
+    ]
+  },
+  {
     "titre": "Arrêté préfectoral d'urgence portant adaptation temporaire des prescriptions de l'installation d'incinération exploitée par la société CALLERGIE sur la commune de Noyelles-sous-Lens aux fins de traitement de sous-produits animaux suite aux surmortalités en élevages liées à une vague de chaleur",
     "titre_complet": "Préfecture du Pas-de-Calais / Direction des sécurités 62-2026-06-27-00002 - Arrêté préfectoral d'urgence portant adaptation temporaire des prescriptions de l'installation d'incinération exploitée par la société CALLERGIE sur la commune de Noyelles-sous-Lens aux fins de traitement de sous-produits animaux suite aux surmortalités en élevages liées à une vague de chaleur",
     "page_debut": 3,
@@ -1310,6 +1340,32 @@
       "Longuenesse",
       "manifestation",
       "sécurité publique"
+    ]
+  },
+  {
+    "titre": "T26-583P projet RAA-1",
+    "titre_complet": "Direction interdépartementale des routes Nord / 62-2026-10-26-00002 - T26-583P projet RAA-1",
+    "page_debut": 12,
+    "nb_pages": 7,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87771/549181/file/Recueil des actes administratifs n°334 en date du 26 octobre 2026.pdf",
+    "date_recueil": "2026-10-26",
+    "score": 4,
+    "titre_court": "A16 : circulation basculée et bretelle fermée à Marquise",
+    "resume": "Un arrêté préfectoral réglemente la circulation sur l'A16, dans les deux sens, entre Boulogne-sur-Mer et Dunkerque, du lundi 26 octobre 2026 à 13h00 au vendredi 27 novembre 2026 à 17h00, pour permettre la mise en sécurité de la chaussée déformée au PR 65+500 (sens Dunkerque vers Boulogne-sur-Mer). Les mesures comprennent des limitations de vitesse (jusqu'à 50 km/h), des interdictions de dépassement, la neutralisation de voies et un basculement de circulation sur la voie de gauche ; la bretelle de sortie n°4 de l'échangeur n°36 est fermée, avec une déviation de 10,9 km estimée à 8 minutes par l'échangeur n°34.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Marquise",
+      "Leulinghen-Bernes"
+    ],
+    "mots_cles": [
+      "A16",
+      "travaux",
+      "déviation",
+      "chaussée",
+      "circulation"
     ]
   },
   {
@@ -4480,6 +4536,34 @@
     ]
   },
   {
+    "titre": "Arrêté préfectoral de protection de biotope \"Vallée et prairies alluviales de la Sambre du 14 10 2026",
+    "titre_complet": "Direction départementale des territoires et de la mer / 2026-10-14-00015 - Arrêté préfectoral de protection de biotope \"Vallée et prairies alluviales de la Sambre du 14 10 2026",
+    "page_debut": 57,
+    "nb_pages": 17,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Nouvelle protection des prairies alluviales de la Sambre",
+    "resume": "Le préfet du Nord instaure une zone de protection de biotope de 734 hectares couvrant la vallée et les prairies alluviales de la Sambre, sur les communes de Landrecies, Maroilles, Noyelles-sur-Sambre et Locquignol. Il interdit notamment les nouvelles constructions, la circulation des véhicules à moteur hors voies ouvertes, le camping, le retournement des prairies permanentes et les nouveaux drainages, tandis que les activités agricoles, pastorales, forestières, de chasse et de pêche peuvent continuer sous conditions. Cet arrêté abroge celui du 26 juin 2025 sur le même secteur.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Landrecies",
+      "Maroilles",
+      "Noyelles-sur-Sambre",
+      "Locquignol"
+    ],
+    "mots_cles": [
+      "biotope",
+      "Sambre",
+      "zone humide",
+      "prairies alluviales",
+      "protection de la nature"
+    ]
+  },
+  {
     "titre": "AP portant dérogation temporaire aux périodes d'interdiction d'épandage sur le département du Pas-de-Calais",
     "titre_complet": "62-2026-09-29-00003 - AP portant dérogation temporaire aux périodes d'interdiction d'épandage sur le département du Pas-de-Calais",
     "page_debut": 11,
@@ -5512,6 +5596,31 @@
       "travaux nocturnes",
       "ouvrage d'art",
       "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas de délestage de la consommation de gaz naturel",
+    "titre_complet": "Préfecture du Pas-de-Calais / Direction des sécurités 62-2026-10-23-00018 - Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas de délestage de la consommation de gaz naturel",
+    "page_debut": 19,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "Préfecture du Pas-de-Calais\n62-2026-10-23-00018\nArrêté n°CAB-SIDPC-2026-31 fixant les listes de\nconsommateurs protégés en cas de délestage de\nla consommation de gaz naturel\nPréfecture du Pas-de-Calais - 62-2026-10-23-00018 - Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas 19\nde délestage de la consommation de gaz naturel\nCabinet\nDirection des sécurités\nService interministériel de défense et Arras, le 23 octobre 2026\nde protection civiles\nN°CAB-SIDPC-2026-31\nArrêté fixant les listes de consommateurs protégés en cas de délestage de la consommation\nde gaz naturel\nLe préfet du Pas-de-Calais,\nVu le Code de l’énergie et notamment ses articles L.434-1 à L.434-4 et R.434-1 à R.434-7 ;\nVu le décret n° 2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation et à\nl’action des services de l’État dans les régions et départements ;\nVu le décret du 2 décembre 2025 portant nomination de Monsieur François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’instruction du 9 octobre 2023 du directeur général de la Sécurité civile et de la gestion des crises\net de la directrice de l’énergie et du climat relative à l’organisation du délestage de la consommation\nde gaz naturel ;\nVu les données recueillies par les gestionnaires de réseaux de gaz naturel auprès de chaque\nconsommateur raccordé à leurs réseaux et ayant eu une consommation de gaz naturel supérieure à\n5GWh au cours de l’année 2025 ;\nConsidérant la nécessité de mettre à jour annuellement les listes des consommateurs de gaz de plus de\n5GWh/an bénéficiant d’une protection en cas de délestage gazier afin de tenir compte de l’évolution\nde leur consommation ;\nSur proposition du directeur de cabinet du préfet du Pas-de-Calais ;\nArrête\nArticle 1er : La liste des consommateurs de gaz de plus de 5 GWh/an assurant des missions\nd’intérêt général liées à la satisfaction des besoins essentiels de la Nation, en\nmatière notamment de sécurité, de défense et de santé, ou fournissant un service\nde chauffage pour des sites assurant ces missions d’intérêt général ou pour des\nlogements, dite « liste n°2 » est établie en annexe 1 du présent arrêté.\nRue Ferdinand Buisson\n62020 ARRAS Cedex 9\nTel : 03 21 21 20 00\n1 / 2\nPréfecture du Pas-de-Calais - 62-2026-10-23-00018 - Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas 20\nde délestage de la consommation de gaz naturel\nArticle 2 : La liste des consommateurs de gaz de plus de 5 GWh/an susceptibles de subir des\nconséquences économiques majeures en cas de réduction ou d’arrêt de leur\nconsommation de gaz naturel, ainsi que, pour chacun de ces consommateurs, le\nniveau de consommation protégée afin de les prémunir desdites conséquences\néconomiques majeures est établie en annexe 2 du présent arrêté.\nArticle 3 : Le présent arrêté, à l’exception de ses annexes, sera publié au recueil des actes\nadministratifs de la Préfecture du Pas-de-Calais.\nArticle 4 : Les listes définies à l’article 1 et à l’article 2 du présent arrêté seront transmises aux\ngestionnaires du réseau de gaz naturel.\nArticle 5 : Les consommateurs inscrits sur les listes définies à l’article 1 et à l’article 2 du\nprésent arrêté seront notifiés de leur inscription sur ces listes et, le cas échéant, du\nniveau de consommation protégée.\nArticle 6 : L’arrêté préfectoral n°CAB-SIDPC-2025-17 du 29 octobre 2025 fixant les listes du\ndispositif de délestage des consommateurs de gaz naturel consommant plus de\n5 GWh/an est abrogé.\nArticle 7 : Le directeur de cabinet du préfet du Pas-de-Calais, le directeur régional de\nl’environnement, de l’aménagement et du logement des Hauts-de-France et les\ngestionnaires des réseaux de transport et de distribution de gaz naturel sont\nchargés, chacun en ce qui le concerne, de l’exécution du présent arrêté.\nLe préfet\nORIGINAL SIGNÉ\nFrançois-Xavier Lauch\nCopie :\n• au directeur régional de l’environnement, de l’aménagement et du logement des Hauts-de-\nFrance ;\n• aux gestionnaires des réseaux de transport et de distribution de gaz naturel.\nLe présent arrêté peut faire l’objet des voies de recours suivantes :\n- un recours gracieux à Monsieur le préfet du Pas-de-Calais, rue Ferdinand Buisson, Arras (62000)\n- un recours hiérarchique auprès du ministre de l’Intérieur. En l’absence de réponse de l’administration\ndans un délai de deux mois à compter de la date de réception de votre recours gracieux ou hiérarchique,\ncelui-ci doit être considéré comme implicitement rejeté.\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-\nHilaire à Lille (59000), par lettre adressée directement au greffe ou au moyen de l’application\n« télérecours citoyen » accessible sur le site internet : www.telerecours.fr Le recours contentieux doit\nêtre déposé au plus tard avant l’expiration du délai de deux mois suivant la date de notification de la\nprésente décision ou la date du rejet du recours gracieux ou hiérarchique.\n2/2\nPréfecture du Pas-de-Calais - 62-2026-10-23-00018 - Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas 21\nde délestage de la consommation de gaz naturel",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87771/549181/file/Recueil des actes administratifs n°334 en date du 26 octobre 2026.pdf",
+    "date_recueil": "2026-10-26",
+    "score": 3,
+    "titre_court": "Délestage gazier : listes de consommateurs protégés mises à jour",
+    "resume": "Le préfet du Pas-de-Calais a pris un arrêté qui met à jour, pour l'année, les listes des gros consommateurs de gaz naturel (plus de 5 GWh par an) à protéger en cas de délestage, c'est-à-dire de coupure ou de réduction de la consommation. Une première liste vise les consommateurs assurant des missions d'intérêt général essentielles, comme la sécurité, la défense ou la santé, ainsi que les sites de chauffage qui les desservent ou les logements. Une seconde concerne les consommateurs exposés à des conséquences économiques majeures, avec un niveau de consommation protégée défini pour chacun. Les noms figurent dans des annexes non publiées, et l'arrêté remplace celui de 2025.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Arras"
+    ],
+    "mots_cles": [
+      "délestage",
+      "gaz naturel",
+      "consommateurs protégés",
+      "Pas-de-Calais",
+      "préfecture"
     ]
   },
   {
@@ -7864,6 +7973,33 @@
       "gendarmerie",
       "premiers secours",
       "Landrecies"
+    ]
+  },
+  {
+    "titre": "Enregistrement audiovisuel des interventions des agents de la police municipale des communes d'Allennes-les-Marais, Marcq-en-Baroeul et Wambrechies",
+    "titre_complet": "2 Préfecture du Nord / Direction des sécurités 2026-10-22-00005 - Enregistrement audiovisuel des interventions des agents de la police municipale des communes d'Allennes-les-Marais, Marcq-en-Baroeul et Wambrechies",
+    "page_debut": 74,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Préfecture du Nord\n2026-10-22-00005\nEnregistrement audiovisuel des interventions des\nagents de la police municipale des communes\nd'Allennes-les-Marais, Marcq-en-Baroeul et\nWambrechies\nPréfecture du Nord - 2026-10-22-00005 - Enregistrement audiovisuel des interventions des agents de la police municipale des 74\ncommunes d'Allennes-les-Marais, Marcq-en-Baroeul et Wambrechies\nCABINET DU PRÉFET\nEnregistrement audiovisuel des interventions des agents de la police municipale\nde la commune d’Allennes-les-Marais (Nord)\nEn application des articles L 241-2 et R 241-8 à R 241-17 du code de la sécurité intérieure (CSI), le\npréfet du Nord, par arrêté du 22 octobre 2026, a autorisé l’enregistrement audiovisuel des interventions\nde la police municipale de la commune d’Allennes-les-Marais au moyen d’une caméra individuelle.\nCABINET DU PRÉFET\nEnregistrement audiovisuel des interventions des agents de la police municipale\nde la commune de Marcq-en-Baroeul (Nord)\nEn application des articles L 241-2 et R 241-8 à R 241-17 du code de la sécurité intérieure (CSI), le\npréfet du Nord, par arrêté du 14 avril 2026, a autorisé l’enregistrement audiovisuel des interventions\ndes agents de la police municipale de la commune de Marcq-en-Baroeul au moyen de 9 caméras\nindividuelles.\nCABINET DU PRÉFET\nEnregistrement audiovisuel des interventions des agents de de la police municipale\nde la commune de Wambrechies (Nord)\nEn application des articles L 241-2 et R 241-8 à R 241-17 du code de la sécurité intérieure (CSI), le\npréfet du Nord, par arrêté du 17 juillet 2026, a autorisé l’enregistrement audiovisuel des interventions\ndes agents de la police municipale de la commune de Wambrechies au moyen de 7 caméras\nindividuelles.\nPréfecture du Nord - 2026-10-22-00005 - Enregistrement audiovisuel des interventions des agents de la police municipale des 75\ncommunes d'Allennes-les-Marais, Marcq-en-Baroeul et Wambrechies",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 3,
+    "titre_court": "Caméras individuelles pour la police municipale dans trois communes du Nord",
+    "resume": "Le préfet du Nord a autorisé l'enregistrement audiovisuel des interventions des agents de la police municipale à Allennes-les-Marais, Marcq-en-Baroeul et Wambrechies, au moyen de caméras individuelles. Le nombre de caméras est précisé pour Marcq-en-Baroeul (9) et Wambrechies (7), et l'acte ne le mentionne pas pour Allennes-les-Marais. Ces autorisations sont prises sur le fondement du code de la sécurité intérieure.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Allennes-les-Marais",
+      "Marcq-en-Baroeul",
+      "Wambrechies"
+    ],
+    "mots_cles": [
+      "caméras individuelles",
+      "police municipale",
+      "enregistrement audiovisuel",
+      "préfecture du Nord",
+      "sécurité intérieure"
     ]
   },
   {
@@ -13130,6 +13266,109 @@
     ]
   },
   {
+    "titre": "Arrêté portant délégation de signature - Centre pénitentiaire de Maubeuge",
+    "titre_complet": "Direction de l'administration pénitentiaire / Direction interrégionale des services pénitentiaires de Lille 2026-10-20-00020 - Arrêté portant délégation de signature - Centre pénitentiaire de Maubeuge",
+    "page_debut": 27,
+    "nb_pages": 15,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Maubeuge : délégations de signature au centre pénitentiaire",
+    "resume": "Le chef d'établissement du centre pénitentiaire de Maubeuge, Philippe Lamotte, délègue sa signature, à compter du 20 octobre 2026, à son adjoint, à une attachée d'administration, à des officiers et à des majors pénitentiaires. Le tableau annexé précise les décisions concernées, notamment les visites de l'établissement, le règlement intérieur, le placement en cellule, la discipline, l'isolement, les fouilles et la gestion du compte nominatif des détenus. Il s'agit d'un acte d'organisation interne qui ne crée pas de nouvelle obligation pour le public.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Maubeuge",
+      "Lille"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "centre pénitentiaire de Maubeuge",
+      "chef d'établissement",
+      "personnes détenues",
+      "administration pénitentiaire"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 107030389 - OUMMAD Nawal",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-10-19-00020 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 107030389 - OUMMAD Nawal",
+    "page_debut": 42,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Nouvelle entreprise de garde d'enfants à Villeneuve-d'Ascq",
+    "resume": "La préfecture du Nord a délivré un récépissé de déclaration d'organisme de services à la personne à l'entreprise individuelle de Nawal Oummad, dont l'établissement est situé à Villeneuve-d'Ascq. Les activités déclarées sont la garde d'enfants de plus de 3 ans à domicile et l'entretien de la maison et les travaux ménagers, en mode d'intervention prestataire. Les effets de la déclaration courent à compter du 17 octobre 2026.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Villeneuve-d'Ascq"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "garde d'enfants",
+      "entretien ménager",
+      "déclaration",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 929001444 - MEBARKI Soulef",
+    "titre_complet": "2026-10-09-00008 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 929001444 - MEBARKI Soulef",
+    "page_debut": 51,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Services à domicile : nouvelle entreprise enregistrée à Lille",
+    "resume": "La préfecture du Nord a enregistré la déclaration d'activité de services à la personne de l'entreprise individuelle MEBARKI Soulef, sous l'enseigne EPURE, basée à Lille. Elle peut proposer à domicile l'entretien de la maison, la préparation de repas, la collecte et livraison de linge repassé et la livraison de courses, en mode prestataire, avec effet au 16 octobre 2026. Ce récépissé n'est pas une autorisation : les activités soumises à agrément ou à autorisation ne sont couvertes que si ces démarches ont été obtenues.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lille",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration SAP",
+      "Lille",
+      "entreprise individuelle",
+      "aide à domicile"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration modificative N° 01 d'un organisme de services à la personne enregistré sous le N° SAP 109452136 - ZIBAR Fatima récépissé modificatif N°01",
+    "titre_complet": "2026-10-20-00019 - Récépissé de déclaration modificative N° 01 d'un organisme de services à la personne enregistré sous le N° SAP 109452136 - ZIBAR Fatima récépissé modificatif N°01",
+    "page_debut": 54,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 2,
+    "titre_court": "Une entreprise lilloise élargit ses services à domicile",
+    "resume": "La préfecture du Nord a enregistré une déclaration modificative de l'entreprise individuelle ZIBAR Fatima, dont l'établissement principal est à Lille, qui ajoute à ses activités de services à la personne l'entretien de la maison et les travaux ménagers, en mode d'intervention prestataire. Ces effets courent depuis le 12 octobre 2026, date du dépôt du dossier complet, et le récépissé a une portée nationale. Les autres dispositions du récépissé initial restent inchangées.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Lille",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "entretien de la maison",
+      "travaux ménagers",
+      "déclaration modificative",
+      "Lille"
+    ]
+  },
+  {
     "titre": "Arrêté n° 2026-10-85 accordant délégation de signature à Thierry Laurent, préfet délégué chargé de la résilience inondations et des politiques de l'eau",
     "titre_complet": "Préfecture du Pas-de-Calais / Direction de la coordination des politiques publiques et de l'appui territorial 62-2026-09-28-00015 - Arrêté n° 2026-10-85 accordant délégation de signature à Thierry Laurent, préfet délégué chargé de la résilience inondations et des politiques de l'eau",
     "page_debut": 4,
@@ -14636,6 +14875,52 @@
       "agrément médical",
       "Pas-de-Calais",
       "permis de conduire"
+    ]
+  },
+  {
+    "titre": "SAP108751025 NABILA KEBAILI",
+    "titre_complet": "Direction départementale de l'emploi du travail et des solidarités / 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI",
+    "page_debut": 3,
+    "nb_pages": 5,
+    "mode": "texte",
+    "texte": "Direction départementale de l'emploi du travail\net des solidarités\n62-2026-10-26-00001\nSAP108751025 NABILA KEBAILI\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI 3\nDirection départementale de\nl’emploi, du travail et des\nsolidarités\nPôle insertion et accès à l’autonomie\nUnité IAE ESUS SAP\nRécépissé de déclaration du\n26 octobre 2026\nd’un organisme de services à la personne\nenregistré sous le N°SAP/108751025\n«KEBAILI»\net formulé conformément à l’article L. 7232-1-1 du Code du travail\nLe préfet du Pas-de-Calais,\nVu le Code du travail, notamment ses articles L.7232-1, R.7232-1 à R.7232-10, D.7231-1, D.7231-2 et\nD.7233-1 ;\nVu le Code de l’action sociale et des familles, notamment l’article D.312-6-2 ;\nVu la loi n°2015-1776 du 28 décembre 2015 relative à l’adaptation de la société au\nvieillissement ;\nVu le décret n°2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l’organisation\net à l’action des services de l’État dans les régions et départements ;\nVu les décrets n°2011-1132 et n°2011-1133 du 20 septembre 2011 modifiant certaines dispositions\ndu Code du travail relatives au chèque emploi-services universel et aux services à la personne ;\nVu le décret n°2015-1689 du 17 décembre 2015 portant diverses mesures d’organisation et de\nfonctionnement dans les régions de l’administration territoriale de l’État et de commissions\nadministratives ;\nVu le décret n°2016-750 du 6 juin 2016 relatif à la liste des activités de services à la personne\nsoumises à agrément ou à autorisation dans le cadre du régime commun de la déclaration ;\nVu le décret n°2016-1895 du 28 décembre 2016 relatif aux activités de services à la personne ;\nVu le décret n°2020-1545 du 9 décembre 2020 relatif à l’organisation et aux missions des\ndirections régionales de l’économie, de l’emploi, du travail et des solidarités, et des directions\ndépartementales de l’emploi, du travail et des solidarités et de la protection des populations ;\n1 / 4\n14 Voie Bossuet\nCS 20960\n62033 ARRAS CEDEX\nTél: 03 21 23 87 87\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI 4\nVu le décret du 25 juillet 2024 relatif aux modalités d’application de la dispense à la condition\nd’activité exclusive des services à la personne pour les entrepreneurs individuels soumis au régime\nde la micro-entreprise et les entreprises de moins de 11 salariés prévus à l’article L.7232-1-2 du\nCode du travail ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch en qualité de\npréfet du Pas-de-Calais ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur du 09 mars 2026\nportant nomination des directeurs départementaux et directeurs départementaux adjoints\ninterministériels nommés au sein des directions départementales de l’emploi, du travail et des\nsolidarités et notamment le renouvellement des fonctions de Nathalie Chomette en qualité de\ndirectrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais, pour une\ndurée d’un an à compter du 1er avril 2026 ;\nVu l’arrêté du Premier ministre et du ministre d’État, ministre de l’Intérieur en date du 19 mars\n2026 portant nomination de Patrick Debruyne, inspecteur de classe exceptionnelle de l’action\nsanitaire et sociale, en qualité de directeur départemental adjoint de l’emploi, du travail et des\nsolidarités du Pas-de-Calais, pour une durée de quatre ans, avec une période probatoire de six\nmois, à compter du 1er avril 2026 ;\nVu l’arrêté du ministre de l’Intérieur en date du 22 mars 2021 portant nomination de Nathalie\nChomette en qualité de directrice départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu l’arrêté n°2021-28 du 29 mars 2021 portant organisation de la direction départementale de\nl’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n°2023-06-47 du 10 juillet 2023 portant modification de l’organisation de la\ndirection départementale de l’emploi, du travail et des solidarités du Pas-de-Calais ;\nVu l’arrêté n° 2026-40-16 du préfet du Pas-de-Calais du 30 mars 2026 portant délégation de\nsignature à Nathalie Chomette, directrice départementale de l’emploi, du travail et des solidarités\ndu Pas-de-Calais ;\nVu l’arrêté n° 2026-05 du 7 septembre 2026 portant subdélégation de signature de Nathalie\nChomette, directrice départementale de l’emploi, du travail et des solidarités du Pas-de-Calais à\nPatrick Debruyne, directeur départemental adjoint de l’emploi, du travail et des solidarités du\nPas-de-Calais ;\nVu la circulaire du 3 janvier 2025 relative à la déclaration et agrément des organismes de services\nà la personne ;\nSur proposition de la directrice départementale ;\n2 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI 5\nConstate,\nQu’en application des dispositions du Code du travail susvisées, une demande de déclaration\nd'activité de services à la personne a été déposée le 28 septembre 2026 par Nabilla Kebaili, en\nqualité de gérante pour l’organisme «KEBAILI» dont l’établissement principal est situé au 108 rue\nErnest Renan, porte 49, à Achicourt (62217).\nAprès examen du dossier, cette demande a été constatée conforme et le présent récépissé de\ndéclaration d’activité de services à la personne a été enregistré au nom de l’entreprise individuelle\n«KEBAILI» dont l’établissement principal est situé au 108 rue Ernest Renan, porte 49, à Achicourt\n(62217), enregistrée sous le numéro SAP/108751025, pour l’activité suivante :\n➢ activité relevant d e la déclaration, mode d’intervention prestataire :\n• Entretien de la maison et travaux ménagers\nToute modification concernant les activités exercées devra faire l’objet d’une déclaration\nmodificative préalable.\nSous réserve d’être exercées à titre exclusif (ou sous réserve d’une comptabilité séparée pour les\npersonnes morales dispensées de cette condition), ces activités ouvrent droit au bénéfice des\ndispositions des articles L.7233-2 du Code du travail et L.241.10 du Code de la sécurité sociale\ndans les conditions prévues par ces articles.\nLes effets de la déclaration courent à compter du jour du dépôt de la déclaration sous réserve des\ndispositions de l’article R.7232-18 du Code du travail. Toutefois, en application des articles\nL.7232-1 et R.7232-1 à R.7232-15, les activités nécessitant un agrément (I de l'article D.7231-1 du\nCode du travail) n'ouvrent droit à ces dispositions que si la structure a préalablement obtenu\nl’agrément ou le renouvellement de cet agrément dans le ou les départements d’exercice de ses\nactivités.\nDe même, en application de l'article D.312-6-2 du Code de l’action sociale et des familles, les\nactivités nécessitant une autorisation n’ouvrent droit à ces dispositions que si l’organisme a\npréalablement obtenu l'autorisation ou le renouvellement de cette autorisation.\nLe présent récépissé n’est pas limité dans le temps.\n3 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI 6\nL’enregistrement de la déclaration peut être retiré dans les conditions fixées aux articles\nR.7232-20 à R.7232-22 du Code du travail.\nLe présent récépissé sera publié au recueil des actes administratifs de la préfecture du\nPas-de-Calais.\nÀ Arras\nPour le préfet et par délégation\nLe directeur départemental adjoint\nsigné\nPatrick DEBRUYNE\nLe présent récépissé peut faire l’objet des voies de recours suivantes :\n- auprès du service instructeur de la direction départementale de l’emploi, du travail et des solidarités du\nPas-de-Calais, 14 voie Bossuet, Arras (62000) ;\n- un recours hiérarchique auprès du ministre de l’Economie – direction générale des entreprises – sous-direction\ndes services marchands, 61 Boulevard Vincent Auriol, 75703 Paris Cedex 13. En l’absence de réponse de\nl’administration dans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté ;\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-Hilaire à\nLille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours citoyen »\naccessible sur le site internet : www.telerecours.fr. Le recours contentieux doit être déposé au plus tard avant\nl’expiration du délai de deux mois suivant la date de notification de la présente décision ou la date du rejet du\nrecours gracieux ou hiérarchique.\n4 / 4\nDirection départementale de l'emploi du travail et des solidarités - 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI 7",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87771/549181/file/Recueil des actes administratifs n°334 en date du 26 octobre 2026.pdf",
+    "date_recueil": "2026-10-26",
+    "score": 1,
+    "titre_court": "Services à la personne : nouvel organisme déclaré",
+    "resume": "La préfecture du Pas-de-Calais a délivré un récépissé de déclaration à une entreprise de services à la personne, enregistrée sous le numéro SAP108751025. Ce document relève de la procédure administrative habituelle d'enregistrement de ces structures. Le texte visible ne détaille pas la nature précise des services concernés.",
+    "type_acte": "AUTRE",
+    "communes": [],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "Pas-de-Calais",
+      "récépissé",
+      "DDETS"
+    ]
+  },
+  {
+    "titre": "DS Spéciale MF et SPL 19 10 2026 version publiable",
+    "titre_complet": "Direction départementale des finances publiques / 62-2026-10-19-00006 - DS Spéciale MF et SPL 19 10 2026 version publiable",
+    "page_debut": 8,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-10-19-00006\nDS Spéciale MF et SPL 19 10 2026 version\npubliable\nDirection départementale des finances publiques - 62-2026-10-19-00006 - DS Spéciale MF et SPL 19 10 2026 version publiable 8\nDirection générale\ndes Finances publiques\nDIRECTION DÉPARTEMENTALE\nDES FINANCES PUBLIQUES DU PAS-DE-CALAIS\n5 Rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDécision de délégations spéciales de signature\npour le Pôle Missions Fiscales et Secteur Public Local\nL'Administrateur de l’Etat, Directeur Départemental des Finances Publiques du Pas-de-Calais ;\nVu le décret n° 2008-309 du 3 avril 2008 portant dispositions transitoires relatives à la Direction Générale des\nFinances Publiques ;\nVu le décret n° 2008-310 du 3 avril 2008 relatif à la Direction Générale des Finances Publiques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la Direction Générale des Finances\nPubliques ;\nVu l’arrêté du 26 octobre 2009 portant création de la Direction Départementale des Finances Publiques du Pas-de-\nCalais ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;\nVu le décret du 17 juillet 2023 portant intégration au titre du droit d’option de M. Jean-Marc LELEU en qualité\nd’Administrateur de l’État ;\nVu le décret du 25 juin 2024 portant nomination de M. Jean-Marc LELEU, Administrateur de l’État du grade\ntransitoire, en qualité de directeur départemental des finances publiques du Pas-de-Calais à compter du 15 juillet\n2024 ;\nVu l'arrêté préfectoral n° 2025-56-257 du 22 décembre 2025 accordant délégation de signature à M. Jean-Marc\nLELEU, Directeur Départemental des Finances Publiques du Pas-de-Calais ;\nDECIDE\nArticle 1 : Délégation spéciale de signature pour signer les pièces ou documents relatifs aux attributions de leur\ndivision ou de leur service, avec faculté pour chacun d’eux d’agir séparément et sur sa seule signature,\nl’énonciation des pouvoirs ainsi conférés étant limitative, est donnée à :\n1. Pour la Division Assiette de l'impôt et missions foncières\nMme Violaine BELLIER, Administratrice des Finances Publiques Adjointe, Responsable de la Division\nMme Magali CAHU, Inspectrice principale, adjointe à la responsable de la division\nM. Fabien MOSSE, Inspecteur principal, adjoint à la responsable de la division\n• Rédacteurs\nMme Domitille DEGORRE, Inspectrice\nMme Jessica GIMONET, Inspectrice\nM. Emre GOBAN, Inspecteur\nM.Marc DUPONT, Inspecteur\nM.David QUEVA, Inspecteur\nMme Sandrine MERCIER, Inspectrice\n2. Pour la Division Affaires juridiques et Recouvrement forcé\nM. Guillaume FOUGNIES, Administrateur des Finances Publiques Adjoint, Responsable de la Division (intérim)\nM. Eric DELATTRE, Inspecteur principal, adjoint au responsable de la division\nMme Audrey BOURNONVILLE, Inspectrice principale, adjointe au responsable de la division (intérim)\nMme Nathalie DELEMOTTE, Inspectrice divisionnaire, adjointe au responsable de la division\n• Recouvrement de l'impôt et des produits locaux – Contentieux – Opposition à poursuites\nMme Emilie COURTOIS, Inspectrice\nMme Amel DEFAF, Inspectrice\nDirection départementale des finances publiques - 62-2026-10-19-00006 - DS Spéciale MF et SPL 19 10 2026 version publiable 9\nMme Charlotte TONNEAU, Inspectrice\nMme Justine KOZAK, Inspectrice\n• Recouvrement des amendes et des produits locaux\nMme Amel DEFAF, Inspectrice\n• Agent enquêteur départementa l\nMme Cathy BERIA pour l’exercice du droit de communication\n• Correspondante Association\nMme Sylvie TOURSEL, Inspectrice\n• Rédacteurs\nM. Jean-Paul ANTUNES, Inspecteur\nMme Céline CLICHE-DERYCKE, Inspectrice\nMme Clotilde DUCHATEL-COMBE, Inspectrice\nM. Samuel LABATTU, Inspecteur\nMme Betty RENAUX, Inspectrice\nMme Sylvie TOURSEL, Inspectrice\nMme Sonia WITKOWSKI, Inspectrice\nM. Rodrigue MERLOT, Inspecteur\nMme Christine HART, Contrôleuse\nMme Marie-Laure MALANOWSKI, Contrôleuse\n3. Pour la Division Contrôle Fiscal\nM. Yves HELLION, Administrateur des Finances Publiques Adjoint, Responsable de la Division\nM. Didier GROB, Inspecteur principal, adjoint au responsable de la division\n• Rédacteurs\nMme Virginie DUCATEL, Inspectrice\nMme Virginie PILLOT, Inspectrice\nMme Hélène POULAIN, Inspectrice\nM. Arnaud SABA, Inspecteur\nM. Yannick THOMAS, Inspecteur\n• Remboursement de crédits de TVA\nMme Elvira CACHERA, Contrôleuse\nM. Christian MUSIAL, Contrôleur principal\n4. Pour la Division Secteur Public Local\nM. Cédric DEFIVES, Administrateur des Finances Publiques Adjoint, Responsable de la Division\nMme Claire DENGREVILLE, Inspectrice divisionnaire, adjointe au responsable de la division\nMme Aurélie DAVID, Inspectrice divisionnaire, adjointe au responsable de la division\n• Fiscalité Directe Locale\nMme Christelle WASBAUER, Inspectrice divisionnaire experte\nPour signer les documents de gestion courante concernant son service. Elle reçoit en outre délégation pour signer\ntous les documents relatifs au service FDL en l’absence du responsable de la Division.\n• Expertise comptable et modernisation de la dépense\nMme Christelle LEFEBVRE, Inspectrice\nM. Frédéric MONCHIET, Inspecteur\nPour signer tous les documents comptables et administratifs relatifs à leur secteur d'activité. Mme LEFEBVRE et\nM. MONCHIET reçoivent délégation pour signer les comptes de gestion sur chiffres, les comptes de gestion après\nmise en état d’examen sur pièces, ainsi que les documents relevant du fonctionnement courant de leur secteur\nd’activité.\n• Dématérialisation et monétique\nM. Gautier LEDOUX, Inspecteur\nMme Camille VARLET, Contrôleuse\nPour signer tous les documents relevant du fonctionnement courant de son secteur d’activité.\nDirection départementale des finances publiques - 62-2026-10-19-00006 - DS Spéciale MF et SPL 19 10 2026 version publiable 10\n• Expertise juridique et conseils financiers\nMme Christine BOUTROUILLE, Inspectrice\nM. Maxime RENARD, Inspecteur\nReçoivent délégation spéciale pour signer tous documents administratifs relatifs à leur secteur d'activité.\nArticle 2 – La présente décision abroge la décision de délégation spéciale de signature du 1er septembre 2026.\nArticle 3 : La présente décision sera publiée au recueil des actes administratifs du département.\nFait à ARRAS, le 19 octobre 2026\nLe Directeur Départemental des Finances Publiques,\nSigné\nJean-Marc LELEU\nAdministrateur de l’Etat\nDirection départementale des finances publiques - 62-2026-10-19-00006 - DS Spéciale MF et SPL 19 10 2026 version publiable 11",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87771/549181/file/Recueil des actes administratifs n°334 en date du 26 octobre 2026.pdf",
+    "date_recueil": "2026-10-26",
+    "score": 1,
+    "titre_court": "Délégations de signature à la DDFiP du Pas-de-Calais",
+    "resume": "Le directeur départemental des finances publiques du Pas-de-Calais accorde des délégations spéciales de signature à plusieurs agents de ses divisions, notamment celles de l'assiette de l'impôt, des affaires juridiques et du recouvrement forcé, et du contrôle fiscal. Ces délégations concernent le pôle Missions fiscales et secteur public local. Il s'agit d'une mesure d'organisation interne des services.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "DDFiP",
+      "Pas-de-Calais",
+      "finances publiques",
+      "missions fiscales"
     ]
   },
   {
@@ -19024,6 +19309,185 @@
       "finances publiques",
       "contentieux fiscal",
       "recouvrement"
+    ]
+  },
+  {
+    "titre": "Décision n°22-2025 portant délégation de signatures - Annule et remplace la décision n°15-2025 - Centre hospitalier de Maubeuge",
+    "titre_complet": "Centre hospitalier de Maubeuge / 2025-12-01-00023 - Décision n°22-2025 portant délégation de signatures - Annule et remplace la décision n°15-2025 - Centre hospitalier de Maubeuge",
+    "page_debut": 4,
+    "nb_pages": 15,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Le CH de Maubeuge actualise les délégations de signature",
+    "resume": "Le Centre hospitalier de Maubeuge publie une décision interne qui précise qui, parmi le directeur général et ses collaborateurs, peut signer quels documents au nom de l'établissement. Elle remplace la décision n°15-2025 et couvre notamment les ressources humaines, les affaires médicales, la logistique, les finances et les soins, avec des suppléances en cas d'absence. Il s'agit d'un acte de gestion administrative interne, sans effet direct sur le public.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Maubeuge",
+      "Felleries-Liessies"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "Centre hospitalier de Maubeuge",
+      "direction générale",
+      "gestion administrative",
+      "Hainaut Cambrésis"
+    ]
+  },
+  {
+    "titre": "Décision n°2026 044 portant délégation à Monsieur SIMLER Frédéric",
+    "titre_complet": "Crous de Lille / 2026-10-23-00013 - Décision n°2026 044 portant délégation à Monsieur SIMLER Frédéric",
+    "page_debut": 19,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Délégation de signature accordée à Frédéric Simler au Crous",
+    "resume": "Le directeur général du Crous de Lille délègue à Frédéric Simler, responsable de l'approvisionnement du restaurant universitaire Châtillon à Lille, la possibilité de saisir les bons de commande dans le logiciel GARONE et de constater et certifier le service fait sur le budget de fonctionnement de ce restaurant. La décision prend effet le 26 octobre 2026 et reste valable pendant toute la durée de ses fonctions, sauf modification par une autre habilitation.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "Crous de Lille",
+      "délégation",
+      "restaurant universitaire Châtillon",
+      "budget de fonctionnement",
+      "GARONE"
+    ]
+  },
+  {
+    "titre": "Décision n°2026 045 portant délégation à Monsieur TURBIEZ Alexandre",
+    "titre_complet": "2026-10-23-00014 - Décision n°2026 045 portant délégation à Monsieur TURBIEZ Alexandre",
+    "page_debut": 21,
+    "nb_pages": 2,
+    "mode": "texte",
+    "texte": "Crous de Lille\n2026-10-23-00014\nDécision n°2026 045 portant délégation à\nMonsieur TURBIEZ Alexandre\nCrous de Lille - 2026-10-23-00014 - Décision n°2026 045 portant délégation à Monsieur TURBIEZ Alexandre 21\nDECISION N°2026-045 PORTANT DELEGATION DE\nMONSIEUR ALEXANDRE TURBIEZ\nLe Directeur Général du Crous de Lille\nVu le Code de l’Education, et notamment l’article R. 822-13\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique\nVu le décret n° 2016-1042 du 29 juillet 2016 relatif aux missions et à l’organisation des œuvres universitaires\nVu l’arrêté rectoral du 09 juin 2020, nommant Mme Séverine DELIESSCHE Directrice Adjointe du CROUS de Lille à compter du\n13 juillet 2020,\nVu l’arrêté ministériel du 19 juillet 2024, nommant M. Guénaël PIRA Directeur Général du Crous de Lille à compter du 16\nseptembre 2024\nVu l’arrêté rectoral du 03 juin 2025, renouvelant Mme Séverine DELIESSCHE en tant que Directrice Adjointe du Crous de\nLille à compter du 13 juillet 2025,\nVu la décision d’affectation n°2023-455 en date du 28 septembre 2023, nommant Monsieur Alexandre TURBIEZ, agent\nd'approvisionnement au restaurant universitaire Châtelet à Lille,\nDECIDE\nArticle 1er –\nDans le cadre de la GBCP, Monsieur Alexandre TURBIEZ est autorisé sur le budget de fonctionnement du restaurant :\nEn dépense centre de responsabilité budgétaire R13\n1. à saisir les bons de commandes dans le logiciel GARONE ;\n2. à constater et certifier du service fait.\nArticle 2 –\nLa présente décision, qui prend effet à compter du 26 octobre 2026, s’applique pendant toute la durée de l’exercice de l’agent\nou jusqu’à ce que celle-ci soit modifiée par une autre habilitation. Elle abroge et remplace toute autre habilitation prise\nantérieurement.\nArticle 3 –\nLa Directrice Adjointe du CROUS est chargée de l’exécution de la présente décision qui sera notifiée à l’intéressé.\nFait à LILLE, le 23/10/ 2026\nLe Directeur Général du CROUS\nSigné M. Guénaël PIRA\nDAGJ_ octobre 2026 Alexandre TURBIEZ – Restaurant Châtelet\n1\nCrous de Lille - 2026-10-23-00014 - Décision n°2026 045 portant délégation à Monsieur TURBIEZ Alexandre 22",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Délégation de signature budgétaire au restaurant Châtelet de Lille",
+    "resume": "Le directeur général du Crous de Lille délègue à un agent d'approvisionnement du restaurant universitaire Châtelet le pouvoir de saisir les bons de commande dans le logiciel GARONE et de constater le service fait sur le budget de fonctionnement du restaurant. Cette habilitation prend effet le 26 octobre 2026 et reste valable pendant toute la durée de l'exercice de l'agent, sauf modification.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "Crous de Lille",
+      "délégation",
+      "budget",
+      "restaurant universitaire Châtelet",
+      "GARONE"
+    ]
+  },
+  {
+    "titre": "Décision n°2026 046 portant délégation à Madame MORINET Valéry",
+    "titre_complet": "2026-10-23-00015 - Décision n°2026 046 portant délégation à Madame MORINET Valéry",
+    "page_debut": 23,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Délégation de signature accordée à une agente du Crous de Lille",
+    "resume": "Le directeur général du Crous de Lille délègue à Mme Valéry Morinet, agent d'approvisionnement au restaurant universitaire Flers à Villeneuve d'Ascq, la possibilité de saisir les bons de commande dans le logiciel GARONE et de constater et certifier le service fait sur le budget de fonctionnement du restaurant. Cette délégation prend effet le 26 octobre 2026 et reste valable pendant la durée de ses fonctions, sauf modification ultérieure.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Villeneuve d'Ascq",
+      "Lille"
+    ],
+    "mots_cles": [
+      "Crous de Lille",
+      "délégation",
+      "restaurant universitaire Flers",
+      "budget de fonctionnement",
+      "bons de commande"
+    ]
+  },
+  {
+    "titre": "Décision n°2026-047 portant délégation à Madame VERHAEGHE Nelly",
+    "titre_complet": "2026-10-23-00016 - Décision n°2026-047 portant délégation à Madame VERHAEGHE Nelly",
+    "page_debut": 25,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Délégation de signature au restaurant Flers du Crous de Lille",
+    "resume": "Le directeur général du Crous de Lille délègue à Nelly Verhaeghe, cheffe de cuisine du restaurant universitaire de Dunkerque, la saisie des bons de commande dans le logiciel GARONE et la certification du service fait pour le budget de fonctionnement du restaurant. La décision prend effet le 26 octobre 2026 et reste valable pendant toute la durée de son exercice, sauf modification.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Lille",
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "Crous de Lille",
+      "délégation",
+      "restaurant universitaire",
+      "budget",
+      "GARONE"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 109559435 - FLIN Jennyfer",
+    "titre_complet": "2026-10-19-00019 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 109559435 - FLIN Jennyfer",
+    "page_debut": 45,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Une entreprise de ménage de Wannehain déclarée",
+    "resume": "La préfecture du Nord a délivré un récépissé de déclaration à une entreprise individuelle installée à Wannehain, pour une activité d'entretien de la maison et de travaux ménagers en mode prestataire. La déclaration prend effet le 19 octobre 2026, n'est pas limitée dans le temps et a une portée nationale. Elle permet à l'entreprise de bénéficier, sous conditions, des dispositions prévues par le code du travail et le code de la sécurité sociale pour les services à la personne.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Wannehain"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "entretien de la maison",
+      "travaux ménagers",
+      "déclaration",
+      "Wannehain"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 130079569 - ROUSSEL EDOO OWONO Noa",
+    "titre_complet": "2026-10-16-00011 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N° SAP 130079569 - ROUSSEL EDOO OWONO Noa",
+    "page_debut": 48,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108592/760715/file/recueil-2026-412-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 1,
+    "titre_court": "Une entreprise de garde d'enfants enregistrée à Villeneuve-d'Ascq",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Nord délivre un récépissé de déclaration de services à la personne à l'entreprise individuelle de Noa Roussel Edoo Owono, installée à Villeneuve-d'Ascq. Elle est enregistrée pour la garde d'enfants de plus de 3 ans à domicile, l'accompagnement de ces enfants dans leurs déplacements et l'entretien de la maison avec les travaux ménagers, en mode prestataire. La déclaration prend effet le 8 octobre 2026 et ouvre droit aux avantages prévus par le code du travail et le code de la sécurité sociale, sous les conditions fixées par ces textes.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Villeneuve-d'Ascq",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration SAP",
+      "garde d'enfants",
+      "entretien ménager",
+      "DDETS Nord"
     ]
   },
   {
