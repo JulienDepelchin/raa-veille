@@ -4564,6 +4564,62 @@
     ]
   },
   {
+    "titre": "261027 arrêté périmétrie LOSC-RC LENS",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-27-00006 - 261027 arrêté périmétrie LOSC-RC LENS",
+    "page_debut": 3,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108602/760776/file/Recueil n°415 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 4,
+    "titre_court": "Interdiction d'accès au stade Pierre Mauroy pour les supporters lensois",
+    "resume": "Le préfet du Nord interdit, du vendredi 30 octobre 2026 à 18h30 au samedi 31 octobre à 1h00, à toute personne se prévalant de la qualité de supporter du RC Lens ou s'y comportant, l'accès au Décathlon Arena - stade Pierre Mauroy ainsi que la circulation et le stationnement sur la voie publique dans un périmètre délimité à Villeneuve d'Ascq et Lezennes, à l'occasion du derby LOSC - RC Lens. Le même arrêté interdit aux supporters lillois dépourvus de billet de circuler ou stationner dans ce même périmètre, et prohibe dans les abords et l'enceinte du stade les pétards, engins pyrotechniques et objets pouvant servir de projectile. Le non-respect est puni de six mois d'emprisonnement et de 30 000 euros d'amende.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Villeneuve d'Ascq",
+      "Lezennes"
+    ],
+    "mots_cles": [
+      "supporters",
+      "RC Lens",
+      "LOSC",
+      "stade Pierre Mauroy",
+      "ordre public"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant interdiction de paraître pour les mineurs non accompagnés dans certains périmètres délimités dans des communes du département du Nord",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-27-00005 - Arrêté préfectoral portant interdiction de paraître pour les mineurs non accompagnés dans certains périmètres délimités dans des communes du département du Nord",
+    "page_debut": 91,
+    "nb_pages": 12,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 4,
+    "titre_court": "Nord : sorties nocturnes des mineurs non accompagnés encadrées",
+    "resume": "Le préfet du Nord interdit aux mineurs non accompagnés de se déplacer dans certains périmètres délimités de Lille, Wattignies, Denain, Douai, Marly et Valenciennes, de 21h à 6h, du mardi 27 au jeudi 29 octobre 2026. Cette mesure fait suite à des violences urbaines, incendies et affrontements avec les forces de l'ordre survenus lors de manifestations et dans la nuit du 17 octobre. L'arrêté remplace celui du 26 octobre 2026.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Wattignies",
+      "Denain",
+      "Douai",
+      "Marly",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "mineurs non accompagnés",
+      "ordre public",
+      "périmètres",
+      "préfet du Nord",
+      "violences urbaines"
+    ]
+  },
+  {
     "titre": "AP portant dérogation temporaire aux périodes d'interdiction d'épandage sur le département du Pas-de-Calais",
     "titre_complet": "62-2026-09-29-00003 - AP portant dérogation temporaire aux périodes d'interdiction d'épandage sur le département du Pas-de-Calais",
     "page_debut": 11,
@@ -5621,6 +5677,31 @@
       "consommateurs protégés",
       "Pas-de-Calais",
       "préfecture"
+    ]
+  },
+  {
+    "titre": "T26-576P signé",
+    "titre_complet": "Direction interdépartementale des routes Nord / 62-2026-10-27-00001 - T26-576P signé",
+    "page_debut": 9,
+    "nb_pages": 10,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87782/549251/file/Recueil des actes administratifs n°335 en date du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 3,
+    "titre_court": "Circulation perturbée sur l'A16 et l'A216 à Calais",
+    "resume": "Un arrêté préfectoral organise le mercredi 28 octobre 2026, de 9h à 16h (report possible au jeudi 29 octobre), des restrictions de circulation sur l'A16 et l'A216 à Calais, le temps d'inspections de portiques de signalisation. Les mesures consistent en fermetures de bretelles et neutralisations de voies, avec déviations signalées, en deux phases successives. Le chantier est réalisé par l'entreprise ADISS, la signalisation par le CEI de Peuplingues, et les usagers peuvent contacter le CIGT de Lille au 03 20 41 49 50.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Calais"
+    ],
+    "mots_cles": [
+      "A16",
+      "A216",
+      "restriction de circulation",
+      "Calais",
+      "inspection de portiques"
     ]
   },
   {
@@ -8003,6 +8084,93 @@
     ]
   },
   {
+    "titre": "Arrêté préfectoral portant nomination du président et des membres du bureau de la commission de suivi de site (CSS) de la société FRAMATOME pour son établissement situé à Maubeuge",
+    "titre_complet": "Sous-préfecture d'Avesnes-sur-Helpe / 2026-10-27-00001 - Arrêté préfectoral portant nomination du président et des membres du bureau de la commission de suivi de site (CSS) de la société FRAMATOME pour son établissement situé à Maubeuge",
+    "page_debut": 103,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 3,
+    "titre_court": "Framatome Maubeuge : nouveau bureau de la commission de suivi",
+    "resume": "Le préfet du Nord nomme le président et les membres du bureau de la commission de suivi de site (CSS) de l'établissement Framatome de Maubeuge, site de maintenance de pièces mécaniques contaminées par des éléments radioactifs. Le président est le préfet du Nord ou son représentant, et le bureau réunit des représentants de l'État, de l'exploitant, des salariés, de la commune de Neuf-Mesnil et un riverain, désignés lors de la réunion d'installation du 26 novembre 2025.",
+    "type_acte": "NOMINATION",
+    "communes": [
+      "Maubeuge",
+      "Neuf-Mesnil",
+      "Feignies",
+      "Hautmont"
+    ],
+    "mots_cles": [
+      "Framatome",
+      "commission de suivi de site",
+      "Maubeuge",
+      "nucléaire",
+      "bureau"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant nomination du président et des membres du bureau de la commission de suivi de site (CSS) de l'usine d'incinération d'ordures ménagères de Maubeuge",
+    "titre_complet": "3 2026-10-27-00002 - Arrêté préfectoral portant nomination du président et des membres du bureau de la commission de suivi de site (CSS) de l'usine d'incinération d'ordures ménagères de Maubeuge",
+    "page_debut": 107,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 3,
+    "titre_court": "Nouveau bureau nommé pour la commission de suivi de l'incinérateur de Maubeuge",
+    "resume": "Le préfet du Nord nomme le président et les membres du bureau de la commission de suivi de site (CSS) de l'usine d'incinération d'ordures ménagères de Maubeuge, exploitée par la société PAPREC Energies Centre Est. Le président est le préfet du Nord ou son représentant, et le bureau comprend notamment le directeur du site, un membre désigné par le CSE, le maire de Mairieux ou son représentant, et un représentant de Nord Nature Environnement, désignés à la suite du vote organisé lors de la réunion du 25 novembre 2025. L'arrêté est pris pour la nouvelle mandature et sera affiché un mois dans les mairies concernées.",
+    "type_acte": "NOMINATION",
+    "communes": [
+      "Maubeuge",
+      "Mairieux",
+      "Assevent",
+      "Boussois",
+      "Cerfontaine",
+      "Elesmes",
+      "Ferrière-la-Grande",
+      "Louvroil",
+      "Recquignies",
+      "Rousies"
+    ],
+    "mots_cles": [
+      "commission de suivi de site",
+      "incinération",
+      "Maubeuge",
+      "PAPREC Energies",
+      "préfecture du Nord"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral de prorogation portant déclaration d'utilité publique du projet de renouvellement urbain du secteur dit \"le petit bénéfice\" sur le territoire de la commune de Bray-Dunes",
+    "titre_complet": "Sous-préfecture de Dunkerque / 2026-10-26-00007 - Arrêté préfectoral de prorogation portant déclaration d'utilité publique du projet de renouvellement urbain du secteur dit \"le petit bénéfice\" sur le territoire de la commune de Bray-Dunes",
+    "page_debut": 111,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 3,
+    "titre_court": "Bray-Dunes : prorogée l'utilité publique du Petit Bénéfice",
+    "resume": "Le préfet du Nord prolonge de cinq ans, à compter du 26 octobre 2026, les effets de la déclaration d'utilité publique accordée en 2021 au projet de renouvellement urbain du secteur « Le Petit Bénéfice » à Bray-Dunes. Ce délai permet à la communauté urbaine de Dunkerque d'acquérir à l'amiable, ou si nécessaire par expropriation, les parcelles encore nécessaires à l'achèvement du projet. La prorogation est accordée car l'objet, le périmètre et les circonstances de l'opération n'ont pas changé de façon substantielle depuis l'enquête publique.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bray-Dunes"
+    ],
+    "mots_cles": [
+      "utilité publique",
+      "renouvellement urbain",
+      "Petit Bénéfice",
+      "expropriation",
+      "Communauté urbaine de Dunkerque"
+    ]
+  },
+  {
     "titre": "Arrêté prorogeant la dérogation à l'interdiction de destruction d'habitats d'espèces protégées et de spécimens protégés au bénéfice de la communauté d'agglomération du Boulonnais",
     "titre_complet": "Direction départementale des territoires et de la mer / Service de l'environnement 62-2026-09-17-00008 - Arrêté prorogeant la dérogation à l'interdiction de destruction d'habitats d'espèces protégées et de spécimens protégés au bénéfice de la communauté d'agglomération du Boulonnais",
     "page_debut": 11,
@@ -10011,6 +10179,55 @@
       "sous-préfecture de Lens",
       "permis de conduire",
       "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "Nomination Conciliateur Fiscal et adjoints 19 10 2026",
+    "titre_complet": "62-2026-10-19-00008 - Nomination Conciliateur Fiscal et adjoints 19 10 2026",
+    "page_debut": 6,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-10-19-00008\nNomination Conciliateur Fiscal et adjoints 19 10\n2026\nDirection départementale des finances publiques - 62-2026-10-19-00008 - Nomination Conciliateur Fiscal et adjoints 19 10 2026 6\nDirection générale\ndes Finances publiques\nDIRECTION DÉPARTEMENTALE\nDES FINANCES PUBLIQUES DU PAS-DE-CALAIS\n5 Rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nNomination et délégation de signature en matière de contentieux et gracieux fiscal\nConciliateur Fiscal Départemental\net Conciliateurs Fiscaux Départementaux Adjoints\nL'Administrateur de l’Etat, Directeur Départemental des Finances Publiques du Pas-de-Calais,\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son annexe\nIV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des finances\npubliques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des finances\npubliques ;\nVu le décret du 17 juillet 2023 portant intégration au titre du droit d’option de M. Jean-Marc LELEU en qualité\nd’Administrateur de l’État ;\nVu le décret du 25 juin 2024 portant nomination de M. Jean-Marc LELEU, Administrateur de l’État du grade\ntransitoire, en qualité de directeur départemental des finances publiques du Pas-de-Calais à compter du 15 juillet\n2024 ;\nVu l'arrêté préfectoral n° 2025-56-257 du 22 décembre 2025 accordant délégation de signature à M. Jean-Marc\nLELEU, Directeur Départemental des Finances Publiques du Pas-de-Calais ;\nDECIDE\nArticle 1er – Est désignée conciliateur fiscal départemental, Mme Marie-Pierre LE FLAO, Administratrice de l'Etat.\nArticle 2 – Sont désignés conciliateurs fiscaux départementaux adjoints, M. Guillaume FOUGNIES et M. Cédric\nDEFIVES, Administrateurs des Finances Publiques Adjoints, ainsi que Mme Audrey BOURNONVILLE et M. Eric\nDELATTRE, Inspecteurs principaux des Finances Publiques.\nArticle 3 - Délégation de signature est donnée à Mme Marie-Pierre LE FLAO, Administratrice de l'Etat, à l’effet de se\nprononcer sur les demandes des usagers tendant à la révision d'une décision prise par un service du département\ndans les limites et conditions suivantes :\n1° sans limitation de montant, pour les demandes contentieuses portant sur l'assiette des impôts ;\n2° sans limitation de montant, pour les demandes contentieuses de décharge de responsabilité solidaire\nfondées sur les dispositions du II de l’article 1691 bis du code général des impôts ;\n3° dans la limite de 200 000 €, en matière de gracieux fiscal d'assiette et de recouvrement ;\n4° dans la limite de 305 000 €, pour les demandes gracieuses de décharge de l’obligation de paiement solidaire\nfondées sur les dispositions de l’article L. 247 du livre des procédures fiscales ;\n5° sans limitation de montant, pour les contestations relatives au recouvrement prévues aux articles L. 281 et L.\n283 du livre des procédures fiscales ;\n6° sans limitation de montant, pour les décisions relatives aux demandes de plans de règlement.\nArticle 4 - Délégation de signature est donnée à M. Guillaume FOUGNIES et M. Cédric DEFIVES, Administrateurs\ndes Finances Publiques Adjoints ainsi qu’à Mme Audrey BOURNONVILLE et M. Eric DELATTRE, Inspecteurs\nprincipaux des Finances Publiques, à l’effet de se prononcer sur les demandes des usagers tendant à la révision\nd'une décision prise par un service du département dans les limites et conditions suivantes :\n1° sans limitation de montant, pour les demandes contentieuses portant sur l'assiette des impôts ;\n2° sans limitation de montant, pour les demandes contentieuses de décharge de responsabilité solidaire\nDirection départementale des finances publiques - 62-2026-10-19-00008 - Nomination Conciliateur Fiscal et adjoints 19 10 2026 7\nfondées sur les dispositions du II de l’article 1691 bis du code général des impôts ;\n3° dans la limite de 200 000 €, en matière de gracieux fiscal d'assiette et de recouvrement ;\n4° dans la limite de 305 000 €, pour les demandes gracieuses de décharge de l’obligation de paiement solidaire\nfondées sur les dispositions de l’article L. 247 du livre des procédures fiscales ;\n5° sans limitation de montant, pour les contestations relatives au recouvrement prévues aux articles L. 281 et L.\n283 du livre des procédures fiscales ;\n6° sans limitation de montant, pour les décisions relatives aux demandes de plans de règlement.\nArticle 5 – La présente décision abroge la décision de délégation de signature du 1er juillet 2026\nArticle 6 – La présente décision fera l'objet d'une publicité au recueil des actes administratifs du département du\nPas-de-Calais.\nFait à ARRAS, le 19 octobre 2026\nLe Directeur Départemental des Finances Publiques,\nSigné\nJean-Marc LELEU\nAdministrateur de l’Etat\nDirection départementale des finances publiques - 62-2026-10-19-00008 - Nomination Conciliateur Fiscal et adjoints 19 10 2026 8",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87782/549251/file/Recueil des actes administratifs n°335 en date du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Nomination d'un nouveau conciliateur fiscal dans le Pas-de-Calais",
+    "resume": "La direction départementale des finances publiques du Pas-de-Calais désigne Mme Marie-Pierre LE FLAO comme conciliatrice fiscale départementale, et quatre agents comme conciliateurs adjoints. Le texte leur délègue la possibilité de se prononcer sur des demandes de révision de décisions fiscales, selon des seuils de montant variables selon le type de demande. Il s'agit d'une mesure de organisation interne du service des finances publiques.",
+    "type_acte": "NOMINATION",
+    "communes": [],
+    "mots_cles": [
+      "conciliateur fiscal",
+      "Pas-de-Calais",
+      "finances publiques",
+      "délégation de signature",
+      "contentieux fiscal"
+    ]
+  },
+  {
+    "titre": "arrêté modification auto-école AFTRAL Jérôme Bidart Arras",
+    "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Béthune 62-2026-10-22-00003 - arrêté modification auto-école AFTRAL Jérôme Bidart Arras",
+    "page_debut": 19,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "Préfecture du Pas-de-Calais\n62-2026-10-22-00003\narrêté modification auto-école AFTRAL Jérôme\nBidart Arras\nPréfecture du Pas-de-Calais - 62-2026-10-22-00003 - arrêté modification auto-école AFTRAL Jérôme Bidart Arras 19\nSous-Préfecture de Béthune\nBureau de la vie citoyenne\nService Auto-école\nArrêté du 22 octobre 2026\nportant modification d’agrément d’exploitation d’un établissement\nd’enseignement, à titre onéreux de la conduite des véhicules à moteur\net de la sécurité routière – Commune d’Arras\nLe préfet du Pas-de-Calais\nVu le Code de la route, notamment son article R. 213-1 ;\nVu le décret n° 2010-146 du 16 février 2010 modifiant le décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs\ndes préfets, à l’organisation et à l’action des services de l’État dans les régions et départements ;\nVu le décret du 13 décembre 2023 portant nomination de Sébastien Bécoulet, en qualité de sous-préfet de\nBéthune ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch, préfet de l’Hérault, préfet du Pas-\nde-Calais ;\nVu l’arrêté n° 2026-11-79 du 28 septembre 2026 accordant délégation de signature à Sébastien Bécoulet, en\nqualité de sous-préfet de Béthune, ainsi qu’aux personnes placées sous son autorité ;\nVu l’arrêté ministériel n° 0100026A du 8 janvier 2001 modifié relatif à l’exploitation des établissements\nd’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière ;\nVu l’arrêté du 8 janvier 2001 créant un registre national de l’enseignement de la conduite des véhicules à moteur\net de la sécurité routière ;\nVu l’arrêté du 9 février 2026 relatif à l’enseignement de la conduite des véhicules à moteur et de la sécurité\nroutière ;\nVu l’arrêté du 20 septembre 2024 portant renouvellement d’agrément à Jérôme Bidart, à exploiter l’établissement\nd’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière dénommé\n« Auto-école AFTRAL » situé à Arras, Zone industrielle, rue Hans Geiger sous le n° E 16 062 0004 0 ;\nConsidérant la demande présentée par Jérôme Bidart en date du 22 octobre 2026 2026, relative à l’exploitation\nde son établissement d’enseignant de la conduite des véhicules à moteur et de la sécurité routière ;\nConsidérant que la demande remplit les conditions réglementaires ;\nSur proposition du sous-préfet de Béthune, en charge de la mission sur les auto-écoles ;\n181 Rue Gambetta\nCS 90719\n62407 BÉTHUNE CEDEX\nTél : 03 21 61 50 50\n1/2\nPréfecture du Pas-de-Calais - 62-2026-10-22-00003 - arrêté modification auto-école AFTRAL Jérôme Bidart Arras 20\nArrête\nArticle 1er : L’article 3 de l’arrêté susvisé est modifié ainsi qu’il suit : L’établissement est\nhabilité, au vu de l’autorisation d’enseigner fournie, à dispenser les formations aux\ncatégories de permis suivantes : B/B1 et A.A.C–BE– C1– C1E– C– CE–D1–D1E–D–DE.\nArticle 2 : Les autres articles de l’arrêté restent inchangés.\nArticle 3 : La modification résultant du présent arrêté sera enregistrée dans le registre\nnational de l’enseignement de la conduite des véhicules à moteur et de la sécurité\nroutière créé par l’arrêté du 8 janvier 2001 susvisé.\nArticle 4 : Le sous-préfet de Béthune est chargé de l’exécution du présent arrêté dont\nmention sera insérée au recueil des actes administratifs et notifié à Jérôme Bidart.\nÀ Béthune\nPour Le sous-préfet\net par délégation,\nle secrétaire général,\nJean-François Ral\nCopie :\n• au maire d’Arras;\n• au délégué à la sécurité routière ;\n• aux services fiscaux ;\n• aux services de police ;\n• aux services de gendarmerie.\nLe présent arrêté peut faire l’objet des voies de recours suivantes :\n– un recours gracieux à Monsieur le préfet du Pas-de-Calais, rue Ferdinand Buisson, Arras (62000)\n– un recours hiérarchique auprès du ministre de l’Intérieur. En l’absence de réponse de l’administration\ndans un délai de deux mois à compter de la date de réception de votre recours gracieux ou hiérarchique,\ncelui-ci doit être considéré comme implicitement rejeté.\n– un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-\nHilaire à Lille (59000), par lettre adressée directement au greffe ou au moyen de l’application\n« télérecours citoyen » accessible sur le site internet : www.telerecours.fr Le recours contentieux doit\nêtre déposé au plus tard avant l’expiration du délai de deux mois suivant la date de notification de la\nprésente décision ou la date du rejet du recours gracieux ou hiérarchique.\n2/2\nPréfecture du Pas-de-Calais - 62-2026-10-22-00003 - arrêté modification auto-école AFTRAL Jérôme Bidart Arras 21",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87782/549251/file/Recueil des actes administratifs n°335 en date du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Auto-école d'Arras autorisée pour davantage de permis",
+    "resume": "Le préfet du Pas-de-Calais modifie l'agrément de l'auto-école AFTRAL, à Arras, exploitée par Jérôme Bidart. L'établissement est désormais habilité, sous réserve de l'autorisation d'enseigner fournie, à dispenser des formations pour les catégories de permis B/B1, A, AAC, BE, C1, C1E, C, CE, D1, D1E, D et DE. Les autres dispositions de l'agrément restent inchangées.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Arras",
+      "Béthune"
+    ],
+    "mots_cles": [
+      "auto-école",
+      "permis de conduire",
+      "agrément",
+      "Arras",
+      "enseignement de la conduite"
     ]
   },
   {
@@ -13369,6 +13586,473 @@
     ]
   },
   {
+    "titre": "Arrêté portant agrément d'un organisme de services à la personne N°SAP1029081836 - EURL \"A comme accompagnement Métropole européenne de Lille\" (ACAMEL) à Lille",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-10-12-00017 - Arrêté portant agrément d'un organisme de services à la personne N°SAP1029081836 - EURL \"A comme accompagnement Métropole européenne de Lille\" (ACAMEL) à Lille",
+    "page_debut": 5,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "ACAMEL agréée pour les services à la personne",
+    "resume": "La préfecture du Nord a accordé à l'EURL « A Comme Accompagnement Métropole Européenne de Lille » (ACAMEL), dont le siège est à Lille, un agrément de services à la personne pour cinq ans à compter du 9 octobre 2026. Il couvre, dans le Nord, la garde d'enfants de moins de 3 ans ou de moins de 18 ans handicapés à domicile, l'accompagnement de ces enfants, l'assistance aux personnes âgées et aux personnes handicapées, ainsi que la conduite de véhicule et l'accompagnement de ces personnes dans leurs déplacements, en mode mandataire. Toute extension d'activité, de département ou de mode d'intervention devra faire l'objet d'une demande préalable.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "agrément",
+      "ACAMEL",
+      "Lille",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP793410283 - \"GCS2A\" à Lille",
+    "titre_complet": "2026-10-12-00019 - Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP793410283 - \"GCS2A\" à Lille",
+    "page_debut": 10,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Le GCS2A voit son agrément de services à la personne renouvelé",
+    "resume": "Le préfet du Nord renouvelle pour cinq ans, à compter du 12 septembre 2026, l'agrément du groupement de coopération sociale AFAD/ASEF, enseigne commerciale GCS2A, dont l'établissement principal est situé à Lille. L'agrément couvre la garde d'enfants de moins de 3 ans et de moins de 18 ans handicapés à domicile, ainsi que l'accompagnement de ces enfants, en mode d'intervention prestataire, dans le département du Nord. Toute modification d'activité, de mode d'intervention ou de département devra faire l'objet d'une demande préalable.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "agrément",
+      "GCS2A",
+      "garde d'enfants",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP479474736 - association \"Aide au quotidien\" à Maubeuge",
+    "titre_complet": "2026-10-21-00012 - Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP479474736 - association \"Aide au quotidien\" à Maubeuge",
+    "page_debut": 15,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Aide au quotidien : agrément renouvelé à Maubeuge",
+    "resume": "La préfecture du Nord a renouvelé pour cinq ans, à compter du 31 août 2026, l'agrément de l'association « Aide au quotidien », dont le siège est à Maubeuge. Cet agrément lui permet d'intervenir à domicile auprès des personnes âgées et handicapées, pour la garde et l'accompagnement d'enfants handicapés ainsi que pour la conduite de véhicules des personnes âgées ou handicapées, dans les départements 02 et 59. L'arrêté précise que cet agrément n'ouvre pas droit aux avantages fiscaux et sociaux que s'il respecte les conditions prévues par le code du travail.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Maubeuge"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "agrément",
+      "Aide au quotidien",
+      "Maubeuge",
+      "renouvellement"
+    ]
+  },
+  {
+    "titre": "Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP817651193 - EURL THOLES - \"Adénior Seclin Pont-à-Marcq\" à Seclin",
+    "titre_complet": "2026-10-21-00010 - Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP817651193 - EURL THOLES - \"Adénior Seclin Pont-à-Marcq\" à Seclin",
+    "page_debut": 20,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Un service d'aide à domicile agréé à Seclin",
+    "resume": "Le préfet du Nord a renouvelé pour cinq ans, à compter du 1er avril 2026, l'agrément de la société THOLES, qui exploite désormais le service sous l'enseigne « DESTIA SECLIN ». Son établissement principal est désormais situé 9 rue Maurice Bouchery à Seclin. L'agrément couvre la garde d'enfants et l'accompagnement d'enfants handicapés de moins de 18 ans, ainsi que l'assistance aux personnes âgées ou handicapées, la conduite de véhicule et l'accompagnement dans leurs déplacements, dans les départements du Nord et du Pas-de-Calais.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Seclin"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "agrément",
+      "aide à domicile",
+      "Seclin",
+      "DESTIA"
+    ]
+  },
+  {
+    "titre": "Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP880965405 - SASU \"Les héros de votre quotidien\" - réseau O2 à Armentières",
+    "titre_complet": "2026-10-12-00015 - Arrêté portant renouvellement d'agrément d'un organisme de services à la personne N°SAP880965405 - SASU \"Les héros de votre quotidien\" - réseau O2 à Armentières",
+    "page_debut": 25,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Renouvellement d'agrément pour une société de services à domicile d'Armentières",
+    "resume": "La préfecture du Nord renouvelle pour cinq ans, à compter du 15 septembre 2026, l'agrément de la SASU « Les Héros de votre Quotidien » (enseigne commerciale O2), dont le siège est situé à Armentières. Cet agrément couvre, en mode d'intervention prestataire dans le département du Nord, la garde d'enfants de moins de 3 ans et de moins de 18 ans handicapés à domicile, ainsi que leur accompagnement. Il ouvre droit à des avantages fiscaux et sociaux sous réserve que l'organisme n'exerce que les activités déclarées.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Armentières"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "agrément",
+      "garde d'enfants",
+      "Armentières",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Avenant 01 à l'arrêté de renouvellement d'agrément d'un organisme de services à la personne N°SAP883383465 - EURL LESKA à Villeneuve-d'Ascq",
+    "titre_complet": "2026-10-21-00013 - Avenant 01 à l'arrêté de renouvellement d'agrément d'un organisme de services à la personne N°SAP883383465 - EURL LESKA à Villeneuve-d'Ascq",
+    "page_debut": 30,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Changement d'adresse pour un service à la personne à Villeneuve-d'Ascq",
+    "resume": "Par un avenant, le préfet du Nord prend acte du transfert de l'établissement principal de l'EURL LESKA, enseigne « Apache services Villeneuve d'Ascq », agréée pour les services à la personne. La nouvelle adresse est 150 rue du 8 mai 1945 à Villeneuve-d'Ascq, à compter du 7 juillet 2026. Les autres dispositions de l'agrément délivré le 13 octobre 2025 restent inchangées.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Villeneuve-d'Ascq",
+      "Hem"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "agrément",
+      "Villeneuve-d'Ascq",
+      "changement d'adresse",
+      "EURL LESKA"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP103456208 - POULAIN Isabelle à Villers-Pol",
+    "titre_complet": "2026-10-22-00007 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP103456208 - POULAIN Isabelle à Villers-Pol",
+    "page_debut": 33,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Une entreprise de services à la personne déclarée à Villers-Pol",
+    "resume": "La préfecture du Nord, via la DDETS, enregistre la déclaration d'activité de services à la personne de l'entreprise individuelle Magilogis, dirigée par Isabelle Poulain et établie à Villers-Pol. Elle lui attribue le numéro SAP103456208 pour trois activités : entretien de la maison et travaux ménagers, petits travaux de jardinage et petit bricolage. Les effets de la déclaration courent à compter du 7 octobre 2026, avec un droit aux avantages prévus par le code du travail et le code de la sécurité sociale, sous réserve de l'exercice exclusif des activités ou d'une comptabilité séparée.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Villers-Pol"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "Magilogis",
+      "Villers-Pol",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP877995027 - BRIE Alison à Damousies",
+    "titre_complet": "2026-10-22-00008 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP877995027 - BRIE Alison à Damousies",
+    "page_debut": 42,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Une entreprise de ménage enregistrée à Damousies",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Nord a délivré un récépissé d'enregistrement à l'entreprise individuelle de Mme Alison Brie, exploitée sous l'enseigne « M.Cleaneusse » à Damousies. Cet enregistrement, effectif depuis le dépôt de la déclaration le 29 septembre 2026, porte sur l'activité d'entretien de la maison et de travaux ménagers en mode prestataire. Il ouvre droit aux avantages fiscaux et sociaux prévus par le code du travail et le code de la sécurité sociale, sous réserve d'être exercé à titre exclusif ou avec une comptabilité séparée.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Damousies",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "récépissé de déclaration",
+      "entretien ménager",
+      "Damousies",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration modificative N°01 d'un organisme de services à la personne enregistré sous le N°SAP102908183 - EURL \"A comme accompagnement Métropole européenne de Lille\" (ACAMEL) à Lille",
+    "titre_complet": "2026-10-12-00018 - Récépissé de déclaration modificative N°01 d'un organisme de services à la personne enregistré sous le N°SAP102908183 - EURL \"A comme accompagnement Métropole européenne de Lille\" (ACAMEL) à Lille",
+    "page_debut": 45,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Un service à la personne lillois fait enregistrer ses activités",
+    "resume": "La DDETS du Nord a délivré un récépissé de déclaration modificative à l'EURL ACAMEL, organisme de services à la personne installé à Lille, à la suite de sa demande déposée le 29 juillet 2026. Le document liste les activités déclarées, dont plusieurs services à domicile ouverts à l'échelle nationale et d'autres soumis à agrément dans le Nord, avec effet au 9 octobre 2026, date de l'agrément. Il s'agit d'un acte d'enregistrement administratif sans restriction ni interdiction particulière.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lille",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration modificative",
+      "agrément",
+      "ACAMEL",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration modificative N°03 d'un organisme de services à la personne enregistré sous le N°SAP793410283 - \"GCS2A\" à Lille",
+    "titre_complet": "2026-10-12-00020 - Récépissé de déclaration modificative N°03 d'un organisme de services à la personne enregistré sous le N°SAP793410283 - \"GCS2A\" à Lille",
+    "page_debut": 50,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "GCS2A de Lille actualise ses services à domicile",
+    "resume": "La préfecture du Nord a enregistré la troisième déclaration modificative du Groupement de coopération sociale AFAD/ASEF, exploité sous l'enseigne GCS2A et basé à Lille, qui intervient dans les services à la personne. Les activités déclarées couvrent notamment la garde d'enfants de plus de 3 ans, le soutien scolaire, l'entretien de la maison, la préparation de repas et l'assistance administrative à domicile, sur l'ensemble du territoire national. Dans le Nord, la garde et l'accompagnement d'enfants handicapés de moins de 18 ans restent soumis à agrément, dont le renouvellement a été accordé pour cinq ans à compter du 12/09/2026.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lille",
+      "Valenciennes",
+      "Paris"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "GCS2A",
+      "déclaration modificative",
+      "agrément",
+      "Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration modificative N°03 d'un organisme de services à la personne enregistré sous le N°SAP880965405 - SASU \"Les héros de votre quotidien\" - réseau O2 à Armentières",
+    "titre_complet": "2 2026-10-12-00016 - Récépissé de déclaration modificative N°03 d'un organisme de services à la personne enregistré sous le N°SAP880965405 - SASU \"Les héros de votre quotidien\" - réseau O2 à Armentières",
+    "page_debut": 55,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Une entreprise de services à domicile enregistrée à Armentières",
+    "resume": "La préfecture du Nord a enregistré une déclaration modificative de la SASU « Les héros de votre quotidien » (enseigne O2), organisme de services à la personne dont l'établissement principal est situé à Armentières. Cette déclaration, déposée le 5 février 2026, porte sur la liste des activités exercées, dont la garde d'enfants, le soutien scolaire, l'entretien de la maison, la préparation de repas ou la livraison de courses à domicile. Les effets de la déclaration courent à compter du 15 septembre 2026, date d'effet du renouvellement d'agrément.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Armentières",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration modificative",
+      "Armentières",
+      "agrément",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration modificative N°04 d'un organisme de services à la personne enregistré sous le N°SAP817651193 - EURL THOLES - \"Destia Seclin\" à Seclin",
+    "titre_complet": "2026-10-21-00011 - Récépissé de déclaration modificative N°04 d'un organisme de services à la personne enregistré sous le N°SAP817651193 - EURL THOLES - \"Destia Seclin\" à Seclin",
+    "page_debut": 60,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Destia Seclin, nouvelle enseigne de services à domicile",
+    "resume": "La préfecture du Nord a enregistré une déclaration modificative pour l'EURL Tholes, qui exerce désormais sous l'enseigne « Destia Seclin ». Son établissement principal est situé 9 rue Maurice Bouchery à Seclin, et ses effets courent à compter du 1er avril 2026. L'acte liste les services à la personne déclarés, avec une portée nationale, ainsi que des activités agréées dans les départements du Nord et du Pas-de-Calais.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Seclin",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "Destia Seclin",
+      "agrément",
+      "Seclin",
+      "déclaration modificative"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration modificative N°06 d'un organisme de services à la personne enregistré sous le N°SAP883383465 - EURL LESKA à Villeneuve-d'Ascq",
+    "titre_complet": "2026-10-21-00014 - Récépissé de déclaration modificative N°06 d'un organisme de services à la personne enregistré sous le N°SAP883383465 - EURL LESKA à Villeneuve-d'Ascq",
+    "page_debut": 65,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Changement d'adresse pour un organisme d'aide à domicile",
+    "resume": "La préfecture du Nord prend acte d'une déclaration modificative déposée par l'EURL LESKA, enseigne « Apache services Villeneuve d'Ascq », enregistrée comme organisme de services à la personne. Suite au déménagement de son établissement principal, l'adresse de la structure est désormais au 150 rue du 8 mai 1945 à Villeneuve-d'Ascq, avec effet au 7 juillet 2026. Les autres dispositions du récépissé initial restent inchangées.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Villeneuve-d'Ascq"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration modificative",
+      "changement d'adresse",
+      "EURL LESKA",
+      "Villeneuve-d'Ascq"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral modifiant la composition des membres du conseil départemental de l'environnement et des risques sanitaires et technologiques (CODERST)",
+    "titre_complet": "Préfecture du Nord / Direction de la coordination des politiques interministérielles 2026-10-27-00004 - Arrêté préfectoral modifiant la composition des membres du conseil départemental de l'environnement et des risques sanitaires et technologiques (CODERST)",
+    "page_debut": 71,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Nouveaux élus municipaux nommés au CODERST du Nord",
+    "resume": "Le préfet du Nord modifie la liste des membres du conseil départemental de l'environnement et des risques sanitaires et technologiques (CODERST). Quatre élus de l'Association des maires du Nord et deux de l'Association des maires ruraux du Nord sont désignés, titulaires ou suppléants, en remplacement ou en complément des désignations antérieures. Les autres représentants restent inchangés.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Saint-Vaast-en-Cambrésis",
+      "Saint-Souplet",
+      "Ghyvelde",
+      "Lecelles",
+      "Mazinghien",
+      "Avelin"
+    ],
+    "mots_cles": [
+      "CODERST",
+      "Nord",
+      "préfecture",
+      "maires",
+      "environnement"
+    ]
+  },
+  {
+    "titre": "Arrêté n°EAD/59-2026-05 portant renouvellement d'agrément en tant qu'installateur de dispositifs d'anti-démarrage par éthylotest électronique - AAPNC à Bondues",
+    "titre_complet": "Préfecture du Nord / Direction de la réglementation et de la citoyenneté 2026-10-26-00002 - Arrêté n°EAD/59-2026-05 portant renouvellement d'agrément en tant qu'installateur de dispositifs d'anti-démarrage par éthylotest électronique - AAPNC à Bondues",
+    "page_debut": 74,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Bondues : agrément renouvelé pour installer des éthylotests anti-démarrage",
+    "resume": "La préfecture du Nord renouvelle pour cinq ans, à compter du 1er décembre 2026, l'agrément de l'établissement avenue de Rotterdam à Bondues, exploité par la société Groupe Alliance Automotive Paris Nord Centre, pour installer des éthylotests anti-démarrage dans les véhicules. Le renouvellement peut être suspendu ou retiré si l'établissement n'a plus au moins un collaborateur formé n'ayant pas de condamnation définitive figurant au bulletin n°2 de son casier judiciaire pour certaines infractions, ou si le demandeur ne peut plus fournir les pièces requises.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bondues"
+    ],
+    "mots_cles": [
+      "éthylotest anti-démarrage",
+      "agrément",
+      "installateur",
+      "Bondues",
+      "sécurité routière"
+    ]
+  },
+  {
+    "titre": "Arrêté n°EAD/59-2026-06 portant renouvellement d'agrément en tant qu'installateur de dispositifs d'anti-démarrage par éthylotest électronique - AAPNC à Lomme",
+    "titre_complet": "2026-10-26-00003 - Arrêté n°EAD/59-2026-06 portant renouvellement d'agrément en tant qu'installateur de dispositifs d'anti-démarrage par éthylotest électronique - AAPNC à Lomme",
+    "page_debut": 78,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Un garage de Lomme agréé pour les éthylotests antidémarrage",
+    "resume": "Le préfet du Nord renouvelle pour cinq ans, à compter du 1er décembre 2026, l'agrément de l'établissement Groupe Alliance Automotive Paris Nord Centre situé avenue de la Rotonde à Lomme. Cet agrément autorise l'entreprise à installer des éthylotests électroniques antidémarrage, dispositifs imposés à certains conducteurs condamnés pour conduite sous l'influence de l'alcool. Il peut être suspendu ou retiré notamment si l'établissement n'emploie plus de collaborateur formé à cette installation répondant aux conditions prévues par le texte.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lomme"
+    ],
+    "mots_cles": [
+      "éthylotest antidémarrage",
+      "agrément installateur",
+      "Lomme",
+      "sécurité routière",
+      "préfecture du Nord"
+    ]
+  },
+  {
+    "titre": "Arrêté n°EAD/59-2026-07 portant renouvellement d'agrément en tant qu'installateur de dispositifs d'anti-démarrage par éthylotest électronique - AAPNC à Neuville-Saint-Rémy",
+    "titre_complet": "2026-10-26-00004 - Arrêté n°EAD/59-2026-07 portant renouvellement d'agrément en tant qu'installateur de dispositifs d'anti-démarrage par éthylotest électronique - AAPNC à Neuville-Saint-Rémy",
+    "page_debut": 82,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Renouvellement d'agrément pour un installateur d'éthylotests à Neuville-Saint-Rémy",
+    "resume": "Le préfet du Nord renouvelle, pour cinq ans à compter du 1er décembre 2026, l'agrément de l'établissement du groupe Alliance Automotive Paris Nord Centre, situé zone artisanale La Vallée à Neuville-Saint-Rémy, pour installer des dispositifs d'anti-démarrage par éthylotest électronique dans les véhicules. L'agrément peut être suspendu ou retiré si l'établissement ne dispose plus d'au moins un collaborateur formé à cette installation, ou si le demandeur ne peut plus justifier les pièces du dossier.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Neuville-Saint-Rémy"
+    ],
+    "mots_cles": [
+      "éthylotest électronique",
+      "anti-démarrage",
+      "agrément",
+      "Neuville-Saint-Rémy",
+      "Préfecture du Nord"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant renouvellement de l'habilitation dans le domaine funéraire - OGF à Onnaing",
+    "titre_complet": "2026-10-27-00003 - Arrêté préfectoral portant renouvellement de l'habilitation dans le domaine funéraire - OGF à Onnaing",
+    "page_debut": 86,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 2,
+    "titre_court": "Les pompes funèbres OGF d'Onnaing habilitées jusqu'en 2031",
+    "resume": "La préfecture du Nord renouvelle l'habilitation dans le domaine funéraire de l'établissement « pompes funèbres générales » situé 296, rue Jean Jaurès à Onnaing, exploité par la SAS OGF services funéraires. Valable du 5 novembre 2026 au 5 novembre 2031, elle autorise notamment le transport de corps avant et après mise en bière, l'organisation des obsèques, la fourniture de cercueils, de corbillards et de personnel, les soins de conservation étant confiés à un sous-traitant.",
+    "type_acte": "HABILITATION",
+    "communes": [
+      "Onnaing",
+      "Courbevoie",
+      "Asnières-sur-Seine",
+      "Paris",
+      "Lille"
+    ],
+    "mots_cles": [
+      "habilitation funéraire",
+      "pompes funèbres",
+      "Onnaing",
+      "OGF",
+      "renouvellement"
+    ]
+  },
+  {
     "titre": "Arrêté n° 2026-10-85 accordant délégation de signature à Thierry Laurent, préfet délégué chargé de la résilience inondations et des politiques de l'eau",
     "titre_complet": "Préfecture du Pas-de-Calais / Direction de la coordination des politiques publiques et de l'appui territorial 62-2026-09-28-00015 - Arrêté n° 2026-10-85 accordant délégation de signature à Thierry Laurent, préfet délégué chargé de la résilience inondations et des politiques de l'eau",
     "page_debut": 4,
@@ -14921,6 +15605,29 @@
       "Pas-de-Calais",
       "finances publiques",
       "missions fiscales"
+    ]
+  },
+  {
+    "titre": "DS Ctx-gracieux fiscal 19 10 2026",
+    "titre_complet": "Direction départementale des finances publiques / 62-2026-10-19-00007 - DS Ctx-gracieux fiscal 19 10 2026",
+    "page_debut": 3,
+    "nb_pages": 3,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-10-19-00007\nDS Ctx-gracieux fiscal 19 10 2026\nDirection départementale des finances publiques - 62-2026-10-19-00007 - DS Ctx-gracieux fiscal 19 10 2026 3\nDirection générale\ndes Finances publiques\nDIRECTION DÉPARTEMENTALE\nDES FINANCES PUBLIQUES DU PAS-DE-CALAIS\n5 Rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDELEGATION DE SIGNATURE EN MATIERE DE\nCONTENTIEUX ET DE GRACIEUX FISCAL\nL’Administrateur de l’Etat, Directeur Départemental des Finances Publiques du Pas-de-Calais ;\nVu le code général des impôts, et notamment l'article 408 de son annexe II et les articles 212 à 217 de son annexe\nIV ;\nVu le livre des procédures fiscales, et notamment les articles L. 247 et R* 247-4 et suivants ;\nVu le décret n° 2008-309 du 3 avril 2008 portant diverses dispositions relatives à la direction générale des finances\npubliques ;\nVu le décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des finances\npubliques ;\nDECIDE\nArticle 1er – Délégation de signature est donnée à M. Marc BORREDON, Mmes Christine LAFONT et Marie-Pierre LE\nFLAO , Administrateurs de l’État, à l’effet de signer :\n1° en matière de contentieux fiscal d’assiette, les décisions d'admission totale, d'admission partielle ou de\nrejet, de dégrèvement ou restitution d'office, sans limitation de montant ;\n2° les décisions prises sur les demandes de dégrèvement de taxe foncière pour pertes de récoltes, les\ndemandes de plafonnement en fonction de la valeur ajoutée des cotisations de taxe professionnelle et de\ncontribution économique territoriale et de remboursement de crédit de taxe sur la valeur ajoutée, sans\nlimitation de montant ;\n3° les décisions prises sur les demandes contentieuses de décharge de responsabilité solidaire fondées sur les\ndispositions du II de l’article 1691 bis du code général des impôts, sans limitation de montant ;\n4° en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet, dans la limite\nde 200 000 € ;\n5° les décisions prises sur les demandes gracieuses de décharge de l’obligation de paiement solidaire fondées\nsur les dispositions de l’article L. 247 du livre des procédures fiscales, dans la limite de 305 000 € ;\n6° les décisions prises sur les contestations relatives au recouvrement prévues aux articles L. 281 et L. 283 du\nlivre des procédures fiscales ;\n7° les décisions prises sur les demandes de prorogation de délai prévues à l'article 1594-0G du code général des\nimpôts ;\n8° les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses, sans\nlimitation de montant ;\n9° les requêtes, mémoires, conclusions ou observations adressés aux juridictions administratives ou judiciaires.\nArticle 2 – Délégation de signature est donnée à MM. Yves HELLION et Guillaume FOUGNIES, Administrateurs des\nFinances Publiques Adjoints, à l’effet de signer :\n1° en matière de contentieux fiscal d’assiette, les décisions d'admission totale, d'admission partielle, de\ndégrèvement ou restitution d'office et les décisions de rejet, dans la limite de 150 000 € ;\n2° les décisions prises sur les demandes de dégrèvement de taxe foncière pour pertes de récoltes, les\ndemandes de plafonnement en fonction de la valeur ajoutée des cotisations de taxe professionnelle et de\ncontribution économique territoriale, sans limitation de montant ;\n3° les remboursements de crédit de taxe sur la valeur ajoutée, dans la limite de 1 000 000 €;\n4° les décisions prises sur les demandes contentieuses de décharge de responsabilité solidaire fondées sur les\ndispositions du II de l’article 1691 bis du code général des impôts, dans la limite de 150 000 € ;\n5° en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet, dans la limite\nde 150 000 € ;\nDirection départementale des finances publiques - 62-2026-10-19-00007 - DS Ctx-gracieux fiscal 19 10 2026 4\n6° les décisions prises sur les demandes gracieuses de décharge de l’obligation de paiement solidaire fondées\nsur les dispositions de l’article L. 247 du livre des procédures fiscales, dans la limite de 150 000 € ;\n7° les décisions prises sur les contestations relatives au recouvrement prévues aux articles L. 281 et L. 283 du\nlivre des procédures fiscales ;\n8° les décisions prises sur les demandes de prorogation de délai prévues à l'article 1594-0G du code général des\nimpôts ;\n9° les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses, sans\nlimitation de montant ;\n10° les requêtes, mémoires, conclusions ou observations adressés aux juridictions administratives ou judiciaires.\nArticle 3 – Délégation de signature est donnée à Mmes Magali CAHU et Audrey BOURNONVILLE, MM. Eric\nDELATTRE, Didier GROB, Sylvain LUCAS et Fabien MOSSE, Inspecteurs principaux, à l’effet de signer :\n1° en matière de contentieux fiscal d’assiette, les décisions d'admission totale, d'admission partielle, de\ndégrèvement ou restitution d'office et les décisions de rejet, dans la limite de 150 000 € ;\n2° les décisions prises sur les demandes de dégrèvement de taxe foncière pour pertes de récoltes, les\ndemandes de plafonnement en fonction de la valeur ajoutée des cotisations de taxe professionnelle et de\ncontribution économique territoriale, sans limitation de montant ;\n3° les remboursements de crédit de taxe sur la valeur ajoutée, dans la limite de 1 000 000 € ;\n4° les décisions prises sur les demandes contentieuses de décharge de responsabilité solidaire fondées sur les\ndispositions du II de l’article 1691 bis du code général des impôts, dans la limite de 150 000 € ;\n5° en matière de gracieux fiscal, les décisions portant remise, modération, transaction ou rejet, dans la limite\nde 150 000 € ;\n6° les décisions prises sur les demandes gracieuses de décharge de l’obligation de paiement solidaire fondées\nsur les dispositions de l’article L. 247 du livre des procédures fiscales, dans la limite de 150 000 € ;\n7° les décisions prises sur les contestations relatives au recouvrement prévues aux articles L. 281 et L. 283 du\nlivre des procédures fiscales ;\n8° les décisions prises sur les demandes de prorogation de délai prévues à l'article 1594-0G du code général des\nimpôts ;\n9° les documents nécessaires à l'exécution comptable des décisions contentieuses et gracieuses, sans\nlimitation de montant ;\n10° les requêtes, mémoires, conclusions ou observations adressés aux juridictions administratives ou judiciaires.\nArticle 4 – La présente décision abroge la décision de délégation du 1er juillet 2026.\nArticle 5 – La présente décision sera publiée au recueil des actes administratifs du département du Pas-de-Calais.\nFait à ARRAS, le 19 octobre 2026\nLe Directeur Départemental des Finances Publiques,\nSigné\nJean-Marc LELEU\nAdministrateur de l’Etat\nDirection départementale des finances publiques - 62-2026-10-19-00007 - DS Ctx-gracieux fiscal 19 10 2026 5",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87782/549251/file/Recueil des actes administratifs n°335 en date du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 1,
+    "titre_court": "Délégation de signature en matière fiscale dans le Pas-de-Calais",
+    "resume": "La Direction départementale des finances publiques du Pas-de-Calais délègue à plusieurs administrateurs le pouvoir de signer certaines décisions fiscales, notamment sur les demandes contentieuses et gracieuses. Chaque délégué reçoit des plafonds de montant différents selon les types de décisions. Il s'agit d'un acte de gestion interne de l'administration fiscale.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [],
+    "mots_cles": [
+      "délégation de signature",
+      "fiscalité",
+      "gracieux fiscal",
+      "Pas-de-Calais",
+      "finances publiques"
     ]
   },
   {
@@ -19488,6 +20195,80 @@
       "garde d'enfants",
       "entretien ménager",
       "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP108759382 - LACQUEMENT Emilie à Valenciennes",
+    "titre_complet": "2026-10-26-00005 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP108759382 - LACQUEMENT Emilie à Valenciennes",
+    "page_debut": 36,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 1,
+    "titre_court": "Aidélya SAP déclarée pour le ménage à Valenciennes",
+    "resume": "La préfecture du Nord, via la DDETS, a délivré un récépissé de déclaration de services à la personne à l'entreprise individuelle AIDÉLYA SAP, exploitée par Emilie Lacquement et installée à Valenciennes. La déclaration porte sur l'entretien de la maison et les travaux ménagers, en mode prestataire, et prend effet le 13/10/2026. Toute modification des activités devra faire l'objet d'une déclaration modificative préalable.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration SAP",
+      "entretien ménager",
+      "Valenciennes",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP752851501 - CROCFER Lydie à Noyelles-sur-Sambre",
+    "titre_complet": "2026-10-22-00006 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP752851501 - CROCFER Lydie à Noyelles-sur-Sambre",
+    "page_debut": 39,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 1,
+    "titre_court": "Une entreprise de ménage enregistrée à Noyelles-sur-Sambre",
+    "resume": "La DDETS du Nord enregistre la déclaration d'activité de services à la personne de l'entreprise individuelle CROCFER Lydie, exploitée sous l'enseigne « La Fée Nettoyante » au 92 Grand Rue à Noyelles-sur-Sambre. Le récépissé porte sur l'activité d'entretien de la maison et de travaux ménagers en mode prestataire, avec effet au 08/10/2026. Il n'est pas limité dans le temps et a une portée nationale.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Noyelles-sur-Sambre",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "entretien ménager",
+      "déclaration SAP",
+      "Noyelles-sur-Sambre",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral relatif au remplacement d'un membre de la commission départementale des risques naturels majeurs du Nord modifiant l'arrêté préfectoral du 20 novembre 2025 portant renouvellement des membres de cette commission",
+    "titre_complet": "Préfecture du Nord / 2026-10-26-00006 - Arrêté préfectoral relatif au remplacement d'un membre de la commission départementale des risques naturels majeurs du Nord modifiant l'arrêté préfectoral du 20 novembre 2025 portant renouvellement des membres de cette commission",
+    "page_debut": 68,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108601/760771/file/Recueil n°414 du 27 octobre 2026.pdf",
+    "date_recueil": "2026-10-27",
+    "score": 1,
+    "titre_court": "Un paysagiste-conseil remplace Isabelle Schmit à la commission des risques",
+    "resume": "La préfecture du Nord remplace, au sein de la commission départementale des risques naturels majeurs, Mme Isabelle Schmit, qui a quitté ses fonctions de paysagiste-conseil de l'État dans le département, par M. Mathieu Hennebicq, paysagiste-conseil de l'État, en qualité de personnalité qualifiée. Cet arrêté modifie celui du 20 novembre 2025 portant renouvellement des membres de cette commission consultative.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [],
+    "mots_cles": [
+      "commission départementale des risques naturels majeurs",
+      "Nord",
+      "préfecture",
+      "paysagiste-conseil",
+      "personnalité qualifiée"
     ]
   },
   {
