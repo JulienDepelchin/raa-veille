@@ -478,6 +478,61 @@
     ]
   },
   {
+    "titre": "Arrêté préfectoral portant interdiction de paraître pour les mineurs non accompagnés dans certains périmètres délimités dans des communes du département du Nord",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-30-00008 - Arrêté préfectoral portant interdiction de paraître pour les mineurs non accompagnés dans certains périmètres délimités dans des communes du département du Nord",
+    "page_debut": 3,
+    "nb_pages": 12,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108668/761176/file/recueil-2026-421-recueil-des-actes-administratifs-special.pdf",
+    "date_recueil": null,
+    "score": 5,
+    "titre_court": "Halloween : mineurs non accompagnés interdits de se déplacer",
+    "resume": "Le préfet du Nord interdit aux mineurs non accompagnés d'un adulte responsable de se déplacer dans des périmètres délimités de six communes du département, pendant deux créneaux : du vendredi 30 octobre 2026 à 21h au samedi 31 octobre à 6h, puis du samedi 31 octobre à 20h au dimanche 1er novembre à 6h. Cette mesure fait suite aux violences survenues après les manifestations du 17 octobre et aux appels à rassemblement circulant pour la nuit d'Halloween. Les périmètres détaillés figurant dans les pages jointes concernent Douai, Denain et Wattignies.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille",
+      "Wattignies",
+      "Denain",
+      "Douai",
+      "Marly",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "mineurs non accompagnés",
+      "interdiction de déplacement",
+      "périmètres",
+      "ordre public",
+      "Halloween"
+    ]
+  },
+  {
+    "titre": "Arrêté portant interdiction des manifestations à caractère revendicatif et attroupements à Lille",
+    "titre_complet": "2026-10-30-00007 - Arrêté portant interdiction des manifestations à caractère revendicatif et attroupements à Lille",
+    "page_debut": 15,
+    "nb_pages": 6,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108668/761176/file/recueil-2026-421-recueil-des-actes-administratifs-special.pdf",
+    "date_recueil": null,
+    "score": 5,
+    "titre_court": "Lille : interdiction des manifestations et attroupements ce week-end",
+    "resume": "Le préfet du Nord interdit, du samedi 31 octobre 2026 à 6h00 au dimanche 1er novembre 2026 à 8h00, tous les attroupements et manifestations à caractère revendicatif dans un périmètre délimité du centre-ville de Lille (annexe 1). Cette mesure fait suite à des violences, pillages et dégradations survenus les 17, 18 et 24 octobre, ainsi qu'à des appels relayés sur les réseaux sociaux à se rassembler dans le cadre de la nuit d'Halloween. Toute infraction sera sanctionnée selon l'article 431-9 du code pénal.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "manifestations",
+      "interdiction",
+      "Lille",
+      "ordre public",
+      "attroupements"
+    ]
+  },
+  {
     "titre": "Arrêté préfectoral d'urgence portant adaptation temporaire des prescriptions de l'installation d'incinération exploitée par la société CALLERGIE sur la commune de Noyelles-sous-Lens aux fins de traitement de sous-produits animaux suite aux surmortalités en élevages liées à une vague de chaleur",
     "titre_complet": "Préfecture du Pas-de-Calais / Direction des sécurités 62-2026-06-27-00002 - Arrêté préfectoral d'urgence portant adaptation temporaire des prescriptions de l'installation d'incinération exploitée par la société CALLERGIE sur la commune de Noyelles-sous-Lens aux fins de traitement de sous-produits animaux suite aux surmortalités en élevages liées à une vague de chaleur",
     "page_debut": 3,
@@ -1615,6 +1670,29 @@
       "inspection des bagages",
       "palpations de sécurité",
       "sécurité publique"
+    ]
+  },
+  {
+    "titre": "Arrêté n°CAB-SIDPC-2026-34 Arrêté portant approbation des dispositions spécifiques ORSEC Inondations du Pas-de-Calais",
+    "titre_complet": "Préfecture du Pas-de-Calais / Direction des sécurités 62-2026-11-19-00001 - Arrêté n°CAB-SIDPC-2026-34 Arrêté portant approbation des dispositions spécifiques ORSEC Inondations du Pas-de-Calais",
+    "page_debut": 3,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88035/550652/file/Recueil des actes administratifs n°365 en date du 19 novembre 2026.pdf",
+    "date_recueil": "2026-11-19",
+    "score": 4,
+    "titre_court": "Inondations : un plan ORSEC spécifique approuvé en Pas-de-Calais",
+    "resume": "Le préfet du Pas-de-Calais a approuvé par arrêté du 19 novembre 2026 des dispositions spécifiques ORSEC pour les inondations, applicables à compter de ce jour et intégrées au dispositif départemental ORSEC. Le document détaillant ces dispositions n'est pas publié, en raison de la sensibilité des informations qu'il contient. Le texte est chargé d'application par le directeur de cabinet du préfet, les sous-préfets et les responsables des services concernés.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [],
+    "mots_cles": [
+      "ORSEC",
+      "inondations",
+      "sécurité civile",
+      "Pas-de-Calais",
+      "préfecture"
     ]
   },
   {
@@ -5351,74 +5429,54 @@
     ]
   },
   {
-    "titre": "Arrêté préfectoral relatif à la mise en oeuvre du fond de réarmement agricole",
-    "titre_complet": "Direction départementale des territoires et de la mer / Service de l'économie agricole 62-2026-10-19-00001 - Arrêté préfectoral relatif à la mise en oeuvre du fond de réarmement agricole",
+    "titre": "Arrêté autorisant les contrôles et les palpations de sécurité par les effectifs de la SUGE sur l'ensemble des gares du département du Nord du samedi 31 octobre 2026 au jeudi 5 novembre 2026",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-30-00010 - Arrêté autorisant les contrôles et les palpations de sécurité par les effectifs de la SUGE sur l'ensemble des gares du département du Nord du samedi 31 octobre 2026 au jeudi 5 novembre 2026",
     "page_debut": 3,
-    "nb_pages": 5,
-    "mode": "texte",
-    "texte": "Direction départementale des territoires et de la\nmer\n62-2026-10-19-00001\nArrêté préfectoral relatif à la mise en oeuvre du\nfond de réarmement agricole\nDirection départementale des territoires et de la mer - 62-2026-10-19-00001 - Arrêté préfectoral relatif à la mise en oeuvre du fond de 3\nréarmement agricole\nDirection départementale des\nterritoires et de la mer\nService de l’économie agricole\nArrêté du 19 octobre 2026 relatif à la mise en œuvre du fonds de réarmement agricole\nLe préfet du Pas-de-Calais,\nVu le Règlement (UE) n°1408/2013 de la Commission du 18 décembre 2013 relatif à l’application des\narticles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides « de minimis » dans\nle secteur de l’agriculture, modifié par le règlement (UE) n° 2025/1989 de la Commission du 2 octobre\n2025 ;\nVu la loi organique n° 2001-692 du 1er août 2001 modifiée, relative aux lois de finances ;\nVu le décret n° 2012-1246 du 7 novembre 2012 modifié, relatif à la gestion budgétaire et comptable\npublique ;\nVu le décret n° 2025-723 du 30 juillet 2025 modifiant le décret n° 2004-374 du 29 avril 2004 relatif aux\npouvoirs des préfets, à l'organisation et à l'action des services de l'État dans les régions et les\ndépartements ;\nVu le décret du 02 décembre 2025 portant nomination de François-Xavier Lauch, en qualité de préfet\ndu Pas-de-Calais ;\nVu l’instruction du Gouvernement du 18 septembre 2026 relative à la mise en œuvre du fonds de\nréarmement agricole visant à soutenir les exploitations agricoles les plus fragilisées après avoir subi de\nlourdes pertes économiques en raison des épisodes de canicule et de sécheresse du printemps et de\nl’été 2026 ;\nConsidérant que l’enveloppe départementale dédiée au fonds de réarmement agricole s’élève à\n1 901 173 € pour le Pas-de-Calais ;\nSur proposition du directeur départemental adjoint des territoires et de la mer ;\nRue Ferdinand Buisson\n62020 ARRAS Cedex 9\nTel : 03 21 21 20 00\n1 / 4\nDirection départementale des territoires et de la mer - 62-2026-10-19-00001 - Arrêté préfectoral relatif à la mise en oeuvre du fond de 4\nréarmement agricole\nArrête\nArticle 1er : Critères d’éligibilité :\nLe dispositif est ouvert aux exploitations qui ont subi des pertes de production\nsubstantielles liées à la canicule ou la sécheresse ou qui doivent faire face à des\ndépenses imprévues et exceptionnelles liées aux conséquences de la sécheresse.\nL’aide est destinée aux 4 catégories d’exploitations suivantes :\n- Exploitations d’élevage d’herbivores ayant au moins 60 % de surface fourragère\nprincipale sur leur surface agricole utile [SAU] ;\n- Exploitations maraîchères ;\n- Exploitations arboricoles ;\n- Exploitations pour lesquelles au moins 20 % de la surface était emblavée en\nlégumes en 2026.\nL’éligibilité est limitée aux exploitants agricoles exerçant à titre principal et aux\nGAEC, aux EARL, et autres personnes morales ayant pour objet l’exploitation\nagricole et dont au moins 50 % du capital est détenu par des exploitants agricoles\nà titre principal (directement ou indirectement).\nLes entreprises faisant l’objet d’une procédure de sauvegarde ou de redressement\njudiciaire devront disposer d’un plan arrêté par le tribunal de commerce au\nmoment du paiement de l’aide d’urgence. Les entreprises concernées par une\nprocédure de liquidation judiciaire sont exclues de la mesure d’aide, que la\nprocédure de liquidation soit connue au moment du dépôt du dossier ou qu’elle\nintervienne après celui-ci (lors des phases d’instruction et de contrôles\nadministratifs).\nArticle 2 : Détermination du montant de l’aide :\nL’aide attribuée est de nature forfaitaire.\nLes forfaits suivants seront appliqués dans la limite de l’enveloppe qui s’élève à\n1 901 173 € :\n• 3 465 € aux éleveurs d’herbivores ayant au moins 60 % de SFP/SAU ;\n• 1 925 € aux maraîchers ;\n• 2 310 € aux arboriculteurs ;\n• 2 310 € aux polycultures ayant au moins 20 % de leur surface emblavée en\nlégumes ;\nLa transparence GAEC s’appliquera dans la limite de deux forfaits par GAEC et\ndans celle du plafond \"de minimis\" agricole.\nL’aide sera majorée de 20 % en cas de présence dans la structure d’un nouvel\ninstallé depuis moins de 5 ans et ayant moins de 40 ans à la date du dépôt de la\n2/4\nDirection départementale des territoires et de la mer - 62-2026-10-19-00001 - Arrêté préfectoral relatif à la mise en oeuvre du fond de 5\nréarmement agricole\nprésente demande d’aide.\nCette aide est versée dans le cadre du Règlement (UE) n°1408/2013 de la\nCommission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du\ntraité sur le fonctionnement de l’Union européenne aux aides « de minimis » dans\nle secteur de l’agriculture, modifié par le règlement (UE) n°2025/1989 de la\nCommission du 2 octobre 2025.\nCe règlement prévoit que les aides accordées à une entreprise unique au titre du\n« de minimis agricole » ne doivent pas excéder un plafond de 50 000 € par\nentreprise unique sur une période de trois ans.\nArticle 3 : Gestion administrative de la mesure :\nLa demande d’aide doit être déposée sous format dématérialisé sur le site\n« Démarche numérique ».\nL’instruction des dossiers sera réalisée par la direction départementale des\nterritoires et de la mer du Pas-de-Calais au terme de la période de dépôt, à savoir\nle 7 octobre 2026 inclus.\nArticle 4 : Contrôles :\nDes contrôles administratifs et physiques pourront être diligentés par les services\ncompétents, et un contrôle approfondi des informations communiquées pourra\nêtre réalisé par les administrations compétentes après paiement.\nÀ cette fin, le bénéficiaire doit tenir à la disposition des administrations\ncompétentes l’ensemble des documents permettant de justifier le versement de\nl’aide durant les dix exercices fiscaux suivant celui du paiement de l’aide.\nCes contrôles peuvent aboutir à remettre en cause l’éligibilité à l’aide et entraîner\nl’application de réduction du montant de l’aide et ou de sanctions.\nArticle 5 : Remboursement de l’aide indûment perçue et sanctions :\nEn cas d’irrégularité détectée après paiement, il est demandé au bénéficiaire le\nreversement de tout ou partie de l’aide attribuée.\nSi l’irrégularité est relevée avant paiement, l’aide sollicitée est réduite à\nconcurrence du montant indu.\nEn cas de fourniture intentionnelle de données fausses ou de documents falsifiés\navant ou après paiement, une sanction administrative est appliquée. Elle\ncorrespond à 20 % du montant de l’aide indûment payée ou qui aurait été payée si\nl’irrégularité intentionnelle n’avait pas été détectée.\nArticle 6 : Exécution du présent arrêté :\nRue Ferdinand Buisson\n62020 ARRAS Cedex 9\nTel : 03 21 21 20 00\n3 / 4\nDirection départementale des territoires et de la mer - 62-2026-10-19-00001 - Arrêté préfectoral relatif à la mise en oeuvre du fond de 6\nréarmement agricole\nLe secrétaire général de la préfecture du Pas-de-Calais et le directeur\ndépartemental adjoint des territoires et de la mer du Pas-de-Calais, sont chargés,\nchacun en ce qui le concerne, de l’exécution du présent arrêté qui sera publié au\nrecueil des actes administratifs de la préfecture du Pas-de-Calais.\nÀ Arras\nLe préfet ,\nSigné\nFrançois-Xavier LAUCH\nLe présent arrêté peut faire l’objet des voies de recours suivantes :\n- un recours gracieux à Monsieur le préfet du Pas-de-Calais, rue Ferdinand Buisson, Arras (62000)\n- un recours hiérarchique auprès du ministre de l’Agriculture de l’Agro-Alimentaire et de la Souveraineté\nAlimentaire [MAASA]. En l’absence de réponse de l’administration dans un délai de deux mois à compter\nde la date de réception de votre recours gracieux ou hiérarchique, celui-ci doit être considéré comme\nimplicitement rejeté.\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-\nHilaire à Lille (59000), par lettre adressée directement au greffe ou au moyen de l’application\n« télérecours citoyen » accessible sur le site internet : www.telerecours.fr Le recours contentieux doit\nêtre déposé au plus tard avant l’expiration du délai de deux mois suivant la date de notification de la\nprésente décision ou la date du rejet du recours gracieux ou hiérarchique.\n4/4\nDirection départementale des territoires et de la mer - 62-2026-10-19-00001 - Arrêté préfectoral relatif à la mise en oeuvre du fond de 7\nréarmement agricole",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87738/548972/file/Recueil des actes administratifs n°324 en date du 19 octobre 2026.pdf",
-    "date_recueil": "2026-10-19",
-    "score": 3,
-    "titre_court": "Sécheresse : 1,9 M€ pour les exploitations agricoles",
-    "resume": "La préfecture du Pas-de-Calais met en place un fonds de réarmement agricole d'une enveloppe de 1 901 173 € pour soutenir des exploitations fragilisées par la canicule et la sécheresse de 2026. L'aide, forfaitaire, est réservée à quatre catégories d'exploitations (élevage d'herbivores, maraîchage, arboriculture, et exploitations ayant au moins 20 % de surface en légumes) sous conditions de statut et de situation judiciaire. Les montants prévus vont de 1 925 € à 3 465 € par exploitation selon la catégorie.",
-    "type_acte": "ARRÊTÉ",
-    "communes": [],
-    "mots_cles": [
-      "fonds de réarmement agricole",
-      "sécheresse",
-      "canicule",
-      "exploitations agricoles",
-      "Pas-de-Calais"
-    ]
-  },
-  {
-    "titre": "Dérogation interculture colza",
-    "titre_complet": "Direction départementale des territoires et de la mer / Service de l'environnement 62-2026-10-19-00002 - Dérogation interculture colza",
-    "page_debut": 8,
-    "nb_pages": 5,
+    "nb_pages": 4,
     "mode": "image",
     "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87738/548972/file/Recueil des actes administratifs n°324 en date du 19 octobre 2026.pdf",
-    "date_recueil": "2026-10-19",
-    "score": 3,
-    "titre_court": "Colza : dérogation exceptionnelle aux règles nitrates",
-    "resume": "Le préfet du Pas-de-Calais autorise, pour la campagne 2026, une dérogation temporaire aux règles de couverture des sols contre la pollution par les nitrates. Dans l'ensemble des communes situées en zones vulnérables du département, une repousse de colza non dense et non homogène peut tenir lieu d'interculture courte après une culture de colza, et cette obligation est exceptionnellement suspendue pour 2026. Il invoque la sécheresse exceptionnelle de l'été 2026 et les conditions agronomiques défavorables, qui rendent les reliquats azotés inexploitables.",
-    "type_acte": "ARRÊTÉ",
-    "communes": [],
-    "mots_cles": [
-      "nitrates",
-      "colza",
-      "interculture",
-      "sécheresse",
-      "zones vulnérables"
-    ]
-  },
-  {
-    "titre": "Arrêté portant renouvellement d'homologation d'une piste de moto-cross sur le circuit \"Marcel Mullet\" à Isbergues",
-    "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Béthune 62-2026-10-16-00003 - Arrêté portant renouvellement d'homologation d'une piste de moto-cross sur le circuit \"Marcel Mullet\" à Isbergues",
-    "page_debut": 13,
-    "nb_pages": 9,
-    "mode": "image",
-    "texte": "",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87738/548972/file/Recueil des actes administratifs n°324 en date du 19 octobre 2026.pdf",
-    "date_recueil": "2026-10-19",
-    "score": 3,
-    "titre_court": "Moto-cross d'Isbergues : homologation renouvelée pour quatre ans",
-    "resume": "La préfecture du Pas-de-Calais renouvelle pour quatre ans l'homologation du circuit de moto-cross « Marcel Mullet » à Isbergues, qui peut accueillir entraînements et épreuves sous autorisation préfectorale. L'arrêté encadre le fonctionnement : entraînements le samedi de 13 h à 18 h, deux samedis par mois d'avril à octobre, limitation du nombre de pilotes, contrôles sonores (112 dB) et mesures de sécurité renforcées. Une rencontre semestrielle est prévue entre le moto-club et l'association des riverains EQVIR pour concilier l'activité avec la tranquillité du voisinage.",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108671/761191/file/recueil-2026-423-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Palpations de sécurité dans les gares du Nord jusqu'au 5 novembre",
+    "resume": "La préfecture du Nord autorise, du samedi 31 octobre au jeudi 5 novembre 2026, de 6h à 23h, les agents du service interne de sécurité de la SNCF agréés, ainsi que les agents de sécurité privée engagés à cet effet, à procéder avec le consentement des usagers à des palpations de sécurité dans les gares ferroviaires du département et leurs dépendances accessibles au public. La mesure est motivée par des violences survenues à Lille lors de manifestations en octobre 2026, par les mobilisations annoncées et par le plan Vigipirate en vigilance renforcée. Des recours sont possibles devant le tribunal administratif de Lille dans un délai de deux mois.",
     "type_acte": "ARRÊTÉ",
     "communes": [
-      "Isbergues"
+      "Lille",
+      "Valenciennes"
     ],
     "mots_cles": [
-      "moto-cross",
-      "homologation",
-      "Isbergues",
-      "nuisances sonores",
-      "sécurité des pistes"
+      "palpations de sécurité",
+      "gares",
+      "SUGE",
+      "manifestations",
+      "Vigipirate"
+    ]
+  },
+  {
+    "titre": "Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installées sur des aéronefs à l'occasion de manifestations le samedi 31 octobre et le dimanche 1er novembre 2026 à Lille",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-10-30-00009 - Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installées sur des aéronefs à l'occasion de manifestations le samedi 31 octobre et le dimanche 1er novembre 2026 à Lille",
+    "page_debut": 3,
+    "nb_pages": 6,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/108670/761186/file/recueil-2026-422-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Drones équipés de caméras autorisés à Lille pour Halloween",
+    "resume": "Le préfet du Nord autorise, pour les samedi 31 octobre et dimanche 1er novembre 2026, la captation, l'enregistrement et la transmission d'images au moyen de trois drones Parrot MK3 et d'un maximum de six caméras simultanées, sur le territoire de la commune de Lille, au titre de la prévention d'actes de terrorisme. Le dispositif, demandé par la division opérations du commandement interarmées de la zone de défense Nord, fait suite à des manifestations et à des violences survenues en octobre 2026 ainsi qu'à un appel à rassemblement lié à la nuit d'Halloween. La surveillance est limitée aux plages horaires fixées par l'arrêté (samedi de 10h00 à 23h59 et dimanche de 00h00 à 5h00) et au périmètre figurant en annexe.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "drones",
+      "vidéosurveillance",
+      "Lille",
+      "manifestations",
+      "Halloween"
     ]
   },
   {
@@ -8874,32 +8932,6 @@
       "canal de la Sambre",
       "Hautmont",
       "fêtes de Noël"
-    ]
-  },
-  {
-    "titre": "Renouvellement d'habilitation funéraire PF MAISON LOURDEL à Aire sur la Lys",
-    "titre_complet": "62-2026-10-13-00017 - Renouvellement d'habilitation funéraire PF MAISON LOURDEL à Aire sur la Lys",
-    "page_debut": 22,
-    "nb_pages": 3,
-    "mode": "texte",
-    "texte": "Préfecture du Pas-de-Calais\n62-2026-10-13-00017\nRenouvellement d'habilitation funéraire PF\nMAISON LOURDEL à Aire sur la Lys\nPréfecture du Pas-de-Calais - 62-2026-10-13-00017 - Renouvellement d'habilitation funéraire PF MAISON LOURDEL à Aire sur la Lys 22\nSous-préfecture de Béthune\nBureau de la Vie Citoyenne\nArrêté du 13 octobre 2026\nportant renouvellement d’habilitation dans le domaine funéraire\nLe préfet du Pas-de-Calais,\nVu le Code général des collectivités territoriales et notamment ses articles L.2223-19 et suivants, D.2223-34\net suivants, R.2223-40 et suivants et R. 2223-56 et suivants ;\nVu le décret n°2010-146 du 16 février 2010 modifiant le décret n° 2004-374 du 29 avril 2004 relatif aux\npouvoirs des préfets, à l'organisation et à l’action des services de l’État dans les régions et\ndépartements ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch, préfet de l’Hérault, en\nqualité de préfet du Pas-de-Calais ;\nVu le décret du 13 décembre 2023 portant nomination de Sébastien Bécoulet, sous-préfet, directeur\nde cabinet de la préfète du Val-de-Marne, en qualité de sous-préfet de Béthune ;\nVu l’arrêté préfectoral n°2026-11-79 en date du 28 septembre 2026 accordant délégation de signature à\nSébastien Bécoulet, sous-préfet de Béthune, ainsi qu’aux personnes placées sous son autorité ;\nVu le décret n°2020-750 du 16 juin 2020 relatif à l’obligation de fournir une attestation de conformité\ndu véhicule funéraire ;\nVu le décret n°2020-917 du 28 juillet 2020 relatif à la durée de l’habilitation dans le secteur funéraire et\nà la housse mortuaire ;\nVu l’arrêté préfectoral du 12 octobre 2021 habilitant sous le n° 21-62-0166 dans le domaine funéraire\nl’établissement secondaire de l’entreprise de pompes funèbres « Maison Lourdel » sis 16B, Place du Rivage à\nAire-sur-la-Lys (62120) et dirigé par M. Nicolas Lourdel ;\nVu la demande en date du 9 octobre 2026 ;\nConsidérant que l’établissement secondaire « Maison Lourdel » satisfait aux obligations réglementaires\nqui lui incombent et a transmis les pièces justifiant de sa situation ;\nSur proposition du sous-préfet de Béthune ;\nSous-préfecture de Béthune\n181, rue Gambetta\n62407 BETHUNE Cedex\nTél : 03 21 61 50 50 – www.pas-de-calais.gouv.fr\nPréfecture du Pas-de-Calais - 62-2026-10-13-00017 - Renouvellement d'habilitation funéraire PF MAISON LOURDEL à Aire sur la Lys 23\nArrête\nArticle 1er : L’établissement secondaire de l’entreprise de pompes funèbres « Maison Lourdel » sis\n16B, Place du Rivage à Aire-sur-la-Lys (62120) et dirigé par M. Nicolas Lourdel, est habilité\npour exercer, sur l’ensemble du territoire national, l’activité funéraire suivante :\n- transport des corps avant et après mise en bière ;\n- organisation des obsèques ;\n- fourniture des housses, des cercueils, et de leurs accessoires intérieurs et extérieurs\nainsi que des urnes cinéraires ;\n- gestion et utilisation des chambres funéraires (3 salons) ;\n- fourniture des corbillards et des voitures de deuil ;\n- fourniture du personnel et des objets et prestations nécessaires aux obsèques,\ninhumations, exhumations et crémations, à l’exception des plaques funéraires,\nemblèmes religieux, fleurs, travaux divers d’imprimerie et de marbrerie funéraire (par\nsous-traitance).\nArticle 2 : Le numéro de l’habilitation est 26-62-0166.\nArticle 3 : La présente habilitation est accordée jusqu'au 13 octobre 2031.\nArticle 4 : Le sous-préfet de Béthune est chargé de l’exécution du présent arrêté qui sera publié\nau recueil des actes administratifs de la préfecture du Pas-de-Calais.\nA Béthune,\nPour le sous-préfet et par délégation,\nle secrétaire général\nsigné\nJean-François RAL\nCopie :\n• à Pompes funèbres Maison Lourdel\nLe présent arrêté peut faire l’objet des voies de recours suivantes :\n- un recours gracieux à Monsieur le préfet du Pas-de-Calais, rue Ferdinand Buisson, Arras (62000).\n- un recours hiérarchique auprès du ministre de l’Intérieur. En l’absence de réponse de l’administration\ndans un délai de deux mois à compter de la date de réception de votre recours gracieux ou\nhiérarchique, celui-ci doit être considéré comme implicitement rejeté.\n- un recours contentieux peut être formé devant le tribunal administratif de Lille : 5 rue Geoffroy Saint-\nHilaire à Lille (59000), par lettre adressée directement au greffe ou au moyen de l’application « télérecours\ncitoyen » accessible sur le site internet : www.telerecours.fr Le recours contentieux doit être déposé au\nplus tard avant l’expiration du délai de deux mois suivant la date de notification de la présente décision ou\nla date du rejet du recours gracieux ou hiérarchique.\nPréfecture du Pas-de-Calais - 62-2026-10-13-00017 - Renouvellement d'habilitation funéraire PF MAISON LOURDEL à Aire sur la Lys 24",
-    "dept": "62",
-    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/87738/548972/file/Recueil des actes administratifs n°324 en date du 19 octobre 2026.pdf",
-    "date_recueil": "2026-10-19",
-    "score": 2,
-    "titre_court": "Une entreprise de pompes funèbres d'Aire-sur-la-Lys habilitée à nouveau",
-    "resume": "Le préfet du Pas-de-Calais a renouvelé jusqu'au 13 octobre 2031 l'habilitation dans le domaine funéraire de l'établissement secondaire « Maison Lourdel », situé à Aire-sur-la-Lys. Cette habilitation lui permet d'exercer sur tout le territoire national plusieurs activités, notamment le transport des corps, l'organisation des obsèques et la gestion de trois salons en chambre funéraire. Il s'agit d'une décision de gestion courante, sans changement notable signalé dans le texte.",
-    "type_acte": "HABILITATION",
-    "communes": [
-      "Aire-sur-la-Lys",
-      "Béthune"
-    ],
-    "mots_cles": [
-      "habilitation funéraire",
-      "Maison Lourdel",
-      "pompes funèbres",
-      "Aire-sur-la-Lys",
-      "renouvellement"
     ]
   },
   {
