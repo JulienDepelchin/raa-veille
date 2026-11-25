@@ -4863,6 +4863,83 @@
     ]
   },
   {
+    "titre": "Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installés sur des aéronefs par la direction interdépartementale de la police nationale du Nord à l'occasion du match de football LOSC - BAYERN MUNICH le mercredi 25 novembre 2026",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-11-24-00012 - Arrêté autorisant la captation, l'enregistrement et la transmission d'images au moyen de caméras installés sur des aéronefs par la direction interdépartementale de la police nationale du Nord à l'occasion du match de football LOSC - BAYERN MUNICH le mercredi 25 novembre 2026",
+    "page_debut": 3,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109015/763487/file/Recueil n°459 sp du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 4,
+    "titre_court": "Drones de police autorisés au-dessus du stade Pierre-Mauroy",
+    "resume": "Le préfet du Nord autorise la police nationale à utiliser deux drones équipés au total de cinq caméras pour filmer, enregistrer et transmettre des images autour du stade Pierre-Mauroy-Decathlon Arena à Villeneuve-d'Ascq, lors du match LOSC - Bayern Munich du 25 novembre 2026. Cette mesure s'applique le 25 novembre de 18h00 à 23h59 et le 26 novembre de 00h00 à 01h00, uniquement dans le périmètre défini en annexe, pour prévenir les troubles à l'ordre public, en raison notamment de la présence attendue de supporters ultras et du contexte de menace terroriste. La mesure peut faire l'objet d'un recours devant le tribunal administratif de Lille dans les deux mois suivant sa publication.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Villeneuve-d'Ascq"
+    ],
+    "mots_cles": [
+      "drones",
+      "caméras aéroportées",
+      "police nationale",
+      "match LOSC Bayern",
+      "ordre public"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant restriction de stationnement et de circulation sur la voie publique des supporters des deux clubs dans le périmètre du Décathlon Arena stade Pierre Mauroy à l'occasion du match de football du mercredi 25 novembre 2026 à 21h00 opposant le Lille Olympique Sporting Club (LOSC) au FC Bayern de Munich dans le cadre de la 5e journée de la Ligue des Champions",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-11-24-00011 - Arrêté préfectoral portant restriction de stationnement et de circulation sur la voie publique des supporters des deux clubs dans le périmètre du Décathlon Arena stade Pierre Mauroy à l'occasion du match de football du mercredi 25 novembre 2026 à 21h00 opposant le Lille Olympique Sporting Club (LOSC) au FC Bayern de Munich dans le cadre de la 5e journée de la Ligue des Champions",
+    "page_debut": 3,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109013/763477/file/recueil-2026-458-recueil-des-actes-administratifs.pdf",
+    "date_recueil": null,
+    "score": 4,
+    "titre_court": "Supporters bavarois : circulation interdite autour du stade Pierre-Mauroy",
+    "resume": "Le préfet du Nord interdit, du mercredi 25 novembre 2026 à 10h au jeudi 26 novembre à 2h, à toute personne se prévalant de la qualité de supporter du LOSC ou du Bayern de Munich, et non munie d'un billet ou titre d'accès, de se rendre au Décathlon Arena et de circuler ou stationner sur la voie publique dans un périmètre délimité à Villeneuve-d'Ascq et Lezennes. Les détenteurs de billets doivent suivre les modalités de déplacement prévues par les organisateurs, et l'utilisation d'artifices et de fumigènes est également interdite dans ce périmètre. La mesure vise le match de Ligue des Champions du 25 novembre, jugé à risque, en raison de la présence attendue d'environ 2 600 supporters bavarois et de la crainte de tensions entre groupes ultras.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Villeneuve-d'Ascq",
+      "Lezennes"
+    ],
+    "mots_cles": [
+      "supporters",
+      "Décathlon Arena",
+      "LOSC",
+      "Bayern de Munich",
+      "ordre public"
+    ]
+  },
+  {
+    "titre": "Arrêté portant fermeture des parkings réservés aux poids lourds sur les aires de repos de Saint-Laurent (commune de Steenvoorde), sur l'autoroute A25, et de Grande-Synthe sur l'A16, dans le cadre de la gestion de la crise migratoire",
+    "titre_complet": "Préfecture du Nord / Direction des sécurités 2026-11-24-00009 - Arrêté portant fermeture des parkings réservés aux poids lourds sur les aires de repos de Saint-Laurent (commune de Steenvoorde), sur l'autoroute A25, et de Grande-Synthe sur l'A16, dans le cadre de la gestion de la crise migratoire",
+    "page_debut": 79,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 4,
+    "titre_court": "Parkings poids lourds fermés à Steenvoorde et Grande-Synthe",
+    "resume": "La préfecture du Nord ferme pour deux mois les parkings réservés aux poids lourds sur les aires de Saint-Laurent, sur l'A25 (sens Lille-Dunkerque), et de Grande-Synthe, sur l'A16 (sens Dunkerque-Calais). Le texte justifie cette mesure par la gestion de la crise migratoire, les deux aires étant identifiées comme des points de montée clandestine dans les camions à destination du Royaume-Uni. Une information doit être mise en place en amont de ces deux aires à l'attention des usagers.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Steenvoorde",
+      "Grande-Synthe"
+    ],
+    "mots_cles": [
+      "crise migratoire",
+      "poids lourds",
+      "aire de repos",
+      "autoroute A25",
+      "autoroute A16"
+    ]
+  },
+  {
     "titre": "Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas de délestage de la consommation de gaz naturel",
     "titre_complet": "Préfecture du Pas-de-Calais / Direction des sécurités 62-2026-10-23-00018 - Arrêté n°CAB-SIDPC-2026-31 fixant les listes de consommateurs protégés en cas de délestage de la consommation de gaz naturel",
     "page_debut": 19,
@@ -5829,6 +5906,83 @@
       "surveillance voie publique",
       "gardiennage",
       "Boulogne-sur-Mer"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant autorisation de pénétrer dans les propriétés privées Réseau de Transport d'Électricité Raccordement du centre de données PROPCO-Calais",
+    "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Calais 62-2026-11-24-00003 - Arrêté préfectoral portant autorisation de pénétrer dans les propriétés privées Réseau de Transport d'Électricité Raccordement du centre de données PROPCO-Calais",
+    "page_debut": 3,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Préfecture du Pas-de-Calais\n62-2026-11-24-00003\nArrêté préfectoral portant autorisation de\npénétrer dans les propriétés privées\nRéseau de Transport d'Électricité\nRaccordement du centre de données\nPROPCO-Calais\nPréfecture du Pas-de-Calais - 62-2026-11-24-00003 - Arrêté préfectoral portant autorisation de pénétrer dans les propriétés privées 3\nRéseau de Transport d'Électricité\nRaccordement du centre de données PROPCO-Calais\nDirection régionale de l’environnement,\nde l’aménagement et du logement\nArrêté préfectoral portant autorisation de pénétrer dans les propriétés privées\nRéseau de Transport d’Électricité\nRaccordement du centre de données PROPCO-Calais\nLe préfet du Pas-de-Calais\nVu le code pénal ;\nVu le code de justice administrative ;\nVu la loi du 29 décembre 1892 modifiée relative aux dommages causés à la propriété privée par\nl’exécution de travaux publics ;\nVu la loi n° 43-374 du 6 juillet 1943 modifiée relative à l’exécution des travaux géodésiques et\ncadastraux et à la conservation des signaux, bornes et repères ;\nVu le décret n° 2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l'organisation et à\nl'action des services de l’État dans les régions et départements ;\nVu le décret du 02 décembre 2025 nommant monsieur François-Xavier LAUCH, préfet du Pas-de-Calais,\nVu l’arrêté préfectoral n°2026-11-77 du 28 septembre 2026, accordant délégation de signature à\nMadame Agathe CURY, sous-préfète de Calais (classe fonctionnelle II) ;\nVu la demande en date du 19 octobre 2026 présentée par madame la directrice régionale de RTE, à\nl’effet d’autoriser ses agents et ceux des entreprises travaillant pour son compte, à pénétrer dans les\npropriétés privées situées sur le territoire des communes de Calais et de Marck, afin de procéder à\nl’étude sur le terrain des tracés des ouvrages de raccordement du centre de données PROPCO-Calais au\nposte électrique RTE des Attaques ;\nSur proposition du directeur régional de l’environnement, de l’aménagement et du logement Hauts-de-\nFrance ;\n1/3\nRue Ferdinand Buisson 62000 ARRAS\nTél. : 03 21 21 20 00\nPréfecture du Pas-de-Calais - 62-2026-11-24-00003 - Arrêté préfectoral portant autorisation de pénétrer dans les propriétés privées 4\nRéseau de Transport d'Électricité\nRaccordement du centre de données PROPCO-Calais\nARRÊTE\nArticle 1 e r - Les agents de Réseau de Transport d’Électricité (RTE) ainsi que ceux des entreprises\ndéléguées par ses soins, sont autorisés, sous réserve des droits des tiers, à pénétrer dans les propriétés\nprivées, closes ou non closes (sauf à l’intérieur des maisons d’habitation), afin d’y procéder à l’étude sur\nle terrain des tracés des ouvrages de raccordement du centre de données PROPCO-Calais au poste\nélectrique RTE des Attaques.\nCes opérations seront effectuées sur le territoire des communes de Calais et Marck.\nArticle 2 - Les personnes désignées à l’article 1er auxquelles le responsable de projet du service\nconcertation environnement tiers de RTE aura délégué ses droits, ne sont pas autorisées à pénétrer à\nl’intérieur des maisons d’habitation.\nElles devront être munies d’une copie du présent arrêté qui devra être présentée à toute réquisition et\nelles ne pourront s’introduire dans les propriétés privées qu’après l’accomplissement des formalités\nprescrites à l’article 1er de la loi du 29 décembre 1892 modifiée et rappelées ci-après :\n- pour les propriétés privées non closes, qu’à l'expiration d'un délai d'affichage de dix jours du\nprésent arrêté en mairie de la commune concernée ;\n- pour les propriétés privées closes, qu’à partir d'un délai de cinq jours à compter de la notification\nindividuelle du présent arrêté au propriétaire ou, en son absence, au gardien de la propriété. Le\ndélai de cinq jours ne comprend ni le jour de la notification, ni celui de la mise à exécution. A\ndéfaut de gardien connu dans la commune, le délai ne court qu'à partir de la notification au\npropriétaire faite en mairie. Ce délai expiré, si personne ne se présente pour permettre l’accès, les\nagents pourront entrer avec l’assistance du juge du tribunal administratif.\nArticle 3 - Il ne pourra être abattu d’arbres fruitiers, d’ornement ou de haute futaie ou causé tout autre\ndommage, avant qu’un accord amiable ne soit établi sur leur valeur ou, à défaut de cet accord, qu’il\nn’ait été procédé à une constatation contradictoire destinée à fournir les éléments nécessaires pour\nl’évaluation des dommages.\nA la fin de l’opération, les indemnités qui pourraient être dues pour dommage causé aux propriétés\nprivées, par les personnes visées à l’article 1er, seront à la charge de RTE. A défaut d’entente amiable\nentre cette administration et le propriétaire, elles seront fixées par le tribunal administratif de Lille.\nArticle 4 - Défense est faite aux propriétaires d’apporter aux agents chargés des études aucun trouble\nni empêchement et de déranger les différents piquets et repères, balises ou jalons servant au tracé qui\nseront établis dans leur propriété et placés sous la garde de l’autorité municipale.\nLa destruction, la détérioration ou le déplacement des piquets, repères, balises ou jalons donneront\nlieu à l’application des dispositions de l’article 6 de la loi du 6 juillet 1943 modifiée et de l’article 322-2\ndu code pénal.\n2/3\nPréfecture du Pas-de-Calais - 62-2026-11-24-00003 - Arrêté préfectoral portant autorisation de pénétrer dans les propriétés privées 5\nRéseau de Transport d'Électricité\nRaccordement du centre de données PROPCO-Calais\nArticle 5 - Les propriétaires et habitants des communes de Calais et de Marck, seront invités à prêter\naide et assistance aux personnes effectuant les études et travaux.\nLes maires de ces communes seront invités à prêter leurs concours, et au besoin, l’appui de leur\nautorité pour écarter les difficultés auxquelles pourrait donner l’exécution des opérations envisagées.\nEn cas d’opposition à ces opérations, il est enjoint aux agents de la force publique d’intervenir pour\nassurer l’exécution des dispositions qui précèdent.\nArticle 6 - La présente autorisation est délivrée pour une durée de cinq ans. Elle sera néanmoins\npérimée de plein droit si elle n’est pas suivie d’exécution dans les six mois de sa date.\nArticle 7 - Le présent arrêté sera affiché dans les mairies de Calais et de Marck au moins dix jours avant\nla mise en œuvre des opérations sur leur territoire respectif et pendant toute leur durée. Un certificat\nconstatant l’accomplissement de cette formalité sera dressé par les soins des maires intéressés et\nretourné au préfet du Pas-de-Calais, ainsi qu’à la DREAL des Hauts-de-France – Pôle air, climat et\nénergie - Service énergie, climat, logement et aménagement du territoire – 44 rue de Tournai - CS\n40259 - 59019 LILLE cedex.\nArticle 8 - Pour le demandeur, cet arrêté peut faire l’objet d’un recours gracieux dans un délai de deux\nmois à compter de sa notification, auprès du préfet du Pas-de-Calais.\nPour les tiers, il peut être contesté dans un délai de deux mois à compter de son affichage, devant le\ntribunal administratif de Lille - 5, rue Geoffroy Saint-Hilaire - CS 62039 - 59014 LILLE Cedex.\nLe tribunal administratif peut être saisi par le biais de l’application informatique « Télérecours citoyen »\naccessible à partir du site internet « www.telerecours.fr ».\nArticle 9 - Le directeur régional de l’environnement, de l’aménagement et du logement Hauts-de-\nFrance, la directrice régionale de RTE, les maires des communes de Calais et Marck, ainsi que le\ncommandant du groupement de gendarmerie départementale du Pas-de-Calais sont chargés, chacun\nen ce qui le concerne, de l’exécution du présent arrêté qui sera publié au recueil des actes\nadministratifs de la préfecture du Pas-de-Calais.\nCopie du présent arrêté sera adressé à monsieur le directeur régional de l’environnement, de\nl’aménagement et du logement Hauts-de-France, madame et monsieur les maires des communes\ndésignées à l’article 1er du présent arrêté, madame la directrice régionale de RTE.\nFait à Calais, le 24/11/26\nLa sous-préfète\nsigné\nAgathe CURY\n3/3\nPréfecture du Pas-de-Calais - 62-2026-11-24-00003 - Arrêté préfectoral portant autorisation de pénétrer dans les propriétés privées 6\nRéseau de Transport d'Électricité\nRaccordement du centre de données PROPCO-Calais",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88118/551102/file/Recueil des actes administratifs n°375 en date du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 3,
+    "titre_court": "Accès aux propriétés privées pour le raccordement électrique",
+    "resume": "Le préfet du Pas-de-Calais autorise les agents de RTE et des entreprises qui travaillent pour lui à entrer dans des propriétés privées à Calais et Marck, pour étudier sur le terrain les tracés des lignes de raccordement du centre de données PROPCO-Calais au poste électrique des Attaques. Ils ne peuvent pas entrer dans les maisons d'habitation, doivent avoir une copie de l'arrêté, et ne peuvent accéder aux propriétés qu'après les délais de notification ou d'affichage en mairie prévus par la loi.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Calais",
+      "Marck"
+    ],
+    "mots_cles": [
+      "RTE",
+      "raccordement électrique",
+      "centre de données",
+      "propriétés privées",
+      "Calais"
+    ]
+  },
+  {
+    "titre": "AP - MARCHE NOEL - BETHUNE - 2026",
+    "titre_complet": "Préfecture du Pas-de-Calais / Sous-Préfecture de Béthune 62-2026-11-25-00003 - AP - MARCHE NOEL - BETHUNE - 2026",
+    "page_debut": 3,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88150/551273/file/Recueil des actes administratifs n°376 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 3,
+    "titre_court": "Une société privée sécurise le marché de Noël de Béthune",
+    "resume": "Le préfet du Pas-de-Calais autorise la société SBM SECURITE à assurer, depuis la voie publique, une mission de surveillance et de gardiennage de la Grand Place de Béthune pendant le marché de Noël, du 25 novembre au 26 décembre 2026. Les agents pourront exercer cette mission de nuit, avec des créneaux horaires différents selon les périodes, à la demande de la ville. Ils devront être munis d'une copie de l'arrêté et de leur carte professionnelle.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Béthune",
+      "Lens"
+    ],
+    "mots_cles": [
+      "sécurité privée",
+      "marché de Noël",
+      "Béthune",
+      "Grand Place",
+      "voie publique"
+    ]
+  },
+  {
+    "titre": "AP - MARCHE NOEL - NOEUX LES MINES- 2026",
+    "titre_complet": "62-2026-11-25-00002 - AP - MARCHE NOEL - NOEUX LES MINES- 2026",
+    "page_debut": 8,
+    "nb_pages": 5,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88150/551273/file/Recueil des actes administratifs n°376 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 3,
+    "titre_court": "Sécurité privée autorisée sur le marché de Noël de Noeux-les-Mines",
+    "resume": "Le préfet du Pas-de-Calais autorise la société PROFIL GARDE PLUS à assurer, depuis la voie publique, une mission de surveillance des biens et des personnes sur la place Mendès France à Noeux-les-Mines, du 22 au 29 novembre 2026, à l'occasion du marché de Noël. Trois agents interviendront de 19h00 à 08h30 pour le gardiennage et la surveillance du site, et devront être munis de l'arrêté et de leur carte professionnelle. Cette autorisation s'appuie sur un avis favorable de la Police nationale et tient compte du plan Vigipirate en vigueur.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Noeux-les-Mines"
+    ],
+    "mots_cles": [
+      "sécurité privée",
+      "marché de Noël",
+      "Noeux-les-Mines",
+      "voie publique",
+      "Vigipirate"
     ]
   },
   {
@@ -8242,6 +8396,134 @@
     ]
   },
   {
+    "titre": "Arrêté temporaire T26-614N réglementant la circulation sur l'A23",
+    "titre_complet": "Direction interdépartementale des routes Nord / 2026-11-24-00013 - Arrêté temporaire T26-614N réglementant la circulation sur l'A23",
+    "page_debut": 7,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109042/763676/file/Recueil n°460 du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 3,
+    "titre_court": "A23 : voie de droite fermée de jour pendant deux semaines",
+    "resume": "Du lundi 30 novembre 2026 au vendredi 11 décembre 2026, la circulation est restreinte sur l'A23 dans le sens Valenciennes vers Lille, entre les PR 32+700 et 31+500, pour permettre des travaux de dépose et pose de clôtures sur les communes de Raismes et Hasnon. La voie de droite est neutralisée par des flèches lumineuses de rabattement, uniquement de 8h30 à 15h30 les jours ouvrés, hors week-end. L'arrêté précise que la signalisation est posée et entretenue par le CEI de Valenciennes.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Raismes",
+      "Hasnon"
+    ],
+    "mots_cles": [
+      "A23",
+      "restriction de circulation",
+      "travaux de clôtures",
+      "Raismes",
+      "Hasnon"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant dérogation au titre de l'article L411-2 du code de l'environnement au bénéfice de la communauté d'agglomération de la Porte du Hainaut (CAPH) dans le cadre de la démolition du bâtiment \"réfectoire\" au sein de la future ZAC du Marillon à Saint-Amand-Les-Eaux",
+    "titre_complet": "Direction départementale des territoires et de la mer / 2026-11-24-00002 - Arrêté préfectoral portant dérogation au titre de l'article L411-2 du code de l'environnement au bénéfice de la communauté d'agglomération de la Porte du Hainaut (CAPH) dans le cadre de la démolition du bâtiment \"réfectoire\" au sein de la future ZAC du Marillon à Saint-Amand-Les-Eaux",
+    "page_debut": 26,
+    "nb_pages": 21,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 3,
+    "titre_court": "Saint-Amand : dérogation pour espèces protégées sur un chantier",
+    "resume": "Le préfet du Nord autorise la communauté d'agglomération de la Porte du Hainaut à déroger à la protection de six espèces protégées (trois chauves-souris, deux mésanges et le lézard des murailles) pour la démolition du bâtiment « réfectoire » de la friche du parc d'activités du Marillon, dans le périmètre de la future ZAC. L'autorisation est assortie de mesures de réduction, d'accompagnement et de suivi : travaux de démolition entre le 15 septembre et le 31 mars après contrôle d'un écologue, déboisement de septembre à novembre, balisage du chantier et capture-relâcher du lézard. Le texte estime que le projet relève de raisons impératives d'intérêt public majeur, qu'aucune solution alternative présentant moins d'inconvénients n'existe, et que la dérogation ne nuit pas au maintien des populations concernées.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Saint-Amand-les-Eaux"
+    ],
+    "mots_cles": [
+      "dérogation espèces protégées",
+      "démolition",
+      "ZAC du Marillon",
+      "chiroptères",
+      "lézard des murailles"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant dérogation au titre de l'article L411-2 du code de l'environnement au bénéfice de Lille Métropole Habitat (LMH), bailleur social de la Métropole Européenne de Lille dans le cadre d'opérations de démolition de deux bâtiments situés rue d'Ypres, quartier Trois Ponts à Roubaix",
+    "titre_complet": "2026-11-24-00006 - Arrêté préfectoral portant dérogation au titre de l'article L411-2 du code de l'environnement au bénéfice de Lille Métropole Habitat (LMH), bailleur social de la Métropole Européenne de Lille dans le cadre d'opérations de démolition de deux bâtiments situés rue d'Ypres, quartier Trois Ponts à Roubaix",
+    "page_debut": 47,
+    "nb_pages": 23,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 3,
+    "titre_court": "Roubaix : dérogation pour démolir deux bâtiments à moineaux",
+    "resume": "Le préfet du Nord autorise Lille Métropole Habitat à déroger à la protection des nids de moineaux domestiques le temps de la démolition des bâtiments D et E, rue d'Ypres, dans le quartier des Trois Ponts à Roubaix, dans le cadre de la restructuration du quartier. Les travaux sont étalés sur deux phases (septembre 2026 à février 2027, puis septembre 2027 à février 2028), et la destruction des nids doit avoir lieu hors de la période de nidification (mars à août). En compensation, 11 nichoirs triples doivent être installés sur des bâtiments voisins de LMH, un parc urbain doit être aménagé à la place des bâtiments démolis, et un suivi écologique d'au moins cinq ans est prévu.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Roubaix"
+    ],
+    "mots_cles": [
+      "moineau domestique",
+      "dérogation environnementale",
+      "démolition",
+      "Roubaix",
+      "Lille Métropole Habitat"
+    ]
+  },
+  {
+    "titre": "Décision n°100/2026 portant mesure temporaire de restriction de navigation",
+    "titre_complet": "2026-11-24-00007 - Décision n°100/2026 portant mesure temporaire de restriction de navigation",
+    "page_debut": 70,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 3,
+    "titre_court": "Quai de Denain : restriction de navigation sur l'Escaut jusqu'en janvier",
+    "resume": "Le préfet du Nord autorise un chantier de dépose et repose de lisses du quai public de Denain, sur l'Escaut, entre le PK 10,300 et le PK 10,500, du 24 novembre 2026 au 9 janvier 2027. Pendant ces travaux, le stationnement est interdit au quai, les usagers de la voie d'eau doivent respecter la signalisation et faire preuve de vigilance, et la vitesse est limitée à 4 km/h sur le secteur pendant la période de repos des lisses.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Denain"
+    ],
+    "mots_cles": [
+      "Escaut",
+      "Denain",
+      "navigation fluviale",
+      "travaux quai",
+      "restriction de navigation"
+    ]
+  },
+  {
+    "titre": "Décision n°109/2026 portant autorisation d'une manifestation nautique",
+    "titre_complet": "2 2026-11-19-00012 - Décision n°109/2026 portant autorisation d'une manifestation nautique",
+    "page_debut": 73,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 3,
+    "titre_court": "Spectacle pyrotechnique sur la Deûle à Haubourdin",
+    "resume": "Le préfet du Nord autorise la commune d'Haubourdin à organiser un spectacle pyrotechnique le 12 décembre 2026, de 19h30 à 20h00, au niveau du pont d'Haubourdin sur le canal de la Deûle, à l'occasion de son marché de Noël. La navigation sur la voie d'eau sera interrompue pendant la durée du spectacle, avec des périodes de vigilance pour l'installation et le démontage du matériel. L'organisateur reste responsable de la sécurité de la manifestation.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Haubourdin",
+      "Santes",
+      "Sequedin"
+    ],
+    "mots_cles": [
+      "spectacle pyrotechnique",
+      "canal de la Deûle",
+      "navigation interrompue",
+      "marché de Noël",
+      "Haubourdin"
+    ]
+  },
+  {
     "titre": "Nomination Conciliateur Fiscal et adjoints 19 10 2026",
     "titre_complet": "62-2026-10-19-00008 - Nomination Conciliateur Fiscal et adjoints 19 10 2026",
     "page_debut": 6,
@@ -9902,6 +10184,131 @@
       "Audruicq",
       "Perart",
       "Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP conférant la qualité de maire honoraire à M. AUCHART",
+    "titre_complet": "62-2026-11-13-00008 - AP conférant la qualité de maire honoraire à M. AUCHART",
+    "page_debut": 9,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Ernest Auchart, ancien maire d'Hannescamps, nommé maire honoraire",
+    "resume": "Le préfet du Pas-de-Calais confère le titre de maire honoraire à Ernest Auchart, ancien maire d'Hannescamps, qui a exercé ces fonctions du 28 mars 1977 au 22 mars 2026. La demande avait été présentée par Jérôme Corman. L'arrêté, daté du 13 novembre 2026, sera publié au recueil des actes administratifs de la préfecture.",
+    "type_acte": "NOMINATION",
+    "communes": [
+      "Hannescamps"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Hannescamps",
+      "Ernest Auchart",
+      "honorariat",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP conférant la qualité de maire honoraire à M. COYOT",
+    "titre_complet": "62-2026-11-02-00014 - AP conférant la qualité de maire honoraire à M. COYOT",
+    "page_debut": 13,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Jean-Claude Coyot, ancien maire de Pihem, devient maire honoraire",
+    "resume": "Le préfet du Pas-de-Calais a nommé Jean-Claude Coyot maire honoraire, en tant qu'ancien maire de Pihem. Cette distinction honorifique fait suite à une demande de Clarisse Basuyaux Pecqueur et concerne les fonctions municipales exercées du 14 mars 2008 au 20 mars 2026. L'arrêté est publié au recueil des actes administratifs de la préfecture.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Pihem"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Pihem",
+      "Jean-Claude Coyot",
+      "honorariat",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP Conférent la qualité de maire honoraire à M. BOONAERT",
+    "titre_complet": "62-2026-10-22-00008 - AP Conférent la qualité de maire honoraire à M. BOONAERT",
+    "page_debut": 19,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Jean-Philippe Boonaert devient maire honoraire de Laventie",
+    "resume": "Par un arrêté du 22 octobre 2026, le préfet du Pas-de-Calais confère le titre de maire honoraire à Jean-Philippe Boonaert, ancien maire de Laventie. Cette distinction honorifique fait suite à une demande de Nathalie Debaisieux, qui sollicitait la reconnaissance des fonctions exercées du 2 avril 2014 au 21 mars 2026.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Laventie"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Laventie",
+      "Jean-Philippe Boonaert",
+      "honorariat",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP Conférent la qualité de maire honoraire à M. DOYEN",
+    "titre_complet": "62-2026-11-13-00005 - AP Conférent la qualité de maire honoraire à M. DOYEN",
+    "page_debut": 23,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Patrick Doyen devient maire honoraire de Noyelles-sous-Bellonne",
+    "resume": "Le préfet du Pas-de-Calais confère le titre de maire honoraire à Patrick Doyen, qui a exercé les fonctions de maire de Noyelles-sous-Bellonne du 24 mai 2020 au 21 mars 2026. La démarche a été engagée à la demande de Rodrigue Lefrère, selon l'arrêté daté du 13 novembre 2026.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Noyelles-sous-Bellonne"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Patrick Doyen",
+      "Noyelles-sous-Bellonne",
+      "honorariat",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP Conférent la qualité de maire honoraire à M.DUPONT",
+    "titre_complet": "62-2026-10-22-00007 - AP Conférent la qualité de maire honoraire à M.DUPONT",
+    "page_debut": 27,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Yves Dupont, ancien maire d'Annequin, devient maire honoraire",
+    "resume": "Le préfet du Pas-de-Calais confère le titre de maire honoraire à Yves Dupont, qui a dirigé la commune d'Annequin du 19 mars 2001 au 22 mars 2026. La démarche fait suite à une demande de Christel Braem. L'arrêté sera publié au recueil des actes administratifs de la préfecture.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Annequin"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Annequin",
+      "honorariat",
+      "préfecture du Pas-de-Calais",
+      "Yves Dupont"
     ]
   },
   {
@@ -14128,6 +14535,232 @@
     ]
   },
   {
+    "titre": "Décision d'agrément ESUS pour l'association LE GRENIER (Lesquin)",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-11-24-00016 - Décision d'agrément ESUS pour l'association LE GRENIER (Lesquin)",
+    "page_debut": 3,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109042/763676/file/Recueil n°460 du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Le Grenier de Lesquin agréé entreprise solidaire",
+    "resume": "La DDETS du Nord a accordé à l'association Le Grenier, basée à Lesquin, l'agrément d'« entreprise solidaire d'utilité sociale » (ESUS) pour une durée de deux ans à compter du 1er décembre 2026. Cet agrément, délivré au titre de l'insertion par l'activité économique, est prévu par l'article L3332-17-1 du code du travail. Il permet à l'association de bénéficier de ce statut reconnu par l'État.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lesquin"
+    ],
+    "mots_cles": [
+      "agrément ESUS",
+      "insertion par l'activité économique",
+      "Le Grenier",
+      "Lesquin",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Décision d'agrément ESUS pour l'association PROGRAMMES VITAMINE T ÎLE DE FRANCE (Lesquin)",
+    "titre_complet": "2026-11-24-00015 - Décision d'agrément ESUS pour l'association PROGRAMMES VITAMINE T ÎLE DE FRANCE (Lesquin)",
+    "page_debut": 5,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109042/763676/file/Recueil n°460 du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Vitamine T Île-de-France agréée entreprise solidaire d'utilité sociale",
+    "resume": "La DDETS du Nord a accordé à l'association « Programmes Vitamine T Île de France », basée à Lesquin, l'agrément d'« entreprise solidaire d'utilité sociale » (ESUS) pour une durée de deux ans à compter du 1er décembre 2026. Cet agrément est délivré au titre de l'article L3332-17-1 du code du travail, l'association étant déjà agréée pour l'insertion par l'activité économique dans le département du Nord.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lesquin"
+    ],
+    "mots_cles": [
+      "ESUS",
+      "agrément",
+      "insertion par l'activité économique",
+      "économie sociale et solidaire",
+      "Lesquin"
+    ]
+  },
+  {
+    "titre": "Décision relative à la désignation nominative des membres des bureaux de vote électronique pour les élections professionnelles 2026",
+    "titre_complet": "Vill'age des weppes / 2026-11-24-00014 - Décision relative à la désignation nominative des membres des bureaux de vote électronique pour les élections professionnelles 2026",
+    "page_debut": 11,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109042/763676/file/Recueil n°460 du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Désignation des bureaux de vote électronique pour les élections professionnelles 2026",
+    "resume": "Le directeur du Vill'Age des Weppes désigne nominativement les membres des bureaux de vote électronique chargés des élections professionnelles 2026 au comité social d'établissement, aux commissions administratives paritaires locales et départementales, et à la commission consultative paritaire. Un bureau centralisateur est prévu, et chaque bureau local comprend un président, un secrétaire, un secrétaire suppléant et des délégués syndicaux, avec une formation dispensée par le prestataire GEDIVOTE les 2 et 3 novembre 2026. La décision est publiée au recueil des actes administratifs du département du Nord.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Lille"
+    ],
+    "mots_cles": [
+      "élections professionnelles",
+      "vote électronique",
+      "bureau de vote",
+      "Vill'Age des Weppes",
+      "CSE"
+    ]
+  },
+  {
+    "titre": "Arrêté portant délimitation du domaine public fluvial sur la commune de Bourbourg, parcelle cadastrée A272",
+    "titre_complet": "Voies navigables de France / 2026-11-23-00006 - Arrêté portant délimitation du domaine public fluvial sur la commune de Bourbourg, parcelle cadastrée A272",
+    "page_debut": 13,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109042/763676/file/Recueil n°460 du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 2,
+    "titre_court": "Bourbourg : le domaine public fluvial délimité au canal",
+    "resume": "Le préfet du Nord fixe la limite entre le domaine public fluvial de l'État et la parcelle cadastrée A272, en rive gauche du canal de Bourbourg au PK 3,700. Cette délimitation, demandée par un notaire pour le compte d'un propriétaire, suit le plan cadastral annexé à l'arrêté. Un recours gracieux, hiérarchique ou contentieux peut être formé dans les deux mois suivant la publication.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bourbourg"
+    ],
+    "mots_cles": [
+      "domaine public fluvial",
+      "délimitation",
+      "canal de Bourbourg",
+      "Voies navigables de France",
+      "parcelle A272"
+    ]
+  },
+  {
+    "titre": "Arrêté portant délégation de signature à Marylise DUPRIEZ",
+    "titre_complet": "2026-11-24-00004 - Arrêté portant délégation de signature à Marylise DUPRIEZ",
+    "page_debut": 6,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 2,
+    "titre_court": "Maubeuge : délégation de signature pour le vote des détenus",
+    "resume": "Le chef du centre pénitentiaire de Maubeuge délègue à Marylise Dupriez, brigadier-major, la signature des décisions liées à l'inscription sur les listes électorales, au vote par correspondance et aux procurations des personnes détenues, pour les deux tours de l'élection présidentielle de 2027. Elle peut aussi assister le chef d'établissement dans les autres attributions pour lesquelles il a lui-même reçu délégation. L'arrêté, daté du 24 novembre 2026, doit être publié au recueil des actes administratifs et affiché dans l'établissement.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Maubeuge"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "centre pénitentiaire de Maubeuge",
+      "élection présidentielle 2027",
+      "vote par correspondance",
+      "procurations détenus"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP130331994 - APONTE DELONGHE Aude",
+    "titre_complet": "Direction départementale de l'emploi, du travail et des solidarités / 2026-11-19-00009 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP130331994 - APONTE DELONGHE Aude",
+    "page_debut": 8,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 2,
+    "titre_court": "Une entreprise de ménage déclarée à Killem",
+    "resume": "La DDETS du Nord a délivré un récépissé de déclaration d'organisme de services à la personne à l'entreprise individuelle exploitée sous l'enseigne « La Maison d'Aude », dont l'établissement principal est situé à Killem. L'activité déclarée est l'entretien de la maison et les travaux ménagers en mode prestataire, avec des effets à compter du 3 novembre 2026 et une portée nationale. Ce document ne vaut pas agrément : il permet à l'organisme de bénéficier des dispositions fiscales et sociales prévues par le code du travail, sous réserve d'un éventuel retrait dans les conditions légales.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Killem"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "entretien de la maison",
+      "DDETS Nord",
+      "Killem"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP130549967 - MOHAMED Élodie",
+    "titre_complet": "2026-11-23-00005 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP130549967 - MOHAMED Élodie",
+    "page_debut": 11,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 2,
+    "titre_court": "Une entreprise de services à la personne déclarée dans le Nord",
+    "resume": "La préfecture du Nord, via la DDETS, a enregistré la déclaration d'activité de services à la personne de l'entreprise individuelle de Mme Élodie Mohamed, établie à Villeneuve-d'Ascq. Elle est enregistrée sous le numéro SAP130549967 pour la garde d'enfants de plus de 3 ans à domicile, l'accompagnement d'enfants de plus de 3 ans dans leurs déplacements et l'entretien de la maison et les travaux ménagers, en mode prestataire. Les effets de la déclaration courent à compter du 16 novembre 2026, et le récépissé est daté du 23 novembre 2026.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Villeneuve-d'Ascq",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "garde d'enfants",
+      "entretien ménager",
+      "DDETS Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP131162075 - MORICE Melina",
+    "titre_complet": "2026-11-19-00011 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP131162075 - MORICE Melina",
+    "page_debut": 14,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 2,
+    "titre_court": "Une entreprise de services à la personne enregistrée à Dunkerque",
+    "resume": "La Direction départementale de l'emploi, du travail et des solidarités du Nord a délivré un récépissé de déclaration à l'entreprise individuelle MORICE Melina, établie à Dunkerque, enregistrée comme organisme de services à la personne. Il lui permet d'exercer en mode prestataire des activités d'entretien de la maison et travaux ménagers, de garde d'enfants de plus de 3 ans à domicile, d'accompagnement des enfants de plus de 3 ans dans leurs déplacements et de petits travaux de jardinage. Les effets de la déclaration courent à compter du 18 novembre 2026, date du dépôt du dossier complet, et le récépissé n'est pas limité dans le temps.",
+    "type_acte": "DÉCISION",
+    "communes": [
+      "Dunkerque"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "Dunkerque",
+      "DDETS Nord",
+      "garde d'enfants"
+    ]
+  },
+  {
+    "titre": "Arrêté préfectoral portant agrément de domiciliataire d'entreprises AYDOM",
+    "titre_complet": "Préfecture du Nord / Direction de la réglementation et de la citoyenneté 2026-11-24-00001 - Arrêté préfectoral portant agrément de domiciliataire d'entreprises AYDOM",
+    "page_debut": 76,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 2,
+    "titre_court": "La société AYDOM agréée comme domiciliataire d'entreprises à Valenciennes",
+    "resume": "Par un arrêté du 24 novembre 2026, le préfet du Nord agrée la société AYDOM, installée 29 rue de Famars à Valenciennes, en qualité de domiciliataire d'entreprises, sous le numéro 59-2026-18. Cet agrément est valable six ans et l'activité de domiciliation s'exerce à cette seule adresse. Toute modification substantielle du fonctionnement de la société doit être déclarée au préfet de son siège social dans un délai de deux mois.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "domiciliataire d'entreprises",
+      "agrément",
+      "AYDOM",
+      "Valenciennes",
+      "préfecture du Nord"
+    ]
+  },
+  {
     "titre": "SAP108751025 NABILA KEBAILI",
     "titre_complet": "Direction départementale de l'emploi du travail et des solidarités / 62-2026-10-26-00001 - SAP108751025 NABILA KEBAILI",
     "page_debut": 3,
@@ -15242,6 +15875,181 @@
       "DDFIP",
       "Pas-de-Calais",
       "finances publiques"
+    ]
+  },
+  {
+    "titre": "Subdélégation ordonnancement secondaire 25 11 2026",
+    "titre_complet": "Direction départementale des finances publiques / 62-2026-11-25-00001 - Subdélégation ordonnancement secondaire 25 11 2026",
+    "page_debut": 3,
+    "nb_pages": 4,
+    "mode": "texte",
+    "texte": "Direction départementale des finances\npubliques\n62-2026-11-25-00001\nSubdélégation ordonnancement secondaire 25\n11 2026\nDirection départementale des finances publiques - 62-2026-11-25-00001 - Subdélégation ordonnancement secondaire 25 11 2026 3\nDirection générale\ndes Finances publiques\nDIRECTION DÉPARTEMENTALE\nDES FINANCES PUBLIQUES DU PAS-DE-CALAIS\n5 Rue du Docteur Brassart\nBP 30015\n62034 ARRAS Cedex\nDECISION PORTANT SUBDELEGATION DE SIGNATURE\nEN MATIERE D’ORDONNANCEMENT SECONDAIRE\nVu le décret n° 2004-374 du 29 avril 2004 relatif au pouvoir des préfets, à l’organisation et à l’action des services de\nl’Etat dans les régions et les départements, modifié par le décret n° 2010-146 du 16 février 2010 et par le décret\nn°210-687 du 24 juin 2010 ;\nVu le décret n°2009-208 du 20 février 2009 relatif au statut particulier des Administrateurs des Finances Publiques ;\nVu le décret n°2009-707 du 16 juin 2009 modifié relatif aux services déconcentrés de la Direction Générale des\nFinances Publiques ;\nVu le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;\nVu l’arrêté du 1er octobre 2026 portant nomination de M. Maxime COUTEAU, Administrateur de l’État, dans\nl’emploi de directeur du pôle État, Stratégie et Ressources de la direction départementale des finances publiques\ndu Pas-de-Calais ;\nVu le décret du 2 décembre 2025 portant nomination de François-Xavier Lauch, en qualité de préfet du Pas-de-\nCalais ;\nVu l’arrêté préfectoral n° 2026-56-103 du 24 novembre 2026, portant délégation de signature en matière\nd’ordonnancement secondaire à M. Maxime COUTEAU, Administrateur de l’État, Directeur du Pôle État, Stratégie\net Ressources à la Direction Départementale des Finances Publiques du Pas-de-Calais ;\nVu l’article 3 de l’arrêté précité autorisant M. Maxime COUTEAU à déléguer sa signature aux agents placés sous son\nautorité.\nDECIDE\n1. POUR LA PARTIE BUDGETAIRE\nArticle 1 : En cas d’absence ou d’empêchement de M. Maxime COUTEAU, délégation spéciale de signature est\ndonnée à :\nM. Stéphane GAUCHER, Administrateur des Finances Publiques Adjoint\nMme Laetitia FACHAUX, Inspectrice divisionnaire\nMme Catherine VICARI, Inspectrice divisionnaire\nM. Jérémy DISTINGUIN, Inspecteur\nM. Nicolas VANHOUCKE, Inspecteur\nMme Mandy LEPEZ, attachée principale\nMme Delphine MORTELETTE, Inspectrice\nà l’effet de :\n➢ signer, dans la limite de leurs attributions et compétences, tout document, acte, décision, contrat,\nconclusion, mémoire et, d'une façon plus générale, tous les actes se traduisant par l’ordonnancement de\ndépenses ou de recettes se rapportant au fonctionnement ou à l’équipement de la direction\ndépartementale des finances publiques du Pas-de-Calais, ainsi que l'ordonnancement de toute recette se\nrapportant aux attributions et activités de la Direction Départementale des Finances Publiques du Pas-de-\nCalais ;\n➢ recevoir et décider de l'utilisation des crédits mis à sa disposition sur les programmes suivants :\nN°156 – « Gestion fiscale et financière de l’État et du secteur public local »\nN°218 - « Conduite et pilotage des politiques économiques et financières »\nN°723- « Opérations immobilières et entretien des bâtiments de l’État »\nDirection départementale des finances publiques - 62-2026-11-25-00001 - Subdélégation ordonnancement secondaire 25 11 2026 4\nN° 348 - « Performance et résilience des bâtiments de l’État et de ses opérateurs »\n➢ procéder à l’ordonnancement secondaire des recettes et des dépenses de l’État imputées sur les titres 2, 3\net 5 des programmes précités ;\n➢ vérifier et constater l'exécution du service fait conformément aux engagements juridiques\ncorrespondants.\nMme Laetitia FACHAUX, Inspectrice divisionnaire\nMme Mandy LEPEZ, attachée principale\nMme Valérie PLEE, Contrôleuse principale\nMme Christelle BONNEL, Contrôleuse principale\nMme Cécile CARPENTIER, Contrôleuse\nMme Kathy MONPAYS, Contrôleuse\nMme Isabelle LEGRIS, Contrôleuse\nMme Sabrina RONIAUX, Agent administratif principal\nà l’effet de valider les demandes d’achats, les fiches communications, les fiches navettes et les services faits dans\nChorus formulaires, valider et mettre en paiement les relevés d’opérations (ROP) dans chorus DT, et procéder au\ntraitement des RNF sur titre 2.\nCette délégation porte sur l'engagement, la liquidation et le mandatement des dépenses, ainsi que sur l'émission\net la signature des titres de recettes.\nArticle 2 : Demeurent réservés à la signature du Préfet du Pas-de-Calais :\n• les ordres et réquisitions du comptable public ;\n• les décisions de passer outre aux refus de visas et aux avis défavorables de l’autorité chargée du contrôle\nfinancier en matière d’engagement des dépenses.\n2. POUR LA PARTIE RESSOURCES HUMAINES\nArticle 3 : En cas d’absence ou d’empêchement de M. Maxime COUTEAU délégation spéciale de signature est\ndonnée à :\n- CSRH\nMme Lucie DEKEISTER, Administratrice des Finances publiques Adjointe\nM. Frédéric BAGINSKI, Inspecteur\nM. John BRANCQ, Inspecteur\nMme Céline BLOND, Contrôleuse\nMme Anne-Sophie KASZAK, Contrôleuse principale\nMme Michele FLAN, Contrôleuse principale\nMme Céline BRAYELLE, Contrôleuse principale\nMme SACEPE Corinne, Contrôleuse principale\nMme Amandine SEGARD, Contrôleuse\n- SRHD\nM. Gauthier DEWEINDT, Administrateur des Finances Publiques Adjoint\nMme Adèle MALLET, Inspectrice principale\nM. Jérôme CAULIEZ, Inspecteur divisionnaire\nM. Arnaud GAFFET, Inspecteur divisionnaire\nMme Catherine DELAMBRE, Inspectrice\nMme Véronique VICARI, Inspectrice\nMme Valérie WIMETZ, Inspectrice\nA l’effet de signer, dans les limites de leurs attributions et compétences, tout mandat lié aux opérations de\nrémunération (paye, titre-restaurant, titres de perception…) et, d’une façon plus générale, tout acte relatif à la\ngestion du service des ressources humaines et à la formation professionnelle.\nM. Virgil VERDEZ, Agent administratif principal\nPour valider les fiches communications et initier les factures RNF relevant des indus de paye sans ordonnancement\npréalable sur titre 2 (application PAY), et d’une façon plus générale le traitement des dépenses relevant du titre 2.\nM. Gauthier DEWEINDT, Administrateur des Finances Publiques Adjoint\nDirection départementale des finances publiques - 62-2026-11-25-00001 - Subdélégation ordonnancement secondaire 25 11 2026 5\nM. Jérôme CAULIEZ, Inspecteur divisionnaire\nMme Catherine DELAMBRE, Inspectrice\nMme Valérie WIMETZ, Inspectrice\nMme Sabine SANTERNE, contrôleuse\nMme Marie MARIETTE, contrôleuse\nMme Marie EVRARD, agent administratif principal\nMme Christelle FLORENT, agent administratif principal\nM. Didier LAGACHE, agent administratif principal\nPour toute réservation liée aux frais de déplacement et pour la validation de ces frais dans Chorus DT.\nArticle 4 :La présente décision abroge la décision portant subdélégation de signature du 5 novembre 2026.\nArticle 5 : La présente décision sera publiée au Recueil des Actes Administratifs du département.\nFait à ARRAS, le 25 novembre 2026\nLe Directeur du Pôle État, Stratégie et Ressources\nSigné\nMaxime COUTEAU\nAdministrateur de l’État\nDirection départementale des finances publiques - 62-2026-11-25-00001 - Subdélégation ordonnancement secondaire 25 11 2026 6",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Finances publiques 62 : délégations internes de signature",
+    "resume": "Cet acte désigne les agents de la direction départementale des finances publiques du Pas-de-Calais habilités à signer, en cas d'absence du directeur, des actes d'ordonnancement de dépenses et de recettes. Il concerne le fonctionnement interne du service et ne contient pas de mesure visant directement le public. Le texte fourni est tronqué et ne permet pas de détailler la seconde liste d'agents.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Arras"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "ordonnancement secondaire",
+      "finances publiques",
+      "Pas-de-Calais",
+      "DDFiP"
+    ]
+  },
+  {
+    "titre": "AP conférant la qualité d'adjointe au maire honoraire à Mme KWIATKOWSKI",
+    "titre_complet": "Préfecture du Pas-de-Calais / Direction de la citoyenneté et de la légalité 62-2026-10-22-00005 - AP conférant la qualité d'adjointe au maire honoraire à Mme KWIATKOWSKI",
+    "page_debut": 7,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Fabienne Kwiatkowski devient adjointe honoraire au maire d'Aubigny-en-Artois",
+    "resume": "Par un arrêté du 22 octobre 2026, le préfet du Pas-de-Calais confère à Mme Fabienne Kwiatkowski le titre d'adjointe au maire honoraire. Ce titre récompense les fonctions d'adjointe au maire d'Aubigny-en-Artois qu'elle a exercées du 16 mars 2008 au 22 mars 2026. L'honorariat est accordé sur la base de l'article L. 2122-35 du Code général des collectivités territoriales, qui prévoit cette possibilité pour les élus ayant exercé au moins douze ans de fonctions municipales.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Aubigny-en-Artois"
+    ],
+    "mots_cles": [
+      "honorariat",
+      "adjointe au maire",
+      "Aubigny-en-Artois",
+      "Pas-de-Calais",
+      "préfecture"
+    ]
+  },
+  {
+    "titre": "AP conférant la qualité de maire honoraire à M. COCQ",
+    "titre_complet": "62-2026-11-02-00015 - AP conférant la qualité de maire honoraire à M. COCQ",
+    "page_debut": 11,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Marcel Cocq, ancien maire d'Ames, devient maire honoraire",
+    "resume": "Par un arrêté du 2 novembre 2026, le préfet du Pas-de-Calais confère le titre de maire honoraire à Marcel Cocq, ancien maire d'Ames, qui a exercé ces fonctions du 18 septembre 2005 au 22 mars 2026. Cette décision fait suite à une demande d'Eric Prein et s'appuie sur l'article L. 2122-35 du Code général des collectivités territoriales, qui permet d'accorder cet honorariat aux anciens maires ayant exercé au moins douze ans de fonctions municipales.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Ames"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Marcel Cocq",
+      "Ames",
+      "honorariat",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP conférant la qualité de maire honoraire à M. WYCKAERT",
+    "titre_complet": "62-2026-11-02-00013 - AP conférant la qualité de maire honoraire à M. WYCKAERT",
+    "page_debut": 15,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Gérard Wyckaert nommé maire honoraire de Wisques",
+    "resume": "Le préfet du Pas-de-Calais a conféré le titre de maire honoraire à Gérard Wyckaert, ancien maire de Wisques ayant exercé ses fonctions du 7 avril 2006 au 21 mars 2026. La demande avait été présentée par Romuald Clabaut. L'arrêté, daté du 2 novembre 2026, sera publié au recueil des actes administratifs.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Wisques"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Wisques",
+      "Gérard Wyckaert",
+      "préfecture du Pas-de-Calais",
+      "honorariat"
+    ]
+  },
+  {
+    "titre": "AP conférent la qualité d'adjoint au maire honoraire à M.LELONG",
+    "titre_complet": "62-2026-10-22-00006 - AP conférent la qualité d'adjoint au maire honoraire à M.LELONG",
+    "page_debut": 17,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Jacky Lelong nommé adjoint au maire honoraire à Loison-sous-Lens",
+    "resume": "Par arrêté du 22 octobre 2026, le préfet du Pas-de-Calais confère à Jacky Lelong, ancien adjoint au maire de Loison-sous-Lens, la qualité d'adjoint au maire honoraire. Cette distinction honorifique fait suite à une demande de Fabrice Trepczynski et concerne des fonctions exercées du 26 mars 2001 au 21 mars 2026.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Loison-sous-Lens"
+    ],
+    "mots_cles": [
+      "honoraire",
+      "adjoint au maire",
+      "Loison-sous-Lens",
+      "Jacky Lelong",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP Conférent la qualité de maire honoraire à M. BRUYANT",
+    "titre_complet": "62-2026-11-13-00007 - AP Conférent la qualité de maire honoraire à M. BRUYANT",
+    "page_debut": 21,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Jean Bruyant nommé maire honoraire de Bailleul-lès-Pernes",
+    "resume": "Le préfet du Pas-de-Calais a conféré le titre de maire honoraire à Jean Bruyant, ancien maire de Bailleul-lès-Pernes ayant exercé ses fonctions du 21 mars 2008 au 21 mars 2026. La démarche avait été sollicitée par Miguel Giffard. Cet arrêté, daté du 13 novembre 2026, est une simple distinction honorifique.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Bailleul-lès-Pernes"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Bailleul-lès-Pernes",
+      "Jean Bruyant",
+      "honorariat",
+      "préfecture du Pas-de-Calais"
+    ]
+  },
+  {
+    "titre": "AP conférent la qualité de maire honoraire à M. HERMANT",
+    "titre_complet": "62-2026-11-13-00006 - AP conférent la qualité de maire honoraire à M. HERMANT",
+    "page_debut": 25,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "62",
+    "source_pdf": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/88151/551278/file/Recueil des actes administratifs n°377 en date du 25 novembre 2026.pdf",
+    "date_recueil": "2026-11-25",
+    "score": 1,
+    "titre_court": "Jean-Marie Hermant nommé maire honoraire de Gouy-sous-Bellonne",
+    "resume": "Le préfet du Pas-de-Calais a conféré le titre de maire honoraire à Jean-Marie Hermant, ancien maire de Gouy-sous-Bellonne, qui a exercé ces fonctions du 21 mars 2008 au 29 mars 2026. Cette distinction honorifique est accordée à sa demande, sur le fondement de l'article L. 2122-35 du Code général des collectivités territoriales.",
+    "type_acte": "ARRÊTÉ",
+    "communes": [
+      "Gouy-sous-Bellonne"
+    ],
+    "mots_cles": [
+      "maire honoraire",
+      "Gouy-sous-Bellonne",
+      "Jean-Marie Hermant",
+      "préfecture Pas-de-Calais",
+      "honorariat"
     ]
   },
   {
@@ -18859,6 +19667,108 @@
     ]
   },
   {
+    "titre": "Arrêté portant délégation de signature à Anne Sophie FONTAINE",
+    "titre_complet": "Direction de l'administration pénitentiaire / Direction interrégionale des services pénitentiaires de Lille 2026-11-24-00005 - Arrêté portant délégation de signature à Anne Sophie FONTAINE",
+    "page_debut": 4,
+    "nb_pages": 2,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 1,
+    "titre_court": "Délégation de signature au centre pénitentiaire de Maubeuge",
+    "resume": "Le chef de l'établissement du centre pénitentiaire de Maubeuge délègue sa signature à Anne-Sophie Fontaine, attachée d'administration d'État. Cette délégation couvre les décisions et documents relatifs à l'inscription sur les listes électorales, au vote par correspondance, aux procurations des personnes détenues, dans le cadre des élections présidentielles de 2027 (1er et second tour). L'arrêté est publié au recueil des actes administratifs et affiché dans l'établissement.",
+    "type_acte": "DÉLÉGATION",
+    "communes": [
+      "Maubeuge"
+    ],
+    "mots_cles": [
+      "délégation de signature",
+      "centre pénitentiaire",
+      "Maubeuge",
+      "élections présidentielles 2027",
+      "vote par correspondance"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP132298340 - BOMISSO Prisca",
+    "titre_complet": "2026-11-23-00004 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP132298340 - BOMISSO Prisca",
+    "page_debut": 17,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 1,
+    "titre_court": "Une entreprise de garde d'enfants enregistrée à Loos",
+    "resume": "La préfecture du Nord a délivré un récépissé de déclaration à l'entreprise individuelle BOMISSO Prisca, dont le siège est à Loos, pour des services à la personne. Les activités déclarées sont la garde d'enfants de plus de 3 ans à domicile et l'accompagnement de ces enfants dans leurs déplacements. Les effets de la déclaration courent à compter du 12 novembre 2026, et l'enregistrement n'est pas limité dans le temps.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Loos",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "garde d'enfants",
+      "déclaration SAP",
+      "Loos",
+      "préfecture du Nord"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP909977738 - LICOUR Laura",
+    "titre_complet": "2026-11-20-00011 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP909977738 - LICOUR Laura",
+    "page_debut": 20,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 1,
+    "titre_court": "Laura's kitchen à Bergues enregistrée comme prestataire de services à la personne",
+    "resume": "La préfecture du Nord a délivré un récépissé d'enregistrement à Laura Licour, entreprise individuelle exploitée sous l'enseigne Laura's kitchen à Bergues, pour deux activités de services à la personne : soutien scolaire ou cours à domicile, et préparation de repas à domicile. Cet enregistrement prend effet au 21 octobre 2026, date de dépôt du dossier complet, et n'a pas de durée limitée. Le texte précise que les avantages liés à ces activités ne sont accordés que sous conditions, notamment l'exercice à titre exclusif ou une comptabilité séparée.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Bergues"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration d'activité",
+      "soutien scolaire",
+      "préparation de repas à domicile",
+      "Bergues"
+    ]
+  },
+  {
+    "titre": "Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP950700286 - BRICHE Noémie",
+    "titre_complet": "2026-11-19-00010 - Récépissé de déclaration d'un organisme de services à la personne enregistré sous le N°SAP950700286 - BRICHE Noémie",
+    "page_debut": 23,
+    "nb_pages": 3,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 1,
+    "titre_court": "Noémie Briche enregistrée pour ménage et garde d'enfants",
+    "resume": "La préfecture du Nord a délivré un récépissé de déclaration à Noémie Briche, qui exerce en entreprise individuelle à Sin-le-Noble, pour deux activités de services à la personne : l'entretien de la maison et les travaux ménagers, ainsi que la garde d'enfants de plus de 3 ans à domicile, en mode prestataire. Les effets de cette déclaration courent à compter du 2 novembre 2026, date du dépôt du dossier complet, et ouvrent droit, sous conditions, aux avantages prévus par le code du travail et le code de la sécurité sociale. Le récépissé n'est pas limité dans le temps et sa portée est nationale.",
+    "type_acte": "AUTRE",
+    "communes": [
+      "Sin-le-Noble",
+      "Valenciennes"
+    ],
+    "mots_cles": [
+      "services à la personne",
+      "déclaration",
+      "entretien ménager",
+      "garde d'enfants",
+      "Nord"
+    ]
+  },
+  {
     "titre": "AP Réglementant les usages de l'eau en vue de la préservation de la ressource en eau dans le département du Pas-de-Calais",
     "titre_complet": "Direction départementale des territoires et de la mer / Service de l'environnement 62-2026-10-26-00008 - AP Réglementant les usages de l'eau en vue de la préservation de la ressource en eau dans le département du Pas-de-Calais",
     "page_debut": 3,
@@ -18945,5 +19855,23 @@
     "communes": [],
     "mots_cles": [],
     "raw_response": "{\"score\": 4, \"titre_court\": \"Port d'armes et masques interdit jusqu'au 21 novembre\", \"resume\": \"Le préfet du Nord interdit, jusqu'au samedi 21 novembre 2026 à 23 heures, le port et le transport sans motif légitime d'armes et d'objets pouvant constituer une arme, dans les arrondissements de Lille, Douai et Dunkerque. Il interdit aussi le port et le transport, sur la voie publique, de certains équipements de protection individuelle (masques de ski, de piscine ou de chantier, masques à gaz, casques, genouillères tactiques, etc.), sauf pour les personnes habilitées. Selon l'arrêté, cette mesure répond aux violences et aux dégradations survenues à Lille depuis le 17 octobre 2026, ainsi qu'au risque de nouveaux troubles lors de rassemblements prévus.\", \"type_acte\": \"ARRÊTÉ\", \"communes\": [\"Lille\", \"Douai\", \"Roubaix\", \"Tourcoing\"], \"mots_cles\": [\"interdiction port d'armes\", \"équipements de protection individuelle\", \"ordre public"
+  },
+  {
+    "titre": "Arrêté réglementant la distribution et la vente à emporter de carburants en récipients transportables dans le secteur littoral du département du Nord",
+    "titre_complet": "2026-11-24-00008 - Arrêté réglementant la distribution et la vente à emporter de carburants en récipients transportables dans le secteur littoral du département du Nord",
+    "page_debut": 82,
+    "nb_pages": 4,
+    "mode": "image",
+    "texte": "",
+    "dept": "59",
+    "source_pdf": "https://www.nord.gouv.fr/contenu/telechargement/109011/763467/file/Recueil n°457 du 24 novembre 2026.pdf",
+    "date_recueil": "2026-11-24",
+    "score": 0,
+    "titre_court": "",
+    "resume": "Erreur de parsing de la réponse Claude.",
+    "type_acte": "INCONNU",
+    "communes": [],
+    "mots_cles": [],
+    "raw_response": "{\n  \"score\": 4,"
   }
 ]
